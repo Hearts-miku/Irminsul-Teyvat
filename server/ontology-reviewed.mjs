@@ -3,21 +3,27 @@ import {join} from 'node:path';
 import {createHash} from 'node:crypto';
 const hash=v=>createHash('sha256').update(typeof v==='string'?v:JSON.stringify(v)).digest('hex');
 export function validReview(item,pages){
- const {reviewHash,...body}=item,e=item.evidence,p=pages.get(e.pageid),s=p?.sections[e.index];
- return reviewHash===hash(body)&&p?.revision===e.revision&&p.sha256===e.sha256&&s&&hash(s.text)===e.textHash&&JSON.stringify(s.path)===JSON.stringify(e.path);
+ const {reviewHash,...body}=item;
+ return reviewHash===hash(body)&&[item.evidence,...(item.supportingEvidence??[])].every(e=>{const p=pages.get(e.pageid),s=p?.sections[e.index];return p?.revision===e.revision&&p.sha256===e.sha256&&s&&hash(s.text)===e.textHash&&JSON.stringify(s.path)===JSON.stringify(e.path);});
 }
 export function loadReviewed(root,pages){
  const graph=JSON.parse(readFileSync(join(root,'data/ontology/reviewed-ordo.json'))),byPage=new Map(pages.map(p=>[p.pageid,p]));
  return{...graph,entities:graph.entities.filter(e=>validReview(e,byPage)),relations:graph.relations.filter(r=>validReview(r,byPage))};
 }
 export function reviewedIntent(q){
- if(/水仙十字院/.test(q))return'institution';
+ if(/水仙十字院|水仙十字孤儿院/.test(q)&&/回忆|上课|礼堂/.test(q))return'institution';
+ if(/兄妹|兄弟|姐妹|亲属/.test(q))return'family';
+ if(/材料|锻铸|锻造/.test(q))return'materials';
+ if(/象征|寓意/.test(q))return'symbol';
+ if(/院长/.test(q))return'institution';
+ if(/遗作|记忆/.test(q)&&/确定|证实/.test(q))return'certainty';
+ if(/在哪|哪里|位置|地点/.test(q))return'location';
  if(/诞生|身世|来源.*确定/.test(q))return'origin';
  if(/设计|制造/.test(q))return'designer';
  if(/编号|识别码|原型机/.test(q))return'identifier';
  if(/保护|陪伴|主人|职责/.test(q))return'protection';
  if(/诱饵|红鲱鱼|引开/.test(q))return'purpose-detail';
- if(/领袖|首领|领导/.test(q))return'leader';
+ if(/领袖|首领|领导|团长/.test(q))return'leader';
  if(/成员|属于|所属|加入|效忠/.test(q))return'membership';
  if(/追捕|逮捕|遭遇|曾经|经历|历史|见过|相识/.test(q))return'history';
  if(/末日|预测|确定|真的|证伪|质疑/.test(q)&&!/目的|目标|想做/.test(q))return'prediction';
@@ -27,7 +33,9 @@ export function reviewedIntent(q){
  return null;
 }
 export function matchReviewed(q,entities){
- return entities.filter(e=>e.aliases.some(a=>a.length>1?q.includes(a):new RegExp('(?:^|和|与|及|、|·)'+a+'(?:是|的|与|和|如何|为什么|曾|认|有|？|\\?|$)').test(q)));
+ const qualifiedMention=a=>{let start=q.indexOf(a);while(start>=0){if(q[start-1]!=='·'&&q[start+a.length]!=='·')return true;start=q.indexOf(a,start+1);}return false;};
+ const matched=entities.map(e=>({e,aliases:e.aliases.filter(a=>a.length>1?qualifiedMention(a):new RegExp('(?:^|和|与|及|、|·)'+a+'(?:是|的|与|和|如何|为什么|曾|认|有|？|\\?|$)').test(q))})).filter(x=>x.aliases.length);
+ return matched.filter(x=>!x.aliases.every(a=>matched.some(y=>y!==x&&y.aliases.some(b=>b.length>a.length&&b.includes(a))))).map(x=>x.e);
 }
 export function installReviewedOntology(root,pack,corpus){
  const graph=loadReviewed(root,corpus.pages),pages=new Map(corpus.pages.map(p=>[p.pageid,p]));
@@ -41,6 +49,7 @@ export function installReviewedOntology(root,pack,corpus){
   const follow=/^(继续|再详细|详细|再讲|简短|它|他|她|这个组织|这个人)/.test(question);
   let q=question;if(follow&&session.context?.reviewedQuestion){q=/^(继续|再详细|详细|再讲|简短)/.test(question)?session.context.reviewedQuestion:question+' '+(session.context.reviewedNames??[]).join(' ');}
   const found=matchReviewed(q,graph.entities);if(!found.length)return null;
+  if(/攻击力|暴击|倍率|精炼|武器效果|技能效果/.test(q))return{status:'reference',records:[],message:'武器效果与数值由资料图鉴页面提供，目前仍是占位；剧情关系不会代替数值说明。',followups:[]};
   if(/「玛丽安」|安眠处.*玛丽安|安[与和]玛丽安|玛丽安[与和]安/.test(q)||(/水仙十字结社/.test(q)&&/水仙十字院/.test(q)))return{status:'clarify',records:[],message:'这些名称涉及不同场景或机构，当前核对证据不支持直接合并身份。请明确要讨论的对象与剧情阶段。',followups:[]};
   if(/哪一年|成立时间|生日|年龄|逐字全文|全部台词|已经被捕|肯定被捕/.test(q))return{status:'missing',records:[],message:'本批核对证据没有确认这个具体信息，不能用相关提及代替答案。',followups:[]};
   const intent=reviewedIntent(q);if(!intent)return null;

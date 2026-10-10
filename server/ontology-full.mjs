@@ -8,7 +8,7 @@ export function installFullOntology(root,pack,corpus){
  const file=join(root,'data/ontology/index.json'),stamp=statSync(file).mtimeMs;
  let g=cache.get(file);if(g?.stamp!==stamp){g={...JSON.parse(readFileSync(file)),stamp};cache.set(file,g);}
  const reviews=loadReviewed(root,corpus.pages);const reviewedNodes=new Map(reviews.entities.flatMap(e=>e.nodeIds.map(id=>[id,e])));
- g={...g,nodes:g.nodes.map(n=>{const e=reviewedNodes.get(n.id);return e?{...n,type:e.type,aliases:[...new Set([...n.aliases,...e.aliases])],reviewStatus:'source-reviewed',canonicalNodeId:e.primaryNodeId,reviewNote:e.scopeNote}:n;})};
+ g={...g,nodes:g.nodes.map(n=>{const e=reviewedNodes.get(n.id);return e?{...n,name:e.name,type:e.type,aliases:[...new Set([...n.aliases,...e.aliases])],reviewStatus:'source-reviewed',canonicalNodeId:e.primaryNodeId,reviewNote:e.scopeNote}:n;})};
  g.summary={...g.summary,reviewedEntities:reviews.entities.length,reviewedRelations:reviews.relations.length};
  const pages=new Map(corpus.pages.map(p=>[p.pageid,p])),snapshots=new Map(g.pages.map(p=>[p.pageid,p]));
  const nodes=new Map(g.nodes.map(n=>[n.id,n])),byStage=new Map(g.nodes.map(n=>[n.stageId,n]));

@@ -192,65 +192,84 @@
     },
     {
       "id": "marianne",
-      "name": "玛丽安",
+      "name": "玛丽安·吉约丹",
       "type": "人物",
       "aliases": [
-        "玛丽安"
+        "玛丽安",
+        "玛丽安·吉约丹"
       ],
       "nodeIds": [
-        "23ab1c7d646a57b9394c"
+        "23ab1c7d646a57b9394c",
+        "1dc4cbc1b5585078826b"
       ],
       "primaryNodeId": "23ab1c7d646a57b9394c",
       "status": "source-reviewed",
       "checkedAt": "2026-10-10",
-      "scopeNote": "仅指西摩尔提到的主人；不自动与安眠处的「玛丽安」身份合并。",
+      "scopeNote": "卡特皮拉说出西摩尔主人的简称与全名；不据此合并安眠处的「玛丽安」、安或记忆线索。",
       "evidence": {
         "pageid": 110431,
         "title": "最后的问题",
         "revision": 645483,
         "sha256": "d37015807c28512b4da942b6ea8a1a2707e8affacc0c346010178c17c8c9bb84",
-        "index": 24,
-        "path": [
-          "任务剧情",
-          "与西摩尔对话",
-          "源码选项组 1",
-          "选项 2：关于水仙十字结社…"
-        ],
-        "textHash": "fa8e3014c88568f7e7f90e1a195d477bd35d91d0558c6eeb2d58db6d2b640a7a",
-        "recordId": "corpus-110431-645483-eff10fc4c647eb4a-0",
-        "fullRecordId": "ontology-full-110431-24-8e0d12164f30"
-      },
-      "reviewHash": "281945ed33323c2b596749e5d04d58aa2692c4db3a5b2a25885dc0cba741ce8a"
-    },
-    {
-      "id": "guillotin",
-      "name": "吉约丹",
-      "type": "人物",
-      "aliases": [
-        "吉约丹"
-      ],
-      "nodeIds": [
-        "a6d27143d0f8549d448d"
-      ],
-      "primaryNodeId": "a6d27143d0f8549d448d",
-      "status": "source-reviewed",
-      "checkedAt": "2026-10-10",
-      "scopeNote": "分类及别名限于所列原文依据，不代表全部经历已核对。",
-      "evidence": {
-        "pageid": 110431,
-        "title": "最后的问题",
-        "revision": 645483,
-        "sha256": "d37015807c28512b4da942b6ea8a1a2707e8affacc0c346010178c17c8c9bb84",
-        "index": 47,
+        "index": 45,
         "path": [
           "任务剧情",
           "与西摩尔对话"
         ],
-        "textHash": "c2181dbed8d98644a78c6a015c275f3e31246fe42c7ae124814302aaad22b9c5",
-        "recordId": "corpus-110431-645483-1f831342120af2a7-0",
-        "fullRecordId": "ontology-full-110431-47-b653a5eb63b1"
+        "textHash": "a6d7aff904585853c2da1c1e2f041d5fa7d42b698c61e61d90b75476c2799bd3",
+        "recordId": "corpus-110431-645483-27408e65e2c387cf-0",
+        "fullRecordId": "ontology-full-110431-45-afa2499199eb"
       },
-      "reviewHash": "8042a1371b82cfc16fe4527732d5728dd5eb474b1a711e44584da05c11ee7844"
+      "reviewHash": "3083e12c2426bd9b5cd29439ba4ed51c0e11b86bec79012e7d4cd0468123920e"
+    },
+    {
+      "id": "guillotin",
+      "name": "阿兰·吉约丹",
+      "type": "人物",
+      "aliases": [
+        "吉约丹",
+        "阿兰·吉约丹",
+        "阿兰"
+      ],
+      "nodeIds": [
+        "a6d27143d0f8549d448d",
+        "b9a4ec74da547438165f",
+        "78879e18341f6cc04ffc"
+      ],
+      "primaryNodeId": "a6d27143d0f8549d448d",
+      "status": "source-reviewed",
+      "checkedAt": "2026-10-10",
+      "scopeNote": "据西摩尔所述，阿兰·吉约丹是其设计者。此处吉约丹简称仅用于这位设计者，不合并所有同姓人物；保留旧会话节点。 阿兰人物页的全名字段用于补充核对简称；任一来源变动即停用合并。",
+      "evidence": {
+        "pageid": 122821,
+        "title": "藻海的寻踪",
+        "revision": 656222,
+        "sha256": "c5a94dc24bd3045a486b07bb15a2b2772c009a1acd4802de4d9c9823465dae0c",
+        "index": 80,
+        "path": [
+          "任务剧情",
+          "寻找线索，整理思路"
+        ],
+        "textHash": "6efe22b2317cc8ffd4d56a0e4a6a42be2087b4633887b43fdcb681ce9422de14",
+        "recordId": "corpus-122821-656222-6fe076f460237370-0",
+        "fullRecordId": "ontology-full-122821-80-f24a04e0a6ad"
+      },
+      "supportingEvidence": [
+        {
+          "pageid": 144457,
+          "title": "阿兰",
+          "revision": 668186,
+          "sha256": "6619104733dc5c53d4c6562133c603800ec276e97e7fae99cae2d12d5c85904c",
+          "index": 1,
+          "path": [
+            "全名"
+          ],
+          "textHash": "4d77acff858f3cf4d4ce8d30ec305bf51260be3dda50f10c71083388d0c3c13e",
+          "recordId": "corpus-144457-668186-6d5f1705124cf08f-0",
+          "fullRecordId": "ontology-full-144457-1-0e5ced6730e6"
+        }
+      ],
+      "reviewHash": "aa9b4ca4ade3abff32d6394013fca0f19e63b25c00143d64186a69d906fc4a60"
     },
     {
       "id": "ann",
@@ -283,6 +302,230 @@
         "fullRecordId": "ontology-full-110431-47-b653a5eb63b1"
       },
       "reviewHash": "d10df8a011d689885d3e372b45368e017a38362079539d9ed2f7f80e735819cd"
+    },
+    {
+      "id": "institute",
+      "name": "水仙十字院",
+      "type": "机构",
+      "aliases": [
+        "水仙十字院",
+        "水仙十字孤儿院"
+      ],
+      "nodeIds": [
+        "394113016bafb01a54bf",
+        "2181e165640b4e94b8eb"
+      ],
+      "primaryNodeId": "394113016bafb01a54bf",
+      "status": "source-reviewed",
+      "checkedAt": "2026-10-10",
+      "scopeNote": "孤儿院机构；同段回忆交替使用水仙十字院与水仙十字孤儿院。不合并水仙十字结社、故事中的王国或冒险团。",
+      "evidence": {
+        "pageid": 153651,
+        "title": "命运的回声",
+        "revision": 667002,
+        "sha256": "12abea87d606bafbf7b8f9a489743e166d7466771d476da5cf89198213f64e78",
+        "index": 181,
+        "path": [
+          "任务剧情",
+          "寻找「木偶」"
+        ],
+        "textHash": "834d99405212850659b93646abbf84e3ccdf184e921859f1e80d8c15281ac2ce",
+        "recordId": "corpus-153651-667002-128e2103c1cb8535-0",
+        "fullRecordId": "ontology-full-153651-181-40538425764e"
+      },
+      "reviewHash": "d5da79e705c8fe0cd7ab267143ee629f2178dda19e375e891ca3abbaf55ef83d"
+    },
+    {
+      "id": "adventure",
+      "name": "水仙十字冒险团",
+      "type": "故事中的组织",
+      "aliases": [
+        "水仙十字冒险团"
+      ],
+      "nodeIds": [
+        "12afcdd6c4b4589711c0"
+      ],
+      "primaryNodeId": "12afcdd6c4b4589711c0",
+      "status": "source-reviewed",
+      "checkedAt": "2026-10-10",
+      "scopeNote": "安叙述的冒险故事中的组织，不能把故事角色自动等同现实人物或水仙十字结社成员。",
+      "evidence": {
+        "pageid": 99581,
+        "title": "「水仙十字大冒险」",
+        "revision": 652299,
+        "sha256": "e7a6e7476d491b519e70587b9abc26dbf5baaa5b93ad222d0599c05a4bea42cc",
+        "index": 21,
+        "path": [
+          "任务剧情",
+          "前往指定地点"
+        ],
+        "textHash": "b575f7d08ba05b966b74216b9f2260b6f49bcecf818b8d40b3b6218470a040c6",
+        "recordId": "corpus-99581-652299-0fbdbdf41ab39e7f-0",
+        "fullRecordId": "ontology-full-99581-21-6d561a6607ce"
+      },
+      "reviewHash": "a8a6e2acfd4c45f60594daab2f65b90317f57f410cd20c749ca0b8e2d7a32997"
+    },
+    {
+      "id": "kingdom",
+      "name": "水仙十字王国",
+      "type": "故事中的地域",
+      "aliases": [
+        "水仙十字王国"
+      ],
+      "nodeIds": [
+        "fd0f676965d93a97ba94"
+      ],
+      "primaryNodeId": "fd0f676965d93a97ba94",
+      "status": "source-reviewed",
+      "checkedAt": "2026-10-10",
+      "scopeNote": "安所讲述故事中的王国；不作为七国之外实际国家的确证。",
+      "evidence": {
+        "pageid": 99581,
+        "title": "「水仙十字大冒险」",
+        "revision": 652299,
+        "sha256": "e7a6e7476d491b519e70587b9abc26dbf5baaa5b93ad222d0599c05a4bea42cc",
+        "index": 21,
+        "path": [
+          "任务剧情",
+          "前往指定地点"
+        ],
+        "textHash": "b575f7d08ba05b966b74216b9f2260b6f49bcecf818b8d40b3b6218470a040c6",
+        "recordId": "corpus-99581-652299-0fbdbdf41ab39e7f-0",
+        "fullRecordId": "ontology-full-99581-21-6d561a6607ce"
+      },
+      "reviewHash": "a0438c09337c95ae3249849d45fecee0bbec97cab9116ebee4559dec76e755ad"
+    },
+    {
+      "id": "sword",
+      "name": "水仙十字圣剑",
+      "type": "剧情物件",
+      "aliases": [
+        "水仙十字圣剑"
+      ],
+      "nodeIds": [
+        "fd6c41363b4d771c2322"
+      ],
+      "primaryNodeId": "fd6c41363b4d771c2322",
+      "status": "source-reviewed",
+      "checkedAt": "2026-10-10",
+      "scopeNote": "本批仅核对剧情中的材料与理性象征，保留已接取藻海的寻踪且解开第2个象限的分支条件；不提供武器效果数值。",
+      "evidence": {
+        "pageid": 132771,
+        "title": "流星的投矛",
+        "revision": 652512,
+        "sha256": "35e83f5337b4987e30c6306c4e19d2924e621218255fa14ec91ae10cf474a535",
+        "index": 24,
+        "path": [
+          "任务剧情",
+          "分页：已接取任务「藻海的寻踪」",
+          "获取「愿望」之块",
+          "分页：此为解开的第2个象限"
+        ],
+        "textHash": "2a00c533ee7bb9e1dc4d63f72146cf13b4681ab4c7b6310425f0b066723b1c2d",
+        "recordId": "corpus-132771-652512-fb5644da6a62dc79-0",
+        "fullRecordId": "ontology-full-132771-24-b7ab4530d4db"
+      },
+      "reviewHash": "386fcc812016ed50e5138bd0f42ccb3fd8f7de30ae052f396ed51fc950343a74"
+    },
+    {
+      "id": "research-site",
+      "name": "阿兰·吉约丹研究所",
+      "type": "地点",
+      "aliases": [
+        "阿兰·吉约丹研究所"
+      ],
+      "nodeIds": [
+        "49bd1736e19eba83de99"
+      ],
+      "primaryNodeId": "49bd1736e19eba83de99",
+      "status": "source-reviewed",
+      "checkedAt": "2026-10-10",
+      "scopeNote": "纳克所指研究所故址及当时科学院新址。不是把所有科学院名称合并为同一组织。",
+      "evidence": {
+        "pageid": 110872,
+        "title": "枫丹科学院，停滞于一片废墟上",
+        "revision": 664688,
+        "sha256": "cbad772c5a2ae2b2e9bfd01be5b8caf4a12fa7b7d261c91c6d3b5b81040d2146",
+        "index": 95,
+        "path": [
+          "任务剧情",
+          "与纳克对话"
+        ],
+        "textHash": "3ecb2f4b36b86ed5a35f74e18b8dedede3a722eaad0d6cc6afc106f64fe714c4",
+        "recordId": "corpus-110872-664688-6ea3869720c37879-0",
+        "fullRecordId": "ontology-full-110872-95-24fb75207da8"
+      },
+      "reviewHash": "a490026c284493ad0dbb631c93c0bdd8fc82ddcedd9f292c95ef7fb024d285e3"
+    },
+    {
+      "id": "last-work",
+      "name": "阿兰·吉约丹的遗作",
+      "type": "文献中的传闻与符号",
+      "aliases": [
+        "阿兰·吉约丹的遗作"
+      ],
+      "nodeIds": [
+        "f7822bc087018351fb9d"
+      ],
+      "primaryNodeId": "f7822bc087018351fb9d",
+      "status": "source-reviewed",
+      "checkedAt": "2026-10-10",
+      "scopeNote": "文献讨论的流行符号与遗作争议；仅记录作者看法，不把作者推断、人物心理评价当作独立确认事实。",
+      "evidence": {
+        "pageid": 158193,
+        "title": "循着过往的足迹",
+        "revision": 677232,
+        "sha256": "1f9cdd71795a24e537c7b756e39f79d364d49e41faab1a407eea44dff580389b",
+        "index": 34,
+        "path": [
+          "任务剧情",
+          "拿取正确的资料",
+          "吉约丹传（精装修订版）",
+          "内容"
+        ],
+        "textHash": "2fb4610790c0a15045ef101afcb4be3cc4918a6c226f5d5e74cb0f02c083a2bc",
+        "recordId": "corpus-158193-677232-06136222fdeff1dd-0",
+        "fullRecordId": "ontology-full-158193-34-b4a151e27842"
+      },
+      "reviewHash": "e35184cdf8d5dc2cd4589fa416636f39efbab31b738f2b074025c104631a138b"
+    },
+    {
+      "id": "memory-clue",
+      "name": "玛丽安·吉约丹的记忆",
+      "type": "剧情推理线索",
+      "aliases": [
+        "玛丽安·吉约丹的记忆"
+      ],
+      "nodeIds": [
+        "fea11de6704cd217d0da"
+      ],
+      "primaryNodeId": "fea11de6704cd217d0da",
+      "status": "source-reviewed",
+      "checkedAt": "2026-10-10",
+      "scopeNote": "藻海的寻踪推理分支中的记忆线索，不是另一个人物，也不是相同记忆必然意味着同一身份的证据。",
+      "evidence": {
+        "pageid": 122821,
+        "title": "藻海的寻踪",
+        "revision": 656222,
+        "sha256": "c5a94dc24bd3045a486b07bb15a2b2772c009a1acd4802de4d9c9823465dae0c",
+        "index": 179,
+        "path": [
+          "任务剧情",
+          "准备好后，与卡特皮拉对话",
+          "「玛丽安」究竟是？",
+          "内容",
+          "源码选项组 1",
+          "选项 2：健谈的「玛丽安」",
+          "源码选项组 1",
+          "选项 1：「水仙十字院」的回忆",
+          "源码选项组 1",
+          "选项 1：玛丽安·吉约丹的记忆"
+        ],
+        "textHash": "f26b54d6d31c6acf15ed89d300692ec1ecea3d79570622d146f9f8c01c2d5ff4",
+        "recordId": "corpus-122821-656222-9a94cdf62b27ceaf-0",
+        "fullRecordId": "ontology-full-122821-179-2b92af32ebaa"
+      },
+      "reviewHash": "a9a5fcf54a8237f43da207c44904faae60270cd2b5a8a49be7aa96c8286a9618"
     }
   ],
   "relations": [
@@ -783,7 +1026,7 @@
       "id": "institute-recollection",
       "subject": "ann",
       "predicate": "回忆水仙十字院",
-      "object": "水仙十字院",
+      "object": "institute",
       "intents": [
         "institution",
         "history"
@@ -809,7 +1052,7 @@
       "kind": "attributed-claim",
       "status": "source-reviewed",
       "checkedAt": "2026-10-10",
-      "reviewHash": "81ba8b56b55ed1e838ded2d64a98cb95a3b79ca1fcc1c192ca846c82240a1136"
+      "reviewHash": "a6a550e9be70f03fe8f02ec138625854034e94424b661bb6feb09bf47d70024f"
     },
     {
       "id": "leader-purpose",
@@ -839,6 +1082,388 @@
       "checkedAt": "2026-10-10",
       "kind": "attributed-claim",
       "reviewHash": "e7f21c00d1a9c96699e3f116e92ae9b4a9783a73b9f446f2808c3d4fc49626ca"
+    },
+    {
+      "id": "institute-orphanage",
+      "subject": "institute",
+      "predicate": "机构性质",
+      "object": "孤儿院",
+      "intents": [
+        "definition",
+        "institution"
+      ],
+      "claim": "据西摩尔转述的逐影庭卷宗，水仙十字院是一所孤儿院；莉利丝被指派为院长，日常事务主要由人类副院长经营。",
+      "attribution": "西摩尔转述卷宗；日常经营与象征性院长职务应区分。",
+      "kind": "attributed-fact",
+      "status": "source-reviewed",
+      "checkedAt": "2026-10-10",
+      "evidence": {
+        "pageid": 122821,
+        "title": "藻海的寻踪",
+        "revision": 656222,
+        "sha256": "c5a94dc24bd3045a486b07bb15a2b2772c009a1acd4802de4d9c9823465dae0c",
+        "index": 78,
+        "path": [
+          "任务剧情",
+          "寻找线索，整理思路"
+        ],
+        "textHash": "b4065ede99042815bcfd5810f8ff1bc9e8a818d636c41feb0f337a939e6b7523",
+        "recordId": "corpus-122821-656222-3d755a157d4c0551-0",
+        "fullRecordId": "ontology-full-122821-78-5af4c29d2d76"
+      },
+      "reviewHash": "e4025df4fcdac23d7fa61bc46f5c0c6a8d86bc77cee453bb539b93ea45ae0aec"
+    },
+    {
+      "id": "institute-classroom",
+      "subject": "institute",
+      "predicate": "礼堂用途",
+      "object": "孩子上课与听故事",
+      "intents": [
+        "history",
+        "institution"
+      ],
+      "claim": "安回忆水仙十字院的礼堂：孩子们在这里一起上课，听水神以及更古老的故事。这是安在该场景中恢复的回忆。",
+      "attribution": "安的回忆，不据此确认安等同任何过去的人物。",
+      "kind": "attributed-fact",
+      "status": "source-reviewed",
+      "checkedAt": "2026-10-10",
+      "evidence": {
+        "pageid": 99608,
+        "title": "安的故事",
+        "revision": 665243,
+        "sha256": "6db6c3401f6cbd43e9031500af88c6b7c8761db191d8bfd6425478ea2c0491a0",
+        "index": 32,
+        "path": [
+          "任务剧情",
+          "前进"
+        ],
+        "textHash": "c122c2e5549b68e212e44ef9b22c593e6122e3a98e037df4904b12a97461a6c4",
+        "recordId": "corpus-99608-665243-deda0df8521a848b-0",
+        "fullRecordId": "ontology-full-99608-32-206c8aed8d2e"
+      },
+      "reviewHash": "aeb274a9a445768c9217bfe5b0937e3f5df17c033d309e6b521c464a054864ad"
+    },
+    {
+      "id": "alain-designer",
+      "subject": "seymour",
+      "predicate": "设计者",
+      "object": "guillotin",
+      "intents": [
+        "designer",
+        "relation",
+        "definition"
+      ],
+      "claim": "西摩尔明确称阿兰·吉约丹为自己的设计者，并说明录入的资料是当时测试光敏感录入的逐影庭卷宗。",
+      "attribution": "西摩尔的自述，明确设计者全名。",
+      "kind": "attributed-fact",
+      "status": "source-reviewed",
+      "checkedAt": "2026-10-10",
+      "evidence": {
+        "pageid": 122821,
+        "title": "藻海的寻踪",
+        "revision": 656222,
+        "sha256": "c5a94dc24bd3045a486b07bb15a2b2772c009a1acd4802de4d9c9823465dae0c",
+        "index": 80,
+        "path": [
+          "任务剧情",
+          "寻找线索，整理思路"
+        ],
+        "textHash": "6efe22b2317cc8ffd4d56a0e4a6a42be2087b4633887b43fdcb681ce9422de14",
+        "recordId": "corpus-122821-656222-6fe076f460237370-0",
+        "fullRecordId": "ontology-full-122821-80-f24a04e0a6ad"
+      },
+      "reviewHash": "00d1bbf9aa07ee33375edc1d07e721404a24685c1a2407987f497bca056115a2"
+    },
+    {
+      "id": "alain-institute",
+      "subject": "guillotin",
+      "predicate": "曾受庇护于",
+      "object": "institute",
+      "intents": [
+        "history",
+        "relation",
+        "institution",
+        "membership"
+      ],
+      "claim": "据西摩尔所述，阿兰与玛丽安兄妹在被埃马纽艾尔·吉约丹收养前，曾是水仙十字院庇护的孤儿。",
+      "attribution": "西摩尔关于收养前经历的陈述。",
+      "kind": "attributed-fact",
+      "status": "source-reviewed",
+      "checkedAt": "2026-10-10",
+      "evidence": {
+        "pageid": 122821,
+        "title": "藻海的寻踪",
+        "revision": 656222,
+        "sha256": "c5a94dc24bd3045a486b07bb15a2b2772c009a1acd4802de4d9c9823465dae0c",
+        "index": 80,
+        "path": [
+          "任务剧情",
+          "寻找线索，整理思路"
+        ],
+        "textHash": "6efe22b2317cc8ffd4d56a0e4a6a42be2087b4633887b43fdcb681ce9422de14",
+        "recordId": "corpus-122821-656222-6fe076f460237370-0",
+        "fullRecordId": "ontology-full-122821-80-f24a04e0a6ad"
+      },
+      "reviewHash": "be8a6cf3cd51d859641d9dde4d8d46ad626d255c9f0a614f12b216aec0919668"
+    },
+    {
+      "id": "alain-sibling",
+      "subject": "guillotin",
+      "predicate": "兄妹关系",
+      "object": "marianne",
+      "intents": [
+        "relation",
+        "family"
+      ],
+      "claim": "西摩尔称阿兰与玛丽安为兄妹，并说两人在被埃马纽艾尔·吉约丹收养前都受水仙十字院庇护。",
+      "attribution": "西摩尔关于兄妹关系及共同收养经历的陈述。",
+      "kind": "attributed-fact",
+      "status": "source-reviewed",
+      "checkedAt": "2026-10-10",
+      "evidence": {
+        "pageid": 122821,
+        "title": "藻海的寻踪",
+        "revision": 656222,
+        "sha256": "c5a94dc24bd3045a486b07bb15a2b2772c009a1acd4802de4d9c9823465dae0c",
+        "index": 80,
+        "path": [
+          "任务剧情",
+          "寻找线索，整理思路"
+        ],
+        "textHash": "6efe22b2317cc8ffd4d56a0e4a6a42be2087b4633887b43fdcb681ce9422de14",
+        "recordId": "corpus-122821-656222-6fe076f460237370-0",
+        "fullRecordId": "ontology-full-122821-80-f24a04e0a6ad"
+      },
+      "reviewHash": "02ded9807d370a6775d40adfbd0dace467eee9547e21316e526ae622aa38dbfd"
+    },
+    {
+      "id": "adventure-purpose",
+      "subject": "adventure",
+      "predicate": "故事中的目的",
+      "object": "kingdom",
+      "intents": [
+        "definition",
+        "purpose",
+        "relation"
+      ],
+      "claim": "在安讲述的故事中，水仙十字冒险团为拯救莉利丝公主、光复被纳西索斯占领的水仙十字王国而组织起来；不能据此把故事设定直接当成现实国史。",
+      "attribution": "安对冒险故事的介绍，保留故事语境。",
+      "kind": "attributed-fact",
+      "status": "source-reviewed",
+      "checkedAt": "2026-10-10",
+      "evidence": {
+        "pageid": 99581,
+        "title": "「水仙十字大冒险」",
+        "revision": 652299,
+        "sha256": "e7a6e7476d491b519e70587b9abc26dbf5baaa5b93ad222d0599c05a4bea42cc",
+        "index": 21,
+        "path": [
+          "任务剧情",
+          "前往指定地点"
+        ],
+        "textHash": "b575f7d08ba05b966b74216b9f2260b6f49bcecf818b8d40b3b6218470a040c6",
+        "recordId": "corpus-99581-652299-0fbdbdf41ab39e7f-0",
+        "fullRecordId": "ontology-full-99581-21-6d561a6607ce"
+      },
+      "reviewHash": "0d687a2efedec7822ecdc02be2f9645ee7c7cf2609280f8b945a9bf9fe5495e5"
+    },
+    {
+      "id": "adventure-leader",
+      "subject": "adventure",
+      "predicate": "故事中的团长",
+      "object": "ann",
+      "intents": [
+        "leader",
+        "membership",
+        "relation"
+      ],
+      "claim": "在「公主」与「冒险团」的故事中，大家支持安担任水仙十字冒险团团长，安随后接受，并强调在团长之前首先是大家的朋友。",
+      "attribution": "该任务场景中的任职与自述，不对应其他机构职务。",
+      "kind": "attributed-fact",
+      "status": "source-reviewed",
+      "checkedAt": "2026-10-10",
+      "evidence": {
+        "pageid": 99580,
+        "title": "「公主」与「冒险团」的故事",
+        "revision": 652300,
+        "sha256": "9dbeefbb3c029ef731a6601eb79047aa8167250d82c5dffca9b9b16c3512b8a5",
+        "index": 53,
+        "path": [
+          "任务剧情",
+          "解除「高塔」的封印"
+        ],
+        "textHash": "37c1310b033f9e9f21843217375ee8909a961bd95ae278debd99e49a5a484b09",
+        "recordId": "corpus-99580-652300-de6c998f27b81886-0",
+        "fullRecordId": "ontology-full-99580-53-5b9656fb0a3f"
+      },
+      "reviewHash": "b145e9c7253523cffbbce536101c00e818055e93699f49dbe62a6b2610cad0b8"
+    },
+    {
+      "id": "sword-materials",
+      "subject": "sword",
+      "predicate": "锻铸材料",
+      "object": "四种架空物质",
+      "intents": [
+        "materials",
+        "definition"
+      ],
+      "claim": "在已接取《藻海的寻踪》、此为解开的第2个象限的分支中，卡特皮拉称锻铸水仙十字圣剑需要「记忆」「愿望」「灵魂」「人格」四种物质之块。此处说明剧情材料，不是武器效果数值。",
+      "attribution": "卡特皮拉解释锻铸材料；保持任务与象限分支条件。",
+      "kind": "attributed-fact",
+      "status": "source-reviewed",
+      "checkedAt": "2026-10-10",
+      "evidence": {
+        "pageid": 132771,
+        "title": "流星的投矛",
+        "revision": 652512,
+        "sha256": "35e83f5337b4987e30c6306c4e19d2924e621218255fa14ec91ae10cf474a535",
+        "index": 24,
+        "path": [
+          "任务剧情",
+          "分页：已接取任务「藻海的寻踪」",
+          "获取「愿望」之块",
+          "分页：此为解开的第2个象限"
+        ],
+        "textHash": "2a00c533ee7bb9e1dc4d63f72146cf13b4681ab4c7b6310425f0b066723b1c2d",
+        "recordId": "corpus-132771-652512-fb5644da6a62dc79-0",
+        "fullRecordId": "ontology-full-132771-24-b7ab4530d4db"
+      },
+      "reviewHash": "8cb4af545b761115f704fc2018610d06360495bb5d19ecd817a25eb67d307bbc"
+    },
+    {
+      "id": "sword-symbol",
+      "subject": "sword",
+      "predicate": "神秘哲学中的象征",
+      "object": "理性",
+      "intents": [
+        "symbol",
+        "purpose",
+        "definition"
+      ],
+      "claim": "卡特皮拉解释：在结社的神秘哲学中，水仙十字圣剑象征破开一切的「理性」，需要由完整的人之意志诞生。这是角色对神秘哲学的阐释。",
+      "attribution": "卡特皮拉的神秘哲学阐释，西摩尔在同段对白表示无法理解。",
+      "kind": "interpretation",
+      "status": "source-reviewed",
+      "checkedAt": "2026-10-10",
+      "evidence": {
+        "pageid": 132771,
+        "title": "流星的投矛",
+        "revision": 652512,
+        "sha256": "35e83f5337b4987e30c6306c4e19d2924e621218255fa14ec91ae10cf474a535",
+        "index": 24,
+        "path": [
+          "任务剧情",
+          "分页：已接取任务「藻海的寻踪」",
+          "获取「愿望」之块",
+          "分页：此为解开的第2个象限"
+        ],
+        "textHash": "2a00c533ee7bb9e1dc4d63f72146cf13b4681ab4c7b6310425f0b066723b1c2d",
+        "recordId": "corpus-132771-652512-fb5644da6a62dc79-0",
+        "fullRecordId": "ontology-full-132771-24-b7ab4530d4db"
+      },
+      "reviewHash": "8e8a67d118ebb70d2acfadf80a51bef9ebe772198ff2a0b8ba2794c894314c9c"
+    },
+    {
+      "id": "research-current-site",
+      "subject": "research-site",
+      "predicate": "当时用途",
+      "object": "科学院新址",
+      "intents": [
+        "definition",
+        "location",
+        "history"
+      ],
+      "claim": "在《枫丹科学院，停滞于一片废墟上》的该场景中，纳克将阿兰·吉约丹研究所故址指认为当时的科学院新址，并说明那里是接受最终审核的地点。",
+      "attribution": "纳克对任务当时地点和行政用途的说明。",
+      "kind": "attributed-fact",
+      "status": "source-reviewed",
+      "checkedAt": "2026-10-10",
+      "evidence": {
+        "pageid": 110872,
+        "title": "枫丹科学院，停滞于一片废墟上",
+        "revision": 664688,
+        "sha256": "cbad772c5a2ae2b2e9bfd01be5b8caf4a12fa7b7d261c91c6d3b5b81040d2146",
+        "index": 95,
+        "path": [
+          "任务剧情",
+          "与纳克对话"
+        ],
+        "textHash": "3ecb2f4b36b86ed5a35f74e18b8dedede3a722eaad0d6cc6afc106f64fe714c4",
+        "recordId": "corpus-110872-664688-6ea3869720c37879-0",
+        "fullRecordId": "ontology-full-110872-95-24fb75207da8"
+      },
+      "reviewHash": "1a735d05cbd42a8eac600e96b017b232e6e5453d69483e4bf783a4f42923d79f"
+    },
+    {
+      "id": "last-work-dispute",
+      "subject": "last-work",
+      "predicate": "文献观点",
+      "object": "遗作的存在与去向有争议",
+      "intents": [
+        "definition",
+        "history",
+        "certainty"
+      ],
+      "claim": "《循着过往的足迹》中「暮年的吉约丹」文献讨论「阿兰·吉约丹的遗作」这一流行符号。作者认为暮年机关可能已被主动销毁，并反驳通俗小说的幻想；这是文献作者的判断，不能据此确认具体遗作身份或实际去向。",
+      "attribution": "文献作者的推断，保留传闻、争议与证据局限。",
+      "kind": "interpretation",
+      "status": "source-reviewed",
+      "checkedAt": "2026-10-10",
+      "evidence": {
+        "pageid": 158193,
+        "title": "循着过往的足迹",
+        "revision": 677232,
+        "sha256": "1f9cdd71795a24e537c7b756e39f79d364d49e41faab1a407eea44dff580389b",
+        "index": 34,
+        "path": [
+          "任务剧情",
+          "拿取正确的资料",
+          "吉约丹传（精装修订版）",
+          "内容"
+        ],
+        "textHash": "2fb4610790c0a15045ef101afcb4be3cc4918a6c226f5d5e74cb0f02c083a2bc",
+        "recordId": "corpus-158193-677232-06136222fdeff1dd-0",
+        "fullRecordId": "ontology-full-158193-34-b4a151e27842"
+      },
+      "reviewHash": "a9705d21d39383c4f8b73fe6ce06c0d44b45a4c8bcd8d88e8e2e23a8ff57e917"
+    },
+    {
+      "id": "memory-clue-meaning",
+      "subject": "memory-clue",
+      "predicate": "推理线索含义",
+      "object": "记忆归属",
+      "intents": [
+        "definition",
+        "certainty"
+      ],
+      "claim": "《藻海的寻踪》的指定推理分支将「玛丽安」拥有玛丽安·吉约丹的记忆作为线索。此处的「记忆」不是新人物；也不能仅凭相同记忆就断定两个身份完全相同。",
+      "attribution": "指定推理选项中的线索描述，不当作跨分支身份定论。",
+      "kind": "uncertain",
+      "status": "source-reviewed",
+      "checkedAt": "2026-10-10",
+      "evidence": {
+        "pageid": 122821,
+        "title": "藻海的寻踪",
+        "revision": 656222,
+        "sha256": "c5a94dc24bd3045a486b07bb15a2b2772c009a1acd4802de4d9c9823465dae0c",
+        "index": 179,
+        "path": [
+          "任务剧情",
+          "准备好后，与卡特皮拉对话",
+          "「玛丽安」究竟是？",
+          "内容",
+          "源码选项组 1",
+          "选项 2：健谈的「玛丽安」",
+          "源码选项组 1",
+          "选项 1：「水仙十字院」的回忆",
+          "源码选项组 1",
+          "选项 1：玛丽安·吉约丹的记忆"
+        ],
+        "textHash": "f26b54d6d31c6acf15ed89d300692ec1ecea3d79570622d146f9f8c01c2d5ff4",
+        "recordId": "corpus-122821-656222-9a94cdf62b27ceaf-0",
+        "fullRecordId": "ontology-full-122821-179-2b92af32ebaa"
+      },
+      "reviewHash": "8aefb603801bdbffa72724fe8c1d657ffdcfdfdb298f1762c94526a446621157"
     }
   ],
   "nonMerges": [

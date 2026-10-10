@@ -17,6 +17,13 @@ test('核对记录绑定陈述、来源版本、正文和分支路径，改变�
  }
  assert.equal(matchReviewed('这里是否安全？',reviews.entities).length,0);
  assert.deepEqual(matchReviewed('4ACV07是谁？',reviews.entities).map(e=>e.id),['seymour']);
+ assert.deepEqual(matchReviewed('玛丽安·吉约丹是谁？',reviews.entities).map(e=>e.id),['marianne']);
+ assert.deepEqual(matchReviewed('埃马纽艾尔·吉约丹是谁？',reviews.entities),[]);
+ assert.deepEqual(matchReviewed('阿兰·吉约丹的遗作是什么？',reviews.entities).map(e=>e.id),['last-work']);
+ assert.deepEqual(matchReviewed('玛丽安·吉约丹的记忆是什么？',reviews.entities).map(e=>e.id),['memory-clue']);
+ assert.deepEqual(matchReviewed('阿兰与玛丽安是兄妹吗？',reviews.entities).map(e=>e.id).sort(),['guillotin','marianne']);
+ const alain=reviews.entities.find(e=>e.id==='guillotin'),support=alain.supportingEvidence[0];
+ assert.equal(validReview(alain,new Map([...pages,[support.pageid,{...pages.get(support.pageid),revision:-1}]])),false);
 });
 test('别名合并保留旧会话；关系只使用已开放片段，旧专题不越界读取第三页',()=>{
  const corpus=loadCorpus(root),pack={stages:[...corpus.stages],sources:corpus.sources};
@@ -24,6 +31,8 @@ test('别名合并保留旧会话；关系只使用已开放片段，旧专题�
  const jacob=reviews.entities.find(e=>e.id==='jacob');
  const items=full.query(new URLSearchParams('q=雅各布')).items.filter(e=>jacob.nodeIds.includes(e.id));
  assert.equal(items.length,1);assert.equal(items[0].id,jacob.primaryNodeId);assert.equal(items[0].reviewStatus,'source-reviewed');
+ const alain=reviews.entities.find(e=>e.id==='guillotin');
+ assert.equal(full.query(new URLSearchParams('q=阿兰·吉约丹')).items.filter(e=>alain.nodeIds.includes(e.id)).length,1);
  for(const id of jacob.nodeIds){const stage=pack.stages.find(s=>s.entityId===id);const result=reviewed.retrieve('雅各布属于水仙十字结社吗？',{progress:stage.id},corpus.records(stage.id));assert.equal(result.status,'answer');assert.ok(result.records.some(r=>r.reviewedRelationId==='member'));}
  const oldRows=corpus.records(1900000001);
  assert.ok(!oldRows.some(r=>r.reviewedRelationId==='institute-recollection'));

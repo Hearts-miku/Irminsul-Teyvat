@@ -1,8 +1,9 @@
 import {readFileSync,writeFileSync,mkdtempSync,mkdirSync} from 'node:fs';
-import {resolve,join} from 'node:path';
+import {resolve,join,basename} from 'node:path';
 import {pathToFileURL} from 'node:url';
-const read=p=>JSON.parse(readFileSync(p)),suite=read('data/ontology/acceptance.json');
-const args=process.argv.slice(2),baseline=args.includes('--baseline-root'),root=baseline?resolve(args[args.indexOf('--baseline-root')+1]):process.cwd();
+const read=p=>JSON.parse(readFileSync(p)),args=process.argv.slice(2);
+const suitePath=args.includes('--suite')?args[args.indexOf('--suite')+1]:'data/ontology/acceptance.json',suite=read(suitePath);
+const baseline=args.includes('--baseline-root'),root=baseline?resolve(args[args.indexOf('--baseline-root')+1]):process.cwd();
 const {createApp}=await import(pathToFileURL(join(root,'server/app.mjs')));
 const index=read('data/ontology/index.json'),reviews=read('data/ontology/reviewed-ordo.json');
 mkdirSync('test-results',{recursive:true});
@@ -28,6 +29,6 @@ try{
  }
 }finally{await app.close();}
 const report={baseline,scope:suite.scope,cases:results.length,uniqueQuestions:new Set(suite.cases.map(c=>c.question)).size,passed:results.filter(r=>r.passed).length,failed:results.filter(r=>!r.passed).length,scopeLeaks:results.filter(r=>r.failures.includes('scope-leak')).length,results};
-writeFileSync('test-results/ontology-acceptance'+(baseline?'-baseline':'')+'.json',JSON.stringify(report,null,2));
+writeFileSync('test-results/ontology-'+basename(suitePath,'.json')+(baseline?'-baseline':'')+'.json',JSON.stringify(report,null,2));
 console.log(JSON.stringify({...report,results:results.filter(r=>!r.passed).map(({id,question,status,failures})=>({id,question,status,failures}))},null,2));
 if(report.failed&&!baseline)process.exitCode=1;

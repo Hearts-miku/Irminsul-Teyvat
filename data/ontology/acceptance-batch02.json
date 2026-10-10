@@ -1,0 +1,775 @@
+{
+  "schemaVersion": 1,
+  "scope": "第二批固定来源验收：21组开放与未开放对照、7个连续追问、4个边界问题；非全库准确率，不调用真实在线模型。",
+  "cases": [
+    {
+      "id": "batch02-open-1",
+      "entity": "institute",
+      "question": "水仙十字院是什么？",
+      "scope": "entity",
+      "expected": {
+        "statuses": [
+          "answer"
+        ],
+        "relation": "institute-orphanage",
+        "includes": [
+          "孤儿院"
+        ]
+      }
+    },
+    {
+      "id": "batch02-locked-1",
+      "entity": "institute",
+      "question": "水仙十字院是什么？",
+      "scope": "locked",
+      "expected": {
+        "statuses": [
+          "scope",
+          "clarify",
+          "missing"
+        ],
+        "noEvidence": true
+      }
+    },
+    {
+      "id": "batch02-open-2",
+      "entity": "institute",
+      "question": "水仙十字孤儿院是什么？",
+      "scope": "entity",
+      "expected": {
+        "statuses": [
+          "answer"
+        ],
+        "relation": "institute-orphanage",
+        "includes": [
+          "副院长"
+        ]
+      }
+    },
+    {
+      "id": "batch02-locked-2",
+      "entity": "institute",
+      "question": "水仙十字孤儿院是什么？",
+      "scope": "locked",
+      "expected": {
+        "statuses": [
+          "scope",
+          "clarify",
+          "missing"
+        ],
+        "noEvidence": true
+      }
+    },
+    {
+      "id": "batch02-open-3",
+      "entity": "institute",
+      "question": "水仙十字院的院长是谁？",
+      "scope": "entity",
+      "expected": {
+        "statuses": [
+          "answer"
+        ],
+        "relation": "institute-orphanage",
+        "includes": [
+          "莉利丝"
+        ]
+      }
+    },
+    {
+      "id": "batch02-locked-3",
+      "entity": "institute",
+      "question": "水仙十字院的院长是谁？",
+      "scope": "locked",
+      "expected": {
+        "statuses": [
+          "scope",
+          "clarify",
+          "missing"
+        ],
+        "noEvidence": true
+      }
+    },
+    {
+      "id": "batch02-open-4",
+      "entity": "institute",
+      "question": "水仙十字院的礼堂用来上课吗？",
+      "scope": "entity",
+      "expected": {
+        "statuses": [
+          "answer"
+        ],
+        "relation": "institute-classroom",
+        "includes": [
+          "回忆"
+        ]
+      }
+    },
+    {
+      "id": "batch02-locked-4",
+      "entity": "institute",
+      "question": "水仙十字院的礼堂用来上课吗？",
+      "scope": "locked",
+      "expected": {
+        "statuses": [
+          "scope",
+          "clarify",
+          "missing"
+        ],
+        "noEvidence": true
+      }
+    },
+    {
+      "id": "batch02-open-5",
+      "entity": "guillotin",
+      "question": "阿兰·吉约丹是谁？",
+      "scope": "entity",
+      "expected": {
+        "statuses": [
+          "answer"
+        ],
+        "relation": "alain-designer",
+        "includes": [
+          "设计者"
+        ]
+      }
+    },
+    {
+      "id": "batch02-locked-5",
+      "entity": "guillotin",
+      "question": "阿兰·吉约丹是谁？",
+      "scope": "locked",
+      "expected": {
+        "statuses": [
+          "scope",
+          "clarify",
+          "missing"
+        ],
+        "noEvidence": true
+      }
+    },
+    {
+      "id": "batch02-open-6",
+      "entity": "guillotin",
+      "question": "阿兰·吉约丹与水仙十字院有什么关系？",
+      "scope": "entity",
+      "expected": {
+        "statuses": [
+          "answer"
+        ],
+        "relation": "alain-institute",
+        "includes": [
+          "收养前"
+        ]
+      }
+    },
+    {
+      "id": "batch02-locked-6",
+      "entity": "guillotin",
+      "question": "阿兰·吉约丹与水仙十字院有什么关系？",
+      "scope": "locked",
+      "expected": {
+        "statuses": [
+          "scope",
+          "clarify",
+          "missing"
+        ],
+        "noEvidence": true
+      }
+    },
+    {
+      "id": "batch02-open-7",
+      "entity": "guillotin",
+      "question": "阿兰·吉约丹与玛丽安·吉约丹是兄妹吗？",
+      "scope": "entity",
+      "expected": {
+        "statuses": [
+          "answer"
+        ],
+        "relation": "alain-sibling",
+        "includes": [
+          "兄妹"
+        ]
+      }
+    },
+    {
+      "id": "batch02-locked-7",
+      "entity": "guillotin",
+      "question": "阿兰·吉约丹与玛丽安·吉约丹是兄妹吗？",
+      "scope": "locked",
+      "expected": {
+        "statuses": [
+          "scope",
+          "clarify",
+          "missing"
+        ],
+        "noEvidence": true
+      }
+    },
+    {
+      "id": "batch02-open-8",
+      "entity": "marianne",
+      "question": "玛丽安·吉约丹与阿兰·吉约丹是兄妹吗？",
+      "scope": "entity",
+      "expected": {
+        "statuses": [
+          "answer"
+        ],
+        "relation": "alain-sibling",
+        "includes": [
+          "兄妹"
+        ]
+      }
+    },
+    {
+      "id": "batch02-locked-8",
+      "entity": "marianne",
+      "question": "玛丽安·吉约丹与阿兰·吉约丹是兄妹吗？",
+      "scope": "locked",
+      "expected": {
+        "statuses": [
+          "scope",
+          "clarify",
+          "missing"
+        ],
+        "noEvidence": true
+      }
+    },
+    {
+      "id": "batch02-open-9",
+      "entity": "seymour",
+      "question": "西摩尔和阿兰·吉约丹有什么关系？",
+      "scope": "entity",
+      "expected": {
+        "statuses": [
+          "answer"
+        ],
+        "relation": "alain-designer",
+        "includes": [
+          "设计者"
+        ]
+      }
+    },
+    {
+      "id": "batch02-locked-9",
+      "entity": "seymour",
+      "question": "西摩尔和阿兰·吉约丹有什么关系？",
+      "scope": "locked",
+      "expected": {
+        "statuses": [
+          "scope",
+          "clarify",
+          "missing"
+        ],
+        "noEvidence": true
+      }
+    },
+    {
+      "id": "batch02-open-10",
+      "entity": "adventure",
+      "question": "水仙十字冒险团是什么？",
+      "scope": "entity",
+      "expected": {
+        "statuses": [
+          "answer"
+        ],
+        "relation": "adventure-purpose",
+        "includes": [
+          "故事"
+        ]
+      }
+    },
+    {
+      "id": "batch02-locked-10",
+      "entity": "adventure",
+      "question": "水仙十字冒险团是什么？",
+      "scope": "locked",
+      "expected": {
+        "statuses": [
+          "scope",
+          "clarify",
+          "missing"
+        ],
+        "noEvidence": true
+      }
+    },
+    {
+      "id": "batch02-open-11",
+      "entity": "adventure",
+      "question": "水仙十字冒险团的目的是什么？",
+      "scope": "entity",
+      "expected": {
+        "statuses": [
+          "answer"
+        ],
+        "relation": "adventure-purpose",
+        "includes": [
+          "莉利丝"
+        ]
+      }
+    },
+    {
+      "id": "batch02-locked-11",
+      "entity": "adventure",
+      "question": "水仙十字冒险团的目的是什么？",
+      "scope": "locked",
+      "expected": {
+        "statuses": [
+          "scope",
+          "clarify",
+          "missing"
+        ],
+        "noEvidence": true
+      }
+    },
+    {
+      "id": "batch02-open-12",
+      "entity": "adventure",
+      "question": "水仙十字冒险团的团长是谁？",
+      "scope": "entity",
+      "expected": {
+        "statuses": [
+          "answer"
+        ],
+        "relation": "adventure-leader",
+        "includes": [
+          "安"
+        ]
+      }
+    },
+    {
+      "id": "batch02-locked-12",
+      "entity": "adventure",
+      "question": "水仙十字冒险团的团长是谁？",
+      "scope": "locked",
+      "expected": {
+        "statuses": [
+          "scope",
+          "clarify",
+          "missing"
+        ],
+        "noEvidence": true
+      }
+    },
+    {
+      "id": "batch02-open-13",
+      "entity": "kingdom",
+      "question": "水仙十字王国是什么？",
+      "scope": "entity",
+      "expected": {
+        "statuses": [
+          "answer"
+        ],
+        "relation": "adventure-purpose",
+        "includes": [
+          "故事"
+        ]
+      }
+    },
+    {
+      "id": "batch02-locked-13",
+      "entity": "kingdom",
+      "question": "水仙十字王国是什么？",
+      "scope": "locked",
+      "expected": {
+        "statuses": [
+          "scope",
+          "clarify",
+          "missing"
+        ],
+        "noEvidence": true
+      }
+    },
+    {
+      "id": "batch02-open-14",
+      "entity": "sword",
+      "question": "水仙十字圣剑的锻铸材料是什么？",
+      "scope": "entity",
+      "expected": {
+        "statuses": [
+          "answer"
+        ],
+        "relation": "sword-materials",
+        "includes": [
+          "第2个象限"
+        ]
+      }
+    },
+    {
+      "id": "batch02-locked-14",
+      "entity": "sword",
+      "question": "水仙十字圣剑的锻铸材料是什么？",
+      "scope": "locked",
+      "expected": {
+        "statuses": [
+          "scope",
+          "clarify",
+          "missing"
+        ],
+        "noEvidence": true
+      }
+    },
+    {
+      "id": "batch02-open-15",
+      "entity": "sword",
+      "question": "水仙十字圣剑象征什么？",
+      "scope": "entity",
+      "expected": {
+        "statuses": [
+          "answer"
+        ],
+        "relation": "sword-symbol",
+        "includes": [
+          "理性"
+        ]
+      }
+    },
+    {
+      "id": "batch02-locked-15",
+      "entity": "sword",
+      "question": "水仙十字圣剑象征什么？",
+      "scope": "locked",
+      "expected": {
+        "statuses": [
+          "scope",
+          "clarify",
+          "missing"
+        ],
+        "noEvidence": true
+      }
+    },
+    {
+      "id": "batch02-open-16",
+      "entity": "research-site",
+      "question": "阿兰·吉约丹研究所是什么？",
+      "scope": "entity",
+      "expected": {
+        "statuses": [
+          "answer"
+        ],
+        "relation": "research-current-site",
+        "includes": [
+          "故址"
+        ]
+      }
+    },
+    {
+      "id": "batch02-locked-16",
+      "entity": "research-site",
+      "question": "阿兰·吉约丹研究所是什么？",
+      "scope": "locked",
+      "expected": {
+        "statuses": [
+          "scope",
+          "clarify",
+          "missing"
+        ],
+        "noEvidence": true
+      }
+    },
+    {
+      "id": "batch02-open-17",
+      "entity": "last-work",
+      "question": "阿兰·吉约丹的遗作是什么？",
+      "scope": "entity",
+      "expected": {
+        "statuses": [
+          "answer"
+        ],
+        "relation": "last-work-dispute",
+        "includes": [
+          "作者"
+        ]
+      }
+    },
+    {
+      "id": "batch02-locked-17",
+      "entity": "last-work",
+      "question": "阿兰·吉约丹的遗作是什么？",
+      "scope": "locked",
+      "expected": {
+        "statuses": [
+          "scope",
+          "clarify",
+          "missing"
+        ],
+        "noEvidence": true
+      }
+    },
+    {
+      "id": "batch02-open-18",
+      "entity": "last-work",
+      "question": "能确定阿兰·吉约丹的遗作的去向吗？",
+      "scope": "entity",
+      "expected": {
+        "statuses": [
+          "answer"
+        ],
+        "relation": "last-work-dispute",
+        "includes": [
+          "不能据此确认"
+        ]
+      }
+    },
+    {
+      "id": "batch02-locked-18",
+      "entity": "last-work",
+      "question": "能确定阿兰·吉约丹的遗作的去向吗？",
+      "scope": "locked",
+      "expected": {
+        "statuses": [
+          "scope",
+          "clarify",
+          "missing"
+        ],
+        "noEvidence": true
+      }
+    },
+    {
+      "id": "batch02-open-19",
+      "entity": "memory-clue",
+      "question": "玛丽安·吉约丹的记忆是什么？",
+      "scope": "entity",
+      "expected": {
+        "statuses": [
+          "answer"
+        ],
+        "relation": "memory-clue-meaning",
+        "includes": [
+          "不是新人物"
+        ]
+      }
+    },
+    {
+      "id": "batch02-locked-19",
+      "entity": "memory-clue",
+      "question": "玛丽安·吉约丹的记忆是什么？",
+      "scope": "locked",
+      "expected": {
+        "statuses": [
+          "scope",
+          "clarify",
+          "missing"
+        ],
+        "noEvidence": true
+      }
+    },
+    {
+      "id": "batch02-open-20",
+      "entity": "memory-clue",
+      "question": "玛丽安·吉约丹的记忆能证实相同身份吗？",
+      "scope": "entity",
+      "expected": {
+        "statuses": [
+          "answer"
+        ],
+        "relation": "memory-clue-meaning",
+        "includes": [
+          "不能仅凭"
+        ]
+      }
+    },
+    {
+      "id": "batch02-locked-20",
+      "entity": "memory-clue",
+      "question": "玛丽安·吉约丹的记忆能证实相同身份吗？",
+      "scope": "locked",
+      "expected": {
+        "statuses": [
+          "scope",
+          "clarify",
+          "missing"
+        ],
+        "noEvidence": true
+      }
+    },
+    {
+      "id": "batch02-follow-0",
+      "entity": "institute",
+      "primer": "水仙十字院是什么？",
+      "question": "继续详细讲讲",
+      "scope": "entity",
+      "expected": {
+        "statuses": [
+          "answer"
+        ],
+        "relation": "institute-orphanage",
+        "includes": [
+          "孤儿院"
+        ]
+      }
+    },
+    {
+      "id": "batch02-follow-1",
+      "entity": "guillotin",
+      "primer": "阿兰·吉约丹是谁？",
+      "question": "继续详细讲讲",
+      "scope": "entity",
+      "expected": {
+        "statuses": [
+          "answer"
+        ],
+        "relation": "alain-designer",
+        "includes": [
+          "设计者"
+        ]
+      }
+    },
+    {
+      "id": "batch02-follow-2",
+      "entity": "guillotin",
+      "primer": "阿兰·吉约丹与玛丽安·吉约丹是兄妹吗？",
+      "question": "继续详细讲讲",
+      "scope": "entity",
+      "expected": {
+        "statuses": [
+          "answer"
+        ],
+        "relation": "alain-sibling",
+        "includes": [
+          "兄妹"
+        ]
+      }
+    },
+    {
+      "id": "batch02-follow-3",
+      "entity": "adventure",
+      "primer": "水仙十字冒险团是什么？",
+      "question": "继续详细讲讲",
+      "scope": "entity",
+      "expected": {
+        "statuses": [
+          "answer"
+        ],
+        "relation": "adventure-purpose",
+        "includes": [
+          "故事"
+        ]
+      }
+    },
+    {
+      "id": "batch02-follow-4",
+      "entity": "sword",
+      "primer": "水仙十字圣剑的锻铸材料是什么？",
+      "question": "继续详细讲讲",
+      "scope": "entity",
+      "expected": {
+        "statuses": [
+          "answer"
+        ],
+        "relation": "sword-materials",
+        "includes": [
+          "第2个象限"
+        ]
+      }
+    },
+    {
+      "id": "batch02-follow-5",
+      "entity": "last-work",
+      "primer": "阿兰·吉约丹的遗作是什么？",
+      "question": "继续详细讲讲",
+      "scope": "entity",
+      "expected": {
+        "statuses": [
+          "answer"
+        ],
+        "relation": "last-work-dispute",
+        "includes": [
+          "作者"
+        ]
+      }
+    },
+    {
+      "id": "batch02-follow-6",
+      "entity": "memory-clue",
+      "primer": "玛丽安·吉约丹的记忆是什么？",
+      "question": "继续详细讲讲",
+      "scope": "entity",
+      "expected": {
+        "statuses": [
+          "answer"
+        ],
+        "relation": "memory-clue-meaning",
+        "includes": [
+          "不是新人物"
+        ]
+      }
+    },
+    {
+      "id": "batch02-boundary-0",
+      "entity": "sword",
+      "question": "水仙十字圣剑的攻击力和精炼效果是什么？",
+      "scope": "entity",
+      "expected": {
+        "statuses": [
+          "reference"
+        ],
+        "noEvidence": true
+      }
+    },
+    {
+      "id": "batch02-boundary-1",
+      "entity": "institute",
+      "question": "水仙十字院与水仙十字结社是同一个机构吗？",
+      "scope": "entity",
+      "expected": {
+        "statuses": [
+          "clarify"
+        ],
+        "noEvidence": true
+      }
+    },
+    {
+      "id": "batch02-boundary-2",
+      "entity": "marianne",
+      "question": "安眠处的「玛丽安」就是西摩尔的主人吗？",
+      "scope": "entity",
+      "expected": {
+        "statuses": [
+          "clarify"
+        ],
+        "noEvidence": true
+      }
+    },
+    {
+      "id": "batch02-boundary-3",
+      "entity": "guillotin",
+      "question": "阿兰·吉约丹的生日是哪一天？",
+      "scope": "entity",
+      "expected": {
+        "statuses": [
+          "missing"
+        ],
+        "noEvidence": true
+      }
+    },
+    {
+      "id": "batch02-alain-short-open",
+      "entity": "guillotin",
+      "scope": "entity",
+      "question": "阿兰是谁？",
+      "expected": {
+        "statuses": [
+          "answer"
+        ],
+        "relation": "alain-designer",
+        "includes": [
+          "设计者"
+        ]
+      }
+    },
+    {
+      "id": "batch02-alain-short-locked",
+      "entity": "guillotin",
+      "scope": "locked",
+      "question": "阿兰是谁？",
+      "expected": {
+        "statuses": [
+          "scope",
+          "clarify",
+          "missing"
+        ],
+        "noEvidence": true
+      }
+    }
+  ]
+}
