@@ -1,0 +1,17 @@
+node_modules/
+.cache/
+dist/
+release/
+.local/
+test-results/
+.env
+.env.*
+!.env.example
+user-data/
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+model-key.enc
+Thumbs.db
+.DS_Store
+*.log

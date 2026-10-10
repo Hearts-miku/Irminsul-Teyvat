@@ -1,0 +1,667 @@
+{
+  "checkedAt": "2026-10-05",
+  "sourceCache": ".cache/review/v089-fetch-sources.json",
+  "catalog": [
+    {
+      "id": "commission-efb5b3939d5662",
+      "title": "西风骑士的基础知识",
+      "kind": "commission",
+      "status": "source-page-missing",
+      "reason": "公开 API 未找到该标题页面；不认定游戏中不存在，仍需其他可靠来源。"
+    },
+    {
+      "id": "commission-2b0080e69cc608",
+      "title": "应付尽付",
+      "kind": "commission",
+      "status": "source-page-missing",
+      "reason": "公开 API 未找到该标题页面；不认定游戏中不存在，仍需其他可靠来源。"
+    },
+    {
+      "id": "commission-1f246d61acb561",
+      "title": "诺拉快跑!",
+      "kind": "commission",
+      "status": "source-page-missing",
+      "reason": "公开 API 未找到该标题页面；不认定游戏中不存在，仍需其他可靠来源。"
+    },
+    {
+      "id": "commission-660fd2e910f27b",
+      "title": "全蒙德最好的听众",
+      "kind": "commission",
+      "status": "source-page-missing",
+      "reason": "公开 API 未找到该标题页面；不认定游戏中不存在，仍需其他可靠来源。"
+    },
+    {
+      "id": "commission-872bb4a11854c3",
+      "title": "趁热食用",
+      "kind": "commission",
+      "status": "source-page-missing",
+      "reason": "公开 API 未找到该标题页面；不认定游戏中不存在，仍需其他可靠来源。"
+    },
+    {
+      "id": "commission-combat-0a966b2a7e0198",
+      "title": "持盾的危机",
+      "kind": "commission-combat",
+      "status": "source-page-missing",
+      "reason": "公开 API 未找到该标题页面；不认定游戏中不存在，仍需其他可靠来源。"
+    },
+    {
+      "id": "commission-combat-97bf02a84d61bf",
+      "title": "圆滚滚的易爆品",
+      "kind": "commission-combat",
+      "status": "source-page-missing",
+      "reason": "公开 API 未找到该标题页面；不认定游戏中不存在，仍需其他可靠来源。"
+    },
+    {
+      "id": "commission-combat-a619819c990201",
+      "title": "攀高危险",
+      "kind": "commission-combat",
+      "status": "source-page-missing",
+      "reason": "公开 API 未找到该标题页面；不认定游戏中不存在，仍需其他可靠来源。"
+    },
+    {
+      "id": "commission-combat-237acdeecc01be",
+      "title": "危险运输现象",
+      "kind": "commission-combat",
+      "status": "source-page-missing",
+      "reason": "公开 API 未找到该标题页面；不认定游戏中不存在，仍需其他可靠来源。"
+    },
+    {
+      "id": "commission-combat-40e6193adaf80b",
+      "title": "极速前进",
+      "kind": "commission-combat",
+      "status": "source-page-missing",
+      "reason": "公开 API 未找到该标题页面；不认定游戏中不存在，仍需其他可靠来源。"
+    },
+    {
+      "id": "commission-combat-ae2f2c2057d708",
+      "title": "盗亦无道",
+      "kind": "commission-combat",
+      "status": "source-page-missing",
+      "reason": "公开 API 未找到该标题页面；不认定游戏中不存在，仍需其他可靠来源。"
+    },
+    {
+      "id": "commission-combat-3e54270a55c2c4",
+      "title": "丘丘人的一小步",
+      "kind": "commission-combat",
+      "status": "source-page-missing",
+      "reason": "公开 API 未找到该标题页面；不认定游戏中不存在，仍需其他可靠来源。"
+    },
+    {
+      "id": "commission-combat-bdf65d0813e1c6",
+      "title": "固若金汤",
+      "kind": "commission-combat",
+      "status": "source-page-missing",
+      "reason": "公开 API 未找到该标题页面；不认定游戏中不存在，仍需其他可靠来源。"
+    },
+    {
+      "id": "commission-combat-cd6d67e0fdd502",
+      "title": "熟能生巧",
+      "kind": "commission-combat",
+      "status": "source-page-missing",
+      "reason": "公开 API 未找到该标题页面；不认定游戏中不存在，仍需其他可靠来源。"
+    },
+    {
+      "id": "commission-combat-595ab91a07a0f5",
+      "title": "何以击石？",
+      "kind": "commission-combat",
+      "status": "source-page-missing",
+      "reason": "公开 API 未找到该标题页面；不认定游戏中不存在，仍需其他可靠来源。"
+    },
+    {
+      "id": "commission-combat-ca1603d16fa07e",
+      "title": "临危受命",
+      "kind": "commission-combat",
+      "status": "source-page-missing",
+      "reason": "公开 API 未找到该标题页面；不认定游戏中不存在，仍需其他可靠来源。"
+    },
+    {
+      "id": "commission-combat-c3970642346ad1",
+      "title": "长驱直入",
+      "kind": "commission-combat",
+      "status": "source-page-missing",
+      "reason": "公开 API 未找到该标题页面；不认定游戏中不存在，仍需其他可靠来源。"
+    },
+    {
+      "id": "commission-combat-20111d77b9ec7c",
+      "title": "冷冰冰的大麻烦",
+      "kind": "commission-combat",
+      "status": "source-page-missing",
+      "reason": "公开 API 未找到该标题页面；不认定游戏中不存在，仍需其他可靠来源。"
+    },
+    {
+      "id": "commission-combat-f8dff9fd729fc5",
+      "title": "「为了执行官大人！」",
+      "kind": "commission-combat",
+      "status": "source-page-missing",
+      "reason": "公开 API 未找到该标题页面；不认定游戏中不存在，仍需其他可靠来源。"
+    },
+    {
+      "id": "commission-combat-1cae1ae93fa957",
+      "title": "走马斩群魔",
+      "kind": "commission-combat",
+      "status": "source-page-missing",
+      "reason": "公开 API 未找到该标题页面；不认定游戏中不存在，仍需其他可靠来源。"
+    },
+    {
+      "id": "commission-combat-86ad1e65b51c71",
+      "title": "降雷之法",
+      "kind": "commission-combat",
+      "status": "source-page-missing",
+      "reason": "公开 API 未找到该标题页面；不认定游戏中不存在，仍需其他可靠来源。"
+    },
+    {
+      "id": "commission-combat-58096338dbe780",
+      "title": "君子白日闯",
+      "kind": "commission-combat",
+      "status": "source-images-only",
+      "reason": "页面仅有攻略图片，尚无可导入的文字剧情。",
+      "pageid": 26190,
+      "revision": 113779
+    },
+    {
+      "id": "commission-combat-96d7fcf076be7c",
+      "title": "轰隆隆的大危机",
+      "kind": "commission-combat",
+      "status": "source-page-missing",
+      "reason": "公开 API 未找到该标题页面；不认定游戏中不存在，仍需其他可靠来源。"
+    },
+    {
+      "id": "commission-combat-92380c57366136",
+      "title": "电压冲锋",
+      "kind": "commission-combat",
+      "status": "source-page-missing",
+      "reason": "公开 API 未找到该标题页面；不认定游戏中不存在，仍需其他可靠来源。"
+    },
+    {
+      "id": "commission-combat-f599b3b21d3762",
+      "title": "穷寇猛追",
+      "kind": "commission-combat",
+      "status": "source-page-missing",
+      "reason": "公开 API 未找到该标题页面；不认定游戏中不存在，仍需其他可靠来源。"
+    },
+    {
+      "id": "commission-combat-2f4c0670545fb6",
+      "title": "恶犬管理规范",
+      "kind": "commission-combat",
+      "status": "source-page-missing",
+      "reason": "公开 API 未找到该标题页面；不认定游戏中不存在，仍需其他可靠来源。"
+    },
+    {
+      "id": "commission-combat-6ea577e2152592",
+      "title": "雷霆引爆计划",
+      "kind": "commission-combat",
+      "status": "source-page-missing",
+      "reason": "公开 API 未找到该标题页面；不认定游戏中不存在，仍需其他可靠来源。"
+    },
+    {
+      "id": "commission-combat-33faa3419f540a",
+      "title": "插电战斗方案",
+      "kind": "commission-combat",
+      "status": "source-page-missing",
+      "reason": "公开 API 未找到该标题页面；不认定游戏中不存在，仍需其他可靠来源。"
+    },
+    {
+      "id": "commission-combat-ba3f3eb6c0161c",
+      "title": "非法飘荡",
+      "kind": "commission-combat",
+      "status": "source-page-missing",
+      "reason": "公开 API 未找到该标题页面；不认定游戏中不存在，仍需其他可靠来源。"
+    },
+    {
+      "id": "commission-combat-f3459e2ec64a2b",
+      "title": "霹雳收藏家",
+      "kind": "commission-combat",
+      "status": "source-page-missing",
+      "reason": "公开 API 未找到该标题页面；不认定游戏中不存在，仍需其他可靠来源。"
+    },
+    {
+      "id": "commission-combat-1e7e87503ac22f",
+      "title": "雷野险踪",
+      "kind": "commission-combat",
+      "status": "source-page-missing",
+      "reason": "公开 API 未找到该标题页面；不认定游戏中不存在，仍需其他可靠来源。"
+    },
+    {
+      "id": "commission-combat-f99fcc5a7cc14b",
+      "title": "邪恶的游荡",
+      "kind": "commission-combat",
+      "status": "source-page-missing",
+      "reason": "公开 API 未找到该标题页面；不认定游戏中不存在，仍需其他可靠来源。"
+    },
+    {
+      "id": "commission-combat-e549fa79e2826c",
+      "title": "戏水危险",
+      "kind": "commission-combat",
+      "status": "source-page-missing",
+      "reason": "公开 API 未找到该标题页面；不认定游戏中不存在，仍需其他可靠来源。"
+    },
+    {
+      "id": "commission-combat-8d678cbd7631e6",
+      "title": "抹金折戟",
+      "kind": "commission-combat",
+      "status": "source-page-missing",
+      "reason": "公开 API 未找到该标题页面；不认定游戏中不存在，仍需其他可靠来源。"
+    },
+    {
+      "id": "commission-combat-49e6c222393d47",
+      "title": "绝不菇息！",
+      "kind": "commission-combat",
+      "status": "source-page-missing",
+      "reason": "公开 API 未找到该标题页面；不认定游戏中不存在，仍需其他可靠来源。"
+    },
+    {
+      "id": "commission-combat-af113d998cb714",
+      "title": "无槌敲菇法",
+      "kind": "commission-combat",
+      "status": "source-page-missing",
+      "reason": "公开 API 未找到该标题页面；不认定游戏中不存在，仍需其他可靠来源。"
+    },
+    {
+      "id": "commission-combat-db7284a10ad1b0",
+      "title": "菇测高度",
+      "kind": "commission-combat",
+      "status": "source-page-missing",
+      "reason": "公开 API 未找到该标题页面；不认定游戏中不存在，仍需其他可靠来源。"
+    },
+    {
+      "id": "commission-combat-71679f4394af00",
+      "title": "喂，出来！",
+      "kind": "commission-combat",
+      "status": "source-page-missing",
+      "reason": "公开 API 未找到该标题页面；不认定游戏中不存在，仍需其他可靠来源。"
+    },
+    {
+      "id": "commission-combat-b7a349e1a5a80f",
+      "title": "游光示现",
+      "kind": "commission-combat",
+      "status": "source-page-missing",
+      "reason": "公开 API 未找到该标题页面；不认定游戏中不存在，仍需其他可靠来源。"
+    },
+    {
+      "id": "commission-combat-cc6bcd8376dbe8",
+      "title": "掠草行动",
+      "kind": "commission-combat",
+      "status": "source-page-missing",
+      "reason": "公开 API 未找到该标题页面；不认定游戏中不存在，仍需其他可靠来源。"
+    },
+    {
+      "id": "commission-combat-d45d011afe9b7e",
+      "title": "刚性稳定术",
+      "kind": "commission-combat",
+      "status": "source-page-missing",
+      "reason": "公开 API 未找到该标题页面；不认定游戏中不存在，仍需其他可靠来源。"
+    },
+    {
+      "id": "commission-combat-076e6be87af569",
+      "title": "规章问题",
+      "kind": "commission-combat",
+      "status": "source-page-missing",
+      "reason": "公开 API 未找到该标题页面；不认定游戏中不存在，仍需其他可靠来源。"
+    },
+    {
+      "id": "commission-combat-3c78e8e7be997d",
+      "title": "「交互式游览」",
+      "kind": "commission-combat",
+      "status": "source-page-missing",
+      "reason": "公开 API 未找到该标题页面；不认定游戏中不存在，仍需其他可靠来源。"
+    },
+    {
+      "id": "commission-combat-37da3121c98b66",
+      "title": "游刃由鱼",
+      "kind": "commission-combat",
+      "status": "source-page-missing",
+      "reason": "公开 API 未找到该标题页面；不认定游戏中不存在，仍需其他可靠来源。"
+    },
+    {
+      "id": "commission-combat-a8f8aa7ea41962",
+      "title": "嗨！冷静点！",
+      "kind": "commission-combat",
+      "status": "source-page-missing",
+      "reason": "公开 API 未找到该标题页面；不认定游戏中不存在，仍需其他可靠来源。"
+    },
+    {
+      "id": "commission-combat-2ea9cb253279eb",
+      "title": "略显身手",
+      "kind": "commission-combat",
+      "status": "source-page-missing",
+      "reason": "公开 API 未找到该标题页面；不认定游戏中不存在，仍需其他可靠来源。"
+    },
+    {
+      "id": "commission-combat-3f24543ab52e44",
+      "title": "内燃奔进",
+      "kind": "commission-combat",
+      "status": "source-page-missing",
+      "reason": "公开 API 未找到该标题页面；不认定游戏中不存在，仍需其他可靠来源。"
+    },
+    {
+      "id": "commission-combat-b9019af19c32f5",
+      "title": "龙共云飞",
+      "kind": "commission-combat",
+      "status": "source-page-missing",
+      "reason": "公开 API 未找到该标题页面；不认定游戏中不存在，仍需其他可靠来源。"
+    },
+    {
+      "id": "commission-combat-638553191efc75",
+      "title": "飞泉游隙",
+      "kind": "commission-combat",
+      "status": "source-page-missing",
+      "reason": "公开 API 未找到该标题页面；不认定游戏中不存在，仍需其他可靠来源。"
+    },
+    {
+      "id": "world-733cc797014606",
+      "title": "风仙亦是仙，古剑通幽玄！",
+      "kind": "world",
+      "status": "source-page-missing",
+      "reason": "公开 API 未找到该标题页面；不认定游戏中不存在，仍需其他可靠来源。"
+    },
+    {
+      "id": "world-375b01ce5f261a",
+      "title": "溯流的变奏曲",
+      "kind": "world",
+      "status": "source-page-missing",
+      "reason": "公开 API 未找到该标题页面；不认定游戏中不存在，仍需其他可靠来源。"
+    }
+  ],
+  "sourceGaps": [
+    {
+      "pageid": 9724,
+      "title": "风花节（任务）",
+      "revision": 679554,
+      "sha256": "4b5e499e4e44c0470f5900f228f4d55b9df037406e84786bd646fe262cc6b5ed",
+      "status": "source-gap-reconfirmed",
+      "warnings": [
+        "来源内容缺失：待补充"
+      ]
+    },
+    {
+      "pageid": 25921,
+      "title": "韶光抚月",
+      "revision": 683123,
+      "sha256": "9e58ce3398e5ed106a6eba438f877f0477981313edccbc4b653a402779719ba7",
+      "status": "source-gap-reconfirmed",
+      "warnings": [
+        "来源内容缺失：待补充"
+      ]
+    },
+    {
+      "pageid": 64630,
+      "title": "被嫌弃的木刻",
+      "revision": 666877,
+      "sha256": "315c0aa400bcc3db465182455fe27cbdd22eaba6090da8385106e96d0fa0ee4e",
+      "status": "source-gap-reconfirmed",
+      "warnings": [
+        "来源内容缺失：需要帮助"
+      ]
+    },
+    {
+      "pageid": 63009,
+      "title": "恒动械画•终",
+      "revision": 617335,
+      "sha256": "abfaa9403c3cc44e08d5cbd83838da606524ec0b22cdd98d12c8a9f339aaaba4",
+      "status": "source-gap-reconfirmed",
+      "warnings": [
+        "来源内容缺失：待补充"
+      ]
+    },
+    {
+      "pageid": 110878,
+      "title": "坏蛋们",
+      "revision": 543818,
+      "sha256": "aeb9b126e9d614a789b27776157eb3c7e157297a386a2dd2ad74263fdf64fff5",
+      "status": "source-gap-reconfirmed",
+      "warnings": [
+        "来源内容缺失：待补充"
+      ]
+    },
+    {
+      "pageid": 95531,
+      "title": "唤醒「灵谷木」中的残灵",
+      "revision": 630302,
+      "sha256": "707ba7e3e2dd245944bde90e361dfad2eac56aa6bfe8e8a068f31eb090de4f45",
+      "status": "source-gap-reconfirmed",
+      "warnings": [
+        "来源内容缺失：待补充"
+      ]
+    },
+    {
+      "pageid": 122393,
+      "title": "流浪汉与小屁孩",
+      "revision": 627306,
+      "sha256": "dc8e0d4416210f22cddaf435dcadcc9fe89183b4bc7439c5b457a8bbe2a2ad4f",
+      "status": "source-gap-reconfirmed",
+      "warnings": [
+        "来源内容缺失：待补充"
+      ]
+    },
+    {
+      "pageid": 76617,
+      "title": "帕拉德的困境",
+      "revision": 630085,
+      "sha256": "0a994f80c8dfd1ea9e435d6a6aae85ac3343ccccb29f8a4dfec86c2f2b9b90d4",
+      "status": "source-gap-reconfirmed",
+      "warnings": [
+        "来源内容缺失：待补充"
+      ]
+    },
+    {
+      "pageid": 128260,
+      "title": "泉有重喷日",
+      "revision": 562153,
+      "sha256": "4a8d172af7b2233c3e5088f357502422995fe45f77a9d392a1178b7a6d550088",
+      "status": "source-gap-reconfirmed",
+      "warnings": [
+        "来源内容缺失：待补充"
+      ]
+    },
+    {
+      "pageid": 66925,
+      "title": "热销的木刻",
+      "revision": 617306,
+      "sha256": "f8f976fcaecb516d67ba7531580502425a9774c5bc6bede9c64593b18ac52caa",
+      "status": "source-gap-reconfirmed",
+      "warnings": [
+        "来源内容缺失：需要帮助"
+      ]
+    },
+    {
+      "pageid": 110875,
+      "title": "往事追迹",
+      "revision": 561422,
+      "sha256": "d46cde122b7669debc58adf41559e260c49dba37f93899e67e4b120482af0f11",
+      "status": "source-gap-reconfirmed",
+      "warnings": [
+        "来源内容缺失：待补充"
+      ]
+    },
+    {
+      "pageid": 124189,
+      "title": "问题与答案",
+      "revision": 665247,
+      "sha256": "2455eb416b25c6766cf4025e9dce59763807f5888a33ad7e81af03bf2ee0e6d0",
+      "status": "source-gap-reconfirmed",
+      "warnings": [
+        "来源内容缺失：待补充"
+      ]
+    },
+    {
+      "pageid": 110876,
+      "title": "我们的目标在另一条管道",
+      "revision": 539471,
+      "sha256": "8e4ca8b3863288da9812bc03c88b262da023f19a264f8f60c54d8f01896edd17",
+      "status": "source-gap-reconfirmed",
+      "warnings": [
+        "来源内容缺失：待补充"
+      ]
+    },
+    {
+      "pageid": 164537,
+      "title": "一场预期内的谎言",
+      "revision": 664687,
+      "sha256": "1c5dbd096c635bffa42d8622b281228ab99631579c2f18b5a1b72999f475b169",
+      "status": "source-gap-reconfirmed",
+      "warnings": [
+        "来源内容缺失：待补充"
+      ]
+    },
+    {
+      "pageid": 145076,
+      "title": "一份预期内的计划",
+      "revision": 610000,
+      "sha256": "75420f48c8c0190c6c0424a188170e4a61d42f2b619054a0fd7dcb167cc6a3d0",
+      "status": "source-gap-reconfirmed",
+      "warnings": [
+        "来源内容缺失：待补充"
+      ]
+    },
+    {
+      "pageid": 110873,
+      "title": "智勇双拳",
+      "revision": 575452,
+      "sha256": "f4b4b2e2099e4afd877784c000ff387d02c8ec8249b2ef6135fbc988598f0570",
+      "status": "source-gap-reconfirmed",
+      "warnings": [
+        "来源内容缺失：待补充"
+      ]
+    },
+    {
+      "pageid": 34715,
+      "title": "「式大将」",
+      "revision": 608738,
+      "sha256": "671a238e771a7507deefa16df0af0fe46147aa569f3a1bc30ab547bfc8750941",
+      "status": "source-gap-reconfirmed",
+      "warnings": [
+        "来源内容缺失：NPC剧情"
+      ]
+    },
+    {
+      "pageid": 144746,
+      "title": "大助",
+      "revision": 608741,
+      "sha256": "78aa310ae4f6121235d0920833e2c6e8e049243054edc15ff822d81464b9d78c",
+      "status": "source-gap-reconfirmed",
+      "warnings": [
+        "来源内容缺失：NPC对话"
+      ]
+    },
+    {
+      "pageid": 111242,
+      "title": "菲多赫",
+      "revision": 518394,
+      "sha256": "4dde1b489c98003ccbb9c4ce93106452a8a4032aaae28f1f8236b8a31ccc9b5c",
+      "status": "source-gap-reconfirmed",
+      "warnings": [
+        "来源内容缺失：待补充"
+      ]
+    },
+    {
+      "pageid": 111241,
+      "title": "贾尔贾",
+      "revision": 596598,
+      "sha256": "380f040d8813117fbbf6924f4b63b31a0ce33076b93d779df68db7942f99db2b",
+      "status": "source-gap-reconfirmed",
+      "warnings": [
+        "来源内容缺失：待补充"
+      ]
+    },
+    {
+      "pageid": 144745,
+      "title": "加藤信悟",
+      "revision": 608740,
+      "sha256": "ef3f99890d41e7a721b806835396139a212d40f9ec50f49af78ea21a47c7ad4a",
+      "status": "source-gap-reconfirmed",
+      "warnings": [
+        "来源内容缺失：NPC对话"
+      ]
+    },
+    {
+      "pageid": 144744,
+      "title": "加藤洋平",
+      "revision": 608739,
+      "sha256": "c6ddbdfae17ff4301f4f06fa11ffbae68a67bfda4a21e30dac69b4966e131c79",
+      "status": "source-gap-reconfirmed",
+      "warnings": [
+        "来源内容缺失：NPC对话"
+      ]
+    },
+    {
+      "pageid": 111239,
+      "title": "拉沙鲁",
+      "revision": 512214,
+      "sha256": "057ddaf97694a6fa41eceb89e345a9594972391e9c3b9f7c7e828d1321c8040c",
+      "status": "source-gap-reconfirmed",
+      "warnings": [
+        "来源内容缺失：待补充"
+      ]
+    },
+    {
+      "pageid": 111238,
+      "title": "米希尔",
+      "revision": 512240,
+      "sha256": "2399754bbebfc0a6bcbcedc07490998745b7dcb92c7849b7418cfc68328e44fc",
+      "status": "source-gap-reconfirmed",
+      "warnings": [
+        "来源内容缺失：待补充"
+      ]
+    },
+    {
+      "pageid": 135639,
+      "title": "前韵",
+      "revision": 615024,
+      "sha256": "db29b5ea15bb37c00266c1de39f3d8364bc68511bc13df00e24f57ded4e3bc50",
+      "status": "source-gap-reconfirmed",
+      "warnings": [
+        "来源内容缺失：待补充"
+      ]
+    },
+    {
+      "pageid": 111240,
+      "title": "瑟法娜",
+      "revision": 497277,
+      "sha256": "d1de09836e1f4814a44a49b0b7690f9b3fcb892234768f6cb3860d0086f69d76",
+      "status": "source-gap-reconfirmed",
+      "warnings": [
+        "来源内容缺失：待补充"
+      ]
+    },
+    {
+      "pageid": 144748,
+      "title": "响太",
+      "revision": 608743,
+      "sha256": "3027dd7ef8b8c6d39ad1444072a29204bb87706262d79d4e19fc9d38583fd82c",
+      "status": "source-gap-reconfirmed",
+      "warnings": [
+        "来源内容缺失：NPC对话"
+      ]
+    },
+    {
+      "pageid": 144750,
+      "title": "有乐斋",
+      "revision": 643106,
+      "sha256": "8112836f3461443c0f5e77a258b2f7fcfc0ab8fd74f4b34457a2a3958a2e5c01",
+      "status": "source-gap-reconfirmed",
+      "warnings": [
+        "来源内容缺失：NPC对话"
+      ]
+    },
+    {
+      "pageid": 144749,
+      "title": "哲夫",
+      "revision": 643100,
+      "sha256": "8d34a0f082d4d41038339b634e795be809ebb94991e067162ce6ebb9bc4ba8f0",
+      "status": "source-gap-reconfirmed",
+      "warnings": [
+        "来源内容缺失：NPC对话"
+      ]
+    },
+    {
+      "pageid": 144747,
+      "title": "中野志乃",
+      "revision": 608742,
+      "sha256": "f28ad07d0c042da75dacc9bb62b7131d59fade513588ac112d936c9db1b5970c",
+      "status": "source-gap-reconfirmed",
+      "warnings": [
+        "来源内容缺失：NPC对话"
+      ]
+    }
+  ]
+}

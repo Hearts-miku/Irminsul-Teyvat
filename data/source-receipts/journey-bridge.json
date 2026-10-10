@@ -1,0 +1,1351 @@
+{
+  "plan": "journey-bridge",
+  "reviewedAt": "2026-09-30",
+  "pages": [
+    {
+      "key": "dain",
+      "title": "拾枝者·戴因斯雷布",
+      "revision": 667067,
+      "capturedAt": "2026-09-30T14:15:05.877Z",
+      "snapshotSha256": "9c1f6910f9ec89070e67e11bb28145e97335d1cf7907c60ed45138e8e9274db6",
+      "url": "https://wiki.biligame.com/ys/%E6%8B%BE%E6%9E%9D%E8%80%85%C2%B7%E6%88%B4%E5%9B%A0%E6%96%AF%E9%9B%B7%E5%B8%83",
+      "sections": [
+        {
+          "title": "任务条件",
+          "anchor": ".E4.BB.BB.E5.8A.A1.E6.9D.A1.E4.BB.B6",
+          "path": [
+            "任务相关",
+            "任务条件"
+          ],
+          "textSha256": "4b08395ea5004dbd7b780fba266dc65b0a804ade2a0c23657af6d0d764478514",
+          "requiresBranchReview": false
+        },
+        {
+          "title": "系列任务",
+          "anchor": ".E7.B3.BB.E5.88.97.E4.BB.BB.E5.8A.A1",
+          "path": [
+            "任务相关",
+            "系列任务"
+          ],
+          "textSha256": "e51aa88f20f2e25995af60b6ed1ee7f7c37ec929c452dc8afd238b3a1f0f9635",
+          "requiresBranchReview": false
+        },
+        {
+          "title": "前置任务",
+          "anchor": ".E5.89.8D.E7.BD.AE.E4.BB.BB.E5.8A.A1",
+          "path": [
+            "任务相关",
+            "前置任务"
+          ],
+          "textSha256": "f92469d2ea9ac1e2b3e60b468211daf12df19658912832774cb7229a40323c0d",
+          "requiresBranchReview": false
+        },
+        {
+          "title": "后续任务",
+          "anchor": ".E5.90.8E.E7.BB.AD.E4.BB.BB.E5.8A.A1",
+          "path": [
+            "任务相关",
+            "后续任务"
+          ],
+          "textSha256": "5a6ab202c9ca518c87734416011f4daa2cf3ddfb756d9ef79d1ae4e2795fbf56",
+          "requiresBranchReview": false
+        },
+        {
+          "title": "任务流程",
+          "anchor": ".E4.BB.BB.E5.8A.A1.E6.B5.81.E7.A8.8B",
+          "path": [
+            "任务相关",
+            "任务流程"
+          ],
+          "textSha256": "454a994970ddca163dd1ba52a9aba017ee76bbb42886fb20fb11f74502b0faaf",
+          "requiresBranchReview": false
+        },
+        {
+          "title": "任务剧情",
+          "anchor": ".E4.BB.BB.E5.8A.A1.E5.89.A7.E6.83.85",
+          "path": [
+            "任务剧情"
+          ],
+          "textSha256": "d14127b37f028ef8b3d00cf012193236a344df4ec11a532fd6488d64524d6003",
+          "requiresBranchReview": false
+        },
+        {
+          "title": "与蒙德的凯瑟琳对话",
+          "anchor": ".E4.B8.8E.E8.92.99.E5.BE.B7.E7.9A.84.E5.87.AF.E7.91.9F.E7.90.B3.E5.AF.B9.E8.AF.9D",
+          "path": [
+            "任务剧情",
+            "与蒙德的凯瑟琳对话"
+          ],
+          "textSha256": "fca89c6fdc35d759f659e822df005e688057599981afb545b57a59b322454631",
+          "requiresBranchReview": true
+        },
+        {
+          "title": "向劳伦斯打听那位「陌生人」的消息",
+          "anchor": ".E5.90.91.E5.8A.B3.E4.BC.A6.E6.96.AF.E6.89.93.E5.90.AC.E9.82.A3.E4.BD.8D.E3.80.8C.E9.99.8C.E7.94.9F.E4.BA.BA.E3.80.8D.E7.9A.84.E6.B6.88.E6.81.AF",
+          "path": [
+            "任务剧情",
+            "向劳伦斯打听那位「陌生人」的消息"
+          ],
+          "textSha256": "cde9f6edb13ca7b547d5832c46b758ad0140a05356c4587dc43b312b3fce3171",
+          "requiresBranchReview": true
+        },
+        {
+          "title": "向瓦格纳打听那位「陌生人」的消息",
+          "anchor": ".E5.90.91.E7.93.A6.E6.A0.BC.E7.BA.B3.E6.89.93.E5.90.AC.E9.82.A3.E4.BD.8D.E3.80.8C.E9.99.8C.E7.94.9F.E4.BA.BA.E3.80.8D.E7.9A.84.E6.B6.88.E6.81.AF",
+          "path": [
+            "任务剧情",
+            "向瓦格纳打听那位「陌生人」的消息"
+          ],
+          "textSha256": "4eab4a93b40827e7724d6b99c76364aa40a88fcd74771557039e1cfccf4f16fb",
+          "requiresBranchReview": true
+        },
+        {
+          "title": "向查尔斯打听那位「陌生人」的消息",
+          "anchor": ".E5.90.91.E6.9F.A5.E5.B0.94.E6.96.AF.E6.89.93.E5.90.AC.E9.82.A3.E4.BD.8D.E3.80.8C.E9.99.8C.E7.94.9F.E4.BA.BA.E3.80.8D.E7.9A.84.E6.B6.88.E6.81.AF",
+          "path": [
+            "任务剧情",
+            "向查尔斯打听那位「陌生人」的消息"
+          ],
+          "textSha256": "eb0dd49dc37269e224f5149d3df4f08f4be538c461d8686ae974fa578d0dcacd",
+          "requiresBranchReview": true
+        },
+        {
+          "title": "去酒馆二楼靠栏杆的座位坐下等待",
+          "anchor": ".E5.8E.BB.E9.85.92.E9.A6.86.E4.BA.8C.E6.A5.BC.E9.9D.A0.E6.A0.8F.E6.9D.86.E7.9A.84.E5.BA.A7.E4.BD.8D.E5.9D.90.E4.B8.8B.E7.AD.89.E5.BE.85",
+          "path": [
+            "任务剧情",
+            "去酒馆二楼靠栏杆的座位坐下等待"
+          ],
+          "textSha256": "e4ec7ab5f4877a9c614ce248f2ce208ca59fb7ac1cc5b354886f744d4b39e621",
+          "requiresBranchReview": false
+        },
+        {
+          "title": "前往酒馆一楼，寻找那位「陌生人」",
+          "anchor": ".E5.89.8D.E5.BE.80.E9.85.92.E9.A6.86.E4.B8.80.E6.A5.BC.EF.BC.8C.E5.AF.BB.E6.89.BE.E9.82.A3.E4.BD.8D.E3.80.8C.E9.99.8C.E7.94.9F.E4.BA.BA.E3.80.8D",
+          "path": [
+            "任务剧情",
+            "前往酒馆一楼，寻找那位「陌生人」"
+          ],
+          "textSha256": "0c20e4c132853b862ecc4e7d032bdd98bc23b7c2f2547a48085832164470a37b",
+          "requiresBranchReview": true
+        },
+        {
+          "title": "前往「西风之鹰」庙宇",
+          "anchor": ".E5.89.8D.E5.BE.80.E3.80.8C.E8.A5.BF.E9.A3.8E.E4.B9.8B.E9.B9.B0.E3.80.8D.E5.BA.99.E5.AE.87",
+          "path": [
+            "任务剧情",
+            "前往「西风之鹰」庙宇"
+          ],
+          "textSha256": "64a26b1fef0f739d0835bd138d33c196f1488a8da196f392fa1f207545996dcb",
+          "requiresBranchReview": true
+        },
+        {
+          "title": "继续向前探索",
+          "anchor": ".E7.BB.A7.E7.BB.AD.E5.90.91.E5.89.8D.E6.8E.A2.E7.B4.A2",
+          "path": [
+            "任务剧情",
+            "继续向前探索"
+          ],
+          "textSha256": "1f47ece6d83937373a118bfa3456ac5e4afe70f156610690afb98588f64ae352",
+          "requiresBranchReview": false
+        },
+        {
+          "title": "与戴因斯雷布对话",
+          "anchor": ".E4.B8.8E.E6.88.B4.E5.9B.A0.E6.96.AF.E9.9B.B7.E5.B8.83.E5.AF.B9.E8.AF.9D",
+          "path": [
+            "任务剧情",
+            "与戴因斯雷布对话"
+          ],
+          "textSha256": "634099f7bf492202401c820835da536a48c45e181c1c7629d50142632ba35267",
+          "requiresBranchReview": true
+        },
+        {
+          "title": "前往奔狼领",
+          "anchor": ".E5.89.8D.E5.BE.80.E5.A5.94.E7.8B.BC.E9.A2.86",
+          "path": [
+            "任务剧情",
+            "前往奔狼领"
+          ],
+          "textSha256": "b84f1a079e89594199fbbd7d887a81fca1acf9f73c3e3b08744621a15abb8675",
+          "requiresBranchReview": false
+        },
+        {
+          "title": "与戴因斯雷布对话",
+          "anchor": ".E4.B8.8E.E6.88.B4.E5.9B.A0.E6.96.AF.E9.9B.B7.E5.B8.83.E5.AF.B9.E8.AF.9D_2",
+          "path": [
+            "任务剧情",
+            "与戴因斯雷布对话"
+          ],
+          "textSha256": "cd892ef5bd951e09b289f7dfab9e5b08d1651b7d041db742ab2fd6470f69d421",
+          "requiresBranchReview": true
+        },
+        {
+          "title": "在奔狼领搜索与深渊教团有关的线索",
+          "anchor": ".E5.9C.A8.E5.A5.94.E7.8B.BC.E9.A2.86.E6.90.9C.E7.B4.A2.E4.B8.8E.E6.B7.B1.E6.B8.8A.E6.95.99.E5.9B.A2.E6.9C.89.E5.85.B3.E7.9A.84.E7.BA.BF.E7.B4.A2",
+          "path": [
+            "任务剧情",
+            "在奔狼领搜索与深渊教团有关的线索"
+          ],
+          "textSha256": "1c8c1001b9c4f6b7b6276cb7d8b1b28ba36e6d325d889fae8d8f305b16db6cfb",
+          "requiresBranchReview": false
+        },
+        {
+          "title": "在奔狼领搜索与深渊教团有关的线索",
+          "anchor": ".E5.9C.A8.E5.A5.94.E7.8B.BC.E9.A2.86.E6.90.9C.E7.B4.A2.E4.B8.8E.E6.B7.B1.E6.B8.8A.E6.95.99.E5.9B.A2.E6.9C.89.E5.85.B3.E7.9A.84.E7.BA.BF.E7.B4.A2_2",
+          "path": [
+            "任务剧情",
+            "在奔狼领搜索与深渊教团有关的线索"
+          ],
+          "textSha256": "9c81afbac2935bdb5c1d9c0f7b68ea23ca10d688c2fc2e10eb8a77c2d127a9ac",
+          "requiresBranchReview": false
+        },
+        {
+          "title": "与戴因斯雷布对话",
+          "anchor": ".E4.B8.8E.E6.88.B4.E5.9B.A0.E6.96.AF.E9.9B.B7.E5.B8.83.E5.AF.B9.E8.AF.9D_3",
+          "path": [
+            "任务剧情",
+            "与戴因斯雷布对话"
+          ],
+          "textSha256": "a6e75123452ed44ca8bba0bcbf8d39859b1fee392b085ca875d20694b4be4f63",
+          "requiresBranchReview": true
+        },
+        {
+          "title": "前往风龙废墟",
+          "anchor": ".E5.89.8D.E5.BE.80.E9.A3.8E.E9.BE.99.E5.BA.9F.E5.A2.9F",
+          "path": [
+            "任务剧情",
+            "前往风龙废墟"
+          ],
+          "textSha256": "97653585d12ac18a9833731083f10b04769ef4cc50e2d6a1110e1ed1d2ee8e1b",
+          "requiresBranchReview": false
+        },
+        {
+          "title": "深入风龙废墟",
+          "anchor": ".E6.B7.B1.E5.85.A5.E9.A3.8E.E9.BE.99.E5.BA.9F.E5.A2.9F",
+          "path": [
+            "任务剧情",
+            "深入风龙废墟"
+          ],
+          "textSha256": "66e09653219fcfc5565047b0e3477ab8c5a7261dffbc6042b11432922dba7220",
+          "requiresBranchReview": false
+        },
+        {
+          "title": "与戴因斯雷布对话",
+          "anchor": ".E4.B8.8E.E6.88.B4.E5.9B.A0.E6.96.AF.E9.9B.B7.E5.B8.83.E5.AF.B9.E8.AF.9D_4",
+          "path": [
+            "任务剧情",
+            "与戴因斯雷布对话"
+          ],
+          "textSha256": "1f7107ecdf231c52aac0341ced05667d250bac5d6ec03b9da97178e99cc2025b",
+          "requiresBranchReview": true
+        },
+        {
+          "title": "追上戴因斯雷布",
+          "anchor": ".E8.BF.BD.E4.B8.8A.E6.88.B4.E5.9B.A0.E6.96.AF.E9.9B.B7.E5.B8.83",
+          "path": [
+            "任务剧情",
+            "追上戴因斯雷布"
+          ],
+          "textSha256": "4a56b138fa97e3f6d95ab8f5c00d6453836cc49e6cfac6b7268d46ffc5fa36d4",
+          "requiresBranchReview": true
+        },
+        {
+          "title": "跟随戴因斯雷布",
+          "anchor": ".E8.B7.9F.E9.9A.8F.E6.88.B4.E5.9B.A0.E6.96.AF.E9.9B.B7.E5.B8.83",
+          "path": [
+            "任务剧情",
+            "跟随戴因斯雷布"
+          ],
+          "textSha256": "6723ca4d278734d30b3a91434cd7bf66d3f3f854f68eb876bca0489bbe7f001b",
+          "requiresBranchReview": false
+        },
+        {
+          "title": "上前观察蒲公英",
+          "anchor": ".E4.B8.8A.E5.89.8D.E8.A7.82.E5.AF.9F.E8.92.B2.E5.85.AC.E8.8B.B1",
+          "path": [
+            "任务剧情",
+            "上前观察蒲公英"
+          ],
+          "textSha256": "7aa5829842a9c745c9a56e6e86a2702f82945dea89bde3de09073e31e983378f",
+          "requiresBranchReview": true
+        },
+        {
+          "title": "与戴因斯雷布对话",
+          "anchor": ".E4.B8.8E.E6.88.B4.E5.9B.A0.E6.96.AF.E9.9B.B7.E5.B8.83.E5.AF.B9.E8.AF.9D_5",
+          "path": [
+            "任务剧情",
+            "与戴因斯雷布对话"
+          ],
+          "textSha256": "1ded014f46119f72d0d9f21bc1d2f24c9daf386a4eded02bd7da75d428daca2d",
+          "requiresBranchReview": true
+        }
+      ]
+    },
+    {
+      "key": "reunion",
+      "title": "我们终将重逢",
+      "revision": 673278,
+      "capturedAt": "2026-09-30T14:15:07.990Z",
+      "snapshotSha256": "16000f41e339c564e2f0362131f88f2b88dc677ebffe2587d011409b6e040c30",
+      "url": "https://wiki.biligame.com/ys/%E6%88%91%E4%BB%AC%E7%BB%88%E5%B0%86%E9%87%8D%E9%80%A2",
+      "sections": [
+        {
+          "title": "非自愿的祭献",
+          "anchor": ".E9.9D.9E.E8.87.AA.E6.84.BF.E7.9A.84.E7.A5.AD.E7.8C.AE",
+          "path": [
+            "非自愿的祭献"
+          ],
+          "textSha256": "50280dfe513f031ac5d9ac0589137396f8b456f372f1f8a29fde72a92c201d5d",
+          "requiresBranchReview": false
+        },
+        {
+          "title": "无信者的使徒",
+          "anchor": ".E6.97.A0.E4.BF.A1.E8.80.85.E7.9A.84.E4.BD.BF.E5.BE.92",
+          "path": [
+            "无信者的使徒"
+          ],
+          "textSha256": "181e3c9aeded391e40130a71fc2efe11459e0235f0a8863997ecc4e4067899e1",
+          "requiresBranchReview": false
+        },
+        {
+          "title": "不荣誉的试炼",
+          "anchor": ".E4.B8.8D.E8.8D.A3.E8.AA.89.E7.9A.84.E8.AF.95.E7.82.BC",
+          "path": [
+            "不荣誉的试炼"
+          ],
+          "textSha256": "af3df437923bf777967555c3f1983bc6c01a383343d3cb9d7acb87f7ccc9cceb",
+          "requiresBranchReview": false
+        },
+        {
+          "title": "有隔阂的魂灵",
+          "anchor": ".E6.9C.89.E9.9A.94.E9.98.82.E7.9A.84.E9.AD.82.E7.81.B5",
+          "path": [
+            "有隔阂的魂灵"
+          ],
+          "textSha256": "ff89de3fc2fe8eb0089917bf443d3e6fa81dd106aa0b51d900752e8ec9d8f285",
+          "requiresBranchReview": false
+        }
+      ]
+    },
+    {
+      "key": "sacrifice",
+      "title": "非自愿的祭献",
+      "revision": 666989,
+      "capturedAt": "2026-09-30T14:15:09.895Z",
+      "snapshotSha256": "e92eeeff8fd532aacbe37ed28de21afec9f005cb1610c7d307535e662bbfda7a",
+      "url": "https://wiki.biligame.com/ys/%E9%9D%9E%E8%87%AA%E6%84%BF%E7%9A%84%E7%A5%AD%E7%8C%AE",
+      "sections": [
+        {
+          "title": "任务条件",
+          "anchor": ".E4.BB.BB.E5.8A.A1.E6.9D.A1.E4.BB.B6",
+          "path": [
+            "任务相关",
+            "任务条件"
+          ],
+          "textSha256": "f52bbc5f13c9435ee983b901ce4f412c24d99bed1f6c8ba3be5238d744b9f3fd",
+          "requiresBranchReview": false
+        },
+        {
+          "title": "系列任务",
+          "anchor": ".E7.B3.BB.E5.88.97.E4.BB.BB.E5.8A.A1",
+          "path": [
+            "任务相关",
+            "系列任务"
+          ],
+          "textSha256": "b032f4ed767a5bf905743509dc19900e2f3c0ead2ea86aa17339530eaec219ab",
+          "requiresBranchReview": false
+        },
+        {
+          "title": "后续任务",
+          "anchor": ".E5.90.8E.E7.BB.AD.E4.BB.BB.E5.8A.A1",
+          "path": [
+            "任务相关",
+            "后续任务"
+          ],
+          "textSha256": "641cf149ed2144b64265be1d048017a28c97775bb0a8b2da4ece253007fde85d",
+          "requiresBranchReview": false
+        },
+        {
+          "title": "任务流程",
+          "anchor": ".E4.BB.BB.E5.8A.A1.E6.B5.81.E7.A8.8B",
+          "path": [
+            "任务相关",
+            "任务流程"
+          ],
+          "textSha256": "eeef1bb7d832c431f248316d12e8f1222c1e02f187881a195c48386a7726a892",
+          "requiresBranchReview": false
+        },
+        {
+          "title": "任务剧情",
+          "anchor": ".E4.BB.BB.E5.8A.A1.E5.89.A7.E6.83.85",
+          "path": [
+            "任务剧情"
+          ],
+          "textSha256": "fe75d22ab88538f34be0d37ca2ab502b875ea32d29628efbb0b5541b0ba4e918",
+          "requiresBranchReview": false
+        },
+        {
+          "title": "接近协会公告板",
+          "anchor": ".E6.8E.A5.E8.BF.91.E5.8D.8F.E4.BC.9A.E5.85.AC.E5.91.8A.E6.9D.BF",
+          "path": [
+            "任务剧情",
+            "接近协会公告板"
+          ],
+          "textSha256": "40cd49a053366d290cb39e697a21d5538d5acaf8581842428bf0b3d23236cd46",
+          "requiresBranchReview": true
+        },
+        {
+          "title": "追踪盗宝团",
+          "anchor": ".E8.BF.BD.E8.B8.AA.E7.9B.97.E5.AE.9D.E5.9B.A2",
+          "path": [
+            "任务剧情",
+            "追踪盗宝团"
+          ],
+          "textSha256": "a1f71670b6378a0abe8608f1aa6abceade79c896bf267097d30772ece047407b",
+          "requiresBranchReview": false
+        },
+        {
+          "title": "察看遗迹深处的情况",
+          "anchor": ".E5.AF.9F.E7.9C.8B.E9.81.97.E8.BF.B9.E6.B7.B1.E5.A4.84.E7.9A.84.E6.83.85.E5.86.B5",
+          "path": [
+            "任务剧情",
+            "察看遗迹深处的情况"
+          ],
+          "textSha256": "ca0e0a135a04ecad7680b5045c2dcd1adf6eeaaf5521763e1cdefa0f6f75599c",
+          "requiresBranchReview": false
+        },
+        {
+          "title": "逃离遗迹",
+          "anchor": ".E9.80.83.E7.A6.BB.E9.81.97.E8.BF.B9",
+          "path": [
+            "任务剧情",
+            "逃离遗迹"
+          ],
+          "textSha256": "5bda1a1ac3ee00c922fb6fdcf9b682d6bf1bd3faeed60d6000fdf8929bbc69e3",
+          "requiresBranchReview": false
+        },
+        {
+          "title": "与深渊使徒交涉",
+          "anchor": ".E4.B8.8E.E6.B7.B1.E6.B8.8A.E4.BD.BF.E5.BE.92.E4.BA.A4.E6.B6.89",
+          "path": [
+            "任务剧情",
+            "与深渊使徒交涉"
+          ],
+          "textSha256": "b078591b35a852550173a35930f523a86e4952000c9908e438ff0d39bbfc22b8",
+          "requiresBranchReview": false
+        },
+        {
+          "title": "打倒深渊使徒",
+          "anchor": ".E6.89.93.E5.80.92.E6.B7.B1.E6.B8.8A.E4.BD.BF.E5.BE.92",
+          "path": [
+            "任务剧情",
+            "打倒深渊使徒"
+          ],
+          "textSha256": "ad0dcac675fb94a05644358378a8b6935d754793c88f1740fc952d5ca33625cc",
+          "requiresBranchReview": false
+        },
+        {
+          "title": "与深渊使徒对话",
+          "anchor": ".E4.B8.8E.E6.B7.B1.E6.B8.8A.E4.BD.BF.E5.BE.92.E5.AF.B9.E8.AF.9D",
+          "path": [
+            "任务剧情",
+            "与深渊使徒对话"
+          ],
+          "textSha256": "0895f700ad9eb59a02b395b8fd177476040351138d960cb1c6eadebac7743942",
+          "requiresBranchReview": true
+        }
+      ]
+    },
+    {
+      "key": "herald",
+      "title": "无信者的使徒",
+      "revision": 667010,
+      "capturedAt": "2026-09-30T14:15:12.543Z",
+      "snapshotSha256": "29547a1b83f71bfb9db3a46aad5bc3b395db9e9643c767ba54871c1e2dfcf3a4",
+      "url": "https://wiki.biligame.com/ys/%E6%97%A0%E4%BF%A1%E8%80%85%E7%9A%84%E4%BD%BF%E5%BE%92",
+      "sections": [
+        {
+          "title": "任务条件",
+          "anchor": ".E4.BB.BB.E5.8A.A1.E6.9D.A1.E4.BB.B6",
+          "path": [
+            "任务相关",
+            "任务条件"
+          ],
+          "textSha256": "1f5f3a5fc06e3e7713a0e0a6727418f959298d0533dc52dd68c6a14542c3133b",
+          "requiresBranchReview": false
+        },
+        {
+          "title": "系列任务",
+          "anchor": ".E7.B3.BB.E5.88.97.E4.BB.BB.E5.8A.A1",
+          "path": [
+            "任务相关",
+            "系列任务"
+          ],
+          "textSha256": "b032f4ed767a5bf905743509dc19900e2f3c0ead2ea86aa17339530eaec219ab",
+          "requiresBranchReview": false
+        },
+        {
+          "title": "前置任务",
+          "anchor": ".E5.89.8D.E7.BD.AE.E4.BB.BB.E5.8A.A1",
+          "path": [
+            "任务相关",
+            "前置任务"
+          ],
+          "textSha256": "3b92cfd97ae52470b5d37990166ae69ea8935691edf6a85addeb833066151c79",
+          "requiresBranchReview": false
+        },
+        {
+          "title": "后续任务",
+          "anchor": ".E5.90.8E.E7.BB.AD.E4.BB.BB.E5.8A.A1",
+          "path": [
+            "任务相关",
+            "后续任务"
+          ],
+          "textSha256": "98d27f98c553e29a21e6790dc9e6d61902b76581920c460ffd1f006b9a3171b6",
+          "requiresBranchReview": false
+        },
+        {
+          "title": "任务流程",
+          "anchor": ".E4.BB.BB.E5.8A.A1.E6.B5.81.E7.A8.8B",
+          "path": [
+            "任务相关",
+            "任务流程"
+          ],
+          "textSha256": "1564bb2753e639e0d7d4ef28e9637420aed6e05a59c453224132470b6765bb47",
+          "requiresBranchReview": false
+        },
+        {
+          "title": "任务剧情",
+          "anchor": ".E4.BB.BB.E5.8A.A1.E5.89.A7.E6.83.85",
+          "path": [
+            "任务剧情"
+          ],
+          "textSha256": "eaced58dd99c2ea115d5acba59a30500fcfc44f6e18117cbb1bc2344520e8c6f",
+          "requiresBranchReview": false
+        },
+        {
+          "title": "与戴因对话",
+          "anchor": ".E4.B8.8E.E6.88.B4.E5.9B.A0.E5.AF.B9.E8.AF.9D",
+          "path": [
+            "任务剧情",
+            "与戴因对话"
+          ],
+          "textSha256": "312d1ef8f52f18199cfa4c0e821a051688bdf354b63588f97b6e7d99071c7387",
+          "requiresBranchReview": true
+        },
+        {
+          "title": "与戴因对话",
+          "anchor": ".E4.B8.8E.E6.88.B4.E5.9B.A0.E5.AF.B9.E8.AF.9D_2",
+          "path": [
+            "任务剧情",
+            "与戴因对话"
+          ],
+          "textSha256": "f3e3f1e8e48d6a2285b038ad11b21e7bda6d49517ee38458cc81c698d2e8bc00",
+          "requiresBranchReview": false
+        },
+        {
+          "title": "与戴因对话",
+          "anchor": ".E4.B8.8E.E6.88.B4.E5.9B.A0.E5.AF.B9.E8.AF.9D_3",
+          "path": [
+            "任务剧情",
+            "与戴因对话"
+          ],
+          "textSha256": "01e107cfc1084533520fd0fc58198f67db27e7bb3191fe90f3e5a671b937e5bd",
+          "requiresBranchReview": true
+        },
+        {
+          "title": "与戴因对话",
+          "anchor": ".E4.B8.8E.E6.88.B4.E5.9B.A0.E5.AF.B9.E8.AF.9D_4",
+          "path": [
+            "任务剧情",
+            "与戴因对话"
+          ],
+          "textSha256": "c25dd19cef059f2a563162a8a526bdb313d18fb1c923f914b20db922a1bafb03",
+          "requiresBranchReview": false
+        },
+        {
+          "title": "与戴因对话",
+          "anchor": ".E4.B8.8E.E6.88.B4.E5.9B.A0.E5.AF.B9.E8.AF.9D_5",
+          "path": [
+            "任务剧情",
+            "与戴因对话"
+          ],
+          "textSha256": "ce7d5cea64c087c807f79c46de4fb9f5f7615b14b525587ae3163e36fa6020f4",
+          "requiresBranchReview": true
+        }
+      ]
+    },
+    {
+      "key": "trial",
+      "title": "不荣誉的试炼",
+      "revision": 666986,
+      "capturedAt": "2026-09-30T14:15:24.843Z",
+      "snapshotSha256": "7d63a592e738d585c3c238d0f9d57138917a08287cc83f8791c6c6dd9958aa8e",
+      "url": "https://wiki.biligame.com/ys/%E4%B8%8D%E8%8D%A3%E8%AA%89%E7%9A%84%E8%AF%95%E7%82%BC",
+      "sections": [
+        {
+          "title": "任务条件",
+          "anchor": ".E4.BB.BB.E5.8A.A1.E6.9D.A1.E4.BB.B6",
+          "path": [
+            "任务相关",
+            "任务条件"
+          ],
+          "textSha256": "b4a304d4d98b4647d20faef613e545712667976ca156086b3b09b25fec170218",
+          "requiresBranchReview": false
+        },
+        {
+          "title": "系列任务",
+          "anchor": ".E7.B3.BB.E5.88.97.E4.BB.BB.E5.8A.A1",
+          "path": [
+            "任务相关",
+            "系列任务"
+          ],
+          "textSha256": "b032f4ed767a5bf905743509dc19900e2f3c0ead2ea86aa17339530eaec219ab",
+          "requiresBranchReview": false
+        },
+        {
+          "title": "前置任务",
+          "anchor": ".E5.89.8D.E7.BD.AE.E4.BB.BB.E5.8A.A1",
+          "path": [
+            "任务相关",
+            "前置任务"
+          ],
+          "textSha256": "641cf149ed2144b64265be1d048017a28c97775bb0a8b2da4ece253007fde85d",
+          "requiresBranchReview": false
+        },
+        {
+          "title": "后续任务",
+          "anchor": ".E5.90.8E.E7.BB.AD.E4.BB.BB.E5.8A.A1",
+          "path": [
+            "任务相关",
+            "后续任务"
+          ],
+          "textSha256": "281814cb53e720049ecd9f63ff2ddcfb37ad764f9ddab9f799eec3378259593e",
+          "requiresBranchReview": false
+        },
+        {
+          "title": "任务流程",
+          "anchor": ".E4.BB.BB.E5.8A.A1.E6.B5.81.E7.A8.8B",
+          "path": [
+            "任务相关",
+            "任务流程"
+          ],
+          "textSha256": "55621270d469ff7910edb37dec32edaff56222851320668f2858525dafe0bcc7",
+          "requiresBranchReview": false
+        },
+        {
+          "title": "任务剧情",
+          "anchor": ".E4.BB.BB.E5.8A.A1.E5.89.A7.E6.83.85",
+          "path": [
+            "任务剧情"
+          ],
+          "textSha256": "f2b2143b1b052f28911b68f9a50a0aff61b72ce4a636aa0f37db6f2ee318f6e6",
+          "requiresBranchReview": false
+        },
+        {
+          "title": "与戴因对话",
+          "anchor": ".E4.B8.8E.E6.88.B4.E5.9B.A0.E5.AF.B9.E8.AF.9D",
+          "path": [
+            "任务剧情",
+            "与戴因对话"
+          ],
+          "textSha256": "49cb55dca9ee42315d0c563bee9fa2354dea562f6d49c06ba4bd2d9055ea95d8",
+          "requiresBranchReview": true
+        },
+        {
+          "title": "与芭芭拉对话",
+          "anchor": ".E4.B8.8E.E8.8A.AD.E8.8A.AD.E6.8B.89.E5.AF.B9.E8.AF.9D",
+          "path": [
+            "任务剧情",
+            "与芭芭拉对话"
+          ],
+          "textSha256": "e2fea19c4f894650a1b80c42382ff0092749023a7675f8a3e205185aeae01a6c",
+          "requiresBranchReview": true
+        },
+        {
+          "title": "与戴因对话",
+          "anchor": ".E4.B8.8E.E6.88.B4.E5.9B.A0.E5.AF.B9.E8.AF.9D_2",
+          "path": [
+            "任务剧情",
+            "与戴因对话"
+          ],
+          "textSha256": "7cc7a1c688061a37e34423a08e83d9fbe3c21e34e0f8d19101bc7c10e387951d",
+          "requiresBranchReview": false
+        },
+        {
+          "title": "打倒深渊教团",
+          "anchor": ".E6.89.93.E5.80.92.E6.B7.B1.E6.B8.8A.E6.95.99.E5.9B.A2",
+          "path": [
+            "任务剧情",
+            "打倒深渊教团"
+          ],
+          "textSha256": "b273855d41acac432a6084311513df0d44580203f071c4795d372646faac76ab",
+          "requiresBranchReview": false
+        },
+        {
+          "title": "与琴对话",
+          "anchor": ".E4.B8.8E.E7.90.B4.E5.AF.B9.E8.AF.9D",
+          "path": [
+            "任务剧情",
+            "与琴对话"
+          ],
+          "textSha256": "20de1719ad6a9ecf162da1f6f1e848ef52f5e062186b77aae708461888cf82ed",
+          "requiresBranchReview": true
+        },
+        {
+          "title": "寻找「北风的王狼」",
+          "anchor": ".E5.AF.BB.E6.89.BE.E3.80.8C.E5.8C.97.E9.A3.8E.E7.9A.84.E7.8E.8B.E7.8B.BC.E3.80.8D",
+          "path": [
+            "任务剧情",
+            "寻找「北风的王狼」"
+          ],
+          "textSha256": "763daf80e21eaa4d7df02d017bf2a650d2bb659ab00535aad4ede3c6e4d3dcba",
+          "requiresBranchReview": false
+        },
+        {
+          "title": "与雷泽对话",
+          "anchor": ".E4.B8.8E.E9.9B.B7.E6.B3.BD.E5.AF.B9.E8.AF.9D",
+          "path": [
+            "任务剧情",
+            "与雷泽对话"
+          ],
+          "textSha256": "2ab2a7bb703766dc703ea7084ae81ec579525c16291f86eaeb1d12c5d2cf58cf",
+          "requiresBranchReview": false
+        },
+        {
+          "title": "与「北风的王狼」对话",
+          "anchor": ".E4.B8.8E.E3.80.8C.E5.8C.97.E9.A3.8E.E7.9A.84.E7.8E.8B.E7.8B.BC.E3.80.8D.E5.AF.B9.E8.AF.9D",
+          "path": [
+            "任务剧情",
+            "与「北风的王狼」对话"
+          ],
+          "textSha256": "7ae8e4dc982a1335361ffb522a709cc6758cd3719dc3e92b6995330b25b9b1c5",
+          "requiresBranchReview": false
+        }
+      ]
+    },
+    {
+      "key": "souls",
+      "title": "有隔阂的魂灵",
+      "revision": 674113,
+      "capturedAt": "2026-09-30T14:15:27.410Z",
+      "snapshotSha256": "fc51e59bcf1be7a22bf304c6b2f63c021f151752e7a3309de52a2afb4975677c",
+      "url": "https://wiki.biligame.com/ys/%E6%9C%89%E9%9A%94%E9%98%82%E7%9A%84%E9%AD%82%E7%81%B5",
+      "sections": [
+        {
+          "title": "任务条件",
+          "anchor": ".E4.BB.BB.E5.8A.A1.E6.9D.A1.E4.BB.B6",
+          "path": [
+            "任务相关",
+            "任务条件"
+          ],
+          "textSha256": "a95fd7634bf70d35c3f899eae6588b4b2e209d2e765acee7245f46d9c7f44b59",
+          "requiresBranchReview": false
+        },
+        {
+          "title": "系列任务",
+          "anchor": ".E7.B3.BB.E5.88.97.E4.BB.BB.E5.8A.A1",
+          "path": [
+            "任务相关",
+            "系列任务"
+          ],
+          "textSha256": "b032f4ed767a5bf905743509dc19900e2f3c0ead2ea86aa17339530eaec219ab",
+          "requiresBranchReview": false
+        },
+        {
+          "title": "前置任务",
+          "anchor": ".E5.89.8D.E7.BD.AE.E4.BB.BB.E5.8A.A1",
+          "path": [
+            "任务相关",
+            "前置任务"
+          ],
+          "textSha256": "98d27f98c553e29a21e6790dc9e6d61902b76581920c460ffd1f006b9a3171b6",
+          "requiresBranchReview": false
+        },
+        {
+          "title": "任务流程",
+          "anchor": ".E4.BB.BB.E5.8A.A1.E6.B5.81.E7.A8.8B",
+          "path": [
+            "任务相关",
+            "任务流程"
+          ],
+          "textSha256": "1dc10080b9f2df4287f55db83c6c003708ee4c71421a22d6f202e8388c289138",
+          "requiresBranchReview": false
+        },
+        {
+          "title": "任务剧情",
+          "anchor": ".E4.BB.BB.E5.8A.A1.E5.89.A7.E6.83.85",
+          "path": [
+            "任务剧情"
+          ],
+          "textSha256": "a5cb37255a2070379a44f36cf5d2a38639755a7a910e326a7006ad805eedf2b1",
+          "requiresBranchReview": false
+        },
+        {
+          "title": "与戴因对话",
+          "anchor": ".E4.B8.8E.E6.88.B4.E5.9B.A0.E5.AF.B9.E8.AF.9D",
+          "path": [
+            "任务剧情",
+            "与戴因对话"
+          ],
+          "textSha256": "97373662563ab863a5b0bde64658f428f044fd722abebe729d9c27161e33d018",
+          "requiresBranchReview": true
+        },
+        {
+          "title": "与戴因对话",
+          "anchor": ".E4.B8.8E.E6.88.B4.E5.9B.A0.E5.AF.B9.E8.AF.9D_2",
+          "path": [
+            "任务剧情",
+            "与戴因对话"
+          ],
+          "textSha256": "304f530a786f1ec201b6305f77cf28889cf60c859f5e33456c8c1ac812596136",
+          "requiresBranchReview": true
+        },
+        {
+          "title": "再次进入遗迹",
+          "anchor": ".E5.86.8D.E6.AC.A1.E8.BF.9B.E5.85.A5.E9.81.97.E8.BF.B9",
+          "path": [
+            "任务剧情",
+            "再次进入遗迹"
+          ],
+          "textSha256": "c2ce4777f3fff13faa9d676ccb545ba4ccdce68255e9e0fd99420ca9b793ad05",
+          "requiresBranchReview": false
+        },
+        {
+          "title": "与戴因对话",
+          "anchor": ".E4.B8.8E.E6.88.B4.E5.9B.A0.E5.AF.B9.E8.AF.9D_3",
+          "path": [
+            "任务剧情",
+            "与戴因对话"
+          ],
+          "textSha256": "e63228b283e0d75fe5c2b3924231299a705b8468154154445e81ef7affa1f37b",
+          "requiresBranchReview": false
+        },
+        {
+          "title": "击败深渊使徒",
+          "anchor": ".E5.87.BB.E8.B4.A5.E6.B7.B1.E6.B8.8A.E4.BD.BF.E5.BE.92",
+          "path": [
+            "任务剧情",
+            "击败深渊使徒"
+          ],
+          "textSha256": "b1c43a6fd5342f94951beac27f8d4675ce7b3ad268f96b98af893078bd4292cb",
+          "requiresBranchReview": false
+        },
+        {
+          "title": "与荧/空相会(空视角/荧视角)",
+          "anchor": ".E4.B8.8E.E8.8D.A7.2F.E7.A9.BA.E7.9B.B8.E4.BC.9A.28.E7.A9.BA.E8.A7.86.E8.A7.92.2F.E8.8D.A7.E8.A7.86.E8.A7.92.29",
+          "path": [
+            "任务剧情",
+            "与荧/空相会(空视角/荧视角)"
+          ],
+          "textSha256": "5b1d8f1dc630bf91f9c34e704a1ebf480ba65cc4e5f8231638c9fd45c66d1478",
+          "requiresBranchReview": true
+        },
+        {
+          "title": "与派蒙对话",
+          "anchor": ".E4.B8.8E.E6.B4.BE.E8.92.99.E5.AF.B9.E8.AF.9D",
+          "path": [
+            "任务剧情",
+            "与派蒙对话"
+          ],
+          "textSha256": "ce7a8e03cda6dd71403d0ea8e8e101e3175a2737a2da9066d57a1853f3ced267",
+          "requiresBranchReview": false
+        }
+      ]
+    },
+    {
+      "key": "autumn",
+      "title": "振袖秋风问红叶",
+      "revision": 673279,
+      "capturedAt": "2026-09-30T14:15:37.302Z",
+      "snapshotSha256": "c78796db70f700cf6b3a354d5927e0cc42cf61bb5966fb503e3e91f7584b312e",
+      "url": "https://wiki.biligame.com/ys/%E6%8C%AF%E8%A2%96%E7%A7%8B%E9%A3%8E%E9%97%AE%E7%BA%A2%E5%8F%B6",
+      "sections": [
+        {
+          "title": "冲破雷暴之法",
+          "anchor": ".E5.86.B2.E7.A0.B4.E9.9B.B7.E6.9A.B4.E4.B9.8B.E6.B3.95",
+          "path": [
+            "冲破雷暴之法"
+          ],
+          "textSha256": "7421dead163c7ebb9502e9916a82e10b222f81711067da0c84323a7d8ad3ef70",
+          "requiresBranchReview": false
+        },
+        {
+          "title": "南十字武斗会",
+          "anchor": ".E5.8D.97.E5.8D.81.E5.AD.97.E6.AD.A6.E6.96.97.E4.BC.9A",
+          "path": [
+            "南十字武斗会"
+          ],
+          "textSha256": "c29b6c7640654c17ada41937fffbdf8de056b6cb9a6c24507627709fb6e0e88c",
+          "requiresBranchReview": false
+        },
+        {
+          "title": "一路随风",
+          "anchor": ".E4.B8.80.E8.B7.AF.E9.9A.8F.E9.A3.8E",
+          "path": [
+            "一路随风"
+          ],
+          "textSha256": "36f6df823a5fa820c7208874b83a9fbde68aa01e1e9538fe794de0cd0b1143cb",
+          "requiresBranchReview": false
+        }
+      ]
+    },
+    {
+      "key": "storm",
+      "title": "冲破雷暴之法",
+      "revision": 665391,
+      "capturedAt": "2026-09-30T14:15:39.722Z",
+      "snapshotSha256": "7993f46639f5dbbd1ffee7bca13ad5d7be711ece7d1b612d41b7d9e68493b3de",
+      "url": "https://wiki.biligame.com/ys/%E5%86%B2%E7%A0%B4%E9%9B%B7%E6%9A%B4%E4%B9%8B%E6%B3%95",
+      "sections": [
+        {
+          "title": "任务条件",
+          "anchor": ".E4.BB.BB.E5.8A.A1.E6.9D.A1.E4.BB.B6",
+          "path": [
+            "任务相关",
+            "任务条件"
+          ],
+          "textSha256": "382173bcffe79ef5b7bea009398c5202ea487d9dac67b41e22f7a2bca2e95f3d",
+          "requiresBranchReview": false
+        },
+        {
+          "title": "系列任务",
+          "anchor": ".E7.B3.BB.E5.88.97.E4.BB.BB.E5.8A.A1",
+          "path": [
+            "任务相关",
+            "系列任务"
+          ],
+          "textSha256": "7c1eaf46f90caf32d6c79369be59b85cc461147f29d317927654654685b47ee1",
+          "requiresBranchReview": false
+        },
+        {
+          "title": "后续任务",
+          "anchor": ".E5.90.8E.E7.BB.AD.E4.BB.BB.E5.8A.A1",
+          "path": [
+            "任务相关",
+            "后续任务"
+          ],
+          "textSha256": "1c6334d30689445e541a0c5c0d32c4a3ace26ccefd934e89c9f457164fe49217",
+          "requiresBranchReview": false
+        },
+        {
+          "title": "任务流程",
+          "anchor": ".E4.BB.BB.E5.8A.A1.E6.B5.81.E7.A8.8B",
+          "path": [
+            "任务相关",
+            "任务流程"
+          ],
+          "textSha256": "97984a648fe57641b8decd38172a71ca7c74e11cc6c417de858b7c48f5ab291a",
+          "requiresBranchReview": false
+        },
+        {
+          "title": "任务剧情",
+          "anchor": ".E4.BB.BB.E5.8A.A1.E5.89.A7.E6.83.85",
+          "path": [
+            "任务剧情"
+          ],
+          "textSha256": "c7d2a2a43ab977039239d475a13d74b4d8ef1633df4f673a154f46f3eeeecd2f",
+          "requiresBranchReview": false
+        },
+        {
+          "title": "与派蒙交谈",
+          "anchor": ".E4.B8.8E.E6.B4.BE.E8.92.99.E4.BA.A4.E8.B0.88",
+          "path": [
+            "任务剧情",
+            "与派蒙交谈"
+          ],
+          "textSha256": "befc27697b95238af1b204784538e2ca7cebd5e59965f5dbe5faa683fee58a8d",
+          "requiresBranchReview": true
+        },
+        {
+          "title": "询问竺子前往稻妻的方法",
+          "anchor": ".E8.AF.A2.E9.97.AE.E7.AB.BA.E5.AD.90.E5.89.8D.E5.BE.80.E7.A8.BB.E5.A6.BB.E7.9A.84.E6.96.B9.E6.B3.95",
+          "path": [
+            "任务剧情",
+            "询问竺子前往稻妻的方法"
+          ],
+          "textSha256": "7f692f6344da218e0109095e901f8cce5b572b5a28154a346a580c9f29a4c9e0",
+          "requiresBranchReview": true
+        },
+        {
+          "title": "去「死兆星」号见北斗",
+          "anchor": ".E5.8E.BB.E3.80.8C.E6.AD.BB.E5.85.86.E6.98.9F.E3.80.8D.E5.8F.B7.E8.A7.81.E5.8C.97.E6.96.97",
+          "path": [
+            "任务剧情",
+            "去「死兆星」号见北斗"
+          ],
+          "textSha256": "8df5f0edf5244ab305b761cf3b24e607040c753beba119265c9d49018fa54496",
+          "requiresBranchReview": true
+        },
+        {
+          "title": "了解参赛者的实力",
+          "anchor": ".E4.BA.86.E8.A7.A3.E5.8F.82.E8.B5.9B.E8.80.85.E7.9A.84.E5.AE.9E.E5.8A.9B",
+          "path": [
+            "任务剧情",
+            "了解参赛者的实力"
+          ],
+          "textSha256": "de322ba99109ef32c666f913309ba48337f225832f9a1b2050b77c971835aa11",
+          "requiresBranchReview": true
+        },
+        {
+          "title": "了解参赛者的实力",
+          "anchor": ".E4.BA.86.E8.A7.A3.E5.8F.82.E8.B5.9B.E8.80.85.E7.9A.84.E5.AE.9E.E5.8A.9B_2",
+          "path": [
+            "任务剧情",
+            "了解参赛者的实力"
+          ],
+          "textSha256": "46ec2f525369b6164f43c0ffd0607aad46a4fb2b4f68d7d2a26c317d62ea821c",
+          "requiresBranchReview": true
+        },
+        {
+          "title": "了解参赛者的实力",
+          "anchor": ".E4.BA.86.E8.A7.A3.E5.8F.82.E8.B5.9B.E8.80.85.E7.9A.84.E5.AE.9E.E5.8A.9B_3",
+          "path": [
+            "任务剧情",
+            "了解参赛者的实力"
+          ],
+          "textSha256": "8689083c71d8bf485efdd9452610c6f31a502e782f8991951c5b5561cbe622c7",
+          "requiresBranchReview": false
+        },
+        {
+          "title": "与负责报名的珠函交谈",
+          "anchor": ".E4.B8.8E.E8.B4.9F.E8.B4.A3.E6.8A.A5.E5.90.8D.E7.9A.84.E7.8F.A0.E5.87.BD.E4.BA.A4.E8.B0.88",
+          "path": [
+            "任务剧情",
+            "与负责报名的珠函交谈"
+          ],
+          "textSha256": "b911d967b0d5b1dd43d3d42a07c9c514c4a2a793a3ae115c4ac374fabbc7c615",
+          "requiresBranchReview": true
+        }
+      ]
+    },
+    {
+      "key": "tournament",
+      "title": "南十字武斗会",
+      "revision": 665390,
+      "capturedAt": "2026-09-30T14:15:41.745Z",
+      "snapshotSha256": "af1806392665613f9af6696b92efda3da2fa64fde0aa173dced384773fc9f971",
+      "url": "https://wiki.biligame.com/ys/%E5%8D%97%E5%8D%81%E5%AD%97%E6%AD%A6%E6%96%97%E4%BC%9A",
+      "sections": [
+        {
+          "title": "任务条件",
+          "anchor": ".E4.BB.BB.E5.8A.A1.E6.9D.A1.E4.BB.B6",
+          "path": [
+            "任务相关",
+            "任务条件"
+          ],
+          "textSha256": "b60aeed3147448a678d2caddceca0a3fe5e81fae62d721b4632f152c084fed56",
+          "requiresBranchReview": false
+        },
+        {
+          "title": "系列任务",
+          "anchor": ".E7.B3.BB.E5.88.97.E4.BB.BB.E5.8A.A1",
+          "path": [
+            "任务相关",
+            "系列任务"
+          ],
+          "textSha256": "7c1eaf46f90caf32d6c79369be59b85cc461147f29d317927654654685b47ee1",
+          "requiresBranchReview": false
+        },
+        {
+          "title": "前置任务",
+          "anchor": ".E5.89.8D.E7.BD.AE.E4.BB.BB.E5.8A.A1",
+          "path": [
+            "任务相关",
+            "前置任务"
+          ],
+          "textSha256": "69562bbb274b1eab62e5b44b706946d0ad1a23835b57c22d5cf7437f949dec69",
+          "requiresBranchReview": false
+        },
+        {
+          "title": "后续任务",
+          "anchor": ".E5.90.8E.E7.BB.AD.E4.BB.BB.E5.8A.A1",
+          "path": [
+            "任务相关",
+            "后续任务"
+          ],
+          "textSha256": "7eaf3d83aec4d250708a773d90bc8f550768a03428a5a2679753cb3eb3ffd4a3",
+          "requiresBranchReview": false
+        },
+        {
+          "title": "任务流程",
+          "anchor": ".E4.BB.BB.E5.8A.A1.E6.B5.81.E7.A8.8B",
+          "path": [
+            "任务相关",
+            "任务流程"
+          ],
+          "textSha256": "4dfca5212e5328692fbad8e4865c79a2c6c05c2f3d85820a5c66630079af4c37",
+          "requiresBranchReview": false
+        },
+        {
+          "title": "任务剧情",
+          "anchor": ".E4.BB.BB.E5.8A.A1.E5.89.A7.E6.83.85",
+          "path": [
+            "任务剧情"
+          ],
+          "textSha256": "9eaeeedddac170ab2dfc7d3eda4415c7451f0cbbe8c6d3f8d5eb5dde7103cfe4",
+          "requiresBranchReview": false
+        },
+        {
+          "title": "与负责报名的珠函交谈",
+          "anchor": ".E4.B8.8E.E8.B4.9F.E8.B4.A3.E6.8A.A5.E5.90.8D.E7.9A.84.E7.8F.A0.E5.87.BD.E4.BA.A4.E8.B0.88",
+          "path": [
+            "任务剧情",
+            "与负责报名的珠函交谈"
+          ],
+          "textSha256": "1e1830f4e5fa223f806a530a585da8aec7b3c8dcfaca2673032dc54fdc04d7fb",
+          "requiresBranchReview": true
+        },
+        {
+          "title": "参赛并获胜",
+          "anchor": ".E5.8F.82.E8.B5.9B.E5.B9.B6.E8.8E.B7.E8.83.9C",
+          "path": [
+            "任务剧情",
+            "参赛并获胜"
+          ],
+          "textSha256": "f9dc3a05a606de0a5ec595c3199d1a7e51b23a1ac76b1c0fc3c24b0257a117f2",
+          "requiresBranchReview": false
+        },
+        {
+          "title": "与北斗和万叶交谈",
+          "anchor": ".E4.B8.8E.E5.8C.97.E6.96.97.E5.92.8C.E4.B8.87.E5.8F.B6.E4.BA.A4.E8.B0.88",
+          "path": [
+            "任务剧情",
+            "与北斗和万叶交谈"
+          ],
+          "textSha256": "5e2224dd01e0d844f7d4977170fbabdefe16dd1a5ea344c33fffc00fd4ba6dac",
+          "requiresBranchReview": false
+        },
+        {
+          "title": "再次与珠函交谈并参赛",
+          "anchor": ".E5.86.8D.E6.AC.A1.E4.B8.8E.E7.8F.A0.E5.87.BD.E4.BA.A4.E8.B0.88.E5.B9.B6.E5.8F.82.E8.B5.9B",
+          "path": [
+            "任务剧情",
+            "再次与珠函交谈并参赛"
+          ],
+          "textSha256": "0521af8b11acd93f2d1dacb13f0200ee48838c6615a540fdc9aeb92048fe8a51",
+          "requiresBranchReview": false
+        },
+        {
+          "title": "在半决赛中获胜",
+          "anchor": ".E5.9C.A8.E5.8D.8A.E5.86.B3.E8.B5.9B.E4.B8.AD.E8.8E.B7.E8.83.9C",
+          "path": [
+            "任务剧情",
+            "在半决赛中获胜"
+          ],
+          "textSha256": "2eac1802acc6cbe4311658f117427d6a0252321053aa8f6a53dad616fc4931d4",
+          "requiresBranchReview": false
+        },
+        {
+          "title": "与戎世交谈",
+          "anchor": ".E4.B8.8E.E6.88.8E.E4.B8.96.E4.BA.A4.E8.B0.88",
+          "path": [
+            "任务剧情",
+            "与戎世交谈"
+          ],
+          "textSha256": "20ca2bfa1bc3f334ea13f43bcbf6820175c9ee418434ecd6dc0ad78b41ad9863",
+          "requiresBranchReview": true
+        },
+        {
+          "title": "打听决赛对手的信息",
+          "anchor": ".E6.89.93.E5.90.AC.E5.86.B3.E8.B5.9B.E5.AF.B9.E6.89.8B.E7.9A.84.E4.BF.A1.E6.81.AF",
+          "path": [
+            "任务剧情",
+            "打听决赛对手的信息"
+          ],
+          "textSha256": "1021de18af435e29622acc27cb67b3b422ba706441ff8212ee52aca8d3b9baf9",
+          "requiresBranchReview": true
+        },
+        {
+          "title": "继续打听决赛对手的信息",
+          "anchor": ".E7.BB.A7.E7.BB.AD.E6.89.93.E5.90.AC.E5.86.B3.E8.B5.9B.E5.AF.B9.E6.89.8B.E7.9A.84.E4.BF.A1.E6.81.AF",
+          "path": [
+            "任务剧情",
+            "继续打听决赛对手的信息"
+          ],
+          "textSha256": "1072f3367152b1e03ca8da6965dc5739673c0b1c681aa2eddd40d2e5fe284c4f",
+          "requiresBranchReview": true
+        },
+        {
+          "title": "向北斗和万叶打听",
+          "anchor": ".E5.90.91.E5.8C.97.E6.96.97.E5.92.8C.E4.B8.87.E5.8F.B6.E6.89.93.E5.90.AC",
+          "path": [
+            "任务剧情",
+            "向北斗和万叶打听"
+          ],
+          "textSha256": "05063275cddaaae2c885636f15f287a7d2bd1073315e267442f47a43ff7382f1",
+          "requiresBranchReview": true
+        },
+        {
+          "title": "与万叶交谈",
+          "anchor": ".E4.B8.8E.E4.B8.87.E5.8F.B6.E4.BA.A4.E8.B0.88",
+          "path": [
+            "任务剧情",
+            "与万叶交谈"
+          ],
+          "textSha256": "1f241bfcdfe04a56ece312bdd6792a6c1df0007a5d88d224cfb1e872537e8b31",
+          "requiresBranchReview": true
+        },
+        {
+          "title": "与万叶交谈",
+          "anchor": ".E4.B8.8E.E4.B8.87.E5.8F.B6.E4.BA.A4.E8.B0.88_2",
+          "path": [
+            "任务剧情",
+            "与万叶交谈"
+          ],
+          "textSha256": "efdc3d529838b8daaeba871b70b533a8a505b591b1c5ec3d85757674e7d59ded",
+          "requiresBranchReview": true
+        }
+      ]
+    },
+    {
+      "key": "wind",
+      "title": "一路随风",
+      "revision": 665393,
+      "capturedAt": "2026-09-30T14:15:43.417Z",
+      "snapshotSha256": "e6bdb3274177fd4de4e4a201cb5a17434937d203bf0b7c9b8f330d69d35256c3",
+      "url": "https://wiki.biligame.com/ys/%E4%B8%80%E8%B7%AF%E9%9A%8F%E9%A3%8E",
+      "sections": [
+        {
+          "title": "任务条件",
+          "anchor": ".E4.BB.BB.E5.8A.A1.E6.9D.A1.E4.BB.B6",
+          "path": [
+            "任务相关",
+            "任务条件"
+          ],
+          "textSha256": "a00df9472d2eba8b3d4ce11b9a580f4c2ef90c231b98d8b3ee75755f67ec85d3",
+          "requiresBranchReview": false
+        },
+        {
+          "title": "系列任务",
+          "anchor": ".E7.B3.BB.E5.88.97.E4.BB.BB.E5.8A.A1",
+          "path": [
+            "任务相关",
+            "系列任务"
+          ],
+          "textSha256": "7c1eaf46f90caf32d6c79369be59b85cc461147f29d317927654654685b47ee1",
+          "requiresBranchReview": false
+        },
+        {
+          "title": "前置任务",
+          "anchor": ".E5.89.8D.E7.BD.AE.E4.BB.BB.E5.8A.A1",
+          "path": [
+            "任务相关",
+            "前置任务"
+          ],
+          "textSha256": "1c6334d30689445e541a0c5c0d32c4a3ace26ccefd934e89c9f457164fe49217",
+          "requiresBranchReview": false
+        },
+        {
+          "title": "任务流程",
+          "anchor": ".E4.BB.BB.E5.8A.A1.E6.B5.81.E7.A8.8B",
+          "path": [
+            "任务相关",
+            "任务流程"
+          ],
+          "textSha256": "85e804fde19fad35e0f5675e395c4020697068afeeeef70b78ac2c783e503328",
+          "requiresBranchReview": false
+        },
+        {
+          "title": "任务剧情",
+          "anchor": ".E4.BB.BB.E5.8A.A1.E5.89.A7.E6.83.85",
+          "path": [
+            "任务剧情"
+          ],
+          "textSha256": "8c6fbba2072dc9d0367342ed8ea8cd0008ab716f072fdecfbd276aef3f325ecc",
+          "requiresBranchReview": false
+        },
+        {
+          "title": "进入场地，参加决赛",
+          "anchor": ".E8.BF.9B.E5.85.A5.E5.9C.BA.E5.9C.B0.EF.BC.8C.E5.8F.82.E5.8A.A0.E5.86.B3.E8.B5.9B",
+          "path": [
+            "任务剧情",
+            "进入场地，参加决赛"
+          ],
+          "textSha256": "599eda1b1964e2f471b22b1b06c8f89ae8c8bd50739d25afd47711909cf328b2",
+          "requiresBranchReview": true
+        },
+        {
+          "title": "随万叶追寻神之眼的去向",
+          "anchor": ".E9.9A.8F.E4.B8.87.E5.8F.B6.E8.BF.BD.E5.AF.BB.E7.A5.9E.E4.B9.8B.E7.9C.BC.E7.9A.84.E5.8E.BB.E5.90.91",
+          "path": [
+            "任务剧情",
+            "随万叶追寻神之眼的去向"
+          ],
+          "textSha256": "c17d0b908615fb1c2ebc1a390ed4e7d50ed04baf8696317e39b629add15c215b",
+          "requiresBranchReview": true
+        },
+        {
+          "title": "前往乘风之处",
+          "anchor": ".E5.89.8D.E5.BE.80.E4.B9.98.E9.A3.8E.E4.B9.8B.E5.A4.84",
+          "path": [
+            "任务剧情",
+            "前往乘风之处"
+          ],
+          "textSha256": "abdbef77016149334b5837955b6851d25d9242e32b9b84b36f4956809a3f65f8",
+          "requiresBranchReview": false
+        },
+        {
+          "title": "前往前方小岛，寻找线索",
+          "anchor": ".E5.89.8D.E5.BE.80.E5.89.8D.E6.96.B9.E5.B0.8F.E5.B2.9B.EF.BC.8C.E5.AF.BB.E6.89.BE.E7.BA.BF.E7.B4.A2",
+          "path": [
+            "任务剧情",
+            "前往前方小岛，寻找线索"
+          ],
+          "textSha256": "53ad1bc4b7fd17af628c255b7e23b8ef66e6ebb704aeeadda0ed6180b8efe36f",
+          "requiresBranchReview": false
+        },
+        {
+          "title": "与万叶一起确认线索",
+          "anchor": ".E4.B8.8E.E4.B8.87.E5.8F.B6.E4.B8.80.E8.B5.B7.E7.A1.AE.E8.AE.A4.E7.BA.BF.E7.B4.A2",
+          "path": [
+            "任务剧情",
+            "与万叶一起确认线索"
+          ],
+          "textSha256": "bf1e25a2acbc9c89eec67493401ac904a855373ab84ebd60cb74f8ba59a03374",
+          "requiresBranchReview": false
+        },
+        {
+          "title": "击败拦路的盗宝团",
+          "anchor": ".E5.87.BB.E8.B4.A5.E6.8B.A6.E8.B7.AF.E7.9A.84.E7.9B.97.E5.AE.9D.E5.9B.A2",
+          "path": [
+            "任务剧情",
+            "击败拦路的盗宝团"
+          ],
+          "textSha256": "004d79f87d74fb9b9461cdf1f323ce6f4b598c21b85fdf91174cd4a10a9511c6",
+          "requiresBranchReview": false
+        },
+        {
+          "title": "与偷走神之眼的盗宝团交谈",
+          "anchor": ".E4.B8.8E.E5.81.B7.E8.B5.B0.E7.A5.9E.E4.B9.8B.E7.9C.BC.E7.9A.84.E7.9B.97.E5.AE.9D.E5.9B.A2.E4.BA.A4.E8.B0.88",
+          "path": [
+            "任务剧情",
+            "与偷走神之眼的盗宝团交谈"
+          ],
+          "textSha256": "850b178b575f5abf7037b229b5936d1e85e80feda7a249a2eaacf9b040a85ac4",
+          "requiresBranchReview": true
+        },
+        {
+          "title": "再次与盗宝团交谈",
+          "anchor": ".E5.86.8D.E6.AC.A1.E4.B8.8E.E7.9B.97.E5.AE.9D.E5.9B.A2.E4.BA.A4.E8.B0.88",
+          "path": [
+            "任务剧情",
+            "再次与盗宝团交谈"
+          ],
+          "textSha256": "4bfee9c120e1a75e7609fcc8827692183ecd6a32dfbf36aabc459963483521a6",
+          "requiresBranchReview": true
+        },
+        {
+          "title": "返回孤云阁的会场",
+          "anchor": ".E8.BF.94.E5.9B.9E.E5.AD.A4.E4.BA.91.E9.98.81.E7.9A.84.E4.BC.9A.E5.9C.BA",
+          "path": [
+            "任务剧情",
+            "返回孤云阁的会场"
+          ],
+          "textSha256": "5431b4df743ffbf07cde1a7aa8aded9c2eb8ca274f04433097f48de055366a04",
+          "requiresBranchReview": true
+        }
+      ]
+    }
+  ]
+}

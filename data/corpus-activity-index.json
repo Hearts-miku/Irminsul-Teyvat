@@ -1,0 +1,84 @@
+{
+  "capturedAt": "2026-10-04T05:13:57.212Z",
+  "query": "[[分类:活动]][[出场人物::阿嘟||阿圆||宫地||胡塞尼||季同||卢卡||明俊||帕特里克||伊达||盈珠||哲平]][[类别::!剧情活动]]|?出场人物|?类别|limit=500",
+  "querySha256": "acb4cc55c8304c0b84851adbcd0f339b74f0f50067ccc5807795ce6ec20cbbfa",
+  "completeGameCoverage": false,
+  "characters": {
+    "阿嘟": [],
+    "阿圆": [],
+    "宫地": [],
+    "胡塞尼": [
+      {
+        "pageid": 11247,
+        "title": "「导能原盘·绪论」",
+        "revision": 616824,
+        "sha256": "319e40c5ebc057c62265e7dfef70390235f4966a470ef8d3937640e4cfe98855"
+      },
+      {
+        "pageid": 27318,
+        "title": "「古时孤影」",
+        "revision": 616792,
+        "sha256": "c10b8c7a3221318cbaaa016ad7f464a2028a2828b3a933a903844200732d3ce7"
+      },
+      {
+        "pageid": 32862,
+        "title": "「导能原盘·跋尾」",
+        "revision": 627222,
+        "sha256": "c94158d53e5b67a9a872a98a2db0c1df51237518c802b2fcd47811b0e1375a44"
+      },
+      {
+        "pageid": 56456,
+        "title": "「深泥奇谭」",
+        "revision": 616764,
+        "sha256": "8d9c135603734dd105bdd77765958bdd37291672692158add1f1982a3c67fd26"
+      },
+      {
+        "pageid": 125055,
+        "title": "「导能原盘·引理」",
+        "revision": 616960,
+        "sha256": "3e3c1cf562944193aa44128d4518e9bf942cad83994b9f4264553a66a0099542"
+      }
+    ],
+    "季同": [
+      {
+        "pageid": 8234,
+        "title": "「福至五彩」",
+        "revision": 617499,
+        "sha256": "fe2770cd5952e696fc0427216971b5c319e2bd992d91c838a86badca7372b546"
+      }
+    ],
+    "卢卡": [
+      {
+        "pageid": 43201,
+        "title": "「曲生酌微梦」",
+        "revision": 616778,
+        "sha256": "bfa6809b7d0bef33d3fcd72a9fe986cfadbb25b9a5613ccdc02105131c9dce80"
+      }
+    ],
+    "明俊": [],
+    "帕特里克": [
+      {
+        "pageid": 49007,
+        "title": "「振晶的研究」",
+        "revision": 616772,
+        "sha256": "6178b9c9954d0b9ee9fa79a9f6d2f1c47a8ec69b166ef82b8db8cdeb1c7ac841"
+      },
+      {
+        "pageid": 120140,
+        "title": "「振晶的应用研究」",
+        "revision": 617020,
+        "sha256": "fe44327d407a1047420415416cafd3dcfd90dc8672bec12339ae4a3b3e4c1dc1"
+      }
+    ],
+    "伊达": [],
+    "盈珠": [
+      {
+        "pageid": 11247,
+        "title": "「导能原盘·绪论」",
+        "revision": 616824,
+        "sha256": "319e40c5ebc057c62265e7dfef70390235f4966a470ef8d3937640e4cfe98855"
+      }
+    ],
+    "哲平": []
+  }
+}

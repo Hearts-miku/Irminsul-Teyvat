@@ -1,0 +1,6558 @@
+[
+  {
+    "id": "story-101-1",
+    "recordHash": "13870f9586557ec6a3f66430a311a52f44d4bf3a946bf27f98e5945ce85a203b",
+    "checkedAt": "2026-10-03",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "仅为提米当时认知，不把父亲工作忙当事实。",
+    "evidence": [
+      {
+        "pageid": 41628,
+        "title": "一个男孩的去信",
+        "revision": 661416,
+        "sha256": "10207c038e59e107fa67d2a9ac1e06f594e388021b4d9c31ae02b422206058ff",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "与提米对话"
+            ],
+            "textHash": "22052984498773db29d203d6123fdb2fa62725ec473a8d5812ac077420a1ef36"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-101-2",
+    "recordHash": "a45977f052cb2f11a4351d0436101221efb3895a8a9775afefd010e9b2d9ea90",
+    "checkedAt": "2026-10-03",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "家庭往事归于葛瑞丝叙述；杜拉夫不等于提米父亲。",
+    "evidence": [
+      {
+        "pageid": 41628,
+        "title": "一个男孩的去信",
+        "revision": 661416,
+        "sha256": "10207c038e59e107fa67d2a9ac1e06f594e388021b4d9c31ae02b422206058ff",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "与葛瑞丝对话"
+            ],
+            "textHash": "bec21e06448b1ac74f2bb529a756316d622abcf69680b27dbc324dfbcc6bad86"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-101-3",
+    "recordHash": "2f572132b24d438d439eb103c775be0c301d4709ae30dbff3171916fc53a018b",
+    "checkedAt": "2026-10-03",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "不同选项归纳立场，不拼成一次对话；保留杜拉夫与葛瑞丝分歧。",
+    "evidence": [
+      {
+        "pageid": 41628,
+        "title": "一个男孩的去信",
+        "revision": 661416,
+        "sha256": "10207c038e59e107fa67d2a9ac1e06f594e388021b4d9c31ae02b422206058ff",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "与葛瑞丝对话"
+            ],
+            "textHash": "bec21e06448b1ac74f2bb529a756316d622abcf69680b27dbc324dfbcc6bad86"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与葛瑞丝对话",
+              "源码选项组 3",
+              "选项 1：您不想告诉提米真相？"
+            ],
+            "textHash": "355ff5f26a6f5a2bfe95c9b34ba5583e2503eeff99967aa13850a5f15197614d"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与葛瑞丝对话"
+            ],
+            "textHash": "9445ea1946c84d34f7cadb7d3b9a2196e61ebe8c3c48220d86378cfd4382e7af"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-101-4",
+    "recordHash": "cba80cbd271ebe5ebf201824d659fa377750ba1c677c7400d24f8b01846fc002",
+    "checkedAt": "2026-10-03",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "送信对象、回避见面理由和人物关系明确。",
+    "evidence": [
+      {
+        "pageid": 41628,
+        "title": "一个男孩的去信",
+        "revision": 661416,
+        "sha256": "10207c038e59e107fa67d2a9ac1e06f594e388021b4d9c31ae02b422206058ff",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "与杜拉夫对话",
+              "源码选项组 1",
+              "选项 2：为什么要我去？"
+            ],
+            "textHash": "0d3330bf262e057c285f5daac4a33197135ace77c3d1e5858970856a2d3ef556"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与杜拉夫对话",
+              "额外对话",
+              "内容",
+              "源码选项组 1",
+              "选项 2：那孩子是谁？"
+            ],
+            "textHash": "8573ea94a84d3dce24bbff518b83ea7f208f657a611a2609d1e2f72bedd48911"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-102-1",
+    "recordHash": "70eb56eac9c2dd273dfd3449b9ebff59e15ecf9d729e6892e6707f4f69b8c828",
+    "checkedAt": "2026-10-03",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "身份按本人自述，不扩大为组织领导。",
+    "evidence": [
+      {
+        "pageid": 121943,
+        "title": "「三十人团」的招募",
+        "revision": 537350,
+        "sha256": "bf38bbdc295a07bffa32d013915764291b7c3bc220f9403fece815cfb3f68572",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "与阿芬迪对话"
+            ],
+            "textHash": "481680d5c7ce62174501e887ff4412d593a4712428e858bf6e891d786a5d5341"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-102-2",
+    "recordHash": "9df79c3a2465294c21441d8a3d89c5b544267ee9ae17684baab0ab8e487593a0",
+    "checkedAt": "2026-10-03",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "城市防务和生活委托分工明确。",
+    "evidence": [
+      {
+        "pageid": 121943,
+        "title": "「三十人团」的招募",
+        "revision": 537350,
+        "sha256": "bf38bbdc295a07bffa32d013915764291b7c3bc220f9403fece815cfb3f68572",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "与阿芬迪对话"
+            ],
+            "textHash": "481680d5c7ce62174501e887ff4412d593a4712428e858bf6e891d786a5d5341"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-102-3",
+    "recordHash": "ba4d162bb61f1130c92ef480c14d4741f1160eb6fefec105fb3144b35e80880b",
+    "checkedAt": "2026-10-03",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "报酬、尊重和声望属于阿芬迪的工作说明。",
+    "evidence": [
+      {
+        "pageid": 121943,
+        "title": "「三十人团」的招募",
+        "revision": 537350,
+        "sha256": "bf38bbdc295a07bffa32d013915764291b7c3bc220f9403fece815cfb3f68572",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "与阿芬迪对话"
+            ],
+            "textHash": "481680d5c7ce62174501e887ff4412d593a4712428e858bf6e891d786a5d5341"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-103-1",
+    "recordHash": "066d1ae13a56d58b7f4b7cf1337f3f20ffd056df0e636076f97c0095d4fe6e89",
+    "checkedAt": "2026-10-03",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "相遇与前往村庄按子任务次序核对，不扩展后续结局。",
+    "evidence": [
+      {
+        "pageid": 68315,
+        "title": "林中奇遇（任务）",
+        "revision": 652623,
+        "sha256": "9001f8e699544d2ccc3882d9a9f1259b138a449cbc20234520510d1e7c754505",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "帮助被攻击的人"
+            ],
+            "textHash": "a6c0e75af2fd24388f4ce92693f133fb60264e86b7bcc3939016d811677de593"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "帮助被攻击的人"
+            ],
+            "textHash": "764166683dc852c7bd48437c2f1ef4cb787ee0870670afcfd57b3e92b7e893b5"
+          }
+        ]
+      },
+      {
+        "pageid": 68224,
+        "title": "维摩庄的孩子",
+        "revision": 652624,
+        "sha256": "77d5833de2255bef136160b262c8b16a073b78960e9654aea13fa6202b56530e",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "跟随拉娜行动"
+            ],
+            "textHash": "be2b8b8a56f4d468c99a97c6a92188ab15ba26b803297b4f4aedd774fe024c4f"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-103-2",
+    "recordHash": "267f4da5ff70f8ff0aba670d4bade7bf76ebaa579cea036cf34c56bdee2efdbc",
+    "checkedAt": "2026-10-03",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "三名孩子的兴趣逐一对应；来源为任务流程。",
+    "evidence": [
+      {
+        "pageid": 68224,
+        "title": "维摩庄的孩子",
+        "revision": 652624,
+        "sha256": "77d5833de2255bef136160b262c8b16a073b78960e9654aea13fa6202b56530e",
+        "fragments": [
+          {
+            "path": [
+              "任务流程"
+            ],
+            "textHash": "7398c1d3befc0f4d1561f9ecac0f7a72f06961904a72dac1d6ab3651b2f57be0"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-103-3",
+    "recordHash": "9e5446a267601c72529eb9ec0cd8fcde8a265e20170bf4d37c93d2ca2d626157",
+    "checkedAt": "2026-10-03",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "鳄鱼异常因果保留拉娜推测，保护孩子与生态有明确依据。",
+    "evidence": [
+      {
+        "pageid": 67476,
+        "title": "远足",
+        "revision": 661552,
+        "sha256": "2780dfb86e9f1d4006da5eea2d56a1793ba70649c3e3ca6eebd0788f4adf6aed",
+        "fragments": [
+          {
+            "path": [
+              "任务描述"
+            ],
+            "textHash": "fbfd73c735ed7d4bc063c93c46552a2138f6161d2cbe5165913e26bcfd83411f"
+          },
+          {
+            "path": [
+              "任务流程"
+            ],
+            "textHash": "8d4cfaafb6c6bb8aae39697b82e4bb2126a3d3d6b2d23f0318e54d0cc40fac5c"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与拉娜对话"
+            ],
+            "textHash": "2ef331b9563b260e0bcc98b1bca84fd81cbb73665a86819c32f5e1bc5077b8d2"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-104-1",
+    "recordHash": "e8f2580431216e6eccd0a89b04b0bddb5d464b8aa416243b9d4165a4a4e878b2",
+    "checkedAt": "2026-10-03",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "不从葛罗丽所知推导古德温实际去向。",
+    "evidence": [
+      {
+        "pageid": 114183,
+        "title": "愿风带走思念",
+        "revision": 506540,
+        "sha256": "8c648659006efc2c515620eb8bf407a42c792dd7c87475d76c302f30fce012bf",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "与葛罗丽对话"
+            ],
+            "textHash": "fbce9f33b9530ab9ae0df54b48d13b7f873d7beb5d543d914478ff3fe8d42840"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-104-2",
+    "recordHash": "f157aebeb72cb0f30444b06b6bd0832db2b9280b587519b871b6c2de7140db30",
+    "checkedAt": "2026-10-03",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "采集、诉说、播撒顺序明确；愿望不等于已实现。",
+    "evidence": [
+      {
+        "pageid": 114183,
+        "title": "愿风带走思念",
+        "revision": 506540,
+        "sha256": "8c648659006efc2c515620eb8bf407a42c792dd7c87475d76c302f30fce012bf",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "与葛罗丽对话"
+            ],
+            "textHash": "fbce9f33b9530ab9ae0df54b48d13b7f873d7beb5d543d914478ff3fe8d42840"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "将蒲公英籽交给葛罗丽"
+            ],
+            "textHash": "853d3a2f997fd6bb1f7efecce0cccbb45b94dd8ccc23b25d804d664bd0595689"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-105-1",
+    "recordHash": "09f12b6f4c4e73d966380453b31e597e6058e846d77d9cc285f4a24d55b723db",
+    "checkedAt": "2026-10-03",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "地点、职业和继续听/不听选择核对。",
+    "evidence": [
+      {
+        "pageid": 43347,
+        "title": "茶博士刘苏",
+        "revision": 381754,
+        "sha256": "152e65153ae7aff3a44124c9bb9a4ae8f694851bc7d31c4e8723af552464dbf5",
+        "fragments": [
+          {
+            "path": [
+              "位置"
+            ],
+            "textHash": "7645e1a3ea5cfed5bd658d94a4da50e9985de0004acbdeafec2c11e1268808cc"
+          },
+          {
+            "path": [
+              "对话内容",
+              "关于行秋",
+              "内容",
+              "源码选项组 1",
+              "选项 1：（听听评书）"
+            ],
+            "textHash": "8bdb2eb72e8225d9fcf05ede7998510f9217fb38c3f5570d21ac013f429248ff"
+          },
+          {
+            "path": [
+              "对话内容",
+              "关于岩王帝君",
+              "内容",
+              "源码选项组 1",
+              "选项 1：（听听评书）",
+              "源码选项组 1",
+              "选项 1：哎呀…"
+            ],
+            "textHash": "dc18d52d1172a73df332fb3d06dcf2287a5b67beee2e7cfd90866a99cb962053"
+          },
+          {
+            "path": [
+              "对话内容",
+              "关于岩王帝君",
+              "内容",
+              "源码选项组 1",
+              "选项 1：（听听评书）",
+              "源码选项组 1",
+              "选项 2：（不听了）"
+            ],
+            "textHash": "4ee8446a39a75f4a1c0c1d50b186e08bf9fa0e57511f3de0c0dc6e4dcd66b757"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-105-2",
+    "recordHash": "946d8491104f602d137a846fcedfb824f3d246503311cf4292c4eae0764f1dad",
+    "checkedAt": "2026-10-03",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "刘苏评书不当作旅行者亲历事实。",
+    "evidence": [
+      {
+        "pageid": 43347,
+        "title": "茶博士刘苏",
+        "revision": 381754,
+        "sha256": "152e65153ae7aff3a44124c9bb9a4ae8f694851bc7d31c4e8723af552464dbf5",
+        "fragments": [
+          {
+            "path": [
+              "对话内容",
+              "关于行秋",
+              "内容",
+              "源码选项组 1",
+              "选项 1：（听听评书）"
+            ],
+            "textHash": "8bdb2eb72e8225d9fcf05ede7998510f9217fb38c3f5570d21ac013f429248ff"
+          },
+          {
+            "path": [
+              "对话内容",
+              "关于行秋",
+              "内容",
+              "源码选项组 1",
+              "选项 1：（听听评书）",
+              "源码选项组 1",
+              "选项 1：呀…"
+            ],
+            "textHash": "e032a54049f625cf7b1c733da11a015ae63663e3901776fa0c5b0ab01311a0c0"
+          },
+          {
+            "path": [
+              "对话内容",
+              "关于行秋",
+              "内容",
+              "源码选项组 1",
+              "选项 1：（听听评书）",
+              "源码选项组 1",
+              "选项 2：（不听了）"
+            ],
+            "textHash": "c221e76fc3d9db29df5cc62bc4be4b4ec021e1695de680a91c264d4d515f679b"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-105-3",
+    "recordHash": "d56fa10c5b11d5712c9c250114bd3ac927034d8f8ba38ec7142eeda89c2471cf",
+    "checkedAt": "2026-10-03",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "说书夸张与历史定论分开，不采纳七大夜叉为确定史料。",
+    "evidence": [
+      {
+        "pageid": 43347,
+        "title": "茶博士刘苏",
+        "revision": 381754,
+        "sha256": "152e65153ae7aff3a44124c9bb9a4ae8f694851bc7d31c4e8723af552464dbf5",
+        "fragments": [
+          {
+            "path": [
+              "对话内容",
+              "关于岩王帝君",
+              "内容",
+              "源码选项组 1",
+              "选项 1：（听听评书）"
+            ],
+            "textHash": "41a0d03da00fe84fce0b9348d6f04bbc741662e08caff90e3b2104a5431cc216"
+          },
+          {
+            "path": [
+              "对话内容",
+              "关于岩王帝君",
+              "内容",
+              "源码选项组 1",
+              "选项 1：（听听评书）",
+              "源码选项组 1",
+              "选项 1：哎呀…"
+            ],
+            "textHash": "dc18d52d1172a73df332fb3d06dcf2287a5b67beee2e7cfd90866a99cb962053"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-106-1",
+    "recordHash": "6509481c259d720177d352c0def4cdb2111d2cb6b833c806f0510098c412c9f5",
+    "checkedAt": "2026-10-03",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "地点和职业史分别来自字段和自述。",
+    "evidence": [
+      {
+        "pageid": 136842,
+        "title": "卡嘉",
+        "revision": 670059,
+        "sha256": "f3558528b6ada668a94288214b1f1adf150ba048b65374a01df88b12f79376ce",
+        "fragments": [
+          {
+            "path": [
+              "位置"
+            ],
+            "textHash": "71dc5d3bcd7819acf95478f4392167be860d398de7b33ad6b17e84292d033727"
+          },
+          {
+            "path": [
+              "对话内容",
+              "日常对话",
+              "内容",
+              "源码选项组 1",
+              "选项 3：有什么有趣的消息吗？"
+            ],
+            "textHash": "8ee62efd96307e5180f6de6a0c36d9e5d01d425e31d46b7b4564116e09cb2fd6"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-106-2",
+    "recordHash": "21550a27565b009526c84bc8ac9604ca35247aa4562639172984f8055c6282c7",
+    "checkedAt": "2026-10-03",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "孩子原先处境、食宿和劳动均为卡嘉的说法。",
+    "evidence": [
+      {
+        "pageid": 136842,
+        "title": "卡嘉",
+        "revision": 670059,
+        "sha256": "f3558528b6ada668a94288214b1f1adf150ba048b65374a01df88b12f79376ce",
+        "fragments": [
+          {
+            "path": [
+              "对话内容",
+              "日常对话",
+              "内容",
+              "源码选项组 1",
+              "选项 2：店员看起来年纪都不大呢。"
+            ],
+            "textHash": "3c89a02386c6a760b855e371f8637c32b767532a8295c0b3ef0554e0725caed4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-106-3",
+    "recordHash": "766ac5f588d3ab39e6fdec1e3ea5c337e421f2ebe73e1296b513574b9e6da181",
+    "checkedAt": "2026-10-03",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "保护孩子的理由明确，不自行补写危险消息内容。",
+    "evidence": [
+      {
+        "pageid": 136842,
+        "title": "卡嘉",
+        "revision": 670059,
+        "sha256": "f3558528b6ada668a94288214b1f1adf150ba048b65374a01df88b12f79376ce",
+        "fragments": [
+          {
+            "path": [
+              "对话内容",
+              "日常对话",
+              "内容",
+              "源码选项组 1",
+              "选项 3：有什么有趣的消息吗？"
+            ],
+            "textHash": "8ee62efd96307e5180f6de6a0c36d9e5d01d425e31d46b7b4564116e09cb2fd6"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "a-identity",
+    "recordHash": "6a2faacf9ea1a2c0c29822b4c33cdc4a34ffd027e0255817007913895373edf1",
+    "checkedAt": "2026-10-03",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "盘问出于侦察骑士的身份；不将警惕解释为讨厌。",
+    "evidence": [
+      {
+        "pageid": 145447,
+        "title": "随风而来的骑士",
+        "revision": 674009,
+        "sha256": "f2e639767cbaad500e3d1d28fb8d50f665b49886873f6bf00cf29d70a06c93fc",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "与轻盈的少女对话"
+            ],
+            "textHash": "a3edfd2fe56766390dc5b022e5c3fa7b71b44200b626c218f43b7bed1036c32f"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "a-escort",
+    "recordHash": "b4605adfe8531f3513bd05ead638c08ab7aba8e5ddf903557f4f3ab23ffc2b8e",
+    "checkedAt": "2026-10-03",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "保护与观察来历不明者均为安柏明示；关系判断保留为分析。",
+    "evidence": [
+      {
+        "pageid": 145447,
+        "title": "随风而来的骑士",
+        "revision": 674009,
+        "sha256": "f2e639767cbaad500e3d1d28fb8d50f665b49886873f6bf00cf29d70a06c93fc",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "与轻盈的少女对话"
+            ],
+            "textHash": "0b2629cb33a4120a8b074920c2ce1d84185b6774c35621ea114b6cb413934488"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "a-friend",
+    "recordHash": "a3098885f565663a363f9d253e0d2efad54874dec047ec70046b6d9a7c7faf7c",
+    "checkedAt": "2026-10-03",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "朋友与应急食品属同组选项，不拼接为连续回答。",
+    "evidence": [
+      {
+        "pageid": 145447,
+        "title": "随风而来的骑士",
+        "revision": 674009,
+        "sha256": "f2e639767cbaad500e3d1d28fb8d50f665b49886873f6bf00cf29d70a06c93fc",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "与轻盈的少女对话",
+              "源码选项组 2",
+              "选项1"
+            ],
+            "textHash": "fdc7ce7467bc635754de82bda492a1eaab13fb133333957fb7484684879643e6"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与轻盈的少女对话",
+              "源码选项组 2",
+              "选项 1：是朋友。"
+            ],
+            "textHash": "89fbcb88c5e6dc683daea3ca3e4de106e23e0ea34b6cd2257808b35bf6e626ad"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与轻盈的少女对话",
+              "源码选项组 2",
+              "选项2"
+            ],
+            "textHash": "1840a2e716a8603a20ff67e7305cd3a1adda8b26ec8bb22668f90a90fca77760"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与轻盈的少女对话",
+              "源码选项组 2",
+              "选项 2：是应急食品。"
+            ],
+            "textHash": "76307f1ae80a00c5b1410ff80d5d853d7e0be3031f61c12fa513afba9672357a"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与轻盈的少女对话"
+            ],
+            "textHash": "0b2629cb33a4120a8b074920c2ce1d84185b6774c35621ea114b6cb413934488"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "a-food",
+    "recordHash": "266cccafa1394264d5d414346117a8d88dfb0eca89859e9db845789c0534c3c6",
+    "checkedAt": "2026-10-03",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "原话是可选回答；抗议属应急食品分支，之后汇合至护送对话。",
+    "evidence": [
+      {
+        "pageid": 145447,
+        "title": "随风而来的骑士",
+        "revision": 674009,
+        "sha256": "f2e639767cbaad500e3d1d28fb8d50f665b49886873f6bf00cf29d70a06c93fc",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "与轻盈的少女对话",
+              "源码选项组 2",
+              "选项1"
+            ],
+            "textHash": "fdc7ce7467bc635754de82bda492a1eaab13fb133333957fb7484684879643e6"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与轻盈的少女对话",
+              "源码选项组 2",
+              "选项 1：是朋友。"
+            ],
+            "textHash": "89fbcb88c5e6dc683daea3ca3e4de106e23e0ea34b6cd2257808b35bf6e626ad"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与轻盈的少女对话",
+              "源码选项组 2",
+              "选项2"
+            ],
+            "textHash": "1840a2e716a8603a20ff67e7305cd3a1adda8b26ec8bb22668f90a90fca77760"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与轻盈的少女对话",
+              "源码选项组 2",
+              "选项 2：是应急食品。"
+            ],
+            "textHash": "76307f1ae80a00c5b1410ff80d5d853d7e0be3031f61c12fa513afba9672357a"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与轻盈的少女对话"
+            ],
+            "textHash": "0b2629cb33a4120a8b074920c2ce1d84185b6774c35621ea114b6cb413934488"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "a-apology",
+    "recordHash": "86fdc7150949a6d644115b491b32518e858e5d3f7994a95afb7d618fd2c100b0",
+    "checkedAt": "2026-10-03",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "两个提醒选项均汇合到致歉；指导手册是安柏的解释。",
+    "evidence": [
+      {
+        "pageid": 145447,
+        "title": "随风而来的骑士",
+        "revision": 674009,
+        "sha256": "f2e639767cbaad500e3d1d28fb8d50f665b49886873f6bf00cf29d70a06c93fc",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "与轻盈的少女对话",
+              "源码选项组 3",
+              "选项1"
+            ],
+            "textHash": "05a44573994ee48136f2d28cba431a5b7cbb4458270dcebd2954fa0d572b9e9e"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与轻盈的少女对话",
+              "源码选项组 3",
+              "选项2"
+            ],
+            "textHash": "8ffce4760867d5bd5b1f99cb80cdd9ef0744d01c0703da3062bfb8ccb0427714"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与轻盈的少女对话"
+            ],
+            "textHash": "15b250daffd3f63c9dc547dd26489551599b9caa887bf24ccba1b3b7dc3edd5d"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "a-family",
+    "recordHash": "d77c6ea16306e305ae63f88e15344c5948b0090caaae4caa05025ab260d64615",
+    "checkedAt": "2026-10-03",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "血亲随所选主角变化；贴告示是解决当前任务后的提议，尚非完成事实。",
+    "evidence": [
+      {
+        "pageid": 145447,
+        "title": "随风而来的骑士",
+        "revision": 674009,
+        "sha256": "f2e639767cbaad500e3d1d28fb8d50f665b49886873f6bf00cf29d70a06c93fc",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "前往安柏指示的地点"
+            ],
+            "textHash": "0aa83096f7300d9c858eb243730ba0eef2de217743a12bcd1ca61764da4beac3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "b-mission",
+    "recordHash": "c7fc43415b73dbfa5e23360b4fc388767218a0ec8754ac4677e7a45e0eae31c2",
+    "checkedAt": "2026-10-03",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "营地清理为出城任务；支援由战后感谢证实。",
+    "evidence": [
+      {
+        "pageid": 145448,
+        "title": "与轻风同行",
+        "revision": 652499,
+        "sha256": "7d80f8d419654ac9260853c91ed39ff8bc75a20fb64fff843e3f59ff236fc224",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "清理附近的丘丘人营地"
+            ],
+            "textHash": "e48193883f48935acbef111ada9d6c30c809544063af7d94d709c99e0bcc1932"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与安柏对话"
+            ],
+            "textHash": "3cfffd36d096e60a068a98f557cab33c8daa450ec6257e0b36d288c7776589bc"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "b-trust",
+    "recordHash": "3c9d6286f8bd7ada98c2b87bf52cf1e44f88bf1d3d30b8345ccb9dc47b5e068a",
+    "checkedAt": "2026-10-03",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "态度缓和为分析，不宣称完全信任。",
+    "evidence": [
+      {
+        "pageid": 145448,
+        "title": "与轻风同行",
+        "revision": 652499,
+        "sha256": "7d80f8d419654ac9260853c91ed39ff8bc75a20fb64fff843e3f59ff236fc224",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "与安柏对话"
+            ],
+            "textHash": "3cfffd36d096e60a068a98f557cab33c8daa450ec6257e0b36d288c7776589bc"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与安柏对话"
+            ],
+            "textHash": "6e3d4b59f58e96ba0a6848f5eb8ff080bac5e3c734f8f331023fe18fbd0d633a"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "b-dragon",
+    "recordHash": "ce7fe8253343f2764d853bbe7852535ac4e49288b4920c656120434411288d87",
+    "checkedAt": "2026-10-03",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "龙灾与丘丘人靠近的因果归于安柏和派蒙当时对话，不补巨龙深层动机。",
+    "evidence": [
+      {
+        "pageid": 145448,
+        "title": "与轻风同行",
+        "revision": 652499,
+        "sha256": "7d80f8d419654ac9260853c91ed39ff8bc75a20fb64fff843e3f59ff236fc224",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "与安柏对话"
+            ],
+            "textHash": "6e3d4b59f58e96ba0a6848f5eb8ff080bac5e3c734f8f331023fe18fbd0d633a"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "b-options",
+    "recordHash": "b9f2a9a8763fad898e5ea9cc5166f4d4fe2e9bb7a4ed95467fd9d764c923f3ac",
+    "checkedAt": "2026-10-03",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "轻松与吃力是同组选项，非唯一经历；之后汇合到局势说明。",
+    "evidence": [
+      {
+        "pageid": 145448,
+        "title": "与轻风同行",
+        "revision": 652499,
+        "sha256": "7d80f8d419654ac9260853c91ed39ff8bc75a20fb64fff843e3f59ff236fc224",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "与安柏对话",
+              "源码选项组 1",
+              "选项1"
+            ],
+            "textHash": "9cf6b737d9ab02e93c045129ffb6b68c9c358e619eaa34f925a87a00b397f512"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与安柏对话",
+              "源码选项组 1",
+              "选项2"
+            ],
+            "textHash": "38e6d3f7166533d7c8b3e12f30389cebba11df4b58e20fdf242fa6dc274217e2"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与安柏对话"
+            ],
+            "textHash": "6e3d4b59f58e96ba0a6848f5eb8ff080bac5e3c734f8f331023fe18fbd0d633a"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "c-city",
+    "recordHash": "6ffd9675464fd8b09f6881d0f22a0e06c91f82cc25d2cf0127a381493599a79f",
+    "checkedAt": "2026-10-03",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "精神低落为派蒙观察，风魔龙是安柏的解释。",
+    "evidence": [
+      {
+        "pageid": 145449,
+        "title": "自由之都",
+        "revision": 652504,
+        "sha256": "796cf8e72d186a2eeabf8a47a28bd3fb7c6141c8e07ddcecbefd792e8f965a15",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "与安柏对话"
+            ],
+            "textHash": "808fdcd24bc64c825f82cca4046c6264a538ac3ab7c80003df6f227215aed3f8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "c-jean",
+    "recordHash": "c7ae3045eb3787e5f27caa406a49a0b7815c85dd37377813dc828a9a46cbad8f",
+    "checkedAt": "2026-10-03",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "代理团长身份与安柏信心分开，不将灾害写为已解决。",
+    "evidence": [
+      {
+        "pageid": 145449,
+        "title": "自由之都",
+        "revision": 652504,
+        "sha256": "796cf8e72d186a2eeabf8a47a28bd3fb7c6141c8e07ddcecbefd792e8f965a15",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "与安柏对话"
+            ],
+            "textHash": "808fdcd24bc64c825f82cca4046c6264a538ac3ab7c80003df6f227215aed3f8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "c-gift",
+    "recordHash": "dac89c5c33892f4a692734c170bd04ceb565751054ca65d4bec63b4323644946",
+    "checkedAt": "2026-10-03",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "谢礼理由与城内高处赠翼、指导试用分段对应；热情归为分析。",
+    "evidence": [
+      {
+        "pageid": 145449,
+        "title": "自由之都",
+        "revision": 652504,
+        "sha256": "796cf8e72d186a2eeabf8a47a28bd3fb7c6141c8e07ddcecbefd792e8f965a15",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "与安柏对话"
+            ],
+            "textHash": "8647b6e5ec1a37c87308f1657e6070baa8108fe3e34abbef491f2fcbffee173e"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与安柏对话"
+            ],
+            "textHash": "c8c735d69a3ff261278ff27a50a69b96bb05763d0aad72a89b8430e54878ab95"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "c-paimon",
+    "recordHash": "1bf8feb57c5ffe05b8b6e6304622b9470eba0c05536b21d183e9a2018baa3fd4",
+    "checkedAt": "2026-10-03",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "派蒙没法使用礼物是安柏解释；请吃饭是当晚承诺，非已经吃过。",
+    "evidence": [
+      {
+        "pageid": 145449,
+        "title": "自由之都",
+        "revision": 652504,
+        "sha256": "796cf8e72d186a2eeabf8a47a28bd3fb7c6141c8e07ddcecbefd792e8f965a15",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "与安柏对话"
+            ],
+            "textHash": "8647b6e5ec1a37c87308f1657e6070baa8108fe3e34abbef491f2fcbffee173e"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与安柏对话"
+            ],
+            "textHash": "c8c735d69a3ff261278ff27a50a69b96bb05763d0aad72a89b8430e54878ab95"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-201-overview",
+    "recordHash": "64c878bb9bc5bc78a905eea9d3c0e1aad24b5298412f3ae4266af2075915b4c4",
+    "checkedAt": "2026-10-03",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "按子任务依次核对总览，不把仅有元数据的章节入口作为唯一事实依据。",
+    "evidence": [
+      {
+        "pageid": 145446,
+        "title": "林间相会",
+        "revision": 652503,
+        "sha256": "b27b4a752829bf0feeb4e2a92fe429d31d591d11f667f998b638b16b85ff9a3e",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "向树林的深处前进",
+              "过场动画",
+              "内容",
+              "场景说明"
+            ],
+            "textHash": "a57a69ff27568d5662202e28743159794f95e33a0e9c56293c19d1d1fbd21156"
+          }
+        ]
+      },
+      {
+        "pageid": 145447,
+        "title": "随风而来的骑士",
+        "revision": 674009,
+        "sha256": "f2e639767cbaad500e3d1d28fb8d50f665b49886873f6bf00cf29d70a06c93fc",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "与轻盈的少女对话"
+            ],
+            "textHash": "0b2629cb33a4120a8b074920c2ce1d84185b6774c35621ea114b6cb413934488"
+          }
+        ]
+      },
+      {
+        "pageid": 145449,
+        "title": "自由之都",
+        "revision": 652504,
+        "sha256": "796cf8e72d186a2eeabf8a47a28bd3fb7c6141c8e07ddcecbefd792e8f965a15",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "与安柏对话"
+            ],
+            "textHash": "808fdcd24bc64c825f82cca4046c6264a538ac3ab7c80003df6f227215aed3f8"
+          }
+        ]
+      },
+      {
+        "pageid": 145450,
+        "title": "龙灾",
+        "revision": 661574,
+        "sha256": "3f9ddfcc961ea810ffba0c5580a1eeec07bb6ccd9464b24a71366d18f3cb9159",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "过场动画",
+              "内容"
+            ],
+            "textHash": "1ecf0c82d79958a416d3798890cbae0b0384bc759171f13f41adb86b6b3e77ed"
+          }
+        ]
+      },
+      {
+        "pageid": 145452,
+        "title": "西风骑士团（任务）",
+        "revision": 661537,
+        "sha256": "1778d4188369709f468887f74a22530af2ac90bcc0d69530b055b26ea1ee4f69",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "与琴对话"
+            ],
+            "textHash": "d72200fe749cb21e1ad1d914dfc58c1a1d75bc1ab4f2ead69312a75221cce555"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与琴对话"
+            ],
+            "textHash": "cc5b5514d38b4a980a12e02caf7e7b08f51c0db54d5458e8e6226a3d65104519"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-201-opening",
+    "recordHash": "672c33fdc486155509204ff42d58544a21c34e35470a64aa7cecf79baf9e316f",
+    "checkedAt": "2026-10-03",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "血亲性别随主角选择变化；醒来后流浪及两个月前结伴是旅行者回述，不提前引入神灵身份。",
+    "evidence": [
+      {
+        "pageid": 40931,
+        "title": "流浪者的足迹",
+        "revision": 660679,
+        "sha256": "04573b2c0d1fbe87b556c6f30e811334997e0c68a335e8bd2056ae2d47a980e2",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "过场动画「空中荧火」]",
+              "内容"
+            ],
+            "textHash": "028e19ad14e088512aeeaca45bd32847a5ba5fd809cb421e2df5ea00a44f744f"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "场景说明"
+            ],
+            "textHash": "0ec06a08a8af59cf989cf24aafed7e6c18bed028778235327b9e1f41bbf6cd57"
+          },
+          {
+            "path": [
+              "任务剧情"
+            ],
+            "textHash": "be1019657bdc0a367fba561132ef75dd0df1d79dc2722493a6459d84b02a775e"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "到崖壁下方"
+            ],
+            "textHash": "370c5fdd13d2abdfd853db8570712eed37215ce454bd82d95678074458489ffe"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-201-statue",
+    "recordHash": "4913dd0487951951ef01d39857d038438aee373fbfc3a490beaae1898efdfae5",
+    "checkedAt": "2026-10-03",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "神像接触与赴蒙德动机分别对照鸟瞰风物、异常的权柄及下一任务描述。",
+    "evidence": [
+      {
+        "pageid": 145444,
+        "title": "鸟瞰风物",
+        "revision": 652508,
+        "sha256": "48e1c88af5f63a38defd91f000f3432cfb55134138f58d824df73a1b4368d12e",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "游过星落湖",
+              "任务地点"
+            ],
+            "textHash": "14d61c74c9e465d51063dd736677fc9cebe2be27799c23fb6119953b4354b1da"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与派蒙对话"
+            ],
+            "textHash": "7a71f85da0c42960a7bf39adb2b445fe5d51a17408bf6aaabcdc9c4f8cd4e948"
+          }
+        ]
+      },
+      {
+        "pageid": 145445,
+        "title": "异常的权柄",
+        "revision": 670146,
+        "sha256": "dab6cde7cc99ab5cdca4405cfe58add7f1c7eea3c7a99a34b71e77322307699a",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "与派蒙对话"
+            ],
+            "textHash": "770c476b633a92095fec040396785f1cab570fa8a161a539a180e602f3459a31"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与派蒙对话"
+            ],
+            "textHash": "c7c80669da6dda617e701d10b03c4f2f3829e0cdbe22be062ea48878dca3bba0"
+          }
+        ]
+      },
+      {
+        "pageid": 145446,
+        "title": "林间相会",
+        "revision": 652503,
+        "sha256": "b27b4a752829bf0feeb4e2a92fe429d31d591d11f667f998b638b16b85ff9a3e",
+        "fragments": [
+          {
+            "path": [
+              "任务描述"
+            ],
+            "textHash": "def69bcebc353fe62783ced47f8457d9496d6af0e4e9cafe0af11dd69a1c30b9"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "前往蒙德",
+              "任务描述"
+            ],
+            "textHash": "def69bcebc353fe62783ced47f8457d9496d6af0e4e9cafe0af11dd69a1c30b9"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "向树林的深处前进",
+              "任务描述"
+            ],
+            "textHash": "def69bcebc353fe62783ced47f8457d9496d6af0e4e9cafe0af11dd69a1c30b9"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-201-forest",
+    "recordHash": "7bfbe088bc600275e762186fa1148359fc60114f2125497183c9a46e2bdc4719",
+    "checkedAt": "2026-10-03",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "身份与结晶成因保持未知；赤色结晶名称另见本固定源码的相关道具字段和获得道具图标。",
+    "evidence": [
+      {
+        "pageid": 145446,
+        "title": "林间相会",
+        "revision": 652503,
+        "sha256": "b27b4a752829bf0feeb4e2a92fe429d31d591d11f667f998b638b16b85ff9a3e",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "向树林的深处前进",
+              "过场动画",
+              "内容",
+              "场景说明"
+            ],
+            "textHash": "a57a69ff27568d5662202e28743159794f95e33a0e9c56293c19d1d1fbd21156"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与派蒙对话"
+            ],
+            "textHash": "cfab2c06e8eabe1d3993b7715b7549cd2dbaec321f7ca87fa3ec12f6571b9fe6"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-201-escort",
+    "recordHash": "b6f1db22309d84f7bb546756090ddca31bdb654bc68e4784dca30984a9b93781",
+    "checkedAt": "2026-10-03",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "安柏明确同时承诺安全与观察，不夸大初见信任。",
+    "evidence": [
+      {
+        "pageid": 145447,
+        "title": "随风而来的骑士",
+        "revision": 674009,
+        "sha256": "f2e639767cbaad500e3d1d28fb8d50f665b49886873f6bf00cf29d70a06c93fc",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "与轻盈的少女对话"
+            ],
+            "textHash": "0b2629cb33a4120a8b074920c2ce1d84185b6774c35621ea114b6cb413934488"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与轻盈的少女对话"
+            ],
+            "textHash": "a3edfd2fe56766390dc5b022e5c3fa7b71b44200b626c218f43b7bed1036c32f"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-201-paimon",
+    "recordHash": "e3bb4f9a005e689ef291bab48edbb654a98b6401da38ab812a877c181c07e899",
+    "checkedAt": "2026-10-03",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "同一组选项分支分别成立，不合并为连续回答。",
+    "evidence": [
+      {
+        "pageid": 145447,
+        "title": "随风而来的骑士",
+        "revision": 674009,
+        "sha256": "f2e639767cbaad500e3d1d28fb8d50f665b49886873f6bf00cf29d70a06c93fc",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "与轻盈的少女对话",
+              "源码选项组 2",
+              "选项1"
+            ],
+            "textHash": "fdc7ce7467bc635754de82bda492a1eaab13fb133333957fb7484684879643e6"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与轻盈的少女对话",
+              "源码选项组 2",
+              "选项2"
+            ],
+            "textHash": "1840a2e716a8603a20ff67e7305cd3a1adda8b26ec8bb22668f90a90fca77760"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与轻盈的少女对话",
+              "源码选项组 2",
+              "选项 1：是朋友。"
+            ],
+            "textHash": "89fbcb88c5e6dc683daea3ca3e4de106e23e0ea34b6cd2257808b35bf6e626ad"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与轻盈的少女对话",
+              "源码选项组 2",
+              "选项 2：是应急食品。"
+            ],
+            "textHash": "76307f1ae80a00c5b1410ff80d5d853d7e0be3031f61c12fa513afba9672357a"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-201-camp",
+    "recordHash": "19cba3af432ea0a0b5c7e79e5883876af44ac31d281562bd666087bf88b9e6f4",
+    "checkedAt": "2026-10-03",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "行动及支援明确；龙灾压力的因果保留安柏当时解释。",
+    "evidence": [
+      {
+        "pageid": 145448,
+        "title": "与轻风同行",
+        "revision": 652499,
+        "sha256": "7d80f8d419654ac9260853c91ed39ff8bc75a20fb64fff843e3f59ff236fc224",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "清理附近的丘丘人营地"
+            ],
+            "textHash": "e48193883f48935acbef111ada9d6c30c809544063af7d94d709c99e0bcc1932"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与安柏对话"
+            ],
+            "textHash": "3cfffd36d096e60a068a98f557cab33c8daa450ec6257e0b36d288c7776589bc"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与安柏对话"
+            ],
+            "textHash": "6e3d4b59f58e96ba0a6848f5eb8ff080bac5e3c734f8f331023fe18fbd0d633a"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-201-gift",
+    "recordHash": "6bb769d8ebc0eccf2ecc1786e894738dbfcabb03586bb5f24fd4fc3162e70f5f",
+    "checkedAt": "2026-10-03",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "赠翼为营地支援的谢礼；代理团长介绍和龙灾困扰在同一进城场景。",
+    "evidence": [
+      {
+        "pageid": 145449,
+        "title": "自由之都",
+        "revision": 652504,
+        "sha256": "796cf8e72d186a2eeabf8a47a28bd3fb7c6141c8e07ddcecbefd792e8f965a15",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "与安柏对话"
+            ],
+            "textHash": "808fdcd24bc64c825f82cca4046c6264a538ac3ab7c80003df6f227215aed3f8"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与安柏对话"
+            ],
+            "textHash": "8647b6e5ec1a37c87308f1657e6070baa8108fe3e34abbef491f2fcbffee173e"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与安柏对话"
+            ],
+            "textHash": "c8c735d69a3ff261278ff27a50a69b96bb05763d0aad72a89b8430e54878ab95"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-201-attack",
+    "recordHash": "e76edcf41be8f54819b216f5331675e9106e650b5874c281c5c6e57ed223e927",
+    "checkedAt": "2026-10-03",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "目睹事实来自骑士团任务描述，见琴来自任务对白；已替换序章总目录引用。",
+    "evidence": [
+      {
+        "pageid": 145450,
+        "title": "龙灾",
+        "revision": 661574,
+        "sha256": "3f9ddfcc961ea810ffba0c5580a1eeec07bb6ccd9464b24a71366d18f3cb9159",
+        "fragments": [
+          {
+            "path": [
+              "任务描述"
+            ],
+            "textHash": "a039343979cd464d913210bd189c394d2aa0d0c8e3407b5e931329b2f8376b57"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "任务描述"
+            ],
+            "textHash": "a039343979cd464d913210bd189c394d2aa0d0c8e3407b5e931329b2f8376b57"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "过场动画",
+              "内容"
+            ],
+            "textHash": "1ecf0c82d79958a416d3798890cbae0b0384bc759171f13f41adb86b6b3e77ed"
+          }
+        ]
+      },
+      {
+        "pageid": 145452,
+        "title": "西风骑士团（任务）",
+        "revision": 661537,
+        "sha256": "1778d4188369709f468887f74a22530af2ac90bcc0d69530b055b26ea1ee4f69",
+        "fragments": [
+          {
+            "path": [
+              "任务描述"
+            ],
+            "textHash": "f831a42437facc56f3df558c5c08037cdc2bb42c54c1718d8923c9386e73c634"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "进入骑士团总部",
+              "任务描述"
+            ],
+            "textHash": "f831a42437facc56f3df558c5c08037cdc2bb42c54c1718d8923c9386e73c634"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与琴对话"
+            ],
+            "textHash": "d72200fe749cb21e1ad1d914dfc58c1a1d75bc1ab4f2ead69312a75221cce555"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-201-eagle",
+    "recordHash": "3ebfb7b176ab049a5cd11cfd3ec2a70890fa9beba5bc724d63ecfad821e7d338",
+    "checkedAt": "2026-10-03",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "西风之鹰对应安柏，破坏结晶与削弱力量的目的有任务描述和流程依据。",
+    "evidence": [
+      {
+        "pageid": 145453,
+        "title": "昔日的风",
+        "revision": 665799,
+        "sha256": "901ad8364d6b19becdcf5352f5af138347c26776f4338bac6d472ee2849d10cb",
+        "fragments": [
+          {
+            "path": [
+              "任务描述"
+            ],
+            "textHash": "b74c7a356f54f625fa71ff0442abc274bf33b528310931de487a9c6351eda478"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "在庙宇门口跟安柏见面",
+              "任务描述"
+            ],
+            "textHash": "b74c7a356f54f625fa71ff0442abc274bf33b528310931de487a9c6351eda478"
+          },
+          {
+            "path": [
+              "任务流程"
+            ],
+            "textHash": "48093fe0a1bd0d8d10aaa4366b856fa677ef9dd6308c9c6ca772f27733b3efb7"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "探索庙宇深处"
+            ],
+            "textHash": "05a7a38e26d5857edd55d63b457e914d9cde25d8ce02b5fa8d5b9a5d614412c8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-201-wolf",
+    "recordHash": "d73c18dfe6cf4beda5450ae42cb9a38e04aa01b21e72553e32755718f5572275",
+    "checkedAt": "2026-10-03",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "北风之狼对应凯亚，并行关系由源任务字段明确列出。",
+    "evidence": [
+      {
+        "pageid": 145454,
+        "title": "骑士的现场教习",
+        "revision": 665800,
+        "sha256": "2f9534c1d3bdb860119f7761f906b2d7de3e29e62dd1fb771de13816dcc640b7",
+        "fragments": [
+          {
+            "path": [
+              "任务描述"
+            ],
+            "textHash": "f7ace2721ad6b3e42f5a0dc106fbd78f0304390f5b34b439862d93c54aebd703"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "在庙宇门口跟凯亚见面",
+              "任务描述"
+            ],
+            "textHash": "f7ace2721ad6b3e42f5a0dc106fbd78f0304390f5b34b439862d93c54aebd703"
+          },
+          {
+            "path": [
+              "任务流程"
+            ],
+            "textHash": "1612c11f84ff918968d9298d37d649d8ec27b1eb46bee0116ef8c56e41bdf7cf"
+          },
+          {
+            "path": [
+              "并行任务"
+            ],
+            "textHash": "78ab7f4e887a1711aa150077cd46f3981bb0de89e6368ef7a688d9d86a815840"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-201-lion",
+    "recordHash": "4364a1e5599486b5187b120a5a40a6c94040fbc0c0038482f6a8913157f51224",
+    "checkedAt": "2026-10-03",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "三处庙宇与三名骑士分别对应，不混合地点与协助者。",
+    "evidence": [
+      {
+        "pageid": 145455,
+        "title": "书页里的电火花",
+        "revision": 674043,
+        "sha256": "10ca26a1d6e6eaa5e82f914445fea84071cbfa8f5ea19774327402be79b24338",
+        "fragments": [
+          {
+            "path": [
+              "任务描述"
+            ],
+            "textHash": "c550527eeddc593b2c9b847ccbd0e3da9eda03c02bc96e08633a21ea7ced0668"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "在庙宇门口跟丽莎见面",
+              "任务描述"
+            ],
+            "textHash": "c550527eeddc593b2c9b847ccbd0e3da9eda03c02bc96e08633a21ea7ced0668"
+          },
+          {
+            "path": [
+              "任务流程"
+            ],
+            "textHash": "f6e7c095172bcb869228ef4c57bb3c0a5c94467be8998fd04a499007e1f81a85"
+          }
+        ]
+      },
+      {
+        "pageid": 145453,
+        "title": "昔日的风",
+        "revision": 665799,
+        "sha256": "901ad8364d6b19becdcf5352f5af138347c26776f4338bac6d472ee2849d10cb",
+        "fragments": [
+          {
+            "path": [
+              "任务描述"
+            ],
+            "textHash": "b74c7a356f54f625fa71ff0442abc274bf33b528310931de487a9c6351eda478"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "在庙宇门口跟安柏见面",
+              "任务描述"
+            ],
+            "textHash": "b74c7a356f54f625fa71ff0442abc274bf33b528310931de487a9c6351eda478"
+          }
+        ]
+      },
+      {
+        "pageid": 145454,
+        "title": "骑士的现场教习",
+        "revision": 665800,
+        "sha256": "2f9534c1d3bdb860119f7761f906b2d7de3e29e62dd1fb771de13816dcc640b7",
+        "fragments": [
+          {
+            "path": [
+              "任务描述"
+            ],
+            "textHash": "f7ace2721ad6b3e42f5a0dc106fbd78f0304390f5b34b439862d93c54aebd703"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "在庙宇门口跟凯亚见面",
+              "任务描述"
+            ],
+            "textHash": "f7ace2721ad6b3e42f5a0dc106fbd78f0304390f5b34b439862d93c54aebd703"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-201-parallel",
+    "recordHash": "5d8b66ca4a5268ee4405ec91aafb86a7034c0ab1cdc72270f955dc8d9856325a",
+    "checkedAt": "2026-10-03",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "三页前置与并行字段一致；正文将前往骑士团改为完成「西风骑士团」任务，不声称唯一游玩顺序。",
+    "evidence": [
+      {
+        "pageid": 145453,
+        "title": "昔日的风",
+        "revision": 665799,
+        "sha256": "901ad8364d6b19becdcf5352f5af138347c26776f4338bac6d472ee2849d10cb",
+        "fragments": [
+          {
+            "path": [
+              "任务条件"
+            ],
+            "textHash": "e6cfe826db2e41434d302e6ffa0257dc65d576dba8de33891c528b99b8e265db"
+          },
+          {
+            "path": [
+              "前置任务"
+            ],
+            "textHash": "d27d7c0ab4431f13ff6adfcf1dc580646d7f39be75512d3c65bcfe79923751d6"
+          },
+          {
+            "path": [
+              "并行任务"
+            ],
+            "textHash": "ad966ec13a74e17739f38d038ea97a9c4f3bc8ca04ccba66397e630a287ec72d"
+          }
+        ]
+      },
+      {
+        "pageid": 145454,
+        "title": "骑士的现场教习",
+        "revision": 665800,
+        "sha256": "2f9534c1d3bdb860119f7761f906b2d7de3e29e62dd1fb771de13816dcc640b7",
+        "fragments": [
+          {
+            "path": [
+              "任务条件"
+            ],
+            "textHash": "e6cfe826db2e41434d302e6ffa0257dc65d576dba8de33891c528b99b8e265db"
+          },
+          {
+            "path": [
+              "前置任务"
+            ],
+            "textHash": "d27d7c0ab4431f13ff6adfcf1dc580646d7f39be75512d3c65bcfe79923751d6"
+          },
+          {
+            "path": [
+              "并行任务"
+            ],
+            "textHash": "78ab7f4e887a1711aa150077cd46f3981bb0de89e6368ef7a688d9d86a815840"
+          }
+        ]
+      },
+      {
+        "pageid": 145455,
+        "title": "书页里的电火花",
+        "revision": 674043,
+        "sha256": "10ca26a1d6e6eaa5e82f914445fea84071cbfa8f5ea19774327402be79b24338",
+        "fragments": [
+          {
+            "path": [
+              "任务条件"
+            ],
+            "textHash": "e6cfe826db2e41434d302e6ffa0257dc65d576dba8de33891c528b99b8e265db"
+          },
+          {
+            "path": [
+              "前置任务"
+            ],
+            "textHash": "d27d7c0ab4431f13ff6adfcf1dc580646d7f39be75512d3c65bcfe79923751d6"
+          },
+          {
+            "path": [
+              "并行任务"
+            ],
+            "textHash": "8c7770a60949ea13302031eb4459e062b45bd50699b6b6bf40b969be40936bc2"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-202-purify",
+    "recordHash": "3c2dfc17aee16ca161c24b5211cc2992b6c37a9d3ee521ca866865fc13c97bb1",
+    "checkedAt": "2026-10-04",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "净化由旅行者完成，琴和迪卢克现场见证；修琴是随后步骤。",
+    "evidence": [
+      {
+        "pageid": 165034,
+        "title": "澄净之泪",
+        "revision": 667038,
+        "sha256": "770d71a6bd8facc1deaf3dda7cea8eb139270b9316e6e0abd6ceba06854d8981",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "与众人对话"
+            ],
+            "textHash": "4ecd68c77c7d6808efb47b5fa4de4f515582ddf4b4c3e77503c565f86f551af2"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "将风龙泪滴滴在天空之琴上"
+            ],
+            "textHash": "c15c304a2274fbe8c9c5e1272dfcb22407797767a1e879175acd2c608e50a715"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-202-starsnatch",
+    "recordHash": "2c2a29dc1e49205fdd8c7e05d5d20915af6f8540dc2ec2311ec0c383b7c42dbe",
+    "checkedAt": "2026-10-04",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "琴提出失败风险，温迪提出风的条件，迪卢克推荐地点；不混淆各人建议。",
+    "evidence": [
+      {
+        "pageid": 165034,
+        "title": "澄净之泪",
+        "revision": 667038,
+        "sha256": "770d71a6bd8facc1deaf3dda7cea8eb139270b9316e6e0abd6ceba06854d8981",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "将风龙泪滴滴在天空之琴上"
+            ],
+            "textHash": "c15c304a2274fbe8c9c5e1272dfcb22407797767a1e879175acd2c608e50a715"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "将风龙泪滴滴在天空之琴上"
+            ],
+            "textHash": "4d4dbba8dab79fe3090b22c30bf4d0a1fe7b03ace762ab14cb5e1727f4623c19"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-202-friendship",
+    "recordHash": "669bf650852d4aa8c500dd41f6c814e7b36c80788e1a4a2ee73280a69f9dbdd8",
+    "checkedAt": "2026-10-04",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "额外对话中温迪表达持续友情；不代表其他人物已经同样理解。",
+    "evidence": [
+      {
+        "pageid": 165034,
+        "title": "澄净之泪",
+        "revision": 667038,
+        "sha256": "770d71a6bd8facc1deaf3dda7cea8eb139270b9316e6e0abd6ceba06854d8981",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "将风龙泪滴滴在天空之琴上",
+              "额外对话（温迪）",
+              "内容",
+              "源码选项组 1",
+              "选项 1：关于特瓦林。"
+            ],
+            "textHash": "3375d2e104a9828e1e277885b817e39a5390df48dcd0e2ce9c0d8efdef21cf0b"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-202-sabotage",
+    "recordHash": "6ed6e5a40282624137935a053794d89f7942e927bac6b93dc5658e58d7172d0e",
+    "checkedAt": "2026-10-04",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "深渊法师的抛弃和猎杀说法是蛊惑；琴损坏是事后说明，未将敌方说法当事实。",
+    "evidence": [
+      {
+        "pageid": 165035,
+        "title": "与巨龙重逢",
+        "revision": 667033,
+        "sha256": "cec420cb2abce75e48dc64dfa3a16bb3c30a4a988a3e394685f9348e6fc28f3c",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "与温迪对话"
+            ],
+            "textHash": "ba3ee1c65fe79cd4424ca7885750aef48ca7ce6b229db923847c88b5ad67048d"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与温迪对话",
+              "过场动画",
+              "内容"
+            ],
+            "textHash": "f0d1064cd092e92000b2afdf61184bfd7dd748055e872ca55510bbb6f79161cb"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与温迪对话"
+            ],
+            "textHash": "c8e8b99517a1d6d244df30b6aafbc07c0985da567b815740d6b219b7ac8d07af"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-202-identity",
+    "recordHash": "525d2214fd6b185f356fbecce39ed0ca9117988009e78937bc8d53b71a289272",
+    "checkedAt": "2026-10-04",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "本场景明确身份线索；琴并非此刻才猜到，不能倒填第一幕初见人物知识。",
+    "evidence": [
+      {
+        "pageid": 165035,
+        "title": "与巨龙重逢",
+        "revision": 667033,
+        "sha256": "cec420cb2abce75e48dc64dfa3a16bb3c30a4a988a3e394685f9348e6fc28f3c",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "与温迪对话",
+              "过场动画",
+              "内容"
+            ],
+            "textHash": "f0d1064cd092e92000b2afdf61184bfd7dd748055e872ca55510bbb6f79161cb"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与温迪对话"
+            ],
+            "textHash": "c8e8b99517a1d6d244df30b6aafbc07c0985da567b815740d6b219b7ac8d07af"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-202-network",
+    "recordHash": "015436e43591950ff8aae2777cb17c0b35c0ccdd2043e730a23b4776a907a479",
+    "checkedAt": "2026-10-04",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "两个可选回应后均转向追查；迪卢克提出个人情报网，非骑士团侦察计划已经实施。",
+    "evidence": [
+      {
+        "pageid": 165035,
+        "title": "与巨龙重逢",
+        "revision": 667033,
+        "sha256": "cec420cb2abce75e48dc64dfa3a16bb3c30a4a988a3e394685f9348e6fc28f3c",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "与温迪对话",
+              "源码选项组 1",
+              "选项 1：不能就这样放过深渊法师。"
+            ],
+            "textHash": "7bc7e4e048c4c31bda70a968769bdf1e7de393d70cc2db6004bba919df1fd585"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与温迪对话",
+              "源码选项组 1",
+              "选项 2：特瓦林的情况很危险…"
+            ],
+            "textHash": "a73c3980a63b12e33e41573bfa87b98ed2ba420cb13b3cbbbe408afa87252457"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与温迪对话"
+            ],
+            "textHash": "93c7041a9bd0b3b46ecd13de720b1adc9693daf98bb8dc8f2f6c06eb64bdbbc1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-202-overview",
+    "recordHash": "0e882d1a92e7e403562645d1046e9fca8b815ee74c2c76de426c6caf3497bdbd",
+    "checkedAt": "2026-10-04",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "跨任务概括分别核对结识温迪、取琴、泪滴恢复与行动受挫后的追查。",
+    "evidence": [
+      {
+        "pageid": 165021,
+        "title": "阴影下的蒙德",
+        "revision": 667046,
+        "sha256": "d25dda6ef79dd931f128880036aa620aaf9ac7b21234da3c12b4bbbabaab4274",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "听听琴和神秘人的对话"
+            ],
+            "textHash": "ab73d00d8716596690b4c0b41d2e720428e05860b3cf3d4f7d364ca6b4ce28d3"
+          }
+        ]
+      },
+      {
+        "pageid": 165023,
+        "title": "那个绿色的家伙",
+        "revision": 674285,
+        "sha256": "419f4aca6b4f843aea1349b5bd6e34ddd0247abfe379eafc92fcb97c4c901fad",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "与神秘的诗人对话"
+            ],
+            "textHash": "84cfbdfc9fd3ecf194e7499b4fcbfe63a6efdd8916eada630925e2ce1b3cf5ef"
+          }
+        ]
+      },
+      {
+        "pageid": 165025,
+        "title": "温迪的计划",
+        "revision": 667037,
+        "sha256": "b67e3b55a98dd4265332cdb282890772a8e7b11981d27632bba604a3a09d8cf2",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "与温迪对话"
+            ],
+            "textHash": "33e356661514f54b2924ab7fcbf4b67c476d63703848c41390346efacc47cfe7"
+          }
+        ]
+      },
+      {
+        "pageid": 165029,
+        "title": "追逐暗影",
+        "revision": 667042,
+        "sha256": "cf479bec93fa2b5011f9bae9e3cb192c63d1d04e15fe8af088345ee92356c1ae",
+        "fragments": [
+          {
+            "path": [
+              "任务描述"
+            ],
+            "textHash": "d86dd8ba6f655d181b28c924a650c8bf30601a37ac852e6f294c13d9db700715"
+          },
+          {
+            "path": [
+              "任务流程"
+            ],
+            "textHash": "e334eb68a303f34c178498eeb020965c3b2141c15ab6604a20515340ec5467d5"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与派蒙对话"
+            ],
+            "textHash": "7bce32915d997d195564d0a53c30d7832c713d2227093af46a3cd4e4c17f17d4"
+          }
+        ]
+      },
+      {
+        "pageid": 165030,
+        "title": "至宝的现状",
+        "revision": 667039,
+        "sha256": "68a623d38c9c97cd8d6b2cb7aa5fabf77770252f6d63a20355e9e0ac0b1e665f",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "与温迪对话"
+            ],
+            "textHash": "a0a8f2c7300432ce1952ec1d75b80d006f3e7ae3c648490f91c9be787519be81"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与温迪对话"
+            ],
+            "textHash": "cd9943ee53f7f089d0e2d4f99847df02a67578e77489ac20e7d8d6b5c8e89a6e"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与琴对话"
+            ],
+            "textHash": "e8b1d50bbcafa717add37444d18ebe7744c9cb7bd9217e329cb98150b0181494"
+          }
+        ]
+      },
+      {
+        "pageid": 165034,
+        "title": "澄净之泪",
+        "revision": 667038,
+        "sha256": "770d71a6bd8facc1deaf3dda7cea8eb139270b9316e6e0abd6ceba06854d8981",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "与众人对话"
+            ],
+            "textHash": "4ecd68c77c7d6808efb47b5fa4de4f515582ddf4b4c3e77503c565f86f551af2"
+          }
+        ]
+      },
+      {
+        "pageid": 165035,
+        "title": "与巨龙重逢",
+        "revision": 667033,
+        "sha256": "cec420cb2abce75e48dc64dfa3a16bb3c30a4a988a3e394685f9348e6fc28f3c",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "任务描述"
+            ],
+            "textHash": "c3aab62583dd54214d2676449779ae1f7f3b4a3ee7c9d10174f905db626ec156"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与温迪对话"
+            ],
+            "textHash": "ba3ee1c65fe79cd4424ca7885750aef48ca7ce6b229db923847c88b5ad67048d"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与温迪对话"
+            ],
+            "textHash": "93c7041a9bd0b3b46ecd13de720b1adc9693daf98bb8dc8f2f6c06eb64bdbbc1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-202-diplomacy",
+    "recordHash": "b044f3e0375a9e2546cae05979ccbf4793e880a35624f68732a23609255aae16",
+    "checkedAt": "2026-10-04",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "拒绝接管与杀龙均有原话；维护城邦自主为结合独立城邦声明的归纳。",
+    "evidence": [
+      {
+        "pageid": 165021,
+        "title": "阴影下的蒙德",
+        "revision": 667046,
+        "sha256": "d25dda6ef79dd931f128880036aa620aaf9ac7b21234da3c12b4bbbabaab4274",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "听听琴和神秘人的对话"
+            ],
+            "textHash": "ab73d00d8716596690b4c0b41d2e720428e05860b3cf3d4f7d364ca6b4ce28d3"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与琴一同回到骑士团总部"
+            ],
+            "textHash": "11f4dde6341db3652b960f08fb4b6333131b8fd81923b1af1dc7044c5d5d0d13"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-202-crystal",
+    "recordHash": "9b0af4544cf977fe2e209d4360d3130e707c8dac5aa9867c121d251f7a969798",
+    "checkedAt": "2026-10-04",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "保留丽莎的解释和尚无进一步结论的边界，不补造旅行者免疫的原因。",
+    "evidence": [
+      {
+        "pageid": 165021,
+        "title": "阴影下的蒙德",
+        "revision": 667046,
+        "sha256": "d25dda6ef79dd931f128880036aa620aaf9ac7b21234da3c12b4bbbabaab4274",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "与琴对话"
+            ],
+            "textHash": "58b20c479b8da1dc4859cf215511b56c5e79c49d7eca65a165cc7d26ee30104f"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与琴对话"
+            ],
+            "textHash": "8327cc970b782acc3831fbdd3aded9ba0d85ea1c92ae1373cfbed079c64e3c2f"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-202-pursuit",
+    "recordHash": "0940e3ac022af8fffb778e8546beb1ceff782090b41f9df65352479662af6cfb",
+    "checkedAt": "2026-10-04",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "寻找身影与聆听演奏分属相邻任务，分别提供来源。",
+    "evidence": [
+      {
+        "pageid": 165022,
+        "title": "不期而遇",
+        "revision": 667032,
+        "sha256": "6568219a6780eef37793f008e659cc6387fc6cb56f4a2f2903aaac48918f4cce",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "与派蒙对话"
+            ],
+            "textHash": "d49d61aa8ad77de5ce438bb1c049c6220789fa329b7269cadd47dcd978fe09f5"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与派蒙对话"
+            ],
+            "textHash": "bc0931d528922cd0e67533978a149c5e1859755ca23c441372c460dad8d07328"
+          }
+        ]
+      },
+      {
+        "pageid": 165023,
+        "title": "那个绿色的家伙",
+        "revision": 674285,
+        "sha256": "419f4aca6b4f843aea1349b5bd6e34ddd0247abfe379eafc92fcb97c4c901fad",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "聆听吟游诗人的弹奏",
+              "过场动画",
+              "内容",
+              "场景说明"
+            ],
+            "textHash": "b8db755771bc545cc949947b48cf47721439e5a1a2ef4c4963c0b2a4a3712fc5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-202-ballad",
+    "recordHash": "fb4415bf40e9809e5fe42608bed693240231b6a8ea17d5e739839e6b59fd7f8d",
+    "checkedAt": "2026-10-04",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "往事归于歌谣叙述，不写成旅行者亲眼见证。",
+    "evidence": [
+      {
+        "pageid": 165023,
+        "title": "那个绿色的家伙",
+        "revision": 674285,
+        "sha256": "419f4aca6b4f843aea1349b5bd6e34ddd0247abfe379eafc92fcb97c4c901fad",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "聆听吟游诗人的弹奏",
+              "过场动画",
+              "内容",
+              "场景说明"
+            ],
+            "textHash": "b8db755771bc545cc949947b48cf47721439e5a1a2ef4c4963c0b2a4a3712fc5"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "聆听吟游诗人的弹奏",
+              "过场动画",
+              "内容"
+            ],
+            "textHash": "97a6f845d86f2bbe79ae92e4df8983a60bc2dc447870a2e4755f55ed27b55472"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-202-windrise",
+    "recordHash": "dd8cd4475410bf9da7b5fc09dee700465ad83577449fe33f02b55200ae34e908",
+    "checkedAt": "2026-10-04",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "风起地、敌人打断与元素联系分别对应任务描述及派蒙判断。",
+    "evidence": [
+      {
+        "pageid": 165024,
+        "title": "听凭风引",
+        "revision": 667034,
+        "sha256": "4415c54a97c15ff4e39f2f343abcadea3ca51bf812784c666c2dfebb5ca663f3",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "任务描述"
+            ],
+            "textHash": "0507b0f9bd2eaebe04233ebc4e63e8b31d4ba1c1f66e62a37c7466662205581b"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与温迪对话"
+            ],
+            "textHash": "4622d647b231f4e2592219730c770c221fca4ab562c0cd4accbe7e8c5241e617"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "击败来袭的敌人"
+            ],
+            "textHash": "5ea4336369d6e3074b8ce61fac696326e738c4ccffb2e4c338986923ea940c67"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-202-lyre-plan",
+    "recordHash": "046d948d8e1fbe67c094a7c81e63defddd8bf493e219e115ced057406c7ac6e9",
+    "checkedAt": "2026-10-04",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "保留温迪救龙方案的观点归属，不把提议写成当时已经成功。",
+    "evidence": [
+      {
+        "pageid": 165025,
+        "title": "温迪的计划",
+        "revision": 667037,
+        "sha256": "b67e3b55a98dd4265332cdb282890772a8e7b11981d27632bba604a3a09d8cf2",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "与温迪对话"
+            ],
+            "textHash": "33e356661514f54b2924ab7fcbf4b67c476d63703848c41390346efacc47cfe7"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "观看温迪的借琴之道"
+            ],
+            "textHash": "8b4fbd31ed0672fe33d14e6adcead490924261c728c3c3d0441813ba457646c4"
+          }
+        ]
+      },
+      {
+        "pageid": 165034,
+        "title": "澄净之泪",
+        "revision": 667038,
+        "sha256": "770d71a6bd8facc1deaf3dda7cea8eb139270b9316e6e0abd6ceba06854d8981",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "将风龙泪滴滴在天空之琴上",
+              "额外对话（温迪）",
+              "内容",
+              "源码选项组 1",
+              "选项 1：关于特瓦林。"
+            ],
+            "textHash": "3375d2e104a9828e1e277885b817e39a5390df48dcd0e2ce9c0d8efdef21cf0b"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-202-theft",
+    "recordHash": "5337bb00ba37904c571ec30ad492f9b23231ab9bd168d176c48897388141a66e",
+    "checkedAt": "2026-10-04",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "夜间和地下室来自任务流程；对白明确借琴失败及巧取，不写成获准借用。",
+    "evidence": [
+      {
+        "pageid": 165026,
+        "title": "温迪的新计划",
+        "revision": 667036,
+        "sha256": "85d98262750e60cbac01eac22c2dd50d657aae3ff5a071f55d4393b218874a6f",
+        "fragments": [
+          {
+            "path": [
+              "任务描述"
+            ],
+            "textHash": "9e64ad438d47202044d8c1fa0134077cbbfd2825d2a52f3fe0b53f7dc87064bc"
+          },
+          {
+            "path": [
+              "任务流程"
+            ],
+            "textHash": "a12e2e1a91126c83fe3080363ba0f7dcf34c6beece7af9eec9c854cb49cf53f3"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与温迪对话"
+            ],
+            "textHash": "f7143affc2cadb0767dc13f7f43243493431050d84ca06c01177205ebe5a40b2"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-202-escape",
+    "recordHash": "3142df550723d9ccd5924db38fdf5d965f5f974b7ad32cb737ff88e6b5d41049",
+    "checkedAt": "2026-10-04",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "抢琴、逃亡与酒馆楼上避难分别核对描述、流程和迪卢克对白。",
+    "evidence": [
+      {
+        "pageid": 165027,
+        "title": "逃亡",
+        "revision": 667043,
+        "sha256": "bce65a2f62315bf4929cff9117550c63bd5574f51771a617273459fd21ed64ce",
+        "fragments": [
+          {
+            "path": [
+              "任务描述"
+            ],
+            "textHash": "9696aa5e6a034a5fa8818d8cdad967ff799d84271f5468e1919a9f71eed7b5ed"
+          },
+          {
+            "path": [
+              "任务流程"
+            ],
+            "textHash": "83270f9761a29dfa22501afd5a1d9577f0e3e9ef35fb3bbf886e0d8ff2d43f01"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与迪卢克对话"
+            ],
+            "textHash": "0e9efb63223a38aaf4e6221899df4dd5ad7cb344e002c6c0f944c507aaef8c76"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "回答迪卢克的质问"
+            ],
+            "textHash": "52a8036159b3633e74fc2f1dfb7862fe04ae232a9f693fc156744517b72075da"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-202-private-jean",
+    "recordHash": "7edbe58a04114e005c77ce0456c38202e3796fb86a688d8c7a95dd295ab0d6f5",
+    "checkedAt": "2026-10-04",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "琴以私人身份行动和外交压力均有明确对白，保留她的判断归属。",
+    "evidence": [
+      {
+        "pageid": 165028,
+        "title": "幕后谈话",
+        "revision": 667035,
+        "sha256": "a16177e1d48ff62cbcbf0e56f313a265a3b35da0725e63cde46ec122b8e20c1c",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "与迪卢克对话"
+            ],
+            "textHash": "bccb9c2d3ee5ef844f312be43f2c58599ec0869e879c0db415d638bea2baf633"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-202-retrieve-lyre",
+    "recordHash": "ea3c95557a00a67bd8d9132658c50801effa0bc2b115e52e7e4a80c2c2f4127d",
+    "checkedAt": "2026-10-04",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "取琴经过以任务描述、流程及结果核对，不合并守卫的不同选项。",
+    "evidence": [
+      {
+        "pageid": 165029,
+        "title": "追逐暗影",
+        "revision": 667042,
+        "sha256": "cf479bec93fa2b5011f9bae9e3cb192c63d1d04e15fe8af088345ee92356c1ae",
+        "fragments": [
+          {
+            "path": [
+              "任务描述"
+            ],
+            "textHash": "d86dd8ba6f655d181b28c924a650c8bf30601a37ac852e6f294c13d9db700715"
+          },
+          {
+            "path": [
+              "任务流程"
+            ],
+            "textHash": "e334eb68a303f34c178498eeb020965c3b2141c15ab6604a20515340ec5467d5"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "击败债务处理人，取得天空之琴"
+            ],
+            "textHash": "a7fd859c2a639adb61d1b822c4ed8333800d526362c37ee88e1fc711515d0095"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与派蒙对话"
+            ],
+            "textHash": "7bce32915d997d195564d0a53c30d7832c713d2227093af46a3cd4e4c17f17d4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-202-depleted-lyre",
+    "recordHash": "a54060f4a066dba70c67524b7f1fce53f223629db509bbdba16c737a45aaa5aa",
+    "checkedAt": "2026-10-04",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "风元素枯竭与净化泪滴恢复有连续对白支持，未把取琴等同已能成功唤龙。",
+    "evidence": [
+      {
+        "pageid": 165030,
+        "title": "至宝的现状",
+        "revision": 667039,
+        "sha256": "68a623d38c9c97cd8d6b2cb7aa5fabf77770252f6d63a20355e9e0ac0b1e665f",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "与温迪对话"
+            ],
+            "textHash": "a0a8f2c7300432ce1952ec1d75b80d006f3e7ae3c648490f91c9be787519be81"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与温迪对话"
+            ],
+            "textHash": "cd9943ee53f7f089d0e2d4f99847df02a67578e77489ac20e7d8d6b5c8e89a6e"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与琴对话"
+            ],
+            "textHash": "e8b1d50bbcafa717add37444d18ebe7744c9cb7bd9217e329cb98150b0181494"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-202-tear-routes",
+    "recordHash": "61f920d111ffc015720b56ac3b653cf4d745440476cfde5e6b5c62915f1784ef",
+    "checkedAt": "2026-10-04",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "三任务同前置并行；地点及汇合任务由各自字段核对，不推断唯一顺序。",
+    "evidence": [
+      {
+        "pageid": 165031,
+        "title": "遗落之泪",
+        "revision": 667044,
+        "sha256": "d4cc4a80845ceb25417f866495b9aec34d0309b986409e2be0bf9296904bb07d",
+        "fragments": [
+          {
+            "path": [
+              "任务条件"
+            ],
+            "textHash": "140cba3afaacfb64fd0df62f06476b531a1a2e347a5969df40a44880f3a82113"
+          },
+          {
+            "path": [
+              "前置任务"
+            ],
+            "textHash": "4ce725ee327dfb9ac5861fc9265944dcb67986389643c2481733a9f28b09eac0"
+          },
+          {
+            "path": [
+              "并行任务"
+            ],
+            "textHash": "79f13b4a309a8fba929077453c8f1790f7079a0907725fe8d48a57bff0239632"
+          },
+          {
+            "path": [
+              "后续任务"
+            ],
+            "textHash": "e2cbe5a5092d13f67ff73323e0596a6ab17c7313d052fdf23850d7ca20395791"
+          },
+          {
+            "path": [
+              "任务流程"
+            ],
+            "textHash": "c633752ff5847858a17ee551916b43229276e3c022778b43617d080e95c98aab"
+          }
+        ]
+      },
+      {
+        "pageid": 165032,
+        "title": "藏匿之泪",
+        "revision": 667040,
+        "sha256": "ff4aa822a9cb95f48fa92fc46c3d431703d124dcf6ff74278ff02362d81a4a85",
+        "fragments": [
+          {
+            "path": [
+              "任务条件"
+            ],
+            "textHash": "140cba3afaacfb64fd0df62f06476b531a1a2e347a5969df40a44880f3a82113"
+          },
+          {
+            "path": [
+              "前置任务"
+            ],
+            "textHash": "4ce725ee327dfb9ac5861fc9265944dcb67986389643c2481733a9f28b09eac0"
+          },
+          {
+            "path": [
+              "并行任务"
+            ],
+            "textHash": "79f13b4a309a8fba929077453c8f1790f7079a0907725fe8d48a57bff0239632"
+          },
+          {
+            "path": [
+              "后续任务"
+            ],
+            "textHash": "e2cbe5a5092d13f67ff73323e0596a6ab17c7313d052fdf23850d7ca20395791"
+          },
+          {
+            "path": [
+              "任务流程"
+            ],
+            "textHash": "91fcb04d7e4fcc9c4bb1c6fa3c6edf6cae740197a36b5d42c7ddff78af283a55"
+          }
+        ]
+      },
+      {
+        "pageid": 165033,
+        "title": "被夺之泪",
+        "revision": 667041,
+        "sha256": "99af39b3a393ebfb331b85b6dbac672e76f173068b81bf15f4275e8902f3f173",
+        "fragments": [
+          {
+            "path": [
+              "任务条件"
+            ],
+            "textHash": "140cba3afaacfb64fd0df62f06476b531a1a2e347a5969df40a44880f3a82113"
+          },
+          {
+            "path": [
+              "前置任务"
+            ],
+            "textHash": "4ce725ee327dfb9ac5861fc9265944dcb67986389643c2481733a9f28b09eac0"
+          },
+          {
+            "path": [
+              "并行任务"
+            ],
+            "textHash": "79f13b4a309a8fba929077453c8f1790f7079a0907725fe8d48a57bff0239632"
+          },
+          {
+            "path": [
+              "后续任务"
+            ],
+            "textHash": "e2cbe5a5092d13f67ff73323e0596a6ab17c7313d052fdf23850d7ca20395791"
+          },
+          {
+            "path": [
+              "任务流程"
+            ],
+            "textHash": "ed1ba2735614a597c20550136092bc8133c5a80bd1753c9181adca8b4a88a905"
+          }
+        ]
+      },
+      {
+        "pageid": 165034,
+        "title": "澄净之泪",
+        "revision": 667038,
+        "sha256": "770d71a6bd8facc1deaf3dda7cea8eb139270b9316e6e0abd6ceba06854d8981",
+        "fragments": [
+          {
+            "path": [
+              "任务条件"
+            ],
+            "textHash": "083485eb774a0595011c573fcb76a27ae589f46a9efa6fedc2c0c41c83920846"
+          },
+          {
+            "path": [
+              "前置任务"
+            ],
+            "textHash": "79f13b4a309a8fba929077453c8f1790f7079a0907725fe8d48a57bff0239632"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-203-overview",
+    "recordHash": "bc2c9a26bcd235557ff19ac5faf557fd2bd1bbd3bf7fe031d638942698b03dab",
+    "checkedAt": "2026-10-05",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "对照固定来源核对摘要陈述；保留人物判断、叙事时点和不同谈话场景，不代表整页已核对。",
+    "evidence": [
+      {
+        "pageid": 165036,
+        "title": "深渊法师",
+        "revision": 667053,
+        "sha256": "a331bb2250940df4ea59c1b8ee30b3270ed2a9c5f89b4d6d89c7635e391279a4",
+        "fragments": [
+          {
+            "path": [
+              "任务描述"
+            ],
+            "textHash": "9f6159ed390c7787f44079117f869d3ef7c1ab224fa34f81b809d0264a0b5282"
+          }
+        ]
+      },
+      {
+        "pageid": 165038,
+        "title": "无人之家",
+        "revision": 667051,
+        "sha256": "fc8032152d10e2cdc23a4a4b8fb4ce406eecbabbd12be99f78a357426d7dbbec",
+        "fragments": [
+          {
+            "path": [
+              "任务流程"
+            ],
+            "textHash": "0a7f7da8aadf62e7ab49658b2a4aa975d99f4ce2b59f2df152db4fbfc2532759"
+          }
+        ]
+      },
+      {
+        "pageid": 165040,
+        "title": "在终曲之前",
+        "revision": 667049,
+        "sha256": "bffaa36172d33f49897903f7a3ff4452e426484a5cf5a8c1f80f872b21b05487",
+        "fragments": [
+          {
+            "path": [
+              "任务描述"
+            ],
+            "textHash": "33a5afa360eb3d954f702a721efb7dc3106a78b107baf66741465b92a8b2fa36"
+          }
+        ]
+      },
+      {
+        "pageid": 165041,
+        "title": "为了青色的身影",
+        "revision": 681806,
+        "sha256": "9bce79db86121ca7cb961569ee26db2fc7b0437ec844c568d568a48f5ac0b9ff",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "击败特瓦林",
+              "过场动画（击败风魔龙后）",
+              "内容"
+            ],
+            "textHash": "88518ae2925591813981f406f8bbc4d30563ea9bce0748e09ef4282eba70ecb1"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "击败特瓦林",
+              "过场动画（蒙德的龙灾结束后）",
+              "内容"
+            ],
+            "textHash": "c7c11f4a243b21f4b4e76deef2cba2b7aa68decb247dbc905a0bc6ab82b4bd52"
+          }
+        ]
+      },
+      {
+        "pageid": 165042,
+        "title": "尾声，风停之后",
+        "revision": 675091,
+        "sha256": "b6e7cd81fbd08ee846809f8067b55775aa2f65c5c6bad527b53c446b6ca66303",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "与安柏对话"
+            ],
+            "textHash": "11d730b1e2930ff24bf826d257001875eb929948b06bc85d8a2acea08b7e16d2"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "途中与市民交谈（塞琉斯）"
+            ],
+            "textHash": "e0f8800027c725550c2e3dd3c19e41c38c130858e5e31f8e76a68d7b516a6ac1"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "途中与市民交谈（宁禄）"
+            ],
+            "textHash": "c83d0dc83bbaf7cd47689b49d41749b735d0f803b5d8a2b750df40622ae8de3b"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "途中与市民交谈（葛瑞丝）"
+            ],
+            "textHash": "f45c90d5875ef08c28da29159543b7d8320d376e5c1cfcb756a65dbc08166cd6"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与安柏对话"
+            ],
+            "textHash": "d256ea2883bf9c9775b12e368a676dc4f516b3775d6653b7c4940c829fe97162"
+          }
+        ]
+      },
+      {
+        "pageid": 165043,
+        "title": "尾声的尾声",
+        "revision": 667050,
+        "sha256": "0b9158878613107dfd986d8fa6e7e27fb547b3133612e75302ba8107177514d6",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "在教堂找到琴与温迪"
+            ],
+            "textHash": "5f10df8b5c6ded3d9e6e8a4a94ce958c21f90fce8f172e5671a50cb94b125f76"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "在风起地寻找温迪"
+            ],
+            "textHash": "1d0b6191482d66425e3d3f03839965ea7ea406268add6ddcdfbeea81a6cab986"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "在风起地寻找温迪"
+            ],
+            "textHash": "4c8937197d10aa598e33d9163298bbc322868adc04886c7ee07f6ac6829fd1c8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-203-barrier",
+    "recordHash": "e55208146b41bf95eba9bce8bbf01cb6eb76927d3bd52d773efcb7ddb0834569",
+    "checkedAt": "2026-10-05",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "对照固定来源核对摘要陈述；保留人物判断、叙事时点和不同谈话场景，不代表整页已核对。",
+    "evidence": [
+      {
+        "pageid": 165036,
+        "title": "深渊法师",
+        "revision": 667053,
+        "sha256": "a331bb2250940df4ea59c1b8ee30b3270ed2a9c5f89b4d6d89c7635e391279a4",
+        "fragments": [
+          {
+            "path": [
+              "任务描述"
+            ],
+            "textHash": "9f6159ed390c7787f44079117f869d3ef7c1ab224fa34f81b809d0264a0b5282"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "击败来袭的敌人"
+            ],
+            "textHash": "0bb16cef885e065f2b654a98daf8d8a9e1de2271a5c8ddcfd0c93f4f47e4bbf0"
+          }
+        ]
+      },
+      {
+        "pageid": 165037,
+        "title": "障壁",
+        "revision": 667054,
+        "sha256": "433706c1f683bf7b0183b421f688e27ecd5a07731589ede62a0ce46cd4ef1198",
+        "fragments": [
+          {
+            "path": [
+              "任务描述"
+            ],
+            "textHash": "db119fb766a11b1ea6f43e6d1d3ff3243a7f944f59fb5e4748a18c7a98d2a390"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "前往风龙废墟入口"
+            ],
+            "textHash": "4696dfc1aa6e50178599c646e2ca39a1b7b604b6bb1d8c4cd3e7828c8ce91f93"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "开启风障"
+            ],
+            "textHash": "864ee1228884814fcb3789f5b589c28ce51f5950014782bd60a12bb0ccf57c06"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-203-tower",
+    "recordHash": "84d59dd264f19d4ee45c7171af7e4f44eb7dc10bcd6e3bbb0a0019a9284a1f84",
+    "checkedAt": "2026-10-05",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "对照固定来源核对摘要陈述；保留人物判断、叙事时点和不同谈话场景，不代表整页已核对。",
+    "evidence": [
+      {
+        "pageid": 165038,
+        "title": "无人之家",
+        "revision": 667051,
+        "sha256": "fc8032152d10e2cdc23a4a4b8fb4ce406eecbabbd12be99f78a357426d7dbbec",
+        "fragments": [
+          {
+            "path": [
+              "任务流程"
+            ],
+            "textHash": "0a7f7da8aadf62e7ab49658b2a4aa975d99f4ce2b59f2df152db4fbfc2532759"
+          }
+        ]
+      },
+      {
+        "pageid": 165039,
+        "title": "导光仪式",
+        "revision": 667048,
+        "sha256": "c274b4808af9dc47263dd6072bc6b6cb626567905dbd51e4159efdff1734d439",
+        "fragments": [
+          {
+            "path": [
+              "任务流程"
+            ],
+            "textHash": "f6ad5b07c1eabd8418856538edf597a9d9456333c72d55dd9bc5fa306132f976"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与温迪对话"
+            ],
+            "textHash": "cd856cd5457515b3386e3eb5b1a7f5403784025877ee8523c9f6dc4937db5468"
+          }
+        ]
+      },
+      {
+        "pageid": 165040,
+        "title": "在终曲之前",
+        "revision": 667049,
+        "sha256": "bffaa36172d33f49897903f7a3ff4452e426484a5cf5a8c1f80f872b21b05487",
+        "fragments": [
+          {
+            "path": [
+              "任务描述"
+            ],
+            "textHash": "33a5afa360eb3d954f702a721efb7dc3106a78b107baf66741465b92a8b2fa36"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-203-wounds",
+    "recordHash": "4293c148632854f9bb7a763dbd904e923f1d78a2cfd56a377e707e72e5818256",
+    "checkedAt": "2026-10-05",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "对照固定来源核对摘要陈述；保留人物判断、叙事时点和不同谈话场景，不代表整页已核对。",
+    "evidence": [
+      {
+        "pageid": 165041,
+        "title": "为了青色的身影",
+        "revision": 681806,
+        "sha256": "9bce79db86121ca7cb961569ee26db2fc7b0437ec844c568d568a48f5ac0b9ff",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "乘风追逐并击败特瓦林",
+              "过场动画1",
+              "内容"
+            ],
+            "textHash": "31aaefc1ec3929434b0cbeebf6fa61a0c7bae5ee8762d0a0de74efb0776006f0"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-203-rescue",
+    "recordHash": "1306ec87426459277cc6abf3feb299d9189acdce010beb0a5fd20436a15ea5bf",
+    "checkedAt": "2026-10-05",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "对照固定来源核对摘要陈述；保留人物判断、叙事时点和不同谈话场景，不代表整页已核对。",
+    "evidence": [
+      {
+        "pageid": 165041,
+        "title": "为了青色的身影",
+        "revision": 681806,
+        "sha256": "9bce79db86121ca7cb961569ee26db2fc7b0437ec844c568d568a48f5ac0b9ff",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "击败特瓦林",
+              "过场动画（击败风魔龙后）",
+              "内容"
+            ],
+            "textHash": "88518ae2925591813981f406f8bbc4d30563ea9bce0748e09ef4282eba70ecb1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-203-freedom",
+    "recordHash": "6522c7ffa3e2056ac54b3bb1f112cb7eaa5bbcbdbbc97c7f6f5d271c86ca41da",
+    "checkedAt": "2026-10-05",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "对照固定来源核对摘要陈述；保留人物判断、叙事时点和不同谈话场景，不代表整页已核对。",
+    "evidence": [
+      {
+        "pageid": 165040,
+        "title": "在终曲之前",
+        "revision": 667049,
+        "sha256": "bffaa36172d33f49897903f7a3ff4452e426484a5cf5a8c1f80f872b21b05487",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "回到塔顶"
+            ],
+            "textHash": "06f907cef04a25e32cfc2a5573c9c66be2f43d6ec79092afc8840b89637a543a"
+          }
+        ]
+      },
+      {
+        "pageid": 165041,
+        "title": "为了青色的身影",
+        "revision": 681806,
+        "sha256": "9bce79db86121ca7cb961569ee26db2fc7b0437ec844c568d568a48f5ac0b9ff",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "击败特瓦林",
+              "过场动画（击败风魔龙后）",
+              "内容"
+            ],
+            "textHash": "88518ae2925591813981f406f8bbc4d30563ea9bce0748e09ef4282eba70ecb1"
+          }
+        ]
+      },
+      {
+        "pageid": 165043,
+        "title": "尾声的尾声",
+        "revision": 667050,
+        "sha256": "0b9158878613107dfd986d8fa6e7e27fb547b3133612e75302ba8107177514d6",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "在风起地寻找温迪",
+              "源码选项组 6",
+              "选项 1：关于特瓦林…"
+            ],
+            "textHash": "e56dcb6416cbda25d640be78e1567f35d2a1f3b9807d663f4b1ad10e10786c9c"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-203-defense",
+    "recordHash": "961ed471f923f7bbc97670a72671b50f729935f178ee3f97c6b8f5b15900bd13",
+    "checkedAt": "2026-10-05",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "对照固定来源核对摘要陈述；保留人物判断、叙事时点和不同谈话场景，不代表整页已核对。",
+    "evidence": [
+      {
+        "pageid": 165042,
+        "title": "尾声，风停之后",
+        "revision": 675091,
+        "sha256": "b6e7cd81fbd08ee846809f8067b55775aa2f65c5c6bad527b53c446b6ca66303",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "与安柏对话"
+            ],
+            "textHash": "11d730b1e2930ff24bf826d257001875eb929948b06bc85d8a2acea08b7e16d2"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与安柏对话"
+            ],
+            "textHash": "463955e92554ec4c00f2164e53a6e5ce5f070fb6fbcdaef1513b33dd0f8c7e27"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与安柏对话",
+              "额外对话（安柏）",
+              "内容"
+            ],
+            "textHash": "e7c7c35f8073a3fc18aaa64c6aa736fe1cca1a5a7d21b7d58e72606dcdf12dd9"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-203-citizens",
+    "recordHash": "5a9cee509042c1439057db97ec2e6cf1275e5436688466bc304266950474b1c0",
+    "checkedAt": "2026-10-05",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "对照固定来源核对摘要陈述；保留人物判断、叙事时点和不同谈话场景，不代表整页已核对。",
+    "evidence": [
+      {
+        "pageid": 165042,
+        "title": "尾声，风停之后",
+        "revision": 675091,
+        "sha256": "b6e7cd81fbd08ee846809f8067b55775aa2f65c5c6bad527b53c446b6ca66303",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "途中与市民交谈（塞琉斯）"
+            ],
+            "textHash": "e0f8800027c725550c2e3dd3c19e41c38c130858e5e31f8e76a68d7b516a6ac1"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "途中与市民交谈（宁禄）"
+            ],
+            "textHash": "c83d0dc83bbaf7cd47689b49d41749b735d0f803b5d8a2b750df40622ae8de3b"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "途中与市民交谈（葛瑞丝）"
+            ],
+            "textHash": "f45c90d5875ef08c28da29159543b7d8320d376e5c1cfcb756a65dbc08166cd6"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-203-aftermath",
+    "recordHash": "170366712b38da7caa3dc1d623477f7c8ec3c8329654e65fbcfa314aa90db5e7",
+    "checkedAt": "2026-10-05",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "对照固定来源核对摘要陈述；保留人物判断、叙事时点和不同谈话场景，不代表整页已核对。",
+    "evidence": [
+      {
+        "pageid": 165042,
+        "title": "尾声，风停之后",
+        "revision": 675091,
+        "sha256": "b6e7cd81fbd08ee846809f8067b55775aa2f65c5c6bad527b53c446b6ca66303",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "与安柏对话",
+              "额外对话（奥特）",
+              "内容"
+            ],
+            "textHash": "22f70aa53ce22f316aefab4d2591a2b59b4b5f49f3011627dd4954138b5473fe"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与安柏对话",
+              "额外对话（霍夫曼）",
+              "内容"
+            ],
+            "textHash": "8caab723e13e1c33c2a46d6563d4696fcccfc25fab94f37ae5759095a9858c14"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-203-return-lyre",
+    "recordHash": "56ca5b89dde797038fa7721e6115df14fa8b40e5abc9d6ed21458f587a10dd4d",
+    "checkedAt": "2026-10-05",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "对照固定来源核对摘要陈述；保留人物判断、叙事时点和不同谈话场景，不代表整页已核对。",
+    "evidence": [
+      {
+        "pageid": 165043,
+        "title": "尾声的尾声",
+        "revision": 667050,
+        "sha256": "0b9158878613107dfd986d8fa6e7e27fb547b3133612e75302ba8107177514d6",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "在教堂找到琴与温迪"
+            ],
+            "textHash": "5f10df8b5c6ded3d9e6e8a4a94ce958c21f90fce8f172e5671a50cb94b125f76"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "将天空之琴交给芭芭拉"
+            ],
+            "textHash": "37b01e4c4763fec089ce039e750d48ca8c21a862d906ca6c4b1f218c0aee6cda"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "将天空之琴交给芭芭拉",
+              "过场动画（「修」琴）",
+              "内容"
+            ],
+            "textHash": "dfb0d8398be1f487d3dcd6d1654fb33e1351dd6b78f16cc9396626c2de91aefc"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-203-gnosis",
+    "recordHash": "954119732087ec74e758b87cc47ad0cfca2b6713fa3258649e63e54c79bf3de0",
+    "checkedAt": "2026-10-05",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "对照固定来源核对摘要陈述；保留人物判断、叙事时点和不同谈话场景，不代表整页已核对。",
+    "evidence": [
+      {
+        "pageid": 165043,
+        "title": "尾声的尾声",
+        "revision": 667050,
+        "sha256": "0b9158878613107dfd986d8fa6e7e27fb547b3133612e75302ba8107177514d6",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "将天空之琴交给芭芭拉"
+            ],
+            "textHash": "37b01e4c4763fec089ce039e750d48ca8c21a862d906ca6c4b1f218c0aee6cda"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "将天空之琴交给芭芭拉",
+              "过场动画（夺心）",
+              "内容"
+            ],
+            "textHash": "03dab13abd89243281c295d5e03af97abcb6a88223a7dbea55b5cfc8e65e4e5d"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与芭芭拉对话",
+              "源码选项组 1",
+              "选项 2：这是…哪个星球…"
+            ],
+            "textHash": "ffb6ef3c2227c269280c503d3efc8bd28b858b884a8e81288a88f5c9478865ab"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与芭芭拉对话"
+            ],
+            "textHash": "eb0953aa81b30c9dc01c1afd684a013323ae6821fa78c160128472d10f6759f1"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "在风起地寻找温迪"
+            ],
+            "textHash": "ac704f51d0a5ca25ee49093d611425f86351157c837c9c7d68bd442652ac8250"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-203-vision",
+    "recordHash": "10ef11bade3b7481034d0537640de384ac3dfd38406f5f0337f6825c324be679",
+    "checkedAt": "2026-10-05",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "对照固定来源核对摘要陈述；保留人物判断、叙事时点和不同谈话场景，不代表整页已核对。",
+    "evidence": [
+      {
+        "pageid": 165043,
+        "title": "尾声的尾声",
+        "revision": 667050,
+        "sha256": "0b9158878613107dfd986d8fa6e7e27fb547b3133612e75302ba8107177514d6",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "在风起地寻找温迪"
+            ],
+            "textHash": "ac704f51d0a5ca25ee49093d611425f86351157c837c9c7d68bd442652ac8250"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-203-liyue",
+    "recordHash": "3cfca678361d516a5d817f592853d9482812d66b462df9b2128d3a83723b9202",
+    "checkedAt": "2026-10-05",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "对照固定来源核对摘要陈述；保留人物判断、叙事时点和不同谈话场景，不代表整页已核对。",
+    "evidence": [
+      {
+        "pageid": 165043,
+        "title": "尾声的尾声",
+        "revision": 667050,
+        "sha256": "0b9158878613107dfd986d8fa6e7e27fb547b3133612e75302ba8107177514d6",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "在风起地寻找温迪"
+            ],
+            "textHash": "1d0b6191482d66425e3d3f03839965ea7ea406268add6ddcdfbeea81a6cab986"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "在风起地寻找温迪"
+            ],
+            "textHash": "4c8937197d10aa598e33d9163298bbc322868adc04886c7ee07f6ac6829fd1c8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-301-overview",
+    "recordHash": "b0318ac7e8838ffe10594841ef1077d2f878033a2d3ab51899939cf3df9dda4d",
+    "checkedAt": "2026-10-05",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "对照固定来源核对摘要陈述，保留人物立场、推测与互斥选项边界。",
+    "evidence": [
+      {
+        "pageid": 164970,
+        "title": "请仙",
+        "revision": 665440,
+        "sha256": "448e6f48bd1400a52aab8cbfb42627e7fb08deb74ca5585109d32599baf2702d",
+        "fragments": [
+          {
+            "path": [
+              "任务描述"
+            ],
+            "textHash": "1586c62c50107991403381603309d2dcbe56f4ef87867384be32604d3fc8e7e0"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "观看典礼",
+              "过场动画",
+              "内容"
+            ],
+            "textHash": "4b57474680c963ad9b5f4c718884a89276a733d040d771308c8a38a4c68ba41d"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与陌生男子对话",
+              "过场动画",
+              "内容"
+            ],
+            "textHash": "023b858693b4db436fa357837bd679f8c8d95df9be2d1a558b7b39485fdfa836"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "在北国银行与「公子」对话"
+            ],
+            "textHash": "349523d0a99c90f2ad5efcbf86bbe0f23981c90be9883bf792f1587c4d414109"
+          }
+        ]
+      },
+      {
+        "pageid": 164971,
+        "title": "惊变",
+        "revision": 675171,
+        "sha256": "68cbf18442d6c8ddfaeff3db3ca8e86bc00d4d156d3194afd6261ede995961af",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "与削月筑阳真君对话"
+            ],
+            "textHash": "42caf38fb31b38f8e9f3edb25002bad77cad6b31d6eb72ed9eb9bc35a4160328"
+          }
+        ]
+      },
+      {
+        "pageid": 164974,
+        "title": "返尘",
+        "revision": 675200,
+        "sha256": "1c011a8d0e7f69ebeeb4e58415af7d3a2db679b430ce0b22bd2cc942246915fc",
+        "fragments": [
+          {
+            "path": [
+              "任务描述"
+            ],
+            "textHash": "52e8cf29a0bd1bd0d32357716d600e2a6d3f6a6ef9b75df5d49edf3669501894"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "回璃月寻找「公子」"
+            ],
+            "textHash": "c713ad186ffc4b291d8254137f559d5244a53f9ed818231cab80ff1713526d68"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-301-rite",
+    "recordHash": "d31762b27a115e01107bf66dbfb2c0f3529793c6b24fc0576170bb964919dc7c",
+    "checkedAt": "2026-10-05",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "对照固定来源核对摘要陈述，保留人物立场、推测与互斥选项边界。",
+    "evidence": [
+      {
+        "pageid": 164970,
+        "title": "请仙",
+        "revision": 665440,
+        "sha256": "448e6f48bd1400a52aab8cbfb42627e7fb08deb74ca5585109d32599baf2702d",
+        "fragments": [
+          {
+            "path": [
+              "任务描述"
+            ],
+            "textHash": "1586c62c50107991403381603309d2dcbe56f4ef87867384be32604d3fc8e7e0"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与市民交谈（琳琅）"
+            ],
+            "textHash": "f2822e12c3f83362f1ecc7a5835b07d85cfc2f67bf020b27975e04025892f898"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-301-escape",
+    "recordHash": "f43f05310e84ceb8db49404e163686b9bce419b07647accd96696130229e5b24",
+    "checkedAt": "2026-10-05",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "对照固定来源核对摘要陈述，保留人物立场、推测与互斥选项边界。",
+    "evidence": [
+      {
+        "pageid": 164970,
+        "title": "请仙",
+        "revision": 665440,
+        "sha256": "448e6f48bd1400a52aab8cbfb42627e7fb08deb74ca5585109d32599baf2702d",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "观看典礼",
+              "过场动画",
+              "内容"
+            ],
+            "textHash": "4b57474680c963ad9b5f4c718884a89276a733d040d771308c8a38a4c68ba41d"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与派蒙对话"
+            ],
+            "textHash": "4a0682e47941cdc8323af38649216d03eee8f1f92c08ad4f92523f194b674d47"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与派蒙对话",
+              "源码选项组 3",
+              "选项1"
+            ],
+            "textHash": "557038e114cd843b5a224298d1cb39a5f0b25c0c5f54f35593a4d574fa45d403"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与派蒙对话",
+              "源码选项组 3",
+              "选项2"
+            ],
+            "textHash": "850f104923211f8603deec9067f9bb0fd559924da05f52549c337fa2a7ab6620"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "逃离千岩军的追捕"
+            ],
+            "textHash": "bab4c26f52377f9bbc74923667168318325d2e7013c41def9408ab0c2e148374"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-301-help",
+    "recordHash": "a419d6d1ea1b4b33ce22f878a7f6ab19f7f07b811ce0f97a6f62f3fe0b642c4b",
+    "checkedAt": "2026-10-05",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "对照固定来源核对摘要陈述，保留人物立场、推测与互斥选项边界。",
+    "evidence": [
+      {
+        "pageid": 164970,
+        "title": "请仙",
+        "revision": 665440,
+        "sha256": "448e6f48bd1400a52aab8cbfb42627e7fb08deb74ca5585109d32599baf2702d",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "与陌生男子对话",
+              "过场动画",
+              "内容"
+            ],
+            "textHash": "023b858693b4db436fa357837bd679f8c8d95df9be2d1a558b7b39485fdfa836"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与陌生男子对话"
+            ],
+            "textHash": "0c7c5374362a2a53e4938204c98ac5098ee76cb8383d48d45248609126e385a3"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与陌生男子对话"
+            ],
+            "textHash": "a83b6fad999b8f2f4fc52195d245edacec0485d283f667b1372892a0929870bc"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-301-talisman",
+    "recordHash": "9d924e0e2fe09402615f2d1d7bbf039706ad8c659a0e395c01526feb03c32733",
+    "checkedAt": "2026-10-05",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "对照固定来源核对摘要陈述，保留人物立场、推测与互斥选项边界。",
+    "evidence": [
+      {
+        "pageid": 164971,
+        "title": "惊变",
+        "revision": 675171,
+        "sha256": "68cbf18442d6c8ddfaeff3db3ca8e86bc00d4d156d3194afd6261ede995961af",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "绝云间遇仙"
+            ],
+            "textHash": "6ff48e55cd3daec4d3dddac26981ca4ee5943463418f60177b60d7b66fad8bc9"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与削月筑阳真君对话"
+            ],
+            "textHash": "42caf38fb31b38f8e9f3edb25002bad77cad6b31d6eb72ed9eb9bc35a4160328"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-301-suspicion",
+    "recordHash": "0a8ab75fe13508f8b15383ef5b64b26f312ba2a62a8f84213fbb83ab2685d76e",
+    "checkedAt": "2026-10-05",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "对照固定来源核对摘要陈述，保留人物立场、推测与互斥选项边界。",
+    "evidence": [
+      {
+        "pageid": 164972,
+        "title": "望舒",
+        "revision": 675201,
+        "sha256": "3064ab9b25b1494fedd81f4f7e02d805fbe7f170ae7c9a47997f6c47de455747",
+        "fragments": [
+          {
+            "path": [
+              "任务描述"
+            ],
+            "textHash": "b17bb25bc2b78405056e26c452710a75862fbe8d490d210426ccd093c11e5454"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-301-xiao",
+    "recordHash": "6d9fa6c5c1262765d65df0e611b61d28a474c3b675ea21c7d414ef0998f615c4",
+    "checkedAt": "2026-10-05",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "对照固定来源核对摘要陈述，保留人物立场、推测与互斥选项边界。",
+    "evidence": [
+      {
+        "pageid": 164972,
+        "title": "望舒",
+        "revision": 675201,
+        "sha256": "3064ab9b25b1494fedd81f4f7e02d805fbe7f170ae7c9a47997f6c47de455747",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "与魈对话"
+            ],
+            "textHash": "dbbb9e2a3067d408e2ad92955577be387eaebf17631be620a674eb143b30dc4d"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "向客栈老板娘请教"
+            ],
+            "textHash": "379b38ab5e9b384fcdbbf5ce6781fe9aba8ed67a624945700374d8a5d0fac0dd"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-301-ghost",
+    "recordHash": "ce34a2fccf234cce802c1b3e21fcc7761661a02c5e81464b0306ec2e9f122e5f",
+    "checkedAt": "2026-10-05",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "对照固定来源核对摘要陈述，保留人物立场、推测与互斥选项边界。",
+    "evidence": [
+      {
+        "pageid": 164972,
+        "title": "望舒",
+        "revision": 675201,
+        "sha256": "3064ab9b25b1494fedd81f4f7e02d805fbe7f170ae7c9a47997f6c47de455747",
+        "fragments": [
+          {
+            "path": [
+              "任务流程"
+            ],
+            "textHash": "f99dc6521b24f776af774663eee1dfc52ced71aa7f70c9a6e2bef97270f55b78"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "向戈黛特求助"
+            ],
+            "textHash": "e6f2380790327848ed8dd8bd8372846f61413c180e30427334c9424297d32760"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "寻找能见到完整降魔印的地方"
+            ],
+            "textHash": "f8e41dcb471452bc9ee0157167dd1d23f7c6d1aad0e36d252662c2ca91c07699"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "打倒遗迹猎者"
+            ],
+            "textHash": "bff0eab15fb11f56a5c92ca59c305d53572bcba189f7671607f4d56377407720"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与小冥对话"
+            ],
+            "textHash": "23690d5ece27793583e0462a710dcc7758188a54c3d8a45ec0632ad8b213dd32"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-301-brothers",
+    "recordHash": "dfe4717e4360fd02148f731022b352e3e57179a6abc5a253f88add66b5ecb162",
+    "checkedAt": "2026-10-05",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "对照固定来源核对摘要陈述，保留人物立场、推测与互斥选项边界。",
+    "evidence": [
+      {
+        "pageid": 164973,
+        "title": "叠山",
+        "revision": 675222,
+        "sha256": "a1590d9f84d8b78369423f173b339d6caf695c765779f2200d77450aceee2c61",
+        "fragments": [
+          {
+            "path": [
+              "任务流程"
+            ],
+            "textHash": "b7e53ea6eff9d2e21bd006ccfd0f74893d5a909815de2dc20e0d3f0160024797"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与李丁、李当对话"
+            ],
+            "textHash": "70a1dee609c2401bd6eea2228e73f516a0c80a8fff4e6142e983389d21d0e57d"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "面见「理水叠山真君」"
+            ],
+            "textHash": "af639a9c58d075ffc06a0a522d26b1eb3e594fe6f0fe0b8a8229adf74e0a68dc"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "面见「理水叠山真君」",
+              "源码选项组 4",
+              "选项 1：请看这个…"
+            ],
+            "textHash": "24c79d52b8502bb67981ee1479e0d1e258adad671debf4639f1cf8daa803174e"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "面见「理水叠山真君」",
+              "源码选项组 4",
+              "选项 2：是削月筑阳真君让我们来…"
+            ],
+            "textHash": "879b2463f62fb68d5380164be4b8df3c834b539a184265e6e9052b5c6dafbcb2"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "面见「理水叠山真君」"
+            ],
+            "textHash": "cc5fe89d6a687fdeea345b9a6a0b3f445807f56a5891ca664fc6946046f4a195"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-301-cloud",
+    "recordHash": "c1ffb2acd9f6ffdc3896c526f1e5d835a3fbd8f41a68cd809558e9935cb78b52",
+    "checkedAt": "2026-10-05",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "对照固定来源核对摘要陈述，保留人物立场、推测与互斥选项边界。",
+    "evidence": [
+      {
+        "pageid": 113853,
+        "title": "留云",
+        "revision": 675198,
+        "sha256": "c7430c2e197c941b79a76d6db67eb69aaf82e70e92cddaa0ab8b217e59e2386d",
+        "fragments": [
+          {
+            "path": [
+              "任务流程"
+            ],
+            "textHash": "0d1b5a46d16025937d62c6844e4bf0527673e35345f44f2c10c6682f265f46f0"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "寻找「留云借风真君」"
+            ],
+            "textHash": "54bd23932ff210a2f54140801425c2245704778b6c4f2d86e856ea4139bab008"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "寻找「留云借风真君」"
+            ],
+            "textHash": "a2cdafc69c037edbb43557df1d720a321d9c20b4f11177a3ffbca1945d1d3773"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "面见「留云借风真君」"
+            ],
+            "textHash": "e31a456010c9a9e2ce0aefba5b7d58bdf1d2287a36cbf2c14b74f5c12529ba50"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "面见「留云借风真君」"
+            ],
+            "textHash": "54cd29fec5415fb287b9b9035855001a19f179ea64d7d31c6c60139688dafe6c"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "面见「留云借风真君」"
+            ],
+            "textHash": "12b413e4be636b279cf6682338f5b4881495ca3bf576bb67fad855c2c0e4f0a5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-301-parallel",
+    "recordHash": "474b0a258b28387af2d7c90c80c69ed24626092465696cef4eb85193f2d1aa8c",
+    "checkedAt": "2026-10-05",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "来源任务条件与前置/并行字段有差异，保留该差异，不推断唯一游玩顺序。",
+    "evidence": [
+      {
+        "pageid": 164972,
+        "title": "望舒",
+        "revision": 675201,
+        "sha256": "3064ab9b25b1494fedd81f4f7e02d805fbe7f170ae7c9a47997f6c47de455747",
+        "fragments": [
+          {
+            "path": [
+              "任务条件"
+            ],
+            "textHash": "ee788b39f5c13a2c09598d42e5ac448fa5be62c0ee135f97e82afa27c6d94405"
+          },
+          {
+            "path": [
+              "前置任务"
+            ],
+            "textHash": "8723e2d0aa26e9de2f8a2506820fa9e51c302d58eee51febe22dd2621a1a470e"
+          },
+          {
+            "path": [
+              "并行任务"
+            ],
+            "textHash": "0f84fdfe9036a36ddc0dc657a190a5489b37cb2ea44dcbe222a767cd29275587"
+          },
+          {
+            "path": [
+              "后续任务"
+            ],
+            "textHash": "94bde5441351927561705fd0f66733f76f13a35745be87f96e7083a63579b922"
+          }
+        ]
+      },
+      {
+        "pageid": 164973,
+        "title": "叠山",
+        "revision": 675222,
+        "sha256": "a1590d9f84d8b78369423f173b339d6caf695c765779f2200d77450aceee2c61",
+        "fragments": [
+          {
+            "path": [
+              "任务条件"
+            ],
+            "textHash": "ee788b39f5c13a2c09598d42e5ac448fa5be62c0ee135f97e82afa27c6d94405"
+          },
+          {
+            "path": [
+              "前置任务"
+            ],
+            "textHash": "8723e2d0aa26e9de2f8a2506820fa9e51c302d58eee51febe22dd2621a1a470e"
+          },
+          {
+            "path": [
+              "并行任务"
+            ],
+            "textHash": "346bbf990b28840bccb62afda4e88a52fa79967083bb8e09e3dc0c49d3454333"
+          },
+          {
+            "path": [
+              "后续任务"
+            ],
+            "textHash": "94bde5441351927561705fd0f66733f76f13a35745be87f96e7083a63579b922"
+          }
+        ]
+      },
+      {
+        "pageid": 113853,
+        "title": "留云",
+        "revision": 675198,
+        "sha256": "c7430c2e197c941b79a76d6db67eb69aaf82e70e92cddaa0ab8b217e59e2386d",
+        "fragments": [
+          {
+            "path": [
+              "任务条件"
+            ],
+            "textHash": "43212a30d69849c0b7862406340e27a1a8462e2e85720ad6c10655656245ec65"
+          },
+          {
+            "path": [
+              "前置任务"
+            ],
+            "textHash": "8723e2d0aa26e9de2f8a2506820fa9e51c302d58eee51febe22dd2621a1a470e"
+          },
+          {
+            "path": [
+              "并行任务"
+            ],
+            "textHash": "47456fbc221379faa63c3d564e136f2c70102144eaf6cde94a17db7f7a54ce2c"
+          },
+          {
+            "path": [
+              "后续任务"
+            ],
+            "textHash": "94bde5441351927561705fd0f66733f76f13a35745be87f96e7083a63579b922"
+          }
+        ]
+      },
+      {
+        "pageid": 164974,
+        "title": "返尘",
+        "revision": 675200,
+        "sha256": "1c011a8d0e7f69ebeeb4e58415af7d3a2db679b430ce0b22bd2cc942246915fc",
+        "fragments": [
+          {
+            "path": [
+              "任务条件"
+            ],
+            "textHash": "f312762f1e675ab6d36f526969a715e7bcc77b6b1b8592f024d3d3b7fa367e77"
+          },
+          {
+            "path": [
+              "前置任务"
+            ],
+            "textHash": "1942258fbef4c97c820e10df2ad579665b5cc44e17d74642c8abf7b90b7da380"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-301-return",
+    "recordHash": "4c1a17af408b46876c9aecf818786a70cda16cbd1456e6a39763d29ed522b004",
+    "checkedAt": "2026-10-05",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "对照固定来源核对摘要陈述，保留人物立场、推测与互斥选项边界。",
+    "evidence": [
+      {
+        "pageid": 164974,
+        "title": "返尘",
+        "revision": 675200,
+        "sha256": "1c011a8d0e7f69ebeeb4e58415af7d3a2db679b430ce0b22bd2cc942246915fc",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "回璃月寻找「公子」"
+            ],
+            "textHash": "c713ad186ffc4b291d8254137f559d5244a53f9ed818231cab80ff1713526d68"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-302-overview",
+    "recordHash": "d567a2ba1468436580a7833cb524d8b8f0ef8382401f0ee9c41cd5574f02e432",
+    "checkedAt": "2026-10-05",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "摘要陈述对照固定来源核对；保留流言、说书与误解语境，不提前揭示后续身份。",
+    "evidence": [
+      {
+        "pageid": 164975,
+        "title": "往生",
+        "revision": 667055,
+        "sha256": "208f3cc250749a630630cb8ecc5186f4c66ca08b0f19d38fe825064e6d4e4fce",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "进入琉璃亭"
+            ],
+            "textHash": "57515d634ab621dca85a1d6f558f8e87eff753e10ae3ff47d934e4e8a5a91f0a"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "进入琉璃亭"
+            ],
+            "textHash": "3a13017332fb7178e828fd06c9cdb541d8cd19233c25840191d70e1bee3ce050"
+          }
+        ]
+      },
+      {
+        "pageid": 164976,
+        "title": "指月",
+        "revision": 667060,
+        "sha256": "26b45c9013c3c2ca97c0384faf485d14b053905230eec5764df9a7e6361b4478",
+        "fragments": [
+          {
+            "path": [
+              "任务描述"
+            ],
+            "textHash": "374eeeab8139593de660b0022ac709cbc8cfe27763575ea66302ced41b57f8f0"
+          },
+          {
+            "path": [
+              "任务流程"
+            ],
+            "textHash": "caefdcba93e690272879b85df1b044e707b3407cd39f12f31ed4b128e27918cc"
+          }
+        ]
+      },
+      {
+        "pageid": 164977,
+        "title": "传香",
+        "revision": 667056,
+        "sha256": "9be3aecb6683f0ea62b42592bfcfecf97b1cf15a3517a2f7fde10cf6af28012a",
+        "fragments": [
+          {
+            "path": [
+              "任务流程"
+            ],
+            "textHash": "03c93f941b6bad5b6fb1ab0a47a5b7ece855076686f4fe961d84e4e70e82d685"
+          }
+        ]
+      },
+      {
+        "pageid": 164978,
+        "title": "壶天",
+        "revision": 667057,
+        "sha256": "8171137d1f919f2bb804bab820a64af57fa23cd00acf1809b43200f5e4c4049e",
+        "fragments": [
+          {
+            "path": [
+              "任务描述"
+            ],
+            "textHash": "ba88b23b903b979ddf79e54ca80250c1bc0747564000719912264907f90e533c"
+          },
+          {
+            "path": [
+              "任务流程"
+            ],
+            "textHash": "c2bd82a44392d57147e828bd0088afadbdeae64b15140ad1b44ba2bd9febd49d"
+          }
+        ]
+      },
+      {
+        "pageid": 164979,
+        "title": "市井",
+        "revision": 673608,
+        "sha256": "80711ca408528b4560ae5b0c31d41ec4b3e62a70381832be687b8b1e565a2e21",
+        "fragments": [
+          {
+            "path": [
+              "任务流程"
+            ],
+            "textHash": "4e28f010c02435c916ffbb99f962735d32aab675a9178df8bec69a5d0ef38c4a"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "前往购买风筝"
+            ],
+            "textHash": "8dba4d35024985c36578e6810674c5c1ff7a8c8f139ce951270d3fb757b5285f"
+          }
+        ]
+      },
+      {
+        "pageid": 164980,
+        "title": "归终（任务）",
+        "revision": 667059,
+        "sha256": "7f0342469f5afd953b448a3aec5c7f362c1724be267ec97a5d4862e1d3c7937d",
+        "fragments": [
+          {
+            "path": [
+              "任务描述"
+            ],
+            "textHash": "bde4776f5366ec9abc995a0fdd98be9686d59e9d723fcfb02ce1a183ac9320b1"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "放置永生香"
+            ],
+            "textHash": "940047224dab32d8fc3d69553c870cde5f5a4237fed52246588f8a6c7e158222"
+          }
+        ]
+      },
+      {
+        "pageid": 164981,
+        "title": "邀约",
+        "revision": 673609,
+        "sha256": "65b1ceb0121c61a207e799573048c5a2aead81422d784d3445c6bbc6fde8c2ea",
+        "fragments": [
+          {
+            "path": [
+              "任务流程"
+            ],
+            "textHash": "07cfa06b469153a6077cf29a5d681a9fb0009c15e119e6d42541079ed286a2b3"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "在钟离身边坐下"
+            ],
+            "textHash": "1f53d8a3a008ba86aab2d91f40bca3d21fe3eea1ef590f6c9092d47b1abcfc2e"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "在钟离身边坐下"
+            ],
+            "textHash": "198e6fd21b9a06f074acf2be5f3c0f5a640b0e6688fa324bc32ec1834fd9e689"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-302-meeting",
+    "recordHash": "f2cc918c95342f009844955578ce79d0604a9b45ad484b255ab9fffe033f80e6",
+    "checkedAt": "2026-10-05",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "摘要陈述对照固定来源核对；保留流言、说书与误解语境，不提前揭示后续身份。",
+    "evidence": [
+      {
+        "pageid": 164975,
+        "title": "往生",
+        "revision": 667055,
+        "sha256": "208f3cc250749a630630cb8ecc5186f4c66ca08b0f19d38fe825064e6d4e4fce",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "寻找「公子」"
+            ],
+            "textHash": "e7b0780a44ddbcfd4dede755b1e0ffe3f0f8a1bce10c33734b8bc701089ed9f2"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "进入琉璃亭"
+            ],
+            "textHash": "57515d634ab621dca85a1d6f558f8e87eff753e10ae3ff47d934e4e8a5a91f0a"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "进入琉璃亭"
+            ],
+            "textHash": "3a13017332fb7178e828fd06c9cdb541d8cd19233c25840191d70e1bee3ce050"
+          }
+        ]
+      },
+      {
+        "pageid": 164976,
+        "title": "指月",
+        "revision": 667060,
+        "sha256": "26b45c9013c3c2ca97c0384faf485d14b053905230eec5764df9a7e6361b4478",
+        "fragments": [
+          {
+            "path": [
+              "任务描述"
+            ],
+            "textHash": "374eeeab8139593de660b0022ac709cbc8cfe27763575ea66302ced41b57f8f0"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-302-motive",
+    "recordHash": "6f05febe2f1d5c157d444f3fa1193ea009794603e02a777b9e3404e8c3936c09",
+    "checkedAt": "2026-10-05",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "摘要陈述对照固定来源核对；保留流言、说书与误解语境，不提前揭示后续身份。",
+    "evidence": [
+      {
+        "pageid": 164976,
+        "title": "指月",
+        "revision": 667060,
+        "sha256": "26b45c9013c3c2ca97c0384faf485d14b053905230eec5764df9a7e6361b4478",
+        "fragments": [
+          {
+            "path": [
+              "任务描述"
+            ],
+            "textHash": "374eeeab8139593de660b0022ac709cbc8cfe27763575ea66302ced41b57f8f0"
+          }
+        ]
+      },
+      {
+        "pageid": 164975,
+        "title": "往生",
+        "revision": 667055,
+        "sha256": "208f3cc250749a630630cb8ecc5186f4c66ca08b0f19d38fe825064e6d4e4fce",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "进入琉璃亭"
+            ],
+            "textHash": "57515d634ab621dca85a1d6f558f8e87eff753e10ae3ff47d934e4e8a5a91f0a"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "进入琉璃亭"
+            ],
+            "textHash": "3a13017332fb7178e828fd06c9cdb541d8cd19233c25840191d70e1bee3ce050"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-302-stone",
+    "recordHash": "f396ad1734379cb937069087c49ceabd8631e07c18575a671cb42005c9967512",
+    "checkedAt": "2026-10-05",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "摘要陈述对照固定来源核对；保留流言、说书与误解语境，不提前揭示后续身份。",
+    "evidence": [
+      {
+        "pageid": 164976,
+        "title": "指月",
+        "revision": 667060,
+        "sha256": "26b45c9013c3c2ca97c0384faf485d14b053905230eec5764df9a7e6361b4478",
+        "fragments": [
+          {
+            "path": [
+              "任务流程"
+            ],
+            "textHash": "caefdcba93e690272879b85df1b044e707b3407cd39f12f31ed4b128e27918cc"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "前往购买夜泊石"
+            ],
+            "textHash": "e11e616b443725d4ce0572ad73c3220520150589a53b7b09fead1da4712ac0a7"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "接近大锅"
+            ],
+            "textHash": "ba224fe03124f72d689729647efef0d9b0231bf214e7c1bac237f565cd842ca8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-302-perfume",
+    "recordHash": "3ef4cab76437ea35f21568e204caa927703daeaba1c01c59cebf3d5f7d39dd0c",
+    "checkedAt": "2026-10-05",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "摘要陈述对照固定来源核对；保留流言、说书与误解语境，不提前揭示后续身份。",
+    "evidence": [
+      {
+        "pageid": 164977,
+        "title": "传香",
+        "revision": 667056,
+        "sha256": "9be3aecb6683f0ea62b42592bfcfecf97b1cf15a3517a2f7fde10cf6af28012a",
+        "fragments": [
+          {
+            "path": [
+              "任务流程"
+            ],
+            "textHash": "03c93f941b6bad5b6fb1ab0a47a5b7ece855076686f4fe961d84e4e70e82d685"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与莺儿汇合"
+            ],
+            "textHash": "724cf01b9339b4253edecf27f29dc49db09ee92c703daa4001dd359a6e550fe9"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与莺儿对话"
+            ],
+            "textHash": "4d41f5b2d07234cb54d5050567e4a7187b3d25ded775ecab90b1a076cfb9f4f3"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "把精油带给莺儿"
+            ],
+            "textHash": "1c541d265794267a2a59ab9469307e13aca15e48af5938a4cbcfbe6c082aaef3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-302-rumors",
+    "recordHash": "4500e23f3fda7d9915f6b356b9c6dc30e6f6fea5ef4b7457ab9b8150a9060baa",
+    "checkedAt": "2026-10-05",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "摘要陈述对照固定来源核对；保留流言、说书与误解语境，不提前揭示后续身份。",
+    "evidence": [
+      {
+        "pageid": 164978,
+        "title": "壶天",
+        "revision": 667057,
+        "sha256": "8171137d1f919f2bb804bab820a64af57fa23cd00acf1809b43200f5e4c4049e",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "与萍姥姥对话"
+            ],
+            "textHash": "db5df2c76096e31ead383da6e7c6905174c8385401de09b2746145d385f1c31e"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-302-bell",
+    "recordHash": "d1dd0d2989e13f5883c19b21f0459da9ac8a25c4ed727ba703acb8667049b22c",
+    "checkedAt": "2026-10-05",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "摘要陈述对照固定来源核对；保留流言、说书与误解语境，不提前揭示后续身份。",
+    "evidence": [
+      {
+        "pageid": 164978,
+        "title": "壶天",
+        "revision": 667057,
+        "sha256": "8171137d1f919f2bb804bab820a64af57fa23cd00acf1809b43200f5e4c4049e",
+        "fragments": [
+          {
+            "path": [
+              "任务描述"
+            ],
+            "textHash": "ba88b23b903b979ddf79e54ca80250c1bc0747564000719912264907f90e533c"
+          },
+          {
+            "path": [
+              "任务流程"
+            ],
+            "textHash": "c2bd82a44392d57147e828bd0088afadbdeae64b15140ad1b44ba2bd9febd49d"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "触碰萍姥姥的壶"
+            ],
+            "textHash": "efe53b83ac40ea28dc5fd2a1ee5bf3ad90272148fcc09f0e808295e716efc96b"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-302-kites",
+    "recordHash": "36efbe3562a48756d3046d821260fcad2774f938577aa379b3c997e1625c9682",
+    "checkedAt": "2026-10-05",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "摘要陈述对照固定来源核对；保留流言、说书与误解语境，不提前揭示后续身份。",
+    "evidence": [
+      {
+        "pageid": 164979,
+        "title": "市井",
+        "revision": 673608,
+        "sha256": "80711ca408528b4560ae5b0c31d41ec4b3e62a70381832be687b8b1e565a2e21",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "前往购买风筝"
+            ],
+            "textHash": "6da822fb44a807fb2d6c2a6c859fb30027a7e7b56aa1abec6f990e7ccb536f48"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "前往购买风筝"
+            ],
+            "textHash": "8dba4d35024985c36578e6810674c5c1ff7a8c8f139ce951270d3fb757b5285f"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-302-workers",
+    "recordHash": "fe37ae33f455784db165ab569dc72fff4da2955680cefb131975d19751587442",
+    "checkedAt": "2026-10-05",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "摘要陈述对照固定来源核对；保留流言、说书与误解语境，不提前揭示后续身份。",
+    "evidence": [
+      {
+        "pageid": 164979,
+        "title": "市井",
+        "revision": 673608,
+        "sha256": "80711ca408528b4560ae5b0c31d41ec4b3e62a70381832be687b8b1e565a2e21",
+        "fragments": [
+          {
+            "path": [
+              "出场人物"
+            ],
+            "textHash": "e7df56def7560818c9eb0f733a52b728e3a62d25fd3ab25f3bca9830b053a73b"
+          },
+          {
+            "path": [
+              "任务流程"
+            ],
+            "textHash": "4e28f010c02435c916ffbb99f962735d32aab675a9178df8bec69a5d0ef38c4a"
+          }
+        ]
+      },
+      {
+        "pageid": 164980,
+        "title": "归终（任务）",
+        "revision": 667059,
+        "sha256": "7f0342469f5afd953b448a3aec5c7f362c1724be267ec97a5d4862e1d3c7937d",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "放置永生香"
+            ],
+            "textHash": "940047224dab32d8fc3d69553c870cde5f5a4237fed52246588f8a6c7e158222"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-302-coconut",
+    "recordHash": "5a346c6a75543c4265c80817e972350c067c7ac16accae2ecfc0e1b228f38907",
+    "checkedAt": "2026-10-05",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "摘要陈述对照固定来源核对；保留流言、说书与误解语境，不提前揭示后续身份。",
+    "evidence": [
+      {
+        "pageid": 164980,
+        "title": "归终（任务）",
+        "revision": 667059,
+        "sha256": "7f0342469f5afd953b448a3aec5c7f362c1724be267ec97a5d4862e1d3c7937d",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "寻找声音来源"
+            ],
+            "textHash": "db853c1d67b20bdd0faa8ac2b09dd0cfb5870f460c91178c9ab80c415e36cc86"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "回不卜庐找七七"
+            ],
+            "textHash": "b8ab214e139ac5dded2a906485989b00d19e2fb839c9e49ed960d4b26bec18ce"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "回不卜庐找七七",
+              "源码选项组 8",
+              "选项1"
+            ],
+            "textHash": "ed1aafdc613f830e047a425c36abd8f1c5526a847d5543068e22401382cb3157"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "回不卜庐找七七",
+              "源码选项组 8",
+              "选项2"
+            ],
+            "textHash": "f1918a41b0c8a04d589aafaa18ae9c790837f2e2d2ab18588853f6047181314b"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-302-storyteller",
+    "recordHash": "b8bcfff16e36be7010545f218817603a7a8bc0c9e0ce183781c11df509b2f393",
+    "checkedAt": "2026-10-05",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "摘要陈述对照固定来源核对；保留流言、说书与误解语境，不提前揭示后续身份。",
+    "evidence": [
+      {
+        "pageid": 164981,
+        "title": "邀约",
+        "revision": 673609,
+        "sha256": "65b1ceb0121c61a207e799573048c5a2aead81422d784d3445c6bbc6fde8c2ea",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "在钟离身边坐下"
+            ],
+            "textHash": "15234566cf7a0fa629efb5872778a1d0131581fc6f8f74368912120de5ffd659"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "在钟离身边坐下",
+              "过场动画",
+              "内容"
+            ],
+            "textHash": "359046b66aba38e945a56f3d344cf1c11e0cc237c57d4ae1c15a2e87bbae6cf3"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "在钟离身边坐下"
+            ],
+            "textHash": "c2c059e4c1119cb9e6f1ac0ad99adf12c4e52bef3ab28657115d03347c3af277"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-302-invitation",
+    "recordHash": "5926bd9b068a58eb412d142bc94cbf5e8c55a101e12bb3377057b88291d52201",
+    "checkedAt": "2026-10-05",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "摘要陈述对照固定来源核对；保留流言、说书与误解语境，不提前揭示后续身份。",
+    "evidence": [
+      {
+        "pageid": 164981,
+        "title": "邀约",
+        "revision": 673609,
+        "sha256": "65b1ceb0121c61a207e799573048c5a2aead81422d784d3445c6bbc6fde8c2ea",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "在钟离身边坐下"
+            ],
+            "textHash": "c2c059e4c1119cb9e6f1ac0ad99adf12c4e52bef3ab28657115d03347c3af277"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "在钟离身边坐下"
+            ],
+            "textHash": "1f53d8a3a008ba86aab2d91f40bca3d21fe3eea1ef590f6c9092d47b1abcfc2e"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "在钟离身边坐下"
+            ],
+            "textHash": "198e6fd21b9a06f074acf2be5f3c0f5a640b0e6688fa324bc32ec1834fd9e689"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-303-overview",
+    "recordHash": "8c367323398eb371ae17265630939f23111db890a81b24e5553506f1c34be122",
+    "checkedAt": "2026-10-05",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "对照任务原文核对陈述，区分公子推测、钟离自述、未公开的交易对价及实际发生的行动。",
+    "evidence": [
+      {
+        "pageid": 164982,
+        "title": "浮城",
+        "revision": 666988,
+        "sha256": "1c474ca4eab8c06ec055dac7872aed646ed23f42f2ec1ccad8f136b0c6e585a6",
+        "fragments": [
+          {
+            "path": [
+              "任务描述"
+            ],
+            "textHash": "7f2f45ea59e0566e8f9bc63e7fbdd8f8b7a575d8fbc54db3bd450f38aa608438"
+          }
+        ]
+      },
+      {
+        "pageid": 164984,
+        "title": "孤芳",
+        "revision": 666993,
+        "sha256": "e2cca54f5a94402fc7122d2f6d6da56c2be721554d50f2dd98698a58867695d8",
+        "fragments": [
+          {
+            "path": [
+              "任务流程"
+            ],
+            "textHash": "31cc5ed22706fdec8eccf16dd33341fd547f94036ac2abc33ea9b807879477fd"
+          }
+        ]
+      },
+      {
+        "pageid": 164985,
+        "title": "离心",
+        "revision": 666992,
+        "sha256": "d2a0b970ffb96b60801095e98efda3e3adddcaf3d6bb57872dd4c68496886f76",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "与「公子」作战",
+              "过场动画",
+              "内容"
+            ],
+            "textHash": "b1342713efb27b441eabdcb430f4deaf8ec362795dc7f45419bc9e6ddd7a3d2b"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与「公子」作战"
+            ],
+            "textHash": "9863193f780710151513e7fd2b9b8a93d910e8dc9601d944c8f463269e32720e"
+          }
+        ]
+      },
+      {
+        "pageid": 164986,
+        "title": "回天",
+        "revision": 666994,
+        "sha256": "ade772b100c43a0e28e05aff89d4f3950e04a69134156437d61106da3e59b744",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "共同抵御远古魔神"
+            ],
+            "textHash": "65dc62ee2c611979cd1308cca8418f09214e1620390968915af7dc6138ba9924"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "共同抵御远古魔神",
+              "场景说明"
+            ],
+            "textHash": "ae61593207ac9cf3227f1625020322c4a2dd052d6c97a0f9c8e2699b1dd5545d"
+          }
+        ]
+      },
+      {
+        "pageid": 164987,
+        "title": "送仙",
+        "revision": 666990,
+        "sha256": "17ac4187dfe78b35b58640db47bcc8c17887af0f90feb29d8a07feb801516fae",
+        "fragments": [
+          {
+            "path": [
+              "任务流程"
+            ],
+            "textHash": "f2a111ef752cc7d4a7cf2bcb93dfce33515920a0e5b1125957bda3ecadd15174"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-303-route",
+    "recordHash": "0b094e273dcaebddfe5afffdc8d2e94ecab60a055fa2a1c2990175dfa57a9954",
+    "checkedAt": "2026-10-05",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "对照任务原文核对陈述，区分公子推测、钟离自述、未公开的交易对价及实际发生的行动。",
+    "evidence": [
+      {
+        "pageid": 164982,
+        "title": "浮城",
+        "revision": 666988,
+        "sha256": "1c474ca4eab8c06ec055dac7872aed646ed23f42f2ec1ccad8f136b0c6e585a6",
+        "fragments": [
+          {
+            "path": [
+              "任务描述"
+            ],
+            "textHash": "7f2f45ea59e0566e8f9bc63e7fbdd8f8b7a575d8fbc54db3bd450f38aa608438"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "尝试操控机关"
+            ],
+            "textHash": "3aa793b3206fba6a6d140f0d70252e68360e179f20bd2bb9749329d6239f84d0"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "尝试操控机关",
+              "源码选项组 4",
+              "选项1"
+            ],
+            "textHash": "a4701514f65f85d2fd9693247157f38b1b2ab94faaa1188859fa0189901430cc"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "尝试操控机关",
+              "源码选项组 4",
+              "选项 1：不了，会死的。"
+            ],
+            "textHash": "d771645bd1d1a643bfadb58afbc59a2f37c82e1e25fe5e69ffad3bfbf3e0527e"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "尝试操控机关",
+              "源码选项组 4",
+              "选项2"
+            ],
+            "textHash": "8475669b4591cef663088717e356f422edd3fa4b47af15f8c989a0f1b2718e87"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "尝试操控机关",
+              "源码选项组 4",
+              "选项 2：难道你很恨我吗？"
+            ],
+            "textHash": "c3179593182dfb02eecf78317e0456dddee6e391d37b9232848863e8db05761e"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "尝试操控机关"
+            ],
+            "textHash": "88fe674847c8783865c86b997866d6191bf060ca4a49809b1f671de772ee4d2c"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-303-gift",
+    "recordHash": "4bab52a4d7054840145dc8537a44cad249257e98aa7eefc874735ae8b79d2a91",
+    "checkedAt": "2026-10-05",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "对照任务原文核对陈述，区分公子推测、钟离自述、未公开的交易对价及实际发生的行动。",
+    "evidence": [
+      {
+        "pageid": 164983,
+        "title": "玑衡",
+        "revision": 666991,
+        "sha256": "e1cfb33afa4079043431b9d75e9b0b490d0014c7346443f7d503c3b1f0e8139d",
+        "fragments": [
+          {
+            "path": [
+              "任务描述"
+            ],
+            "textHash": "ef87ae68f4497599125d1f2b4906308cde861eb657a413a3c0498dbed499eb1b"
+          },
+          {
+            "path": [
+              "任务流程"
+            ],
+            "textHash": "3d428b29899bbe8f4376c0f1baa463570e649b85c6bbf3029c66f440247db78b"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与笼中人对话"
+            ],
+            "textHash": "4309196271e11ffe04aa8541b1efa2ba1e0054e355207a6e1ea4a6e14236c344"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-303-clue",
+    "recordHash": "c0eee7cb3761da1dc3bf403e16095c09b8d95887b84f3834915775c2b6b29513",
+    "checkedAt": "2026-10-05",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "对照任务原文核对陈述，区分公子推测、钟离自述、未公开的交易对价及实际发生的行动。",
+    "evidence": [
+      {
+        "pageid": 164984,
+        "title": "孤芳",
+        "revision": 666993,
+        "sha256": "e2cca54f5a94402fc7122d2f6d6da56c2be721554d50f2dd98698a58867695d8",
+        "fragments": [
+          {
+            "path": [
+              "任务流程"
+            ],
+            "textHash": "31cc5ed22706fdec8eccf16dd33341fd547f94036ac2abc33ea9b807879477fd"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-303-duel",
+    "recordHash": "a6754d951d9631be45850495b7260450610a8c4e3b9bc3b5ca8ead4337285d0d",
+    "checkedAt": "2026-10-05",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "对照任务原文核对陈述，区分公子推测、钟离自述、未公开的交易对价及实际发生的行动。",
+    "evidence": [
+      {
+        "pageid": 164985,
+        "title": "离心",
+        "revision": 666992,
+        "sha256": "d2a0b970ffb96b60801095e98efda3e3adddcaf3d6bb57872dd4c68496886f76",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "与「公子」作战",
+              "过场动画",
+              "内容"
+            ],
+            "textHash": "b1342713efb27b441eabdcb430f4deaf8ec362795dc7f45419bc9e6ddd7a3d2b"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与「公子」作战"
+            ],
+            "textHash": "3c03fbf7babff2babc26efd5dee9784dfefd1caa8831646f7e454535d669ef9c"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与「公子」作战"
+            ],
+            "textHash": "d1ffc7623e27c931dafafa4f596ae588e0a0916194f11060512232b01e19f57d"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-303-backup",
+    "recordHash": "7ece10dd051fa95acb33e0790ef18439e6bde56eb0cbde17604674cc3cc65003",
+    "checkedAt": "2026-10-05",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "对照任务原文核对陈述，区分公子推测、钟离自述、未公开的交易对价及实际发生的行动。",
+    "evidence": [
+      {
+        "pageid": 164985,
+        "title": "离心",
+        "revision": 666992,
+        "sha256": "d2a0b970ffb96b60801095e98efda3e3adddcaf3d6bb57872dd4c68496886f76",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "与「公子」作战"
+            ],
+            "textHash": "6552709cd8e1fed5f2f8000e98280ea1da217ddce303369cf48d20789950230a"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与「公子」作战"
+            ],
+            "textHash": "9863193f780710151513e7fd2b9b8a93d910e8dc9601d944c8f463269e32720e"
+          }
+        ]
+      },
+      {
+        "pageid": 164987,
+        "title": "送仙",
+        "revision": 666990,
+        "sha256": "17ac4187dfe78b35b58640db47bcc8c17887af0f90feb29d8a07feb801516fae",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "去北国银行找钟离"
+            ],
+            "textHash": "b586ef2fedbb4457d714491444043137a2287d39c6f342e057635f60c1d6f6d7"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-303-alliance",
+    "recordHash": "fe8da39d8d370c6564d78bc054f046a41d90d146a3c5baeeb5552a37014f5def",
+    "checkedAt": "2026-10-05",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "对照任务原文核对陈述，区分公子推测、钟离自述、未公开的交易对价及实际发生的行动。",
+    "evidence": [
+      {
+        "pageid": 164986,
+        "title": "回天",
+        "revision": 666994,
+        "sha256": "ade772b100c43a0e28e05aff89d4f3950e04a69134156437d61106da3e59b744",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "共同抵御远古魔神"
+            ],
+            "textHash": "65dc62ee2c611979cd1308cca8418f09214e1620390968915af7dc6138ba9924"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "共同抵御远古魔神",
+              "过场动画",
+              "内容"
+            ],
+            "textHash": "3cbf805a4823b05ab6ce0e1d860a878e6f9d3251db120cd185d54c5998c885a5"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "共同抵御远古魔神"
+            ],
+            "textHash": "91cc57809d30add32e4a72a70b768710613416797dd418e80d948a4c8e0c40e7"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-303-sacrifice",
+    "recordHash": "ac6d82f759fc39327d8c8f20befdf881ebcfb564bbf5e8f99a03c5f2578e69ea",
+    "checkedAt": "2026-10-05",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "对照任务原文核对陈述，区分公子推测、钟离自述、未公开的交易对价及实际发生的行动。",
+    "evidence": [
+      {
+        "pageid": 164986,
+        "title": "回天",
+        "revision": 666994,
+        "sha256": "ade772b100c43a0e28e05aff89d4f3950e04a69134156437d61106da3e59b744",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "共同抵御远古魔神",
+              "过场动画",
+              "内容"
+            ],
+            "textHash": "49e82bac3dc8c0e642d2186bf9a4693d059adb40b66a636da863854765403c12"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "共同抵御远古魔神",
+              "场景说明"
+            ],
+            "textHash": "ae61593207ac9cf3227f1625020322c4a2dd052d6c97a0f9c8e2699b1dd5545d"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-303-identity",
+    "recordHash": "2f6eaab6b999c2e7b02d71a02dfd58ea6baf27fdd354e94071461b88888f3fe6",
+    "checkedAt": "2026-10-05",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "对照任务原文核对陈述，区分公子推测、钟离自述、未公开的交易对价及实际发生的行动。",
+    "evidence": [
+      {
+        "pageid": 164987,
+        "title": "送仙",
+        "revision": 666990,
+        "sha256": "17ac4187dfe78b35b58640db47bcc8c17887af0f90feb29d8a07feb801516fae",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "去北国银行找钟离"
+            ],
+            "textHash": "1de769a0623db7db411857dbfde2f627f5aa674092c53179c48a829213da9522"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "去北国银行找钟离"
+            ],
+            "textHash": "bf1f02d89a4eef062d8d1f617c061827cfa1e9c70319f118245e6d316725e7a7"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "去北国银行找钟离"
+            ],
+            "textHash": "3db3ed45f5eba9391a64f545b615af703d9ed1d69243728fe3522783ed6fdc3c"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "去北国银行找钟离"
+            ],
+            "textHash": "99b676540b41f86fba78d8a492a94e6d1b65ffe48940f3350c2f10a9cc86dff5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-303-test",
+    "recordHash": "9345ca768fb2e7c9c8857255ca841420b89b6f76025d66894bf7744b75c3f07a",
+    "checkedAt": "2026-10-05",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "对照任务原文核对陈述，区分公子推测、钟离自述、未公开的交易对价及实际发生的行动。",
+    "evidence": [
+      {
+        "pageid": 164987,
+        "title": "送仙",
+        "revision": 666990,
+        "sha256": "17ac4187dfe78b35b58640db47bcc8c17887af0f90feb29d8a07feb801516fae",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "去北国银行找钟离"
+            ],
+            "textHash": "b586ef2fedbb4457d714491444043137a2287d39c6f342e057635f60c1d6f6d7"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "去北国银行找钟离"
+            ],
+            "textHash": "99b676540b41f86fba78d8a492a94e6d1b65ffe48940f3350c2f10a9cc86dff5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-303-price",
+    "recordHash": "534aca8100a51b748bdd65e051520068042524ce050d950524285e1b649d37fe",
+    "checkedAt": "2026-10-05",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "对照任务原文核对陈述，区分公子推测、钟离自述、未公开的交易对价及实际发生的行动。",
+    "evidence": [
+      {
+        "pageid": 164987,
+        "title": "送仙",
+        "revision": 666990,
+        "sha256": "17ac4187dfe78b35b58640db47bcc8c17887af0f90feb29d8a07feb801516fae",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "去北国银行找钟离"
+            ],
+            "textHash": "3db3ed45f5eba9391a64f545b615af703d9ed1d69243728fe3522783ed6fdc3c"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "去北国银行找钟离"
+            ],
+            "textHash": "88baea80448b144c01d6339dadde6b71166304e98d6cbb6913d232fb045f902b"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "去北国银行找钟离",
+              "额外对话（钟离）",
+              "内容"
+            ],
+            "textHash": "35a2eb3fb5387030a668104ec3a27c888fc6bb156d99de32c41f7a4bdf8369e0"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-303-ending",
+    "recordHash": "6211be15242226c4a6d207ab24b305fe091758e725eb419f78132408db73e94b",
+    "checkedAt": "2026-10-05",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "对照任务原文核对陈述，区分公子推测、钟离自述、未公开的交易对价及实际发生的行动。",
+    "evidence": [
+      {
+        "pageid": 164987,
+        "title": "送仙",
+        "revision": 666990,
+        "sha256": "17ac4187dfe78b35b58640db47bcc8c17887af0f90feb29d8a07feb801516fae",
+        "fragments": [
+          {
+            "path": [
+              "任务流程"
+            ],
+            "textHash": "f2a111ef752cc7d4a7cf2bcb93dfce33515920a0e5b1125957bda3ecadd15174"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "前往送仙典仪现场"
+            ],
+            "textHash": "91fb3a08d340903d51f5528f106ee674df302ab205b8b316b9932bcbd6c098db"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-304-overview",
+    "recordHash": "f9321a7ae81d57e40e743b7bc820e488f717b9a393b5a09519e749088de6af57",
+    "checkedAt": "2026-10-05",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "对照固定来源核对；三问保留条件分支，蒲公英感知与旅伴身份不补写未揭示的原因。",
+    "evidence": [
+      {
+        "pageid": 8321,
+        "title": "拾枝者·戴因斯雷布",
+        "revision": 667067,
+        "sha256": "c1dbc1ed81506880747ef8a35e1e229c01d318c4c7d5ee55d9f7ba4ae4b02d8c",
+        "fragments": [
+          {
+            "path": [
+              "任务流程"
+            ],
+            "textHash": "5d5d37027bc334dc3e7809e56334f226800d0587426bd3f38ef63bd9632d984d"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与蒙德的凯瑟琳对话"
+            ],
+            "textHash": "892fec93569dc2061df16b317c9bfe30ccb95c3db6da788bcf9da1f9881def43"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "前往酒馆一楼，寻找那位「陌生人」"
+            ],
+            "textHash": "48982e19fe24f258af0dcad47007e56adddf4061438c85f74d5bd8c8f81a2dab"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与戴因斯雷布对话"
+            ],
+            "textHash": "c236427266db7d0d525119bac20eb872235c211089dcf9c56919cb79a51272cf"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与戴因斯雷布对话"
+            ],
+            "textHash": "f9d4df0c8f13675fa90ded42ab50d7937fdc6c7802927c50cf5a522addee1a84"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与戴因斯雷布对话"
+            ],
+            "textHash": "8628a58c9e2aef24a70decc957ab7599bd29ec14d9355b0aac17da0c609c128c"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-304-lead",
+    "recordHash": "983850605e7140d1a68a891d89265edf90c28e3dd872ef5bd9bb747ed5d122ab",
+    "checkedAt": "2026-10-05",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "对照固定来源核对；三问保留条件分支，蒲公英感知与旅伴身份不补写未揭示的原因。",
+    "evidence": [
+      {
+        "pageid": 8321,
+        "title": "拾枝者·戴因斯雷布",
+        "revision": 667067,
+        "sha256": "c1dbc1ed81506880747ef8a35e1e229c01d318c4c7d5ee55d9f7ba4ae4b02d8c",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "与蒙德的凯瑟琳对话"
+            ],
+            "textHash": "892fec93569dc2061df16b317c9bfe30ccb95c3db6da788bcf9da1f9881def43"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "向劳伦斯打听那位「陌生人」的消息"
+            ],
+            "textHash": "a60411cd0c187bd77e4784abd5fb96594cf67391b3707fba853cf4c9cde5acd0"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "向瓦格纳打听那位「陌生人」的消息"
+            ],
+            "textHash": "08317934cf68cb6dde433ba91d00cd6b67dc896ed80fe480008e94534270df4d"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-304-tavern",
+    "recordHash": "1b02de4d1d9cf0f67b7c4e70958f3ae996ddecb915e429c108ed2fb19eae2669",
+    "checkedAt": "2026-10-05",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "对照固定来源核对；三问保留条件分支，蒲公英感知与旅伴身份不补写未揭示的原因。",
+    "evidence": [
+      {
+        "pageid": 8321,
+        "title": "拾枝者·戴因斯雷布",
+        "revision": 667067,
+        "sha256": "c1dbc1ed81506880747ef8a35e1e229c01d318c4c7d5ee55d9f7ba4ae4b02d8c",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "向查尔斯打听那位「陌生人」的消息"
+            ],
+            "textHash": "815dab4831f4cae096942c6d0c8e08134b10f92368e7ba1319fa72e9ff811d64"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-304-questions",
+    "recordHash": "9c0cd0df06e44db131b6db61aa4ff609de37758e803cc997ed25b4e807b1b53f",
+    "checkedAt": "2026-10-05",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "对照固定来源核对；三问保留条件分支，蒲公英感知与旅伴身份不补写未揭示的原因。",
+    "evidence": [
+      {
+        "pageid": 8321,
+        "title": "拾枝者·戴因斯雷布",
+        "revision": 667067,
+        "sha256": "c1dbc1ed81506880747ef8a35e1e229c01d318c4c7d5ee55d9f7ba4ae4b02d8c",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "前往酒馆一楼，寻找那位「陌生人」"
+            ],
+            "textHash": "f1513b6a3c0a2da424ad70ad24d131308cab2f11d755fd22ec1e81de3706757f"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "前往酒馆一楼，寻找那位「陌生人」"
+            ],
+            "textHash": "1d022d0e584e40c955022dc137cc2fe9d7a140d312d98f7049f435880e8717d3"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "前往酒馆一楼，寻找那位「陌生人」",
+              "源码选项组 6",
+              "选项1"
+            ],
+            "textHash": "7d13bc3aa6df01ddf1b1e7dba2ee2ef101198bd317ef02d595878cd2d4f64c54"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "前往酒馆一楼，寻找那位「陌生人」",
+              "源码选项组 6",
+              "选项2"
+            ],
+            "textHash": "69f427cc6d6124c93cfb96391bb18aa41ba80ba64e63f04da3fa310b3538736c"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "前往酒馆一楼，寻找那位「陌生人」",
+              "源码选项组 6",
+              "选项3"
+            ],
+            "textHash": "266a763cca3914305ed86f78e8f19fc90d2b1a71149c1fcb6141b570d8a03a81"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "前往酒馆一楼，寻找那位「陌生人」"
+            ],
+            "textHash": "aefff716e245d406818f47c30faa5549dd71dca75f07682d78d0c439f7c0b564"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "前往酒馆一楼，寻找那位「陌生人」",
+              "源码选项组 7",
+              "选项1"
+            ],
+            "textHash": "7cf3336da845a6cfbedd45838a97da97638512556c35578949b499654f5b0bcb"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "前往酒馆一楼，寻找那位「陌生人」",
+              "源码选项组 7",
+              "选项2"
+            ],
+            "textHash": "8a7eed6848189afe98a4a34d09e19d99ca08a2d4f8aedd2614a8d6fea226728e"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "前往酒馆一楼，寻找那位「陌生人」",
+              "源码选项组 7",
+              "选项3"
+            ],
+            "textHash": "52c3177010691ae6542ce19df363d27e262a61b2045e5431c0e080d7b463cfa4"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "前往酒馆一楼，寻找那位「陌生人」"
+            ],
+            "textHash": "1c0ff14bc1c0af887dc19685b1129baa0ae7d1dc6114e521bc40246e86224031"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "前往酒馆一楼，寻找那位「陌生人」",
+              "源码选项组 8",
+              "选项1"
+            ],
+            "textHash": "464b6d2550ec8d0fc68afb81e1fcdaf62b7aa98656fea154ee03d23f718585f3"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "前往酒馆一楼，寻找那位「陌生人」",
+              "源码选项组 8",
+              "选项2"
+            ],
+            "textHash": "2cc6e249a03c8210efa46837a527d2bf288e794f266a0e61132f01e4d631e537"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "前往酒馆一楼，寻找那位「陌生人」",
+              "源码选项组 8",
+              "选项3"
+            ],
+            "textHash": "a6e0a8574d460b904c2beb1a8f9c6de291ebba2e8d88116c35125d556f7f6fda"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "前往酒馆一楼，寻找那位「陌生人」",
+              "源码选项组 9",
+              "选项1"
+            ],
+            "textHash": "569e2ecb2161d7843010fc5a85b304dd89e3c9aa25ef980c474f0fe0929ea85b"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "前往酒馆一楼，寻找那位「陌生人」",
+              "源码选项组 9",
+              "选项 1：三个问题中至少两个选择第三个选项"
+            ],
+            "textHash": "efb65a683576c4472ae12651d149c4b26790559b657f4b96b2983de2bd6b16ec"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "前往酒馆一楼，寻找那位「陌生人」",
+              "源码选项组 9",
+              "选项2"
+            ],
+            "textHash": "4b2edf85a3f9a3c7737f87b517373cdd0ed756a912b7713c2434c04381cb05ad"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "前往酒馆一楼，寻找那位「陌生人」",
+              "源码选项组 9",
+              "选项 2：其他选择组合"
+            ],
+            "textHash": "337e7f7e2794e0580325a4f5147d81f894b848329fa34ef7d1b39c61de121403"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-304-commission",
+    "recordHash": "563733c6cbccd1e1b3fdd427e294283573b0427edd8d85fe73fcf72cd0dbfd9b",
+    "checkedAt": "2026-10-05",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "对照固定来源核对；三问保留条件分支，蒲公英感知与旅伴身份不补写未揭示的原因。",
+    "evidence": [
+      {
+        "pageid": 8321,
+        "title": "拾枝者·戴因斯雷布",
+        "revision": 667067,
+        "sha256": "c1dbc1ed81506880747ef8a35e1e229c01d318c4c7d5ee55d9f7ba4ae4b02d8c",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "前往酒馆一楼，寻找那位「陌生人」"
+            ],
+            "textHash": "48982e19fe24f258af0dcad47007e56adddf4061438c85f74d5bd8c8f81a2dab"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-304-traces",
+    "recordHash": "82aca8e97232378ad29c228088483eb7473599cf5afb98df42d45ece3bdaf2b4",
+    "checkedAt": "2026-10-05",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "对照固定来源核对；三问保留条件分支，蒲公英感知与旅伴身份不补写未揭示的原因。",
+    "evidence": [
+      {
+        "pageid": 8321,
+        "title": "拾枝者·戴因斯雷布",
+        "revision": 667067,
+        "sha256": "c1dbc1ed81506880747ef8a35e1e229c01d318c4c7d5ee55d9f7ba4ae4b02d8c",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "与戴因斯雷布对话"
+            ],
+            "textHash": "c236427266db7d0d525119bac20eb872235c211089dcf9c56919cb79a51272cf"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与戴因斯雷布对话"
+            ],
+            "textHash": "ba6ae2c2ff4dbad8542be728da884c6f9ff459a67745f73a5bcfa81dff28e5e1"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与戴因斯雷布对话"
+            ],
+            "textHash": "f9d4df0c8f13675fa90ded42ab50d7937fdc6c7802927c50cf5a522addee1a84"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-304-companion",
+    "recordHash": "5cbfe5c3a7561020aa83e9479deaa59485fdea91cb4730ffa7ec356c0a2a9401",
+    "checkedAt": "2026-10-05",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "对照固定来源核对；三问保留条件分支，蒲公英感知与旅伴身份不补写未揭示的原因。",
+    "evidence": [
+      {
+        "pageid": 8321,
+        "title": "拾枝者·戴因斯雷布",
+        "revision": 667067,
+        "sha256": "c1dbc1ed81506880747ef8a35e1e229c01d318c4c7d5ee55d9f7ba4ae4b02d8c",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "与戴因斯雷布对话"
+            ],
+            "textHash": "ba6ae2c2ff4dbad8542be728da884c6f9ff459a67745f73a5bcfa81dff28e5e1"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与戴因斯雷布对话"
+            ],
+            "textHash": "d977266e09a1125cc0219c18940ce943427aaa0e95506f30dee9a9e9ae2f8867"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "追上戴因斯雷布"
+            ],
+            "textHash": "ce713536c81affa106447c820dc4cb86e2db6ebc0113fa367b3244b45e285600"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-304-dandelion",
+    "recordHash": "458f7583942568b00c33f8b36f6deb43b6238d2ceb5aab2d259f91bb9f0aee18",
+    "checkedAt": "2026-10-05",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "对照固定来源核对；三问保留条件分支，蒲公英感知与旅伴身份不补写未揭示的原因。",
+    "evidence": [
+      {
+        "pageid": 8321,
+        "title": "拾枝者·戴因斯雷布",
+        "revision": 667067,
+        "sha256": "c1dbc1ed81506880747ef8a35e1e229c01d318c4c7d5ee55d9f7ba4ae4b02d8c",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "与戴因斯雷布对话"
+            ],
+            "textHash": "8628a58c9e2aef24a70decc957ab7599bd29ec14d9355b0aac17da0c609c128c"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-305-overview",
+    "recordHash": "9c1ee74bf7232a831f9d977d366312dde3b5548f34122f6a309996cbc2a22350",
+    "checkedAt": "2026-10-05",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "对照本幕固定来源，区分戴因证言、深渊计划、现场观察及血亲立场，不加入后续章节解释。",
+    "evidence": [
+      {
+        "pageid": 164990,
+        "title": "非自愿的祭献",
+        "revision": 666989,
+        "sha256": "988c323c765d8ec5404cd9e1344200c22cc4c7ff63f91684b5d3eaec879f3ca8",
+        "fragments": [
+          {
+            "path": [
+              "任务描述"
+            ],
+            "textHash": "fe75d22ab88538f34be0d37ca2ab502b875ea32d29628efbb0b5541b0ba4e918"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "接近协会公告板"
+            ],
+            "textHash": "64c5030ad6406df0de27a9f4e88d382c4eb66e6fd4e966fe6200735ac0e0b6cc"
+          }
+        ]
+      },
+      {
+        "pageid": 164992,
+        "title": "不荣誉的试炼",
+        "revision": 666986,
+        "sha256": "6659304b53df4e283722746b8288aff737f7529660211c85e9e481bc5776a810",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "与芭芭拉对话"
+            ],
+            "textHash": "5fcfe2866b05579e623a9d731e1a04af1f4b41a1313f2ae3a33a4e58d8b50c63"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与「北风的王狼」对话"
+            ],
+            "textHash": "46db5b26b274a7a2af1538a4c99694020b6a6274d147a6d574d8a408e7ba8f92"
+          }
+        ]
+      },
+      {
+        "pageid": 164993,
+        "title": "有隔阂的魂灵",
+        "revision": 674113,
+        "sha256": "4c4c64d13a352d6edfb1454b7eb93cfeec37d2f25be77eb5814a39dc5a556b81",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "与戴因对话"
+            ],
+            "textHash": "598521edadac15ad71707f0ef09c244ef953d1d62aac3ad572bbce330e206bfc"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与戴因对话"
+            ],
+            "textHash": "5b81f66a92ffa5c895c77741eedae54e11054bd0c165f056260b5bf08539c358"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "击败深渊使徒",
+              "场景说明"
+            ],
+            "textHash": "b1c43a6fd5342f94951beac27f8d4675ce7b3ad268f96b98af893078bd4292cb"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与荧/空相会(空视角/荧视角)"
+            ],
+            "textHash": "e01d2f1574cee46e4ccbe35fbcf318e02e05761ae172b7b66a08596fc03f48f4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-305-commission",
+    "recordHash": "437faf97b740bf57fa03ee8940245c451f697726a7b250ad8ea04b4b2137affb",
+    "checkedAt": "2026-10-05",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "对照本幕固定来源，区分戴因证言、深渊计划、现场观察及血亲立场，不加入后续章节解释。",
+    "evidence": [
+      {
+        "pageid": 164990,
+        "title": "非自愿的祭献",
+        "revision": 666989,
+        "sha256": "988c323c765d8ec5404cd9e1344200c22cc4c7ff63f91684b5d3eaec879f3ca8",
+        "fragments": [
+          {
+            "path": [
+              "任务描述"
+            ],
+            "textHash": "fe75d22ab88538f34be0d37ca2ab502b875ea32d29628efbb0b5541b0ba4e918"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "接近协会公告板"
+            ],
+            "textHash": "64c5030ad6406df0de27a9f4e88d382c4eb66e6fd4e966fe6200735ac0e0b6cc"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "接近协会公告板"
+            ],
+            "textHash": "9b64157d770c49915053c14e7b3ccdb67f420498fedbe7c4804bdf983101bef4"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "接近协会公告板"
+            ],
+            "textHash": "9aa289318b8d50162f44c3256c8c24b585584be4ecb40e2b849ae53be56bfc39"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-305-statue",
+    "recordHash": "6bb7d0a8b8218421eabadf5ccc86c9ddf09ea4e7fed8a6d742b2689e40da21a4",
+    "checkedAt": "2026-10-05",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "对照本幕固定来源，区分戴因证言、深渊计划、现场观察及血亲立场，不加入后续章节解释。",
+    "evidence": [
+      {
+        "pageid": 164990,
+        "title": "非自愿的祭献",
+        "revision": 666989,
+        "sha256": "988c323c765d8ec5404cd9e1344200c22cc4c7ff63f91684b5d3eaec879f3ca8",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "察看遗迹深处的情况"
+            ],
+            "textHash": "8839dd174728e1f49bf5b8953bf5db2c71b3026778ecbef40dc248ec9e12a569"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "察看遗迹深处的情况",
+              "源码选项组 5",
+              "选项1"
+            ],
+            "textHash": "0c5b954d471a96b6d72ccc3a5aee80065b748e67d66ba25852de2185dcb86138"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "察看遗迹深处的情况",
+              "源码选项组 5",
+              "选项2"
+            ],
+            "textHash": "980f8c51524e4d31f94e75bb94a565204e6e5368a74771b29e12b8bc9d5a11ec"
+          }
+        ]
+      },
+      {
+        "pageid": 164993,
+        "title": "有隔阂的魂灵",
+        "revision": 674113,
+        "sha256": "4c4c64d13a352d6edfb1454b7eb93cfeec37d2f25be77eb5814a39dc5a556b81",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "再次进入遗迹"
+            ],
+            "textHash": "8b4780a3e2bca28869d437bbd3370bbdf1c5da2f1cef76fd989db4fc49905344"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-305-history",
+    "recordHash": "08e2f0d0306e43372f3ddd22218289f969e2620a23d82825eb5bcf9df9e6a970",
+    "checkedAt": "2026-10-05",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "对照本幕固定来源，区分戴因证言、深渊计划、现场观察及血亲立场，不加入后续章节解释。",
+    "evidence": [
+      {
+        "pageid": 164991,
+        "title": "无信者的使徒",
+        "revision": 667010,
+        "sha256": "58b536059a3a440dcaa9b27abbe2f08355faf2b430d53955fab9fc141ec368f5",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "与戴因对话"
+            ],
+            "textHash": "2ea88e07844e1ffa5599de9a0171918cdbe155c97f991a00268b196be8ae2df0"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与戴因对话"
+            ],
+            "textHash": "49c25201900759c1134dd23931738efa1a4aa8f0ca58fe28f4fd4a755739b778"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-305-machine",
+    "recordHash": "39851473f9418cf392ec280579428f36e991be7599908a69fd03771ecf786394",
+    "checkedAt": "2026-10-05",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "对照本幕固定来源，区分戴因证言、深渊计划、现场观察及血亲立场，不加入后续章节解释。",
+    "evidence": [
+      {
+        "pageid": 164991,
+        "title": "无信者的使徒",
+        "revision": 667010,
+        "sha256": "58b536059a3a440dcaa9b27abbe2f08355faf2b430d53955fab9fc141ec368f5",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "与戴因对话"
+            ],
+            "textHash": "3220f547354f42e1c5655e6c217638900b3219b19ba862ab114c22e2f08bbaab"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与戴因对话"
+            ],
+            "textHash": "abbb1dd0c7bd31ee94da89c756c1c0e4325cb33e5c774c66d7e1a7f822945cb4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-305-plan",
+    "recordHash": "fa2c1b401dd9ca947233e3f5ce99ead96745897bdde825d047de1a24bf9a8469",
+    "checkedAt": "2026-10-05",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "对照本幕固定来源，区分戴因证言、深渊计划、现场观察及血亲立场，不加入后续章节解释。",
+    "evidence": [
+      {
+        "pageid": 164991,
+        "title": "无信者的使徒",
+        "revision": 667010,
+        "sha256": "58b536059a3a440dcaa9b27abbe2f08355faf2b430d53955fab9fc141ec368f5",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "与戴因对话"
+            ],
+            "textHash": "85f0bd7cb6da88985215ed5721f5a49353e4f738b6c47b428f244f4497897253"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与戴因对话"
+            ],
+            "textHash": "9c60c1ba6f07147a6f8d8aaf1eb54fa9c55aa5c499b9f8bae44601541ab074b7"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与戴因对话"
+            ],
+            "textHash": "01ec52ec08b5de0d0bc659ea1a11175365bfa9cb8a86a3d80209f01a07f21b1e"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-305-church",
+    "recordHash": "e61a782a2c7b078fe0fd47a7a9a67306c966f9b08585a80bc29037102ebee0fe",
+    "checkedAt": "2026-10-05",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "对照本幕固定来源，区分戴因证言、深渊计划、现场观察及血亲立场，不加入后续章节解释。",
+    "evidence": [
+      {
+        "pageid": 164992,
+        "title": "不荣誉的试炼",
+        "revision": 666986,
+        "sha256": "6659304b53df4e283722746b8288aff737f7529660211c85e9e481bc5776a810",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "与芭芭拉对话"
+            ],
+            "textHash": "5fcfe2866b05579e623a9d731e1a04af1f4b41a1313f2ae3a33a4e58d8b50c63"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与芭芭拉对话"
+            ],
+            "textHash": "5e56760bbc5c4ee40be76aec74412950fab3a3b8d9a3f8dd06024d8e41a16bff"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-305-wolf",
+    "recordHash": "d1c851179be7b189da556e75f42d31aaf139abe135ed2799f08856c73e17f3f7",
+    "checkedAt": "2026-10-05",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "对照本幕固定来源，区分戴因证言、深渊计划、现场观察及血亲立场，不加入后续章节解释。",
+    "evidence": [
+      {
+        "pageid": 164992,
+        "title": "不荣誉的试炼",
+        "revision": 666986,
+        "sha256": "6659304b53df4e283722746b8288aff737f7529660211c85e9e481bc5776a810",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "与「北风的王狼」对话"
+            ],
+            "textHash": "2c20e7caed7366f2ab4c44307fc60b1bc2601e5d989d15ab7ac99ccf55cc668c"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与「北风的王狼」对话"
+            ],
+            "textHash": "497f0a2f2cbfdf7884f6a0a14a1f043120af4244c0df7d7f063b20284a8b506d"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与「北风的王狼」对话"
+            ],
+            "textHash": "46db5b26b274a7a2af1538a4c99694020b6a6274d147a6d574d8a408e7ba8f92"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-305-deduction",
+    "recordHash": "11f9d07b90f0a4d76212801e716b8c434955a3b294e8796326a0580807132a96",
+    "checkedAt": "2026-10-05",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "对照本幕固定来源，区分戴因证言、深渊计划、现场观察及血亲立场，不加入后续章节解释。",
+    "evidence": [
+      {
+        "pageid": 164993,
+        "title": "有隔阂的魂灵",
+        "revision": 674113,
+        "sha256": "4c4c64d13a352d6edfb1454b7eb93cfeec37d2f25be77eb5814a39dc5a556b81",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "与戴因对话"
+            ],
+            "textHash": "742d4650aab508ff7105d92c51e90d39b6c770f087e5f940218ac64a051a5e9d"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与戴因对话"
+            ],
+            "textHash": "89efb040551432bb9b32b7dee2c9c107f63b2cd37bbeaa1a9992d71e0bb54654"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与戴因对话"
+            ],
+            "textHash": "ed5d9352e3fa076b8ff24ae3913bc3a8bb408ed544f9753001a76e7f8d382b0a"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-305-eye",
+    "recordHash": "69c6ae3c80aa089c5cc6a225239affc6468e077fe01e1e3f82f1000605f5d18c",
+    "checkedAt": "2026-10-05",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "对照本幕固定来源，区分戴因证言、深渊计划、现场观察及血亲立场，不加入后续章节解释。",
+    "evidence": [
+      {
+        "pageid": 164993,
+        "title": "有隔阂的魂灵",
+        "revision": 674113,
+        "sha256": "4c4c64d13a352d6edfb1454b7eb93cfeec37d2f25be77eb5814a39dc5a556b81",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "与戴因对话"
+            ],
+            "textHash": "598521edadac15ad71707f0ef09c244ef953d1d62aac3ad572bbce330e206bfc"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与戴因对话"
+            ],
+            "textHash": "e48f88c3ac3e5fa0530191fd15496c8c6c2d9e8717f73a75df27e3f81a57ee14"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与戴因对话"
+            ],
+            "textHash": "5b81f66a92ffa5c895c77741eedae54e11054bd0c165f056260b5bf08539c358"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-305-reunion",
+    "recordHash": "0c1fe0c116b966b278b61a1174de41daf589ced47287c9677a6648ad02d148f2",
+    "checkedAt": "2026-10-05",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "对照本幕固定来源，区分戴因证言、深渊计划、现场观察及血亲立场，不加入后续章节解释。",
+    "evidence": [
+      {
+        "pageid": 164993,
+        "title": "有隔阂的魂灵",
+        "revision": 674113,
+        "sha256": "4c4c64d13a352d6edfb1454b7eb93cfeec37d2f25be77eb5814a39dc5a556b81",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "击败深渊使徒",
+              "场景说明"
+            ],
+            "textHash": "b1c43a6fd5342f94951beac27f8d4675ce7b3ad268f96b98af893078bd4292cb"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与荧/空相会(空视角/荧视角)"
+            ],
+            "textHash": "e01d2f1574cee46e4ccbe35fbcf318e02e05761ae172b7b66a08596fc03f48f4"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与荧/空相会(空视角/荧视角)",
+              "源码选项组 6",
+              "选项2"
+            ],
+            "textHash": "564a3bca8a936929109b9e310205c55cdc4c0613296e825f76fecf21e0bd8d1f"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与荧/空相会(空视角/荧视角)"
+            ],
+            "textHash": "07274df96ad860343b47b134e1c0ad1987e39c7d750de31b09dd990a3fde01e3"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与荧/空相会(空视角/荧视角)"
+            ],
+            "textHash": "ee49f71b11c335cfea75948d993bd9d29f305f83bd15cc6cf8d7e5e89043a16a"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-305-home",
+    "recordHash": "be3bf1e761760bfef72c018068bde526843bfd7a500c99fdcd258c951fa82c5a",
+    "checkedAt": "2026-10-05",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "对照本幕固定来源，区分戴因证言、深渊计划、现场观察及血亲立场，不加入后续章节解释。",
+    "evidence": [
+      {
+        "pageid": 164993,
+        "title": "有隔阂的魂灵",
+        "revision": 674113,
+        "sha256": "4c4c64d13a352d6edfb1454b7eb93cfeec37d2f25be77eb5814a39dc5a556b81",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "与荧/空相会(空视角/荧视角)"
+            ],
+            "textHash": "32e504e5bb11f6237fb9dae5ad0e35787928f4ea3cb5b02d57e2635a209cd7ae"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-305-questions",
+    "recordHash": "09555482df34c8cf0fc0ac40fb433fdb5cede0e618d4d210f34e63482ac4ac3f",
+    "checkedAt": "2026-10-05",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "对照本幕固定来源，区分戴因证言、深渊计划、现场观察及血亲立场，不加入后续章节解释。",
+    "evidence": [
+      {
+        "pageid": 164993,
+        "title": "有隔阂的魂灵",
+        "revision": 674113,
+        "sha256": "4c4c64d13a352d6edfb1454b7eb93cfeec37d2f25be77eb5814a39dc5a556b81",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "与派蒙对话"
+            ],
+            "textHash": "f9079b51235c2f256321afe258baefc3d589f0abc55aa50481b82c5acc2ecb8d"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-401-overview",
+    "recordHash": "7e78ce8463cb600a4145a5ad46088b41f35131fb911c36dac7711b17274ad4bb",
+    "checkedAt": "2026-10-05",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "对照固定对白核对，保留前置任务分支、人物推测与实验失败的时间边界；友人经历按万叶回忆表述。",
+    "evidence": [
+      {
+        "pageid": 164943,
+        "title": "冲破雷暴之法",
+        "revision": 665391,
+        "sha256": "a30c1f507c50017ddde726ca78a9596d28bb6736b530a60aff567d7724d069eb",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "询问竺子前往稻妻的方法"
+            ],
+            "textHash": "a021381f9fd6b36bcbb93fbfc0bc4bb6e51a7d66ecbcdcd7e3f6ddd126f4b84e"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "询问竺子前往稻妻的方法"
+            ],
+            "textHash": "5e6660b310ec9635a15c7487d37704823dfa525a06ca9d9ae199424d955b32c2"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "去「死兆星」号见北斗"
+            ],
+            "textHash": "7de24dfd6639fc6052ace0660246380c400aa268811c379008f75a248512b9ae"
+          }
+        ]
+      },
+      {
+        "pageid": 164945,
+        "title": "南十字武斗会",
+        "revision": 665390,
+        "sha256": "346ec8e19ce56baf16cdaf3ea69fbcbbcebb30a33d98b95f063ccb2396e8e850",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "在半决赛中获胜"
+            ],
+            "textHash": "fd7fab7f24d9853e2463f8211a2cdf8de27622ed38804fc450c9cb9e94afd384"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与戎世交谈"
+            ],
+            "textHash": "2793a0d45dbadd53ce9ac48707f8a0d54254b4d73976e4d6b18352292c5a7290"
+          }
+        ]
+      },
+      {
+        "pageid": 164944,
+        "title": "一路随风",
+        "revision": 665393,
+        "sha256": "45a50791dc901062471049aa98d19955e5a328e0daecf86d72b28f19b9f75097",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "进入场地，参加决赛"
+            ],
+            "textHash": "6e5f9f1085b3eb0ad82e5ea5e07d40b3bfc9e85195854b2aa01bfd1d0f93806e"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "随万叶追寻神之眼的去向"
+            ],
+            "textHash": "2a279ae9652cbb06dbcd0b578f9c9a11636ce5ec75489b44a60a6bdbe7c1153d"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与偷走神之眼的盗宝团交谈"
+            ],
+            "textHash": "3ef3634a4bdfe23ce33d61aade586cc8f4d9d0add00a903701061986d0e5129c"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "返回孤云阁的会场"
+            ],
+            "textHash": "145f5b8ed2f3cf0edf08dff262aa534225f8f472f2daa88c2c6d9695378cf41d"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-401-zhuzhi",
+    "recordHash": "7e4566a9efcc56bf7ba64ca347b0a9ecd5a5abab0c91971730f4b8d9d941825a",
+    "checkedAt": "2026-10-05",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "对照固定对白核对，保留前置任务分支、人物推测与实验失败的时间边界；友人经历按万叶回忆表述。",
+    "evidence": [
+      {
+        "pageid": 164943,
+        "title": "冲破雷暴之法",
+        "revision": 665391,
+        "sha256": "a30c1f507c50017ddde726ca78a9596d28bb6736b530a60aff567d7724d069eb",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "询问竺子前往稻妻的方法"
+            ],
+            "textHash": "a021381f9fd6b36bcbb93fbfc0bc4bb6e51a7d66ecbcdcd7e3f6ddd126f4b84e"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "询问竺子前往稻妻的方法"
+            ],
+            "textHash": "cab4f0be53c170ecb56adeab3ee7a437fb11fca3f97cc45ea553f6aee150e68b"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "询问竺子前往稻妻的方法"
+            ],
+            "textHash": "5e6660b310ec9635a15c7487d37704823dfa525a06ca9d9ae199424d955b32c2"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-401-ticket",
+    "recordHash": "d9d39db41f3bc3f441411f5a65ab5ffa0b3314339223487b4c0577eb99251a4c",
+    "checkedAt": "2026-10-05",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "对照固定对白核对，保留前置任务分支、人物推测与实验失败的时间边界；友人经历按万叶回忆表述。",
+    "evidence": [
+      {
+        "pageid": 164943,
+        "title": "冲破雷暴之法",
+        "revision": 665391,
+        "sha256": "a30c1f507c50017ddde726ca78a9596d28bb6736b530a60aff567d7724d069eb",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "去「死兆星」号见北斗"
+            ],
+            "textHash": "5c280c2e8b421195b87b430592200c6e8b56f1812d40b04a1b39b4388609b873"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "去「死兆星」号见北斗"
+            ],
+            "textHash": "7de24dfd6639fc6052ace0660246380c400aa268811c379008f75a248512b9ae"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与负责报名的珠函交谈"
+            ],
+            "textHash": "567480800b29c4e58d9516400a9ee277bed9751e8507ecab29901eddb12b6e47"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与负责报名的珠函交谈",
+              "源码选项组 24",
+              "选项 2：只是对神之眼兴趣不大而已。"
+            ],
+            "textHash": "1bb1f891c4018fc730ab3b31d4fc7d1f5577649c99ae3d1d049da0d5195892ec"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-401-branch",
+    "recordHash": "dc58441f0eb499ce815e7cacd9e4bfe8da771a52966b3f7ed678709f8ac0f95e",
+    "checkedAt": "2026-10-05",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "对照固定对白核对，保留前置任务分支、人物推测与实验失败的时间边界；友人经历按万叶回忆表述。",
+    "evidence": [
+      {
+        "pageid": 164943,
+        "title": "冲破雷暴之法",
+        "revision": 665391,
+        "sha256": "a30c1f507c50017ddde726ca78a9596d28bb6736b530a60aff567d7724d069eb",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "去「死兆星」号见北斗",
+              "源码选项组 10",
+              "选项 1：未完成魔神任务 间章 第一幕 风起鹤归"
+            ],
+            "textHash": "9e01918c3a04037a3c396ba4c087c498b3bb65e4d7f427e718828dee601f1753"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "去「死兆星」号见北斗",
+              "源码选项组 10",
+              "选项 2：已完成魔神任务 间章 第一幕 风起鹤归"
+            ],
+            "textHash": "bcd5d8daffcd95bd27e16dcc704128d47f84bc80d595b77d650251b9a03135de"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-401-entrants",
+    "recordHash": "e4f8b799cbbec4fbb64c05f99a5b2a5004dceb10e6d77cb6e5ca921425effb35",
+    "checkedAt": "2026-10-05",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "对照固定对白核对，保留前置任务分支、人物推测与实验失败的时间边界；友人经历按万叶回忆表述。",
+    "evidence": [
+      {
+        "pageid": 164943,
+        "title": "冲破雷暴之法",
+        "revision": 665391,
+        "sha256": "a30c1f507c50017ddde726ca78a9596d28bb6736b530a60aff567d7724d069eb",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "了解参赛者的实力"
+            ],
+            "textHash": "bc7bc06c15aeea583f5868bd96e0dd5eb5a58fcb6158f34a6e979a88927a4f3b"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "了解参赛者的实力"
+            ],
+            "textHash": "5ad24f64b0bf32acd7965e51f22b1ecde5a9cfbb63c0b99e0f9b6a4b6daf82c6"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "了解参赛者的实力"
+            ],
+            "textHash": "18794351ab30e6b363135b010d3fb9822ecdb3f13e8b93f4570c714e21a69b38"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "了解参赛者的实力"
+            ],
+            "textHash": "f23381c5c8b763dc278fbb5c73ea2f20bf743999392b19e955c9f7e0e881ad5f"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-401-rongshi",
+    "recordHash": "fcdf23702688f573f3ffb4705ce4d7d6f73b712b7eaf7ce6652ae2b22f66b201",
+    "checkedAt": "2026-10-05",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "对照固定对白核对，保留前置任务分支、人物推测与实验失败的时间边界；友人经历按万叶回忆表述。",
+    "evidence": [
+      {
+        "pageid": 164945,
+        "title": "南十字武斗会",
+        "revision": 665390,
+        "sha256": "346ec8e19ce56baf16cdaf3ea69fbcbbcebb30a33d98b95f063ccb2396e8e850",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "在半决赛中获胜"
+            ],
+            "textHash": "fd7fab7f24d9853e2463f8211a2cdf8de27622ed38804fc450c9cb9e94afd384"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与戎世交谈"
+            ],
+            "textHash": "2793a0d45dbadd53ce9ac48707f8a0d54254b4d73976e4d6b18352292c5a7290"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-401-curiosity",
+    "recordHash": "8534092ac1faaf60cb97f022bd1575cd19f901fc34e51a85f6fa4f2dc205bb53",
+    "checkedAt": "2026-10-05",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "对照固定对白核对，保留前置任务分支、人物推测与实验失败的时间边界；友人经历按万叶回忆表述。",
+    "evidence": [
+      {
+        "pageid": 164945,
+        "title": "南十字武斗会",
+        "revision": 665390,
+        "sha256": "346ec8e19ce56baf16cdaf3ea69fbcbbcebb30a33d98b95f063ccb2396e8e850",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "与万叶交谈"
+            ],
+            "textHash": "6494de3b64d36e243968d9ff9bea956a936cb4257db617296a3b771facbd31a9"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与万叶交谈"
+            ],
+            "textHash": "e5b28b334f1f8ecf7ca159aa8729abff59072bdb36dcf74f2b4cef473e9ab5be"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与万叶交谈"
+            ],
+            "textHash": "029e139f642c98690279c3ddab5e4c25beb48986eacac0805c607d25f013c573"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-401-theft",
+    "recordHash": "b97e66b6268ab6ed40e2166831e81f26642059122aa0111565537db7649a5257",
+    "checkedAt": "2026-10-05",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "对照固定对白核对，保留前置任务分支、人物推测与实验失败的时间边界；友人经历按万叶回忆表述。",
+    "evidence": [
+      {
+        "pageid": 164944,
+        "title": "一路随风",
+        "revision": 665393,
+        "sha256": "45a50791dc901062471049aa98d19955e5a328e0daecf86d72b28f19b9f75097",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "进入场地，参加决赛"
+            ],
+            "textHash": "6e5f9f1085b3eb0ad82e5ea5e07d40b3bfc9e85195854b2aa01bfd1d0f93806e"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "随万叶追寻神之眼的去向"
+            ],
+            "textHash": "2a279ae9652cbb06dbcd0b578f9c9a11636ce5ec75489b44a60a6bdbe7c1153d"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与偷走神之眼的盗宝团交谈"
+            ],
+            "textHash": "3ef3634a4bdfe23ce33d61aade586cc8f4d9d0add00a903701061986d0e5129c"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-401-experiment",
+    "recordHash": "707bed52e37d6e06aee1bc0e0c2b6e2af0097145d8ae51148189ea7eeff1c865",
+    "checkedAt": "2026-10-05",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "对照固定对白核对，保留前置任务分支、人物推测与实验失败的时间边界；友人经历按万叶回忆表述。",
+    "evidence": [
+      {
+        "pageid": 164944,
+        "title": "一路随风",
+        "revision": 665393,
+        "sha256": "45a50791dc901062471049aa98d19955e5a328e0daecf86d72b28f19b9f75097",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "前往前方小岛，寻找线索"
+            ],
+            "textHash": "48c37b5b8b5a2847e7957ceb7e1fce19ad15453b6fa9932e140972d00d71a76e"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "与偷走神之眼的盗宝团交谈"
+            ],
+            "textHash": "d2a49c484385d2319dc17ba4930dc2058042585dbdc3e7602474d827054e673b"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "再次与盗宝团交谈"
+            ],
+            "textHash": "0e5860a963e0e70da0bca43c0a4c846ac94bfd5be2cb5cfdea5921571b395ac0"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "再次与盗宝团交谈"
+            ],
+            "textHash": "847064f40b0e694594afdac298af4cbcbb3d786e641a330182c2ffdc50e9b272"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-401-friend",
+    "recordHash": "f34db5382c0ddf825f309745726fae092fc3d9fe147b54ae35fbe6e9fb4ef3a5",
+    "checkedAt": "2026-10-05",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "对照固定对白核对，保留前置任务分支、人物推测与实验失败的时间边界；友人经历按万叶回忆表述。",
+    "evidence": [
+      {
+        "pageid": 164944,
+        "title": "一路随风",
+        "revision": 665393,
+        "sha256": "45a50791dc901062471049aa98d19955e5a328e0daecf86d72b28f19b9f75097",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "再次与盗宝团交谈",
+              "https://www.bilibili.com/video/BV15K4y1M7Xn?p=1 过场动画",
+              "内容"
+            ],
+            "textHash": "545d4685bad2afa577e250eef80ef0ab6c5ddc153d6a92371cb34467554ff1f4"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "再次与盗宝团交谈"
+            ],
+            "textHash": "3502b6a6a441387810f3c66cbe30f466891c3bdd52e6619a47faf0e197d87044"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-401-failure",
+    "recordHash": "ccc055bb892b14c26fe0ef304a1c6372a6e97b33e1124f91811241d3cd79ce25",
+    "checkedAt": "2026-10-05",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "对照固定对白核对，保留前置任务分支、人物推测与实验失败的时间边界；友人经历按万叶回忆表述。",
+    "evidence": [
+      {
+        "pageid": 164944,
+        "title": "一路随风",
+        "revision": 665393,
+        "sha256": "45a50791dc901062471049aa98d19955e5a328e0daecf86d72b28f19b9f75097",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "再次与盗宝团交谈"
+            ],
+            "textHash": "847064f40b0e694594afdac298af4cbcbb3d786e641a330182c2ffdc50e9b272"
+          },
+          {
+            "path": [
+              "任务剧情",
+              "再次与盗宝团交谈"
+            ],
+            "textHash": "41679e82062e8b58ad75e72567a5330d63ba8f946557ad365132e02b583cfd6e"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "story-401-departure",
+    "recordHash": "0eaebaea6ed2abd82ea44222a418ea012d53493956c33c60752efcf0dc920916",
+    "checkedAt": "2026-10-05",
+    "scope": "摘要陈述对照固定来源；不代表整页对白或全游戏已核对",
+    "note": "对照固定对白核对，保留前置任务分支、人物推测与实验失败的时间边界；友人经历按万叶回忆表述。",
+    "evidence": [
+      {
+        "pageid": 164944,
+        "title": "一路随风",
+        "revision": 665393,
+        "sha256": "45a50791dc901062471049aa98d19955e5a328e0daecf86d72b28f19b9f75097",
+        "fragments": [
+          {
+            "path": [
+              "任务剧情",
+              "返回孤云阁的会场"
+            ],
+            "textHash": "145f5b8ed2f3cf0edf08dff262aa534225f8f472f2daa88c2c6d9695378cf41d"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,984 @@
+{
+  "reviewedAt": "2026-09-30",
+  "reviewStatus": "reviewed",
+  "sources": {
+    "dain": {
+      "title": "拾枝者·戴因斯雷布",
+      "revision": 667067,
+      "locator": "任务剧情中的相关场景",
+      "verificationLevel": "dialogue",
+      "snapshotSha256": "9c1f6910f9ec89070e67e11bb28145e97335d1cf7907c60ed45138e8e9274db6",
+      "capturedAt": "2026-09-30T14:15:05.877Z",
+      "note": "保留初次 HTML 采集凭据；当前摘要核对使用记录自身的原文版本及语义核对账本。"
+    },
+    "reunion": {
+      "title": "我们终将重逢",
+      "revision": 673278,
+      "locator": "整幕任务结构",
+      "verificationLevel": "task-index",
+      "snapshotSha256": "16000f41e339c564e2f0362131f88f2b88dc677ebffe2587d011409b6e040c30",
+      "capturedAt": "2026-09-30T14:15:07.990Z",
+      "note": "保留初次 HTML 采集凭据；当前摘要核对使用记录自身的原文版本及语义核对账本。"
+    },
+    "sacrifice": {
+      "title": "非自愿的祭献",
+      "revision": 666989,
+      "locator": "任务剧情中的相关场景",
+      "verificationLevel": "dialogue",
+      "snapshotSha256": "e92eeeff8fd532aacbe37ed28de21afec9f005cb1610c7d307535e662bbfda7a",
+      "capturedAt": "2026-09-30T14:15:09.895Z",
+      "note": "保留初次 HTML 采集凭据；当前摘要核对使用记录自身的原文版本及语义核对账本。"
+    },
+    "herald": {
+      "title": "无信者的使徒",
+      "revision": 667010,
+      "locator": "任务剧情中的相关场景",
+      "verificationLevel": "dialogue",
+      "snapshotSha256": "29547a1b83f71bfb9db3a46aad5bc3b395db9e9643c767ba54871c1e2dfcf3a4",
+      "capturedAt": "2026-09-30T14:15:12.543Z",
+      "note": "保留初次 HTML 采集凭据；当前摘要核对使用记录自身的原文版本及语义核对账本。"
+    },
+    "trial": {
+      "title": "不荣誉的试炼",
+      "revision": 666986,
+      "locator": "任务剧情中的相关场景",
+      "verificationLevel": "dialogue",
+      "snapshotSha256": "7d63a592e738d585c3c238d0f9d57138917a08287cc83f8791c6c6dd9958aa8e",
+      "capturedAt": "2026-09-30T14:15:24.843Z",
+      "note": "保留初次 HTML 采集凭据；当前摘要核对使用记录自身的原文版本及语义核对账本。"
+    },
+    "souls": {
+      "title": "有隔阂的魂灵",
+      "revision": 674113,
+      "locator": "任务剧情中的相关场景",
+      "verificationLevel": "dialogue",
+      "snapshotSha256": "fc51e59bcf1be7a22bf304c6b2f63c021f151752e7a3309de52a2afb4975677c",
+      "capturedAt": "2026-09-30T14:15:27.410Z",
+      "note": "保留初次 HTML 采集凭据；当前摘要核对使用记录自身的原文版本及语义核对账本。"
+    },
+    "autumn": {
+      "title": "振袖秋风问红叶",
+      "revision": 673279,
+      "locator": "整幕任务结构",
+      "verificationLevel": "task-index",
+      "snapshotSha256": "c78796db70f700cf6b3a354d5927e0cc42cf61bb5966fb503e3e91f7584b312e",
+      "capturedAt": "2026-09-30T14:15:37.302Z",
+      "note": "保留初次 HTML 采集凭据；当前摘要核对使用记录自身的原文版本及语义核对账本。"
+    },
+    "storm": {
+      "title": "冲破雷暴之法",
+      "revision": 665391,
+      "locator": "任务剧情中的相关场景",
+      "verificationLevel": "dialogue",
+      "snapshotSha256": "7993f46639f5dbbd1ffee7bca13ad5d7be711ece7d1b612d41b7d9e68493b3de",
+      "capturedAt": "2026-09-30T14:15:39.722Z",
+      "note": "保留初次 HTML 采集凭据；当前摘要核对使用记录自身的原文版本及语义核对账本。"
+    },
+    "tournament": {
+      "title": "南十字武斗会",
+      "revision": 665390,
+      "locator": "任务剧情中的相关场景",
+      "verificationLevel": "dialogue",
+      "snapshotSha256": "af1806392665613f9af6696b92efda3da2fa64fde0aa173dced384773fc9f971",
+      "capturedAt": "2026-09-30T14:15:41.745Z",
+      "note": "保留初次 HTML 采集凭据；当前摘要核对使用记录自身的原文版本及语义核对账本。"
+    },
+    "wind": {
+      "title": "一路随风",
+      "revision": 665393,
+      "locator": "任务剧情中的相关场景",
+      "verificationLevel": "dialogue",
+      "snapshotSha256": "e6bdb3274177fd4de4e4a201cb5a17434937d203bf0b7c9b8f330d69d35256c3",
+      "capturedAt": "2026-09-30T14:15:43.417Z",
+      "note": "保留初次 HTML 采集凭据；当前摘要核对使用记录自身的原文版本及语义核对账本。"
+    }
+  },
+  "scopes": [
+    {
+      "id": 304,
+      "title": "拾枝者·戴因斯雷布 · 旅人线前置",
+      "category": "旅人线正文",
+      "sourceTitle": "拾枝者·戴因斯雷布",
+      "revision": 667067,
+      "locator": "拾枝者·戴因斯雷布 · 旅人线前置",
+      "coverage": "本主题为所列任务的精选剧情与 NPC 对话摘要，允许本主题结局；不包含全文台词、所有选项或后续章节。",
+      "catalogTitles": [
+        "拾枝者·戴因斯雷布"
+      ],
+      "taskTitles": [
+        "拾枝者·戴因斯雷布"
+      ],
+      "suggestions": [
+        "概括拾枝者·戴因斯雷布这段故事",
+        "戴因的三个问题有正确答案吗？",
+        "查尔斯提供了什么线索？",
+        "蒲公英带来了什么线索？"
+      ],
+      "spoilerPatterns": [
+        "坎瑞亚",
+        "末光之剑",
+        "不死诅咒",
+        "命运的织机",
+        "(妹妹|哥哥|血亲).*(深渊|王子|公主)",
+        "(深渊|王子|公主).*(妹妹|哥哥|血亲)"
+      ],
+      "records": [
+        {
+          "key": "overview",
+          "sourceKey": "dain",
+          "evidenceAnchors": [
+            ".E4.BB.BB.E5.8A.A1.E6.B5.81.E7.A8.8B",
+            ".E5.89.8D.E5.BE.80.E9.85.92.E9.A6.86.E4.B8.80.E6.A5.BC.EF.BC.8C.E5.AF.BB.E6.89.BE.E9.82.A3.E4.BD.8D.E3.80.8C.E9.99.8C.E7.94.9F.E4.BA.BA.E3.80.8D",
+            ".E4.B8.8E.E6.88.B4.E5.9B.A0.E6.96.AF.E9.9B.B7.E5.B8.83.E5.AF.B9.E8.AF.9D_5"
+          ],
+          "topic": "寻找陌生人与追查深渊",
+          "task": "拾枝者·戴因斯雷布",
+          "keywords": [
+            "全幕",
+            "戴因",
+            "寻找"
+          ],
+          "text": "旅行者在蒙德打听一名陌生人，结识戴因斯雷布，并随他追查深渊活动。多处调查没有找到使徒，风龙废墟的蒲公英却带来血亲线索，两人暂时道别。",
+          "overview": true,
+          "section": "任务流程 / 前往酒馆一楼，寻找那位「陌生人」 / 与戴因斯雷布对话",
+          "sourceTitles": [
+            "拾枝者·戴因斯雷布"
+          ],
+          "sourceTitle": "拾枝者·戴因斯雷布",
+          "sourceRevision": "667067",
+          "sourceVerificationLevel": "dialogue"
+        },
+        {
+          "key": "lead",
+          "sourceKey": "dain",
+          "evidenceAnchors": [
+            ".E4.B8.8E.E8.92.99.E5.BE.B7.E7.9A.84.E5.87.AF.E7.91.9F.E7.90.B3.E5.AF.B9.E8.AF.9D",
+            ".E5.90.91.E5.8A.B3.E4.BC.A6.E6.96.AF.E6.89.93.E5.90.AC.E9.82.A3.E4.BD.8D.E3.80.8C.E9.99.8C.E7.94.9F.E4.BA.BA.E3.80.8D.E7.9A.84.E6.B6.88.E6.81.AF",
+            ".E5.90.91.E7.93.A6.E6.A0.BC.E7.BA.B3.E6.89.93.E5.90.AC.E9.82.A3.E4.BD.8D.E3.80.8C.E9.99.8C.E7.94.9F.E4.BA.BA.E3.80.8D.E7.9A.84.E6.B6.88.E6.81.AF"
+          ],
+          "topic": "蒙德城里的消息链",
+          "task": "拾枝者·戴因斯雷布",
+          "keywords": [
+            "凯瑟琳",
+            "劳伦斯",
+            "瓦格纳",
+            "陌生人"
+          ],
+          "text": "凯瑟琳建议接触新来的陌生人。劳伦斯提供他去过铁匠铺的消息，瓦格纳又指出酒馆线索，普通市民的见闻串起寻人的路径。",
+          "section": "与蒙德的凯瑟琳对话 / 向劳伦斯打听那位「陌生人」的消息 / 向瓦格纳打听那位「陌生人」的消息",
+          "sourceTitles": [
+            "拾枝者·戴因斯雷布"
+          ],
+          "sourceTitle": "拾枝者·戴因斯雷布",
+          "sourceRevision": "667067",
+          "sourceVerificationLevel": "dialogue"
+        },
+        {
+          "key": "tavern",
+          "sourceKey": "dain",
+          "evidenceAnchors": [
+            ".E5.90.91.E6.9F.A5.E5.B0.94.E6.96.AF.E6.89.93.E5.90.AC.E9.82.A3.E4.BD.8D.E3.80.8C.E9.99.8C.E7.94.9F.E4.BA.BA.E3.80.8D.E7.9A.84.E6.B6.88.E6.81.AF",
+            ".E5.8E.BB.E9.85.92.E9.A6.86.E4.BA.8C.E6.A5.BC.E9.9D.A0.E6.A0.8F.E6.9D.86.E7.9A.84.E5.BA.A7.E4.BD.8D.E5.9D.90.E4.B8.8B.E7.AD.89.E5.BE.85"
+          ],
+          "topic": "查尔斯为何让旅行者等待",
+          "task": "拾枝者·戴因斯雷布",
+          "keywords": [
+            "查尔斯",
+            "酒馆",
+            "二楼",
+            "等待"
+          ],
+          "text": "查尔斯知道陌生人常在夜间喝酒，且已预订新酒，便建议旅行者去二楼等待。这里提供的是行踪线索，并没有揭晓陌生人的来历。",
+          "section": "向查尔斯打听那位「陌生人」的消息 / 去酒馆二楼靠栏杆的座位坐下等待",
+          "sourceTitles": [
+            "拾枝者·戴因斯雷布"
+          ],
+          "sourceTitle": "拾枝者·戴因斯雷布",
+          "sourceRevision": "667067",
+          "sourceVerificationLevel": "dialogue"
+        },
+        {
+          "key": "questions",
+          "sourceKey": "dain",
+          "evidenceAnchors": [
+            ".E5.89.8D.E5.BE.80.E9.85.92.E9.A6.86.E4.B8.80.E6.A5.BC.EF.BC.8C.E5.AF.BB.E6.89.BE.E9.82.A3.E4.BD.8D.E3.80.8C.E9.99.8C.E7.94.9F.E4.BA.BA.E3.80.8D"
+          ],
+          "topic": "三个问题不是知识测验",
+          "task": "拾枝者·戴因斯雷布",
+          "keywords": [
+            "三个问题",
+            "正确答案",
+            "态度",
+            "500摩拉"
+          ],
+          "text": "戴因索取五百摩拉及三个回答，询问蒙德龙灾、璃月守护者和神之眼持有者。问题旨在了解态度；不同选项会改变他的回应，不能合并为唯一答案。",
+          "section": "前往酒馆一楼，寻找那位「陌生人」",
+          "sourceTitles": [
+            "拾枝者·戴因斯雷布"
+          ],
+          "sourceTitle": "拾枝者·戴因斯雷布",
+          "sourceRevision": "667067",
+          "sourceVerificationLevel": "dialogue"
+        },
+        {
+          "key": "commission",
+          "sourceKey": "dain",
+          "evidenceAnchors": [
+            ".E5.89.8D.E5.BE.80.E9.85.92.E9.A6.86.E4.B8.80.E6.A5.BC.EF.BC.8C.E5.AF.BB.E6.89.BE.E9.82.A3.E4.BD.8D.E3.80.8C.E9.99.8C.E7.94.9F.E4.BA.BA.E3.80.8D"
+          ],
+          "topic": "戴因接受什么委托",
+          "task": "拾枝者·戴因斯雷布",
+          "keywords": [
+            "委托",
+            "深渊教团",
+            "追踪",
+            "使徒"
+          ],
+          "text": "戴因只接受与深渊教团相关的委托，此行正追踪深渊使徒。与旅行者同行来自这项共同调查，并不意味着他已经解释了所有秘密。",
+          "section": "前往酒馆一楼，寻找那位「陌生人」",
+          "sourceTitles": [
+            "拾枝者·戴因斯雷布"
+          ],
+          "sourceTitle": "拾枝者·戴因斯雷布",
+          "sourceRevision": "667067",
+          "sourceVerificationLevel": "dialogue"
+        },
+        {
+          "key": "traces",
+          "sourceKey": "dain",
+          "evidenceAnchors": [
+            ".E4.B8.8E.E6.88.B4.E5.9B.A0.E6.96.AF.E9.9B.B7.E5.B8.83.E5.AF.B9.E8.AF.9D",
+            ".E4.B8.8E.E6.88.B4.E5.9B.A0.E6.96.AF.E9.9B.B7.E5.B8.83.E5.AF.B9.E8.AF.9D_2",
+            ".E4.B8.8E.E6.88.B4.E5.9B.A0.E6.96.AF.E9.9B.B7.E5.B8.83.E5.AF.B9.E8.AF.9D_3"
+          ],
+          "topic": "追踪为何没有直接找到目标",
+          "task": "拾枝者·戴因斯雷布",
+          "keywords": [
+            "奔狼领",
+            "庙宇",
+            "篝火",
+            "深渊法师"
+          ],
+          "text": "庙宇和奔狼领留有深渊法师活动的痕迹，戴因却没有找到使徒更深层的力量。线索证明活动发生过，不能直接证明目标仍在那里。",
+          "section": "与戴因斯雷布对话 / 与戴因斯雷布对话 / 与戴因斯雷布对话",
+          "sourceTitles": [
+            "拾枝者·戴因斯雷布"
+          ],
+          "sourceTitle": "拾枝者·戴因斯雷布",
+          "sourceRevision": "667067",
+          "sourceVerificationLevel": "dialogue"
+        },
+        {
+          "key": "companion",
+          "sourceKey": "dain",
+          "evidenceAnchors": [
+            ".E4.B8.8E.E6.88.B4.E5.9B.A0.E6.96.AF.E9.9B.B7.E5.B8.83.E5.AF.B9.E8.AF.9D_4",
+            ".E8.BF.BD.E4.B8.8A.E6.88.B4.E5.9B.A0.E6.96.AF.E9.9B.B7.E5.B8.83"
+          ],
+          "topic": "戴因谈过去的旅伴",
+          "task": "拾枝者·戴因斯雷布",
+          "keywords": [
+            "旅伴",
+            "过去",
+            "旅行"
+          ],
+          "text": "戴因提起曾与一名旅伴旅行，如今对方已不再旅行。前置任务仅留下这段关系的线索，尚未在对话中说明旅伴身份。",
+          "section": "与戴因斯雷布对话 / 追上戴因斯雷布",
+          "sourceTitles": [
+            "拾枝者·戴因斯雷布"
+          ],
+          "sourceTitle": "拾枝者·戴因斯雷布",
+          "sourceRevision": "667067",
+          "sourceVerificationLevel": "dialogue"
+        },
+        {
+          "key": "dandelion",
+          "sourceKey": "dain",
+          "evidenceAnchors": [
+            ".E4.B8.8E.E6.88.B4.E5.9B.A0.E6.96.AF.E9.9B.B7.E5.B8.83.E5.AF.B9.E8.AF.9D_5"
+          ],
+          "topic": "蒲公英与血亲线索",
+          "task": "拾枝者·戴因斯雷布",
+          "keywords": [
+            "蒲公英",
+            "血亲",
+            "感受",
+            "气息"
+          ],
+          "text": "旅行者触碰蒲公英时感受到血亲。戴因提出它可能带着只有旅行者能察觉的气息，并鼓励继续寻找；感知如何产生仍未得到明确解释。",
+          "section": "与戴因斯雷布对话",
+          "sourceTitles": [
+            "拾枝者·戴因斯雷布"
+          ],
+          "sourceTitle": "拾枝者·戴因斯雷布",
+          "sourceRevision": "667067",
+          "sourceVerificationLevel": "dialogue"
+        }
+      ]
+    },
+    {
+      "id": 305,
+      "title": "我们终将重逢 · 旅人线第一章",
+      "category": "旅人线正文",
+      "sourceTitle": "我们终将重逢",
+      "revision": 673278,
+      "locator": "我们终将重逢 · 旅人线第一章",
+      "coverage": "本主题为所列任务的精选剧情与 NPC 对话摘要，允许本主题结局；不包含全文台词、所有选项或后续章节。",
+      "catalogTitles": [
+        "我们终将重逢"
+      ],
+      "taskTitles": [
+        "非自愿的祭献",
+        "无信者的使徒",
+        "不荣誉的试炼",
+        "有隔阂的魂灵"
+      ],
+      "suggestions": [
+        "概括我们终将重逢这一幕",
+        "耕地机为什么不是农具？",
+        "芭芭拉的故事怎样帮助调查？",
+        "重逢后为什么没有一起回家？"
+      ],
+      "spoilerPatterns": [
+        "卡利贝尔",
+        "克洛达尔",
+        "雷内",
+        "世界织机",
+        "(织机|命运).*(完成|最终能力)",
+        "(妹妹|哥哥|血亲).*(降临者|世界树)"
+      ],
+      "records": [
+        {
+          "key": "overview",
+          "sourceKey": "reunion",
+          "evidenceAnchors": [
+            ".E9.9D.9E.E8.87.AA.E6.84.BF.E7.9A.84.E7.A5.AD.E7.8C.AE",
+            ".E6.97.A0.E4.BF.A1.E8.80.85.E7.9A.84.E4.BD.BF.E5.BE.92",
+            ".E4.B8.8D.E8.8D.A3.E8.AA.89.E7.9A.84.E8.AF.95.E7.82.BC",
+            ".E6.9C.89.E9.9A.94.E9.98.82.E7.9A.84.E9.AD.82.E7.81.B5"
+          ],
+          "topic": "深渊调查与重逢",
+          "task": "我们终将重逢",
+          "keywords": [
+            "全幕",
+            "调查",
+            "重逢"
+          ],
+          "text": "盗宝团的遗迹行动引出深渊调查。旅行者与戴因追踪线索，从教会和王狼处获得消息，找到首座耕地机后重返遗迹，与失散的血亲相会。",
+          "overview": true,
+          "section": "相关具体子任务的描述、流程与对白",
+          "sourceTitles": [
+            "非自愿的祭献",
+            "不荣誉的试炼",
+            "有隔阂的魂灵"
+          ],
+          "sourceTitle": "非自愿的祭献",
+          "sourceRevision": "666989",
+          "sourceVerificationLevel": "dialogue"
+        },
+        {
+          "key": "commission",
+          "sourceKey": "sacrifice",
+          "evidenceAnchors": [
+            ".E6.8E.A5.E8.BF.91.E5.8D.8F.E4.BC.9A.E5.85.AC.E5.91.8A.E6.9D.BF",
+            ".E8.BF.BD.E8.B8.AA.E7.9B.97.E5.AE.9D.E5.9B.A2"
+          ],
+          "topic": "甘雨和岚姐的委托",
+          "task": "非自愿的祭献",
+          "keywords": [
+            "甘雨",
+            "岚姐",
+            "盗宝团",
+            "委托"
+          ],
+          "text": "甘雨与岚姐担忧盗宝团触碰深渊守护的遗迹，旅行者因此接下调查。消息来自总务司情报和协会交流，并非一开始就掌握遗迹中的真相。",
+          "section": "接近协会公告板 / 追踪盗宝团",
+          "sourceTitles": [
+            "非自愿的祭献"
+          ],
+          "sourceTitle": "非自愿的祭献",
+          "sourceRevision": "666989",
+          "sourceVerificationLevel": "dialogue"
+        },
+        {
+          "key": "statue",
+          "sourceKey": "sacrifice",
+          "evidenceAnchors": [
+            ".E5.AF.9F.E7.9C.8B.E9.81.97.E8.BF.B9.E6.B7.B1.E5.A4.84.E7.9A.84.E6.83.85.E5.86.B5"
+          ],
+          "topic": "倒挂神像旁的发现",
+          "task": "非自愿的祭献",
+          "keywords": [
+            "倒挂",
+            "神像",
+            "大盗宝家",
+            "死因"
+          ],
+          "text": "遗迹深处出现逆位的七天神像与已无呼吸的大盗宝家。环境异常迫使旅行者撤离，但这段观察没有查清具体死因。",
+          "section": "察看遗迹深处的情况",
+          "sourceTitles": [
+            "非自愿的祭献",
+            "有隔阂的魂灵"
+          ],
+          "sourceTitle": "非自愿的祭献",
+          "sourceRevision": "666989",
+          "sourceVerificationLevel": "dialogue"
+        },
+        {
+          "key": "history",
+          "sourceKey": "herald",
+          "evidenceAnchors": [
+            ".E4.B8.8E.E6.88.B4.E5.9B.A0.E5.AF.B9.E8.AF.9D_3"
+          ],
+          "topic": "戴因对坎瑞亚的说明",
+          "task": "无信者的使徒",
+          "keywords": [
+            "坎瑞亚",
+            "五百年",
+            "神明",
+            "历史"
+          ],
+          "text": "戴因将深渊教团与遗迹守卫联系到坎瑞亚，并讲述无神国度及五百年前的覆灭。讲解保留其证言身份，不把本幕谈话当成已经掌握全部历史。",
+          "section": "与戴因对话",
+          "sourceTitles": [
+            "无信者的使徒"
+          ],
+          "sourceTitle": "无信者的使徒",
+          "sourceRevision": "667010",
+          "sourceVerificationLevel": "dialogue"
+        },
+        {
+          "key": "machine",
+          "sourceKey": "herald",
+          "evidenceAnchors": [
+            ".E4.B8.8E.E6.88.B4.E5.9B.A0.E5.AF.B9.E8.AF.9D_4"
+          ],
+          "topic": "耕地机是兵器代号",
+          "task": "无信者的使徒",
+          "keywords": [
+            "耕地机",
+            "农具",
+            "兵器",
+            "遗迹守卫"
+          ],
+          "text": "戴因解释，耕地机是坎瑞亚兵器的代号，并不是用于种田的农具。如今的遗迹守卫是后来的人按照其出没位置赋予的称呼。",
+          "section": "与戴因对话",
+          "sourceTitles": [
+            "无信者的使徒"
+          ],
+          "sourceTitle": "无信者的使徒",
+          "sourceRevision": "667010",
+          "sourceVerificationLevel": "dialogue"
+        },
+        {
+          "key": "plan",
+          "sourceKey": "herald",
+          "evidenceAnchors": [
+            ".E4.B8.8E.E6.88.B4.E5.9B.A0.E5.AF.B9.E8.AF.9D_5"
+          ],
+          "topic": "信件中的初步计划",
+          "task": "无信者的使徒",
+          "keywords": [
+            "命运的织机",
+            "计划",
+            "奥赛尔",
+            "眼睛"
+          ],
+          "text": "戴因从信中读出命运的织机相关初步计划：以逆位神像为基础，结合首座耕地机的眼与奥赛尔制造机械魔神。本条描述计划，不能写成已经实施成功。",
+          "section": "与戴因对话",
+          "sourceTitles": [
+            "无信者的使徒"
+          ],
+          "sourceTitle": "无信者的使徒",
+          "sourceRevision": "667010",
+          "sourceVerificationLevel": "dialogue"
+        },
+        {
+          "key": "church",
+          "sourceKey": "trial",
+          "evidenceAnchors": [
+            ".E4.B8.8E.E8.8A.AD.E8.8A.AD.E6.8B.89.E5.AF.B9.E8.AF.9D"
+          ],
+          "topic": "芭芭拉保存的旧故事",
+          "task": "不荣誉的试炼",
+          "keywords": [
+            "芭芭拉",
+            "教会",
+            "失落的神像",
+            "暴君的遗怨"
+          ],
+          "text": "芭芭拉讲述失落神像，以及旧蒙德曾出现火球的怪事。教会也认为将火球归因于暴君遗怨站不住脚；这些旧记载成为待解释的线索。",
+          "section": "与芭芭拉对话",
+          "sourceTitles": [
+            "不荣誉的试炼"
+          ],
+          "sourceTitle": "不荣誉的试炼",
+          "sourceRevision": "666986",
+          "sourceVerificationLevel": "dialogue"
+        },
+        {
+          "key": "wolf",
+          "sourceKey": "trial",
+          "evidenceAnchors": [
+            ".E4.B8.8E.E9.9B.B7.E6.B3.BD.E5.AF.B9.E8.AF.9D",
+            ".E4.B8.8E.E3.80.8C.E5.8C.97.E9.A3.8E.E7.9A.84.E7.8E.8B.E7.8B.BC.E3.80.8D.E5.AF.B9.E8.AF.9D"
+          ],
+          "topic": "为何介入王狼的试炼",
+          "task": "不荣誉的试炼",
+          "keywords": [
+            "王狼",
+            "雷泽",
+            "试炼",
+            "深渊使徒"
+          ],
+          "text": "深渊使徒借试炼布下腐蚀陷阱，旅行者赶来中断仪式。王狼随后提到曾打伤一台战斗机器，为寻找首座耕地机提供了线索。",
+          "section": "与雷泽对话 / 与「北风的王狼」对话",
+          "sourceTitles": [
+            "不荣誉的试炼"
+          ],
+          "sourceTitle": "不荣誉的试炼",
+          "sourceRevision": "666986",
+          "sourceVerificationLevel": "dialogue"
+        },
+        {
+          "key": "deduction",
+          "sourceKey": "souls",
+          "evidenceAnchors": [
+            ".E4.B8.8E.E6.88.B4.E5.9B.A0.E5.AF.B9.E8.AF.9D"
+          ],
+          "topic": "火球与机器如何连起来",
+          "task": "有隔阂的魂灵",
+          "keywords": [
+            "火球",
+            "导弹",
+            "旧蒙德",
+            "线索"
+          ],
+          "text": "戴因将教会故事与王狼的记忆并置，众人据此把旧蒙德火球解释为受损机器发射的导弹。旅行者又记起高塔上的守卫，缩小了搜寻范围。",
+          "section": "与戴因对话",
+          "sourceTitles": [
+            "有隔阂的魂灵"
+          ],
+          "sourceTitle": "有隔阂的魂灵",
+          "sourceRevision": "674113",
+          "sourceVerificationLevel": "dialogue"
+        },
+        {
+          "key": "eye",
+          "sourceKey": "souls",
+          "evidenceAnchors": [
+            ".E4.B8.8E.E6.88.B4.E5.9B.A0.E5.AF.B9.E8.AF.9D_2"
+          ],
+          "topic": "眼睛由谁保管",
+          "task": "有隔阂的魂灵",
+          "keywords": [
+            "眼睛",
+            "保管",
+            "元素视野",
+            "戴因"
+          ],
+          "text": "元素视野未能找到非元素能源驱动的机器核心，戴因取出首座耕地机的眼并决定自行保管。他还提出回遗迹处理逆位神像，以防其继续被利用。",
+          "section": "与戴因对话",
+          "sourceTitles": [
+            "有隔阂的魂灵"
+          ],
+          "sourceTitle": "有隔阂的魂灵",
+          "sourceRevision": "674113",
+          "sourceVerificationLevel": "dialogue"
+        },
+        {
+          "key": "reunion",
+          "sourceKey": "souls",
+          "evidenceAnchors": [
+            ".E5.87.BB.E8.B4.A5.E6.B7.B1.E6.B8.8A.E4.BD.BF.E5.BE.92",
+            ".E4.B8.8E.E8.8D.A7.2F.E7.A9.BA.E7.9B.B8.E4.BC.9A.28.E7.A9.BA.E8.A7.86.E8.A7.92.2F.E8.8D.A7.E8.A7.86.E8.A7.92.29"
+          ],
+          "topic": "血亲为何阻止旅行者",
+          "task": "有隔阂的魂灵",
+          "keywords": [
+            "血亲",
+            "深渊使徒",
+            "重逢",
+            "公主",
+            "王子"
+          ],
+          "text": "血亲出面阻止戴因和旅行者对使徒的攻击，并被使徒尊称为殿下。血亲要求不要与戴因一起阻止深渊；这一立场与旅行者立即团聚的愿望发生冲突。",
+          "section": "击败深渊使徒 / 与荧/空相会(空视角/荧视角)",
+          "sourceTitles": [
+            "有隔阂的魂灵"
+          ],
+          "sourceTitle": "有隔阂的魂灵",
+          "sourceRevision": "674113",
+          "sourceVerificationLevel": "dialogue"
+        },
+        {
+          "key": "home",
+          "sourceKey": "souls",
+          "evidenceAnchors": [
+            ".E4.B8.8E.E8.8D.A7.2F.E7.A9.BA.E7.9B.B8.E4.BC.9A.28.E7.A9.BA.E8.A7.86.E8.A7.92.2F.E8.8D.A7.E8.A7.86.E8.A7.92.29"
+          ],
+          "topic": "为什么没有一起回家",
+          "task": "有隔阂的魂灵",
+          "keywords": [
+            "回家",
+            "终点",
+            "战争",
+            "血亲"
+          ],
+          "text": "血亲表示还有与天理的战争尚未结束，暂时不能一起离开，并希望旅行者自己走到旅途终点。本幕没有完整解释其选择背后的全部经历。",
+          "section": "与荧/空相会(空视角/荧视角)",
+          "sourceTitles": [
+            "有隔阂的魂灵"
+          ],
+          "sourceTitle": "有隔阂的魂灵",
+          "sourceRevision": "674113",
+          "sourceVerificationLevel": "dialogue"
+        },
+        {
+          "key": "questions",
+          "sourceKey": "souls",
+          "evidenceAnchors": [
+            ".E4.B8.8E.E6.B4.BE.E8.92.99.E5.AF.B9.E8.AF.9D"
+          ],
+          "topic": "重逢留下的疑问",
+          "task": "有隔阂的魂灵",
+          "keywords": [
+            "派蒙",
+            "统领",
+            "最高",
+            "疑问",
+            "戴因"
+          ],
+          "text": "派蒙据使徒的称呼判断血亲在教团地位很高，但仍不确定是否为最高统治者。血亲为何与深渊同行、戴因为何与之敌对，仍是接下来需要调查的问题。",
+          "section": "与派蒙对话",
+          "sourceTitles": [
+            "有隔阂的魂灵"
+          ],
+          "sourceTitle": "有隔阂的魂灵",
+          "sourceRevision": "674113",
+          "sourceVerificationLevel": "dialogue"
+        }
+      ]
+    },
+    {
+      "id": 401,
+      "title": "振袖秋风问红叶 · 稻妻序幕",
+      "category": "主线正文",
+      "sourceTitle": "振袖秋风问红叶",
+      "revision": 673279,
+      "locator": "振袖秋风问红叶 · 稻妻序幕",
+      "coverage": "本主题为所列任务的精选剧情与 NPC 对话摘要，允许本主题结局；不包含全文台词、所有选项或后续章节。",
+      "catalogTitles": [
+        "振袖秋风问红叶"
+      ],
+      "taskTitles": [
+        "冲破雷暴之法",
+        "南十字武斗会",
+        "一路随风"
+      ],
+      "suggestions": [
+        "概括振袖秋风问红叶这一幕",
+        "竺子为什么建议找北斗？",
+        "戎世为什么不羡慕神之眼？",
+        "万叶为什么没有立刻阻止偷窃？"
+      ],
+      "spoilerPatterns": [
+        "一心净土",
+        "雷电影",
+        "雷电真",
+        "散兵",
+        "(万叶|神之眼).*(挡下|挡住|重燃成功)",
+        "(哲平|邪眼工厂)"
+      ],
+      "records": [
+        {
+          "key": "overview",
+          "sourceKey": "autumn",
+          "evidenceAnchors": [
+            ".E5.86.B2.E7.A0.B4.E9.9B.B7.E6.9A.B4.E4.B9.8B.E6.B3.95",
+            ".E5.8D.97.E5.8D.81.E5.AD.97.E6.AD.A6.E6.96.97.E4.BC.9A",
+            ".E4.B8.80.E8.B7.AF.E9.9A.8F.E9.A3.8E"
+          ],
+          "topic": "为出航寻找机会",
+          "task": "振袖秋风问红叶",
+          "keywords": [
+            "全幕",
+            "稻妻",
+            "船票"
+          ],
+          "text": "旅行者为前往稻妻接触南十字船队，参加武斗会争取船票。决赛前奖品失窃，旅行者随万叶追查并返回会场，出航准备由此继续推进。",
+          "overview": true,
+          "section": "相关具体子任务的描述、流程与对白",
+          "sourceTitles": [
+            "冲破雷暴之法",
+            "南十字武斗会",
+            "一路随风"
+          ],
+          "sourceTitle": "冲破雷暴之法",
+          "sourceRevision": "665391",
+          "sourceVerificationLevel": "dialogue"
+        },
+        {
+          "key": "zhuzhi",
+          "sourceKey": "storm",
+          "evidenceAnchors": [
+            ".E8.AF.A2.E9.97.AE.E7.AB.BA.E5.AD.90.E5.89.8D.E5.BE.80.E7.A8.BB.E5.A6.BB.E7.9A.84.E6.96.B9.E6.B3.95"
+          ],
+          "topic": "竺子为什么推荐南十字",
+          "task": "冲破雷暴之法",
+          "keywords": [
+            "竺子",
+            "北斗",
+            "木筏",
+            "风暴"
+          ],
+          "text": "竺子曾冒险乘木筏离开稻妻，深知海上风暴与出入限制的危险。她建议寻找远航经验丰富的南十字船队，向北斗争取帮助。",
+          "section": "询问竺子前往稻妻的方法",
+          "sourceTitles": [
+            "冲破雷暴之法"
+          ],
+          "sourceTitle": "冲破雷暴之法",
+          "sourceRevision": "665391",
+          "sourceVerificationLevel": "dialogue"
+        },
+        {
+          "key": "ticket",
+          "sourceKey": "storm",
+          "evidenceAnchors": [
+            ".E5.8E.BB.E3.80.8C.E6.AD.BB.E5.85.86.E6.98.9F.E3.80.8D.E5.8F.B7.E8.A7.81.E5.8C.97.E6.96.97",
+            ".E4.B8.8E.E8.B4.9F.E8.B4.A3.E6.8A.A5.E5.90.8D.E7.9A.84.E7.8F.A0.E5.87.BD.E4.BA.A4.E8.B0.88"
+          ],
+          "topic": "船票与比武的约定",
+          "task": "冲破雷暴之法",
+          "keywords": [
+            "北斗",
+            "船票",
+            "报名",
+            "元素力"
+          ],
+          "text": "北斗希望旅行者参赛，并允许获胜后选择前往稻妻的船票。旅行者没有神之眼，符合报名条件；派蒙仍建议比武时不用元素力，以免引起误解。",
+          "section": "去「死兆星」号见北斗 / 与负责报名的珠函交谈",
+          "sourceTitles": [
+            "冲破雷暴之法"
+          ],
+          "sourceTitle": "冲破雷暴之法",
+          "sourceRevision": "665391",
+          "sourceVerificationLevel": "dialogue"
+        },
+        {
+          "key": "branch",
+          "sourceKey": "storm",
+          "evidenceAnchors": [
+            ".E5.8E.BB.E3.80.8C.E6.AD.BB.E5.85.86.E6.98.9F.E3.80.8D.E5.8F.B7.E8.A7.81.E5.8C.97.E6.96.97"
+          ],
+          "topic": "北斗见面对白的条件分支",
+          "task": "冲破雷暴之法",
+          "keywords": [
+            "北斗",
+            "初次",
+            "认识",
+            "风起鹤归",
+            "分支"
+          ],
+          "text": "见面对白会随是否完成风起鹤归而变化：一支介绍北斗从凝光处听说旅行者，另一支表现为已有交情。两种条件不能拼成同一次首次见面。",
+          "section": "去「死兆星」号见北斗",
+          "sourceTitles": [
+            "冲破雷暴之法"
+          ],
+          "sourceTitle": "冲破雷暴之法",
+          "sourceRevision": "665391",
+          "sourceVerificationLevel": "dialogue"
+        },
+        {
+          "key": "entrants",
+          "sourceKey": "storm",
+          "evidenceAnchors": [
+            ".E4.BA.86.E8.A7.A3.E5.8F.82.E8.B5.9B.E8.80.85.E7.9A.84.E5.AE.9E.E5.8A.9B_2",
+            ".E4.BA.86.E8.A7.A3.E5.8F.82.E8.B5.9B.E8.80.85.E7.9A.84.E5.AE.9E.E5.8A.9B_3"
+          ],
+          "topic": "参赛者眼中的神之眼",
+          "task": "冲破雷暴之法",
+          "keywords": [
+            "柴毅",
+            "良子",
+            "晋优",
+            "参赛者"
+          ],
+          "text": "柴毅与良子想借神之眼得到师父认可，晋优则把它看作自身完美的最后一块拼图。这些是参赛者的期待，并不证明获得神之眼就能实现目标。",
+          "section": "了解参赛者的实力 / 了解参赛者的实力",
+          "sourceTitles": [
+            "冲破雷暴之法"
+          ],
+          "sourceTitle": "冲破雷暴之法",
+          "sourceRevision": "665391",
+          "sourceVerificationLevel": "dialogue"
+        },
+        {
+          "key": "rongshi",
+          "sourceKey": "tournament",
+          "evidenceAnchors": [
+            ".E4.B8.8E.E6.88.8E.E4.B8.96.E4.BA.A4.E8.B0.88"
+          ],
+          "topic": "戎世如何看待败北",
+          "task": "南十字武斗会",
+          "keywords": [
+            "戎世",
+            "神之眼",
+            "肌肉",
+            "败北"
+          ],
+          "text": "戎世更信任训练所得的力量，参赛是为了切磋。他将败北看成认识差距、继续成长的机会，而非仅仅错失一件奖品。",
+          "section": "与戎世交谈",
+          "sourceTitles": [
+            "南十字武斗会"
+          ],
+          "sourceTitle": "南十字武斗会",
+          "sourceRevision": "665390",
+          "sourceVerificationLevel": "dialogue"
+        },
+        {
+          "key": "curiosity",
+          "sourceKey": "tournament",
+          "evidenceAnchors": [
+            ".E4.B8.8E.E4.B8.87.E5.8F.B6.E4.BA.A4.E8.B0.88",
+            ".E4.B8.8E.E4.B8.87.E5.8F.B6.E4.BA.A4.E8.B0.88_2"
+          ],
+          "topic": "万叶为何关注旅行者",
+          "task": "南十字武斗会",
+          "keywords": [
+            "万叶",
+            "元素力",
+            "神之眼",
+            "好奇"
+          ],
+          "text": "万叶对旅行者不用神之眼也能驱动元素感到好奇，想从观察中获得启发。他对神之眼与神明意志的解释包含自身疑问，不能视为已经证实的完整规则。",
+          "section": "与万叶交谈 / 与万叶交谈",
+          "sourceTitles": [
+            "南十字武斗会"
+          ],
+          "sourceTitle": "南十字武斗会",
+          "sourceRevision": "665390",
+          "sourceVerificationLevel": "dialogue"
+        },
+        {
+          "key": "theft",
+          "sourceKey": "wind",
+          "evidenceAnchors": [
+            ".E8.BF.9B.E5.85.A5.E5.9C.BA.E5.9C.B0.EF.BC.8C.E5.8F.82.E5.8A.A0.E5.86.B3.E8.B5.9B",
+            ".E9.9A.8F.E4.B8.87.E5.8F.B6.E8.BF.BD.E5.AF.BB.E7.A5.9E.E4.B9.8B.E7.9C.BC.E7.9A.84.E5.8E.BB.E5.90.91",
+            ".E4.B8.8E.E5.81.B7.E8.B5.B0.E7.A5.9E.E4.B9.8B.E7.9C.BC.E7.9A.84.E7.9B.97.E5.AE.9D.E5.9B.A2.E4.BA.A4.E8.B0.88"
+          ],
+          "topic": "决赛对手与失窃奖品",
+          "task": "一路随风",
+          "keywords": [
+            "飞飞",
+            "决赛",
+            "偷窃",
+            "奖品"
+          ],
+          "text": "决赛对手迟迟未到，众人发现奖品失窃。追查后，飞飞承认自己看过旅行者的表现，自知胜算不大，于是由参赛转向偷取神之眼。",
+          "section": "进入场地，参加决赛 / 随万叶追寻神之眼的去向 / 与偷走神之眼的盗宝团交谈",
+          "sourceTitles": [
+            "一路随风"
+          ],
+          "sourceTitle": "一路随风",
+          "sourceRevision": "665393",
+          "sourceVerificationLevel": "dialogue"
+        },
+        {
+          "key": "experiment",
+          "sourceKey": "wind",
+          "evidenceAnchors": [
+            ".E5.86.8D.E6.AC.A1.E4.B8.8E.E7.9B.97.E5.AE.9D.E5.9B.A2.E4.BA.A4.E8.B0.88"
+          ],
+          "topic": "为什么没有立刻阻止偷窃",
+          "task": "一路随风",
+          "keywords": [
+            "万叶",
+            "阻止",
+            "偷窃",
+            "实验",
+            "绝境"
+          ],
+          "text": "万叶察觉偷窃后，想观察飞飞的强烈愿望能否唤醒神之眼。他用惩罚言辞施压，战斗后撤回责罚；神之眼并未发光。",
+          "section": "再次与盗宝团交谈",
+          "sourceTitles": [
+            "一路随风"
+          ],
+          "sourceTitle": "一路随风",
+          "sourceRevision": "665393",
+          "sourceVerificationLevel": "dialogue"
+        },
+        {
+          "key": "friend",
+          "sourceKey": "wind",
+          "evidenceAnchors": [
+            ".E5.86.8D.E6.AC.A1.E4.B8.8E.E7.9B.97.E5.AE.9D.E5.9B.A2.E4.BA.A4.E8.B0.88"
+          ],
+          "topic": "无主神之眼与故人",
+          "task": "一路随风",
+          "keywords": [
+            "友人",
+            "御前决斗",
+            "无主",
+            "神之眼"
+          ],
+          "text": "万叶回忆友人挑战眼狩令执行者、在御前决斗后遭到神罚。他带走友人逐渐熄灭的神之眼，继续寻找让愿望得以延续的可能。",
+          "section": "再次与盗宝团交谈",
+          "sourceTitles": [
+            "一路随风"
+          ],
+          "sourceTitle": "一路随风",
+          "sourceRevision": "665393",
+          "sourceVerificationLevel": "dialogue"
+        },
+        {
+          "key": "failure",
+          "sourceKey": "wind",
+          "evidenceAnchors": [
+            ".E5.86.8D.E6.AC.A1.E4.B8.8E.E7.9B.97.E5.AE.9D.E5.9B.A2.E4.BA.A4.E8.B0.88"
+          ],
+          "topic": "尝试没有成功意味着什么",
+          "task": "一路随风",
+          "keywords": [
+            "点亮",
+            "失败",
+            "旅行者",
+            "重燃"
+          ],
+          "text": "飞飞和旅行者都没有使这枚神之眼重新发光。这里只能确认本次尝试失败，不能据此断言它永远不可能被唤醒。",
+          "section": "再次与盗宝团交谈",
+          "sourceTitles": [
+            "一路随风"
+          ],
+          "sourceTitle": "一路随风",
+          "sourceRevision": "665393",
+          "sourceVerificationLevel": "dialogue"
+        },
+        {
+          "key": "departure",
+          "sourceKey": "wind",
+          "evidenceAnchors": [
+            ".E8.BF.94.E5.9B.9E.E5.AD.A4.E4.BA.91.E9.98.81.E7.9A.84.E4.BC.9A.E5.9C.BA"
+          ],
+          "topic": "冠军与等待出航",
+          "task": "一路随风",
+          "keywords": [
+            "珠函",
+            "冠军",
+            "北斗",
+            "出航"
+          ],
+          "text": "珠函得知盗窃者就是决赛对手，按其失格确认旅行者夺冠。万叶表示会转告北斗，但死兆星号尚需准备，旅行者仍要等待出航通知。",
+          "section": "返回孤云阁的会场",
+          "sourceTitles": [
+            "一路随风"
+          ],
+          "sourceTitle": "一路随风",
+          "sourceRevision": "665393",
+          "sourceVerificationLevel": "dialogue"
+        }
+      ]
+    }
+  ]
+}

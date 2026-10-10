@@ -1,0 +1,10 @@
+import{readFileSync,writeFileSync}from'node:fs';
+import{retrieveOntology}from'../server/ontology-pilot.mjs';
+import{retrieve}from'../server/retrieval.mjs';
+import{loadCorpus}from'../server/corpus.mjs';
+const graph=JSON.parse(readFileSync('data/ontology-pilot.json')),pages=JSON.parse(readFileSync('data/corpus/pages.json')).pages,pack=JSON.parse(readFileSync('data/program-content.json'));
+const question='水仙十字结社是什么',corpus=loadCorpus(process.cwd()),stage=1000122821;
+const baseline=retrieve(question,{progress:stage,context:{}},corpus.records(stage),{...pack,stages:[...pack.stages,...corpus.stages],sources:[...pack.sources,...corpus.sources]});
+const report={question,baseline:{status:baseline.status,records:baseline.records.map(r=>({text:r.text,section:r.section}))},sameScope:retrieveOntology(question,{allowedPageIds:[122821]},graph,pages),locked:retrieveOntology(question,{allowedPageIds:[]},graph,pages),unlocked:retrieveOntology(question,{allowedPageIds:[122821,110431]},graph,pages),scope:'离线小范围概念验证，未接入正式聊天、不使用用户密钥、没有调用在线模型'};
+writeFileSync('test-results/ontology-pilot.json',JSON.stringify(report,null,2)+'\n');
+console.log(JSON.stringify({baseline:report.baseline,locked:report.locked,unlocked:{status:report.unlocked.status,answer:report.unlocked.answer,evidence:report.unlocked.evidence.map(e=>({title:e.title,path:e.path}))}},null,2));

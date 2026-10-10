@@ -1,0 +1,7 @@
+{
+  "chapters": [
+    {"prefix":"mondstadt","file":"mondstadt-story.json","legacyReviewed":true},
+    {"prefix":"liyue","file":"liyue-story.json","legacyReviewed":true},
+    {"prefix":"journey-bridge","file":"journey-bridge-story.json"}
+  ]
+}

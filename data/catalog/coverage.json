@@ -1,0 +1,29 @@
+{
+  "capturedOn": "2026-09-30",
+  "indexEntries": 3472,
+  "counts": {
+    "archon": 51,
+    "story": 58,
+    "tribal": 18,
+    "hangout": 18,
+    "world": 840,
+    "commission": 177,
+    "commission-combat": 47,
+    "event": 42,
+    "anecdote": 62,
+    "moon": 20,
+    "npc": 2139
+  },
+  "sourceCount": 21,
+  "unavailableSources": [
+    "活动任务",
+    "NPC图鉴/须弥",
+    "NPC图鉴/挪德卡莱",
+    "NPC图鉴/至冬",
+    "分类:任务",
+    "分类:NPC/分页1"
+  ],
+  "catalogDialogueNodes": 0,
+  "prototypeDialogueRecords": 14,
+  "completeGameCoverage": false
+}

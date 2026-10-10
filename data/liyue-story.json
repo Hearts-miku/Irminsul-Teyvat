@@ -1,0 +1,917 @@
+{
+  "reviewedAt": "2026-09-30",
+  "sources": {
+    "act1": {
+      "title": "浮世浮生千岩间",
+      "locator": "整幕任务索引",
+      "verificationLevel": "search-excerpt",
+      "note": "直接页面读取失败；本幕总览依据公开检索摘录，子任务分别核对。",
+      "revision": 673275,
+      "snapshotSha256": "6cd2ac9955955d996f4901810f70725dd0405c0210b55a54ea7781868e85b0cf"
+    },
+    "act2": {
+      "title": "辞行久远之躯",
+      "locator": "七个子任务的描述与流程",
+      "verificationLevel": "task-index",
+      "revision": 673276,
+      "snapshotSha256": "97504ceb48ab9d17715335b549bec1b4d385c1061c282ffec83d824266f1a996"
+    },
+    "act3": {
+      "title": "迫近的客星",
+      "locator": "六个子任务的描述与流程",
+      "verificationLevel": "task-index",
+      "revision": 673277,
+      "snapshotSha256": "3cb112233814ca1ad15c4a26088be5c13b481b309efd443482bb979d27a0b5cd"
+    },
+    "rite": {
+      "title": "请仙",
+      "locator": "典仪、逃离与公子会面",
+      "verificationLevel": "dialogue",
+      "revision": 665440,
+      "snapshotSha256": "448e6f48bd1400a52aab8cbfb42627e7fb08deb74ca5585109d32599baf2702d",
+      "note": "摘要陈述已对照固定版本相关场景；不代表整页对白及分支已逐句核对。"
+    },
+    "shock": {
+      "title": "惊变",
+      "locator": "削月筑阳真君与千岩军",
+      "verificationLevel": "dialogue",
+      "revision": 675171,
+      "snapshotSha256": "68cbf18442d6c8ddfaeff3db3ca8e86bc00d4d156d3194afd6261ede995961af",
+      "note": "摘要陈述已对照固定版本相关场景；不代表整页对白及分支已逐句核对。"
+    },
+    "inn": {
+      "title": "望舒",
+      "locator": "魈、菲尔戈黛特、言笑与小冥",
+      "verificationLevel": "dialogue",
+      "revision": 675201,
+      "snapshotSha256": "3064ab9b25b1494fedd81f4f7e02d805fbe7f170ae7c9a47997f6c47de455747",
+      "note": "摘要陈述已对照固定版本相关场景；不代表整页对白及分支已逐句核对。"
+    },
+    "mountain": {
+      "title": "叠山",
+      "locator": "解救李当、面见理水叠山真君",
+      "verificationLevel": "dialogue",
+      "revision": 675222,
+      "snapshotSha256": "a1590d9f84d8b78369423f173b339d6caf695c765779f2200d77450aceee2c61",
+      "note": "摘要陈述已对照固定版本相关场景；不代表整页对白及分支已逐句核对。"
+    },
+    "cloud": {
+      "title": "留云",
+      "locator": "供奉、洞府与留云借风真君",
+      "verificationLevel": "dialogue",
+      "revision": 675198,
+      "snapshotSha256": "c7430c2e197c941b79a76d6db67eb69aaf82e70e92cddaa0ab8b217e59e2386d",
+      "note": "摘要陈述已对照固定版本相关场景；不代表整页对白及分支已逐句核对。"
+    },
+    "return": {
+      "title": "返尘",
+      "locator": "公子谈仙祖法蜕",
+      "verificationLevel": "dialogue",
+      "revision": 675200,
+      "snapshotSha256": "1c011a8d0e7f69ebeeb4e58415af7d3a2db679b430ce0b22bd2cc942246915fc",
+      "note": "摘要陈述已对照固定版本相关场景；不代表整页对白及分支已逐句核对。"
+    },
+    "meeting": {
+      "title": "往生",
+      "locator": "琉璃亭会面",
+      "verificationLevel": "dialogue",
+      "revision": 667055,
+      "snapshotSha256": "208f3cc250749a630630cb8ecc5186f4c66ca08b0f19d38fe825064e6d4e4fce",
+      "note": "摘要陈述已对照固定版本相关场景；不代表整页对白及分支已逐句核对。"
+    },
+    "stone": {
+      "title": "指月",
+      "locator": "购买夜泊石与加热检验",
+      "verificationLevel": "dialogue",
+      "revision": 667060,
+      "snapshotSha256": "26b45c9013c3c2ca97c0384faf485d14b053905230eec5764df9a7e6361b4478",
+      "note": "摘要陈述已对照固定版本相关场景；不代表整页对白及分支已逐句核对。"
+    },
+    "perfume": {
+      "title": "传香",
+      "locator": "霓裳花与香膏",
+      "verificationLevel": "dialogue",
+      "revision": 667056,
+      "snapshotSha256": "9be3aecb6683f0ea62b42592bfcfecf97b1cf15a3517a2f7fde10cf6af28012a",
+      "note": "摘要陈述已对照固定版本相关场景；不代表整页对白及分支已逐句核对。"
+    },
+    "teapot": {
+      "title": "壶天",
+      "locator": "萍姥姥与壶中洞天",
+      "verificationLevel": "dialogue",
+      "revision": 667057,
+      "snapshotSha256": "8171137d1f919f2bb804bab820a64af57fa23cd00acf1809b43200f5e4c4049e",
+      "note": "摘要陈述已对照固定版本相关场景；不代表整页对白及分支已逐句核对。"
+    },
+    "market": {
+      "title": "市井",
+      "locator": "阿山婆、风筝与帮工",
+      "verificationLevel": "dialogue",
+      "revision": 673608,
+      "snapshotSha256": "80711ca408528b4560ae5b0c31d41ec4b3e62a70381832be687b8b1e565a2e21",
+      "note": "摘要陈述已对照固定版本相关场景；不代表整页对白及分支已逐句核对。"
+    },
+    "palace": {
+      "title": "浮城",
+      "locator": "寻找登上群玉阁的方法",
+      "verificationLevel": "dialogue",
+      "revision": 666988,
+      "snapshotSha256": "1c474ca4eab8c06ec055dac7872aed646ed23f42f2ec1ccad8f136b0c6e585a6",
+      "note": "摘要陈述已对照固定版本相关场景；不代表整页对白及分支已逐句核对。"
+    },
+    "gift": {
+      "title": "玑衡",
+      "locator": "孟丹、礼物与碎雪",
+      "verificationLevel": "dialogue",
+      "revision": 666991,
+      "snapshotSha256": "e1cfb33afa4079043431b9d75e9b0b490d0014c7346443f7d503c3b1f0e8139d",
+      "note": "摘要陈述已对照固定版本相关场景；不代表整页对白及分支已逐句核对。"
+    },
+    "duel": {
+      "title": "离心",
+      "locator": "黄金屋战斗及公子的判断",
+      "verificationLevel": "dialogue",
+      "revision": 666992,
+      "snapshotSha256": "d2a0b970ffb96b60801095e98efda3e3adddcaf3d6bb57872dd4c68496886f76",
+      "note": "摘要陈述已对照固定版本相关场景；不代表整页对白及分支已逐句核对。"
+    },
+    "battle": {
+      "title": "回天",
+      "locator": "共同抵御魔神、放弃群玉阁",
+      "verificationLevel": "dialogue",
+      "revision": 666994,
+      "snapshotSha256": "ade772b100c43a0e28e05aff89d4f3950e04a69134156437d61106da3e59b744",
+      "note": "摘要陈述已对照固定版本相关场景；不代表整页对白及分支已逐句核对。"
+    },
+    "farewell": {
+      "title": "送仙",
+      "locator": "北国银行真相与交易",
+      "verificationLevel": "dialogue",
+      "revision": 666990,
+      "snapshotSha256": "17ac4187dfe78b35b58640db47bcc8c17887af0f90feb29d8a07feb801516fae",
+      "note": "摘要陈述已对照固定版本相关场景；不代表整页对白及分支已逐句核对。"
+    },
+    "coconut": {
+      "title": "归终（任务）",
+      "locator": "七七对椰奶来源的误解",
+      "verificationLevel": "dialogue",
+      "revision": 667059,
+      "note": "摘要陈述已对照固定版本相关场景；不代表整页对白及分支已逐句核对。",
+      "snapshotSha256": "7f0342469f5afd953b448a3aec5c7f362c1724be267ec97a5d4862e1d3c7937d"
+    },
+    "invitation": {
+      "title": "邀约",
+      "locator": "田铁嘴说书、甘雨传达邀请",
+      "verificationLevel": "dialogue",
+      "revision": 673609,
+      "snapshotSha256": "65b1ceb0121c61a207e799573048c5a2aead81422d784d3445c6bbc6fde8c2ea",
+      "note": "摘要陈述已对照固定版本相关场景；不代表整页对白及分支已逐句核对。"
+    }
+  },
+  "scopes": [
+    {
+      "id": 301,
+      "title": "浮世浮生千岩间 · 璃月第一幕",
+      "category": "主线正文",
+      "sourceTitle": "浮世浮生千岩间",
+      "locator": "第一章第一幕",
+      "coverage": "请仙典仪至返尘的自行归纳；含寻仙过程与部分 NPC 对话摘要，不含逐句对白或后幕真相。",
+      "catalogTitles": [
+        "浮世浮生千岩间"
+      ],
+      "taskTitles": [
+        "请仙",
+        "惊变",
+        "望舒",
+        "叠山",
+        "留云",
+        "返尘"
+      ],
+      "suggestions": [
+        "概括浮世浮生千岩间这一幕",
+        "旅行者为什么逃离请仙典仪？",
+        "仙人怀疑七星就是事实吗？",
+        "望舒客栈的小冥做了什么？"
+      ],
+      "spoilerPatterns": [
+        "钟离",
+        "假死",
+        "神之心",
+        "奥赛尔",
+        "漩涡之魔神",
+        "群玉阁.*(牺牲|坠|毁|放弃)",
+        "终结一切契约",
+        "(牺牲|坠|毁|放弃).*群玉阁"
+      ],
+      "records": [
+        {
+          "key": "overview",
+          "sourceKey": "act1",
+          "topic": "典仪惊变与寻仙",
+          "task": "浮世浮生千岩间",
+          "keywords": [
+            "全幕",
+            "请仙典仪",
+            "寻仙"
+          ],
+          "text": "旅行者抵达璃月参加请仙典仪，却因突发变故卷入追捕。在公子指引下，旅行者去绝云间求助，并向多位仙人传信；完成寻访后返回璃月港，获悉仙祖法蜕已被限制接触。神明为何遇害仍是本幕悬念。",
+          "overview": true,
+          "sourceTitles": [
+            "请仙",
+            "惊变",
+            "返尘"
+          ],
+          "sourceTitle": "请仙",
+          "sourceRevision": "665440",
+          "sourceVerificationLevel": "dialogue",
+          "section": "相关具体子任务的描述、流程与对白"
+        },
+        {
+          "key": "rite",
+          "sourceKey": "rite",
+          "topic": "为什么参加请仙典仪",
+          "task": "请仙",
+          "keywords": [
+            "请仙典仪",
+            "岩王帝君",
+            "神谕",
+            "一年一度"
+          ],
+          "text": "旅行者想见岩神，抵达时正赶上一年一度的请仙典仪。按璃月惯例，岩王帝君会在仪式中降下神谕，为这一年的经营指引方向。",
+          "sourceTitles": [
+            "请仙"
+          ]
+        },
+        {
+          "key": "escape",
+          "sourceKey": "rite",
+          "topic": "为什么逃离现场",
+          "task": "请仙",
+          "keywords": [
+            "旅行者",
+            "逃离",
+            "追捕",
+            "嫌疑",
+            "典仪"
+          ],
+          "text": "神躯坠落后，凝光宣布封锁现场。旅行者担心所寻的神可能与当年的敌人有关，不愿落入其信徒手中，于是离开并遭到追捕；逃跑不能被当成行刺证据。",
+          "sourceTitles": [
+            "请仙"
+          ]
+        },
+        {
+          "key": "help",
+          "sourceKey": "rite",
+          "topic": "公子的援手",
+          "task": "请仙",
+          "keywords": [
+            "公子",
+            "帮助",
+            "愚人众",
+            "北国银行"
+          ],
+          "text": "公子帮助旅行者脱离千岩军追捕，并表明自己属于愚人众执行官。接受这次援助并不意味着双方已经消除戒心，更不能据此确认他的全部目的。",
+          "sourceTitles": [
+            "请仙"
+          ]
+        },
+        {
+          "key": "talisman",
+          "sourceKey": "shock",
+          "topic": "百无禁忌箓的作用",
+          "task": "惊变",
+          "keywords": [
+            "百无禁忌箓",
+            "百无禁忌篆",
+            "信物",
+            "削月筑阳真君"
+          ],
+          "text": "削月筑阳真君认出旅行者携带的百无禁忌箓，愿意听取来意。千岩军追至后，他要求驱离追兵而不杀生，随后让旅行者携信物向其他仙人传话。",
+          "sourceTitles": [
+            "惊变"
+          ]
+        },
+        {
+          "key": "suspicion",
+          "sourceKey": "inn",
+          "topic": "怀疑七星的叙述边界",
+          "task": "望舒",
+          "keywords": [
+            "七星",
+            "怀疑",
+            "幕后黑手",
+            "事实",
+            "推断"
+          ],
+          "text": "任务说明将七星可能涉案写作削月筑阳真君的推断。这反映仙人当时对七星处置的质疑，不能据此断定七星谋害了帝君；当前阶段仍缺少证明真凶的证据。",
+          "sourceTitles": [
+            "望舒"
+          ]
+        },
+        {
+          "key": "xiao",
+          "sourceKey": "inn",
+          "topic": "魈为何不愿接近凡人",
+          "task": "望舒",
+          "keywords": [
+            "魈",
+            "冷淡",
+            "伤害",
+            "杏仁豆腐",
+            "菲尔戈黛特"
+          ],
+          "text": "魈警告凡人接近仙魔会承受危险，信物也不能消除这种风险。菲尔戈黛特建议准备杏仁豆腐和拿手菜，帮助旅行者再次与他交流。",
+          "sourceTitles": [
+            "望舒"
+          ]
+        },
+        {
+          "key": "ghost",
+          "sourceKey": "inn",
+          "topic": "小冥与客栈闹鬼",
+          "task": "望舒",
+          "keywords": [
+            "小冥",
+            "言笑",
+            "鬼魂",
+            "降魔印",
+            "望舒客栈"
+          ],
+          "text": "在老板指点下，旅行者借降魔印寻找小冥，经历追逐与战斗后与她交流。小冥答应不再捉弄客人，但希望旅行者继续陪自己玩。",
+          "sourceTitles": [
+            "望舒"
+          ]
+        },
+        {
+          "key": "brothers",
+          "sourceKey": "mountain",
+          "topic": "李丁李当与琥珀",
+          "task": "叠山",
+          "keywords": [
+            "李丁",
+            "李当",
+            "琥珀",
+            "理水叠山真君"
+          ],
+          "text": "旅行者敲碎琥珀救出李当，两兄弟将救助者误认成仙使。理水叠山真君原本责问放走受罚者的行为；见到信物、听到口信后，转而听取璃月港变故并准备查证。",
+          "sourceTitles": [
+            "叠山"
+          ]
+        },
+        {
+          "key": "cloud",
+          "sourceKey": "cloud",
+          "topic": "留云借风真君的洞府",
+          "task": "留云",
+          "keywords": [
+            "留云借风真君",
+            "供奉",
+            "机关",
+            "洞府"
+          ],
+          "text": "旅行者根据食物痕迹备好供奉，并闯过留云借风真君布置的机关洞府。她听闻帝君遇刺后震怒，提出强硬处置；这是当时的反应，并非已经完成的行动。",
+          "sourceTitles": [
+            "留云"
+          ]
+        },
+        {
+          "key": "parallel",
+          "sourceKey": "mountain",
+          "topic": "多路寻仙的顺序",
+          "task": "叠山",
+          "keywords": [
+            "并行",
+            "顺序",
+            "望舒",
+            "留云",
+            "叠山"
+          ],
+          "text": "任务页面把望舒、叠山、留云列为并行寻仙线索，最终汇入返尘。页面部分任务条件与并行栏存在顺序差异，这里按分线整理，不把索引排列当成唯一游玩顺序。",
+          "sourceTitles": [
+            "望舒",
+            "叠山",
+            "留云",
+            "返尘"
+          ]
+        },
+        {
+          "key": "return",
+          "sourceKey": "return",
+          "topic": "返尘时公子的消息",
+          "task": "返尘",
+          "keywords": [
+            "公子",
+            "仙祖法蜕",
+            "藏匿",
+            "封锁",
+            "七星"
+          ],
+          "text": "公子称七星以真凶未明为由限制瞻仰仙祖法蜕，并对这一做法表示怀疑。讲解需保留消息的讲述者和立场，不把他的质疑直接转成客观定论。",
+          "sourceTitles": [
+            "返尘"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 302,
+      "title": "辞行久远之躯 · 璃月第二幕",
+      "category": "主线正文",
+      "sourceTitle": "辞行久远之躯",
+      "revision": 673276,
+      "locator": "第一章第二幕",
+      "coverage": "往生至邀约的送仙筹备摘要；包含商户、萍姥姥、七七与说书人片段，不提前解释钟离身份或后幕交易。",
+      "catalogTitles": [
+        "辞行久远之躯"
+      ],
+      "taskTitles": [
+        "往生",
+        "指月",
+        "传香",
+        "壶天",
+        "市井",
+        "归终",
+        "归终（任务）",
+        "邀约"
+      ],
+      "suggestions": [
+        "概括辞行久远之躯这一幕",
+        "为什么帮钟离筹办送仙典仪？",
+        "萍姥姥的壶里有什么？",
+        "七七说的椰羊真的存在吗？"
+      ],
+      "spoilerPatterns": [
+        "假死",
+        "钟离.*(身份|是谁|岩神|摩拉克斯|帝君)",
+        "(岩神|摩拉克斯|帝君).*钟离",
+        "神之心",
+        "奥赛尔",
+        "漩涡之魔神",
+        "群玉阁.*(牺牲|坠|毁|放弃)",
+        "终结一切契约",
+        "(牺牲|坠|毁|放弃).*群玉阁"
+      ],
+      "records": [
+        {
+          "key": "overview",
+          "sourceKey": "act2",
+          "topic": "送仙筹备与邀约",
+          "task": "辞行久远之躯",
+          "keywords": [
+            "全幕",
+            "送仙典仪",
+            "钟离"
+          ],
+          "text": "经公子介绍，旅行者结识往生堂客卿钟离，并以筹办送仙典仪为契机接近仙祖法蜕。两人准备石材、香膏、铃、风筝与永生香，接触璃月市井及仙家生活。筹备间隙的一次晚间饭局，将故事引向新的邀请。",
+          "overview": true,
+          "sourceTitles": [
+            "往生",
+            "指月",
+            "传香",
+            "壶天",
+            "市井",
+            "归终（任务）",
+            "邀约"
+          ],
+          "sourceTitle": "往生",
+          "sourceRevision": "667055",
+          "sourceVerificationLevel": "dialogue",
+          "section": "相关具体子任务的描述、流程与对白"
+        },
+        {
+          "key": "meeting",
+          "sourceKey": "meeting",
+          "topic": "钟离与往生堂",
+          "task": "往生",
+          "keywords": [
+            "公子",
+            "钟离",
+            "往生堂",
+            "客卿",
+            "葬仪"
+          ],
+          "text": "公子在琉璃亭介绍钟离与旅行者相识。钟离说明往生堂负责葬仪，并表示有办法让旅行者见到岩王帝君的仙体；此时讲解以客卿身份为限。",
+          "sourceTitles": [
+            "往生",
+            "指月"
+          ]
+        },
+        {
+          "key": "motive",
+          "sourceKey": "stone",
+          "topic": "为什么参与送仙典仪",
+          "task": "指月",
+          "keywords": [
+            "筹办",
+            "送仙典仪",
+            "为什么",
+            "岩神",
+            "仙体"
+          ],
+          "text": "旅行者答应协助钟离筹备仪式，是为了达成再次接触岩神仙体的目标。寻亲旅途的需要与璃月送别逝者的传统，在这项合作中暂时交汇。",
+          "sourceTitles": [
+            "指月",
+            "往生"
+          ]
+        },
+        {
+          "key": "stone",
+          "sourceKey": "stone",
+          "topic": "夜泊石的筹备",
+          "task": "指月",
+          "keywords": [
+            "夜泊石",
+            "石头",
+            "大锅",
+            "加热"
+          ],
+          "text": "钟离对仪式石材的品相有要求。旅行者向商人石头购买夜泊石前，先借好肉族的大锅加热检验材料，再返回璃月港完成采购与安置。",
+          "sourceTitles": [
+            "指月"
+          ]
+        },
+        {
+          "key": "perfume",
+          "sourceKey": "perfume",
+          "topic": "霓裳花到香膏",
+          "task": "传香",
+          "keywords": [
+            "霓裳花",
+            "香膏",
+            "莺儿",
+            "岚姐",
+            "绮命"
+          ],
+          "text": "筹备从石材转向香膏：采购霓裳花，向岚姐、绮命、莺儿请教，再协助取水和研磨精油，最后供奉香膏。莺儿参与的是具体制作过程。",
+          "sourceTitles": [
+            "传香"
+          ]
+        },
+        {
+          "key": "rumors",
+          "sourceKey": "teapot",
+          "topic": "萍姥姥谈港口流言",
+          "task": "壶天",
+          "keywords": [
+            "萍姥姥",
+            "流言",
+            "七星",
+            "愚人众",
+            "琉璃百合"
+          ],
+          "text": "萍姥姥借琉璃百合谈起港口的不安，列举人们对帝君死讯的各种猜测。她描述的是流言蔓延的气氛，这些说法不能作为查明幕后责任的证据。",
+          "sourceTitles": [
+            "壶天"
+          ]
+        },
+        {
+          "key": "bell",
+          "sourceKey": "teapot",
+          "topic": "壶中取涤尘铃",
+          "task": "壶天",
+          "keywords": [
+            "萍姥姥",
+            "壶",
+            "洞天",
+            "涤尘铃"
+          ],
+          "text": "钟离请旅行者向萍姥姥借涤尘铃。触碰她的壶后，旅行者进入内部空间寻找铃铛；日常器物容纳另一处空间，使这次借物显出仙家的不同寻常。",
+          "sourceTitles": [
+            "壶天"
+          ]
+        },
+        {
+          "key": "kites",
+          "sourceKey": "market",
+          "topic": "阿山婆的七只风筝",
+          "task": "市井",
+          "keywords": [
+            "阿山婆",
+            "七只",
+            "风筝",
+            "七神"
+          ],
+          "text": "阿山婆交付钟离预订的七只风筝，它们是送仙典仪的饰物，象征七神。她谈到祖传式样背后的意义，让仪式筹备也呈现为手艺的传承。",
+          "sourceTitles": [
+            "市井"
+          ]
+        },
+        {
+          "key": "workers",
+          "sourceKey": "market",
+          "topic": "市井中的帮工",
+          "task": "市井",
+          "keywords": [
+            "帮工",
+            "阿大",
+            "阿二",
+            "阿三",
+            "市井"
+          ],
+          "text": "购买风筝后，旅行者还要为典仪寻找三位帮工，并与公子会面。阿大、阿二、阿三等普通劳动者也参与仪式所需的人力安排。",
+          "sourceTitles": [
+            "市井",
+            "归终（任务）"
+          ]
+        },
+        {
+          "key": "coconut",
+          "sourceKey": "coconut",
+          "topic": "椰羊是怎样的误会",
+          "task": "归终",
+          "keywords": [
+            "椰羊",
+            "椰奶",
+            "七七",
+            "误会"
+          ],
+          "text": "七七把爱喝的椰奶误认成某种动物产的奶，由此提出寻找椰羊。旅行者说明椰奶来自椰树；本段没有证实椰羊真实存在。",
+          "sourceTitles": [
+            "归终（任务）"
+          ]
+        },
+        {
+          "key": "storyteller",
+          "sourceKey": "invitation",
+          "topic": "田铁嘴说群玉阁",
+          "task": "邀约",
+          "keywords": [
+            "田铁嘴",
+            "说书",
+            "碎雪",
+            "群玉阁",
+            "情报"
+          ],
+          "text": "在三碗不过港，田铁嘴讲述凝光处理情报、将纸屑撒下群玉阁的故事，渲染商人追逐决策线索的热情。这里保留说书语境，不把夸张叙述当成独立查证的记录。",
+          "sourceTitles": [
+            "邀约"
+          ]
+        },
+        {
+          "key": "invitation",
+          "sourceKey": "invitation",
+          "topic": "甘雨带来邀请",
+          "task": "邀约",
+          "keywords": [
+            "甘雨",
+            "凝光",
+            "邀请函",
+            "群玉阁"
+          ],
+          "text": "甘雨以七星秘书、凝光特别使者的身份出现，邀请旅行者前往群玉阁。钟离让旅行者赴约，并约定之后在荻花洲继续筹备典仪。",
+          "sourceTitles": [
+            "邀约"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 303,
+      "title": "迫近的客星 · 璃月第三幕",
+      "category": "主线正文",
+      "sourceTitle": "迫近的客星",
+      "revision": 673277,
+      "locator": "第一章第三幕",
+      "coverage": "浮城至送仙的危机与收束摘要；包含黄金屋、群玉阁和北国银行揭晓，未收录全分支及逐句对白。",
+      "catalogTitles": [
+        "迫近的客星"
+      ],
+      "taskTitles": [
+        "浮城",
+        "玑衡",
+        "孤芳",
+        "离心",
+        "回天",
+        "送仙"
+      ],
+      "suggestions": [
+        "概括迫近的客星这一幕",
+        "公子为什么在黄金屋攻击旅行者？",
+        "凝光为什么放弃群玉阁？",
+        "钟离与冰之女皇交换了什么？"
+      ],
+      "spoilerPatterns": [],
+      "records": [
+        {
+          "key": "overview",
+          "sourceKey": "act3",
+          "topic": "璃月港危机的主线",
+          "task": "迫近的客星",
+          "keywords": [
+            "全幕",
+            "群玉阁",
+            "黄金屋",
+            "送仙典仪"
+          ],
+          "text": "旅行者赴群玉阁之约，顺着线索调查愚人众动向。黄金屋冲突后，公子为迫使岩神现身而引出魔神危机，仙人与七星共同抵御。危机平息后，旅行者前往北国银行寻找钟离，再参加送仙典仪。",
+          "overview": true,
+          "sourceTitles": [
+            "浮城",
+            "孤芳",
+            "离心",
+            "回天",
+            "送仙"
+          ],
+          "sourceTitle": "浮城",
+          "sourceRevision": "666988",
+          "sourceVerificationLevel": "dialogue",
+          "section": "相关具体子任务的描述、流程与对白"
+        },
+        {
+          "key": "route",
+          "sourceKey": "palace",
+          "topic": "登上群玉阁的曲折",
+          "task": "浮城",
+          "keywords": [
+            "天衡山",
+            "群玉阁",
+            "风场",
+            "归终机"
+          ],
+          "text": "旅行者起初从天衡山寻找上阁办法，但风场不能抵达目的地。派蒙一度提出借归终机把人发射上去，这只是被否定的危险点子；随后才沿其他线索寻找通路。",
+          "sourceTitles": [
+            "浮城"
+          ]
+        },
+        {
+          "key": "gift",
+          "sourceKey": "gift",
+          "topic": "孟丹与见面礼",
+          "task": "玑衡",
+          "keywords": [
+            "孟丹",
+            "见面礼",
+            "明星斋",
+            "礼盒",
+            "刻晴"
+          ],
+          "text": "刻晴指明上阁方法后，派蒙着手准备见面礼。寻找材料时救出的孟丹是明星斋供货商，他答应帮忙安排包装；小插曲把一次救助与拜访礼仪连在一起。",
+          "sourceTitles": [
+            "玑衡"
+          ]
+        },
+        {
+          "key": "clue",
+          "sourceKey": "act3",
+          "topic": "碎雪与调查线索",
+          "task": "孤芳",
+          "keywords": [
+            "碎雪",
+            "百无禁忌篆",
+            "荻花洲",
+            "琉璃百合",
+            "愚人众"
+          ],
+          "text": "从群玉阁取得的碎雪线索引向愚人众研究。旅行者随后到荻花洲与钟离继续寻找野生琉璃百合，再返回港口打听变故。本条依据「孤芳」任务页的流程字段概括，不代替各场景对白。",
+          "sourceTitles": [
+            "孤芳"
+          ],
+          "sourceTitle": "孤芳",
+          "sourceRevision": "666993",
+          "sourceVerificationLevel": "task-index",
+          "section": "相关具体子任务的描述、流程与对白"
+        },
+        {
+          "key": "duel",
+          "sourceKey": "duel",
+          "topic": "黄金屋的误判",
+          "task": "离心",
+          "keywords": [
+            "公子",
+            "黄金屋",
+            "攻击",
+            "神之心",
+            "误判"
+          ],
+          "text": "公子试图从仙祖法蜕取得神之心却扑空，误以为旅行者抢先拿走，因而升级战斗。战后他冷静下来，承认旅行者并无抢先得手的可能。",
+          "sourceTitles": [
+            "离心"
+          ]
+        },
+        {
+          "key": "backup",
+          "sourceKey": "duel",
+          "topic": "公子的备用方案",
+          "task": "离心",
+          "keywords": [
+            "公子",
+            "备用方案",
+            "岩王帝君",
+            "假死"
+          ],
+          "text": "发现神之心不在法蜕后，公子开始怀疑岩王帝君并未真正死亡，决定改用备用方案。此刻仍是他的判断，完整解释要到后续北国银行会面才揭晓。",
+          "sourceTitles": [
+            "离心",
+            "送仙"
+          ]
+        },
+        {
+          "key": "alliance",
+          "sourceKey": "battle",
+          "topic": "仙人与七星共同防御",
+          "task": "回天",
+          "keywords": [
+            "仙人",
+            "七星",
+            "共同",
+            "愚人众",
+            "归终机"
+          ],
+          "text": "魔神逼近使仙人与七星暂时放下争执。在群玉阁上，众人抵挡愚人众干扰，配合仙人操纵归终机迎战；共同守城成为他们的当务之急。",
+          "sourceTitles": [
+            "回天"
+          ]
+        },
+        {
+          "key": "sacrifice",
+          "sourceKey": "battle",
+          "topic": "为何放弃群玉阁",
+          "task": "回天",
+          "keywords": [
+            "凝光",
+            "放弃",
+            "群玉阁",
+            "牺牲",
+            "镇压"
+          ],
+          "text": "魔神反击摧毁归终机后，防线难以继续压制敌人。凝光决定舍弃群玉阁，借众人助力将其投入海中，成功镇压魔神；代价是失去自己的空中宫殿。",
+          "sourceTitles": [
+            "回天"
+          ]
+        },
+        {
+          "key": "identity",
+          "sourceKey": "farewell",
+          "topic": "北国银行揭晓身份",
+          "task": "送仙",
+          "keywords": [
+            "钟离",
+            "身份",
+            "岩神",
+            "摩拉克斯",
+            "女士"
+          ],
+          "text": "在北国银行，钟离以摩拉克斯身份履约，将神之心交给女士。他解释自己与冰之女皇有交易，女士是执行契约的使者；公子此前并不知道全部安排。",
+          "sourceTitles": [
+            "送仙"
+          ]
+        },
+        {
+          "key": "test",
+          "sourceKey": "farewell",
+          "topic": "钟离为何假死",
+          "task": "送仙",
+          "keywords": [
+            "钟离",
+            "假死",
+            "考验",
+            "退位",
+            "七星"
+          ],
+          "text": "按钟离的解释，他想观察璃月能否进入新的时代，因而设计假死。仙人与七星的应对使他作出退下神位的决定；这是他对计划的自述。",
+          "sourceTitles": [
+            "送仙"
+          ]
+        },
+        {
+          "key": "price",
+          "sourceKey": "farewell",
+          "topic": "交易筹码仍未公开",
+          "task": "送仙",
+          "keywords": [
+            "冰之女皇",
+            "交换",
+            "交易",
+            "筹码",
+            "契约",
+            "神之心"
+          ],
+          "text": "已知钟离付出了神之心，但他没有公开冰之女皇给出的具体筹码。因此本幕只能说明交易存在，不能编造对价或宣称已解开契约全部内容。",
+          "sourceTitles": [
+            "送仙"
+          ]
+        },
+        {
+          "key": "ending",
+          "sourceKey": "act3",
+          "topic": "危机后的送仙典仪",
+          "task": "送仙",
+          "keywords": [
+            "送仙典仪",
+            "结尾",
+            "玉京台",
+            "璃月港"
+          ],
+          "text": "危机后的流程回到送别仪式：旅行者查看千岩军通告、参加典仪，并与现场人物交流、寻找钟离。筹备多时的仪式终于完成，本幕也在这里收束。",
+          "sourceTitles": [
+            "送仙"
+          ],
+          "sourceTitle": "送仙",
+          "sourceRevision": "666990",
+          "sourceVerificationLevel": "task-index",
+          "section": "相关具体子任务的描述、流程与对白"
+        }
+      ]
+    }
+  ]
+}

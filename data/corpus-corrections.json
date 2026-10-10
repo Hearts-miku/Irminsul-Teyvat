@@ -1,0 +1,75 @@
+[
+  {
+    "id": "timmie-chapter",
+    "pageid": 21148,
+    "find": "完成魔神任务第一章第三幕[[巨龙与自由之歌]]",
+    "replace": "完成魔神任务序章第三幕[[巨龙与自由之歌]]",
+    "reason": "章节编号校正；章节页与序章页均标为序章第三幕。",
+    "evidence": [
+      "https://wiki.biligame.com/ys/巨龙与自由之歌",
+      "https://wiki.biligame.com/ys/序章"
+    ],
+    "revision": 612759,
+    "sha256": "eac25b4f9a32a6084bd8976088e032ffb7e3df7dfceb99296cc0c4605d546a40"
+  },
+  {
+    "id": "sea-fog-braces",
+    "pageid": 46291,
+    "find": "{{提示|蓝色|详细对话内容，请查阅词条「[[三界路飨祭·后日谭]]」\n",
+    "replace": "{{提示|蓝色|详细对话内容，请查阅词条「[[三界路飨祭·后日谭]]」}}\n",
+    "reason": "补全提示模板闭合符；同页其余提示采用同一结构，不改动正文。",
+    "evidence": [
+      "local:同页三界路飨祭·前夜提示模板"
+    ],
+    "revision": 339141,
+    "sha256": "97e87cf5bcd4189c24121671f6db23eda7546c4224dba1228785a4c6123516f8"
+  },
+  {
+    "id": "witch-info-braces",
+    "pageid": 167402,
+    "find": "{{#info:[[梦见月瑞希]]，在这个占卜摊前停了很久。",
+    "replace": "{{#info:[[梦见月瑞希]]}}，在这个占卜摊前停了很久。",
+    "reason": "补全人物名注释的闭合符，恢复后续台词及选项边界；只插入闭合符，不改动对白。",
+    "evidence": [
+      "local:同页第34行闭合的#info注释以及第48行人物链接"
+    ],
+    "revision": 670318,
+    "sha256": "f397f97b2afdacb5884d0722e750672ddc1623ec24080ed3572a9b314c087469"
+  },
+  {
+    "id": "choice-ruby-language",
+    "pageid": 127261,
+    "find": "{{注音|「队长」|Il Capitano|注音语音=en}}",
+    "replace": "{{注音|「队长」|Il Capitano|注音语言=en}}",
+    "reason": "依据注音模板定义纠正未使用的参数名称，保留原词和注音文字。",
+    "evidence": [
+      "local:模板:注音 修订420718"
+    ],
+    "revision": 652543,
+    "sha256": "b79715a3249188064b892e26998998beb798e6cf56d5f8d61d0fcb001e1209f6"
+  },
+  {
+    "id": "noelle-fold-group",
+    "pageid": 163922,
+    "find": "{{折叠面板|内容结束}}\n\n\n{{人物对话|左|诺艾尔|唔…",
+    "replace": "{{折叠面板|内容结束}}\n{{折叠面板|结束}}\n\n{{人物对话|左|诺艾尔|唔…",
+    "reason": "关闭已结束的誓言岬彩蛋折叠组，后续诺艾尔对话在彩蛋外；不增删台词。",
+    "evidence": [
+      "local:同页约定之地最后一个折叠组与后续诺艾尔对白"
+    ],
+    "revision": 662887,
+    "sha256": "cd8b2b4046102b66025e1044cdb1ab2f89ce82891bb276e0ad22434067d134e4"
+  },
+  {
+    "id": "marjorie-unused-flag",
+    "pageid": 10964,
+    "find": "|挑战目标=是\n",
+    "replace": "",
+    "reason": "NPC/七圣召唤模板未使用挑战目标标志；目标1至3和对白均保留，防止把“是”当作台词。",
+    "evidence": [
+      "local:模板:NPC/七圣召唤 定义按目标1至3显示挑战目标"
+    ],
+    "revision": 627985,
+    "sha256": "75d46576ba84cbc8aecca17cfab0cd39ff7bd33cf9e9637b58616f2100ca2e96"
+  }
+]

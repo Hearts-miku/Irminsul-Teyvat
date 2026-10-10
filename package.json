@@ -1,0 +1,71 @@
+{
+  "name": "irminsul-teyvat",
+  "version": "0.9.1",
+  "private": true,
+  "description": "世界树-提瓦特（Irminsul-Teyvat）· 原神剧情与知识库",
+  "type": "module",
+  "main": "electron/main.mjs",
+  "scripts": {
+    "build": "npm run content:build && node scripts/ensure-ontology.mjs && vue-tsc --noEmit && vite build",
+    "start": "npm run build && electron .",
+    "web": "npm run build && node server/index.mjs",
+    "test": "node --test --test-concurrency=2 tests/*.test.mjs",
+    "test:ui": "node scripts/test-ui.mjs",
+    "test:desktop": "node scripts/test-desktop.mjs",
+    "pack": "npm run build && electron-builder --win --dir",
+    "content:build": "node scripts/build-program-content.mjs",
+    "test:catalog-ui": "node scripts/test-catalog-ui.mjs",
+    "test:mondstadt-ui": "node scripts/test-mondstadt-ui.mjs",
+    "test:liyue-ui": "node scripts/test-liyue-ui.mjs",
+    "content:collect": "node scripts/collect-story-sources.mjs",
+    "content:audit": "npm run content:build && node scripts/audit-story-content.mjs",
+    "test:bridge-ui": "node scripts/test-bridge-ui.mjs",
+    "content:prepare": "node scripts/prepare-story-draft.mjs",
+    "corpus:collect": "node scripts/collect-corpus.mjs",
+    "corpus:build": "node scripts/build-corpus.mjs",
+    "test:corpus-ui": "node scripts/test-corpus-ui.mjs",
+    "test:progress-ui": "node scripts/test-progress-ui.mjs",
+    "test:pet-chat": "node scripts/test-pet-chat.mjs",
+    "corpus:update": "node scripts/update-corpus.mjs",
+    "content:review": "node scripts/audit-review-queue.mjs",
+    "test:delete-chat": "node scripts/test-delete-chat.mjs",
+    "ontology:build": "node scripts/scan-ontology-candidates.mjs && node scripts/build-ontology.mjs",
+    "pretest": "node -e \"require('node:fs').mkdirSync('test-results',{recursive:true})\""
+  },
+  "build": {
+    "appId": "local.windborne.stories",
+    "productName": "Irminsul-Teyvat",
+    "directories": {
+      "output": "release"
+    },
+    "files": [
+      "dist/**/*",
+      "electron/**/*",
+      "server/**/*",
+      "data/**/*",
+      "package.json"
+    ],
+    "asar": true,
+    "extraFiles": [
+      "README.md",
+      "docs/**/*.md"
+    ],
+    "win": {
+      "target": "dir",
+      "signAndEditExecutable": false
+    }
+  },
+  "dependencies": {
+    "@lucide/vue": "1.48.0",
+    "vue": "3.5.43"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "6.0.9",
+    "electron": "44.4.5",
+    "electron-builder": "26.15.3",
+    "playwright": "1.63.0",
+    "typescript": "5.9.3",
+    "vite": "7.3.6",
+    "vue-tsc": "3.3.11"
+  }
+}

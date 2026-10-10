@@ -1,0 +1,17 @@
+.toolbar-tools{display:flex;align-items:center;gap:16px}.compact-progress{display:none}
+.conversation{min-height:0}.chat-layout{grid-template-rows:minmax(0,1fr)}html,body,#app{height:100%;overflow:hidden}
+@media(min-width:651px){
+  .welcome-message p,.question-grid button{font-size:13px}
+  .answer-section p,.user-bubble,.evidence-summary{font-size:14px}
+  .composer textarea{font-size:14px}.composer-bottom>span,.composer-note{font-size:10px}
+  .speaker-name,.history-item,.timeline-item strong{font-size:12px}
+  .suggestions-title,.scope-note,.hero p,.progress-button{font-size:11px}
+  .record-card p,.settings-group>input{font-size:13px}
+  .source-chips button,.source-disclaimer,.source-chips,.timeline-item small,.archive-footnote{font-size:10px}
+  .field-label,.field-help,.privacy-note,.mode-options strong{font-size:12px}
+  .provenance>div,.mode-options small,.length-options label{font-size:11px}
+  .evidence-task,.small-label,.interpretation-note p,.branch-note p{font-size:12px}
+  .hero p,.welcome-message p{color:#76846b}
+}
+@media(max-width:940px){.compact-progress{display:inline-flex}.toolbar-tools{gap:14px}}
+@media(max-width:650px){.toolbar-tools{gap:8px}.toolbar-tools>.text-button:last-child{font-size:0;gap:0}.toolbar-tools>.text-button:last-child svg{width:17px}}

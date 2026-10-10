@@ -1,0 +1,5 @@
+import fs from 'node:fs';import {requestJson,apiUrl,apiAllowed} from './lib/story-sources.mjs';
+const titles=JSON.parse(fs.readFileSync('.cache/review/v086-fetch-plan.json')),path='.cache/review/v086-sources.json';
+const robotsResponse=await fetch('https://wiki.biligame.com/robots.txt',{signal:AbortSignal.timeout(20000),redirect:'error'});if(!robotsResponse.ok)throw Error('robots.txt unavailable');const robots=await robotsResponse.text();
+const report=fs.existsSync(path)?JSON.parse(fs.readFileSync(path)):{batches:[]};
+for(let i=report.batches.length*50;i<titles.length;i+=50){if(i)await new Promise(r=>setTimeout(r,15000));const params={action:'query',prop:'revisions|categories',rvprop:'ids|content',rvslots:'main',cllimit:'500',redirects:'1',titles:titles.slice(i,i+50).join('|')};if(!apiAllowed(robots,apiUrl(params)))throw Error('robots denied');const response=await requestJson(params);report.batches.push({requested:titles.slice(i,i+50),capturedAt:new Date().toISOString(),response});fs.writeFileSync(path,JSON.stringify(report));console.log(JSON.stringify({processed:Math.min(i+50,titles.length),total:titles.length}));}

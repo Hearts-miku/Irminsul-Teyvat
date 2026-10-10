@@ -1,0 +1,20 @@
+import {chromium} from 'playwright';
+import assert from 'node:assert/strict';
+import {existsSync,mkdtempSync,mkdirSync,writeFileSync} from 'node:fs';
+import {resolve,join} from 'node:path';
+import {createApp} from '../server/app.mjs';
+const root=resolve('.'),out=join(root,'test-results');mkdirSync(out,{recursive:true});
+const app=await createApp({root,dataDir:mkdtempSync(join(out,'progress-ui-'))}),checks=[],errors=[];let browser;
+try{
+ browser=await chromium.launch({headless:true,executablePath:['C:/Program Files (x86)/Microsoft/Edge/Application/msedge.exe','C:/Program Files/Google/Chrome/Application/chrome.exe'].find(existsSync)});
+ const page=await browser.newPage({viewport:{width:1480,height:1000},reducedMotion:'reduce'});page.on('pageerror',e=>errors.push(e.message));await page.goto(app.origin);
+ await page.getByLabel('右侧剧情章节').waitFor();assert.equal(await page.getByLabel('右侧剧情章节').locator('option').count(),52);assert.match(await page.getByLabel('右侧剧情章节').innerText(),/往冥府的安魂歌/);checks.push('右侧直接提供全部 51 个已入库主线入口，包含当前目录最后章节');
+ const target=app.pack.stages.find(s=>s.isMainChapter&&s.title==='不动鸣神，恒常乐土');await page.getByLabel('右侧剧情章节').selectOption(String(target.id));await page.getByRole('heading',{name:'故事讲到哪里？'}).waitFor();assert.match(await page.locator('.progress-selection').innerText(),/不动鸣神/);assert.match(await page.locator('.progress-selection').innerText(),/8 个已入库子任务/);checks.push('右侧选择先展示范围与子任务数量，确认前不改变进度');
+ await page.getByLabel('进度内容类型').selectOption('summary');await page.getByLabel('查找讲解范围').fill('自由之都');await page.getByRole('radio',{name:/讲到「自由之都」/}).waitFor();await page.getByLabel('查找讲解范围').fill('');await page.getByLabel('进度内容类型').selectOption('main');await page.getByRole('button',{name:'下一页范围'}).click();assert.equal(await page.locator('.progress-option').count(),20);checks.push('进度选项分页，搜索覆盖旧蒙德片段和其他内容类型');
+ await page.getByLabel('进度地区').selectOption('稻妻');assert.ok((await page.locator('.progress-option').count())>=4);await page.screenshot({path:join(out,'17-progress-picker.png'),fullPage:true});await page.getByRole('button',{name:'确认剧情范围',exact:true}).click();await page.getByRole('heading',{name:'故事讲到哪里？'}).waitFor({state:'hidden'});assert.match(await page.locator('.journey-panel').innerText(),/不动鸣神/);checks.push('地区筛选后仍保留已选范围，确认更新右侧当前章节');
+ await page.getByLabel('输入剧情问题').fill('离岛逃离计划');await page.getByRole('button',{name:'发送问题'}).click();await page.locator('.source-chips').waitFor();await page.locator('.message.assistant').last().getByRole('button',{name:'查看出处 1',exact:true}).click();assert.match(await page.locator('.evidence-drawer').innerText(),/离岛逃离计划/);await page.getByRole('button',{name:'关闭出处'}).click();checks.push('章节范围可以检索具体子任务并显示其独立出处');
+ await page.reload();await page.getByLabel('右侧剧情章节').waitFor();assert.match(await page.locator('.journey-panel').innerText(),/不动鸣神/);assert.equal(await page.locator('.message.assistant').count(),1);checks.push('刷新后保留新章节范围与问答');
+ await page.setViewportSize({width:700,height:950});await page.getByRole('button',{name:'剧情进度',exact:true}).click();await page.getByLabel('进度内容类型').selectOption('summary');await page.getByLabel('查找讲解范围').fill('自由之都');await page.getByRole('radio',{name:/讲到「自由之都」/}).check();await page.getByRole('button',{name:'确认剧情范围',exact:true}).click();await page.getByRole('heading',{name:'故事讲到哪里？'}).waitFor({state:'hidden'});assert.equal(await page.locator('.message.assistant').count(),0);assert.ok(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth));checks.push('窄屏通过顶部进度入口操作，回退范围清除当前会话');
+ assert.deepEqual(errors,[]);checks.push('无前端运行时错误');writeFileSync(join(out,'progress-ui-report.json'),JSON.stringify({passed:true,checks,errors},null,2));console.log(JSON.stringify({passed:true,checks},null,2));
+}catch(e){writeFileSync(join(out,'progress-ui-report.json'),JSON.stringify({passed:false,checks,errors,error:e.message},null,2));await browser?.contexts()[0]?.pages()[0]?.screenshot({path:join(out,'progress-ui-failure.png')});throw e;}
+finally{await browser?.close();await app.close();}

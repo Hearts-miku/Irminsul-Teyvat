@@ -1,0 +1,4398 @@
+[
+  {
+    "pageid": 164990,
+    "title": "非自愿的祭献",
+    "revision": 666989,
+    "sha256": "988c323c765d8ec5404cd9e1344200c22cc4c7ff63f91684b5d3eaec879f3ca8",
+    "textHash": "d8ff2afbfabb1f4ecbadcd9a85632c1aacf2809aa125ec367f7e624a9358747b",
+    "occurrencesHash": "021371952e252895204a4abd441d8684d897c33fd5883f6f55ab9b2d31e9d73c",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      2206,
+      2261
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 126971,
+    "title": "归火圣夜巡礼",
+    "revision": 652605,
+    "sha256": "201b27e5edbccb988bd95f680139a3c9d0312fe11c7fd0ab81c32cd6d3c0eeaf",
+    "textHash": "e2d59bc4cf825e2bf73cacf037897c3614db34719f3ed4cdf81cc98b9b864b02",
+    "occurrencesHash": "39c489404588d39ab5a68b2dda7dd9cce055b0070a9b128fb067f24921593d91",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      5130,
+      5527,
+      6365
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 150674,
+    "title": "轰鸣与暗涌",
+    "revision": 667027,
+    "sha256": "17a7d3c3b394363a58ffc347c7ed15d4b55ea4c6d0fd04590fa30b7dd7e18c82",
+    "textHash": "fa3761ee511e146b24d174ab6e13c325948543faf748e6a50121ffbd253eb22c",
+    "occurrencesHash": "79a3beeefc9f1e01f0ae29f86f8484120342036b01e381786a2a1a552019b3d4",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      4621,
+      5355
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 150674,
+    "title": "轰鸣与暗涌",
+    "revision": 667027,
+    "sha256": "17a7d3c3b394363a58ffc347c7ed15d4b55ea4c6d0fd04590fa30b7dd7e18c82",
+    "textHash": "dee4ce0d090098e71565c742d2476d45fd3504423277b03aafb8e392edf4bc59",
+    "occurrencesHash": "44344948f35d17a06a483a4915e9e91d4ee04210dac9760cb67f2794b09b26b6",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      11723,
+      12386
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 153260,
+    "title": "皆为预言",
+    "revision": 685537,
+    "sha256": "946ed917b019df5741f366f4daadceaea81d671af561b8fde490e33f3e7929d2",
+    "textHash": "92f41376c15d794f31d86d2d2486fa7d9c0d67c837708a933cc87d49ea0bf346",
+    "occurrencesHash": "dca96ebbc9126a8845203532bff68abf3e1ce10bed74972be6fbacabeb18abc7",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      18495,
+      18514,
+      18580,
+      18846,
+      20387,
+      20420
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 153260,
+    "title": "皆为预言",
+    "revision": 685537,
+    "sha256": "946ed917b019df5741f366f4daadceaea81d671af561b8fde490e33f3e7929d2",
+    "textHash": "0b5fb2e57c0d1868e67caffc88a48b799d7b9e0e0720d518f99a15add099e664",
+    "occurrencesHash": "4f30358ab0d9008a68d8c7220cb03f236ed7bf913c43912b4d632062b2e5ffac",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      18537,
+      18604
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 132716,
+    "title": "绝望高悬天之上",
+    "revision": 652368,
+    "sha256": "57a0d2915dd1cfc96bc07d75dd142ec61b929fde49bbe2040e05a49aa686c2b3",
+    "textHash": "54cf81667fec004cb8a127fa1de02891fbae84c3f36c70bf426db998fe6c1d0e",
+    "occurrencesHash": "d2e5cb19db473efa299cecd26aaa103b9fef7e38cb7ffd6c07d6a7fb1ac3c580",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      3151,
+      8314
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 132716,
+    "title": "绝望高悬天之上",
+    "revision": 652368,
+    "sha256": "57a0d2915dd1cfc96bc07d75dd142ec61b929fde49bbe2040e05a49aa686c2b3",
+    "textHash": "50f7ffd3440c65f4d024be6ff839b41a4346e8ee2d477e70ea2368b598e31d34",
+    "occurrencesHash": "92cace9d654b5e8ac087228999e98991330af318e12e3135f18411e68f9b70be",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      3389,
+      8423
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 132716,
+    "title": "绝望高悬天之上",
+    "revision": 652368,
+    "sha256": "57a0d2915dd1cfc96bc07d75dd142ec61b929fde49bbe2040e05a49aa686c2b3",
+    "textHash": "423e7a88dfe9592cdd2a4fd7671f3ee63595743313eaaec4218807eb4605a0ab",
+    "occurrencesHash": "ee44b1ddac509a5e9405de405c6731320b5b1d8d7dce260429a4974ebfb06431",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "plain-wiki-text",
+    "sourcePositions": [
+      7845,
+      7899,
+      7953
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 132716,
+    "title": "绝望高悬天之上",
+    "revision": 652368,
+    "sha256": "57a0d2915dd1cfc96bc07d75dd142ec61b929fde49bbe2040e05a49aa686c2b3",
+    "textHash": "2c73012572c37f5cd9101bb7152dcd9db548e5c10388ca356c459b643541453a",
+    "occurrencesHash": "9a99463ee88423d67175fa9fa092fc1d2707b8a6a636a62baad0df339bc9c6f3",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      121,
+      637,
+      668,
+      921,
+      1080,
+      1279,
+      1399,
+      1409,
+      1536,
+      2573,
+      2772,
+      2873,
+      2940,
+      3010,
+      3100,
+      3338,
+      3424,
+      3716,
+      3789,
+      4021,
+      4569,
+      5310,
+      5711,
+      5772,
+      6324,
+      7826,
+      8097,
+      8263,
+      8372,
+      8468,
+      8482,
+      8496,
+      8530,
+      8544,
+      8558,
+      8592,
+      8606,
+      9147,
+      9506,
+      9521,
+      9758,
+      10746,
+      10836,
+      10976,
+      11004,
+      11210,
+      11224,
+      11258,
+      11375,
+      11735,
+      11744,
+      11946,
+      12042,
+      12097,
+      12241,
+      12730,
+      12806,
+      12814,
+      12892,
+      13516,
+      14060,
+      14114,
+      14340,
+      14646,
+      14840,
+      14900,
+      15108,
+      15314,
+      15375,
+      15662,
+      15804,
+      16070,
+      16211,
+      16283,
+      16392,
+      16831,
+      16978,
+      17663,
+      19811,
+      20153,
+      20342,
+      20536,
+      21283
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 125327,
+    "title": "来自某位「神明」的凝视",
+    "revision": 652540,
+    "sha256": "b8e386c01e2e71196fc5f1dcf1b1c1e8b4077a5b4a77580cdf0dd6d2164cf3a7",
+    "textHash": "ce2ad91ea7687917b43dc8ad63f957f58f97f4d00dca91196fd2df68e4dd5d3a",
+    "occurrencesHash": "75b5d2493a0085b8b1e207b1053976bb913b05c1dee25bd41d2d7366e068805f",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      337,
+      748,
+      764,
+      812,
+      879,
+      5173
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 148357,
+    "title": "命运始动的钥匙",
+    "revision": 667001,
+    "sha256": "e039c7b03e79fe4d84df3a529ff4291aec0d6dac1151ee9bfa8fc70e59a5dedf",
+    "textHash": "7e372e7964fd23fda610194143c3ee57dfdcef129b1e7d74b82df4583d8fca78",
+    "occurrencesHash": "47ba4a829c1b2dccb6efdaf84be90299a3c31a23adaf47d276f956fea85b2df4",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      5446,
+      5590
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 158210,
+    "title": "你我交错的时空",
+    "revision": 666996,
+    "sha256": "920cf5406dcb2eb9f8626a172247b8ba428ba9c144eab7e6412bb8cdc49d65e9",
+    "textHash": "2797f5178a15f54b1f6843145affa321aca919e407e7919b36e1a81cd64170b8",
+    "occurrencesHash": "7ced786bebe7df78fe651ee36d39f5b0eef2b14187900ba6c442845ac3e76dc2",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      6355,
+      6396
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 164995,
+    "title": "如临神之畔",
+    "revision": 665499,
+    "sha256": "bad4fa52439716c39b9192bb7db3113874d828be1f0739328c15a3078985cd60",
+    "textHash": "a3500ea5b70765855d6f1850236135e68add75a5da0919c6fd1340011437d36f",
+    "occurrencesHash": "8a71eca835ddc85ecf0a69c40c163227a78074a6c6403b81af09983ebba7f533",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      2576,
+      3301,
+      3911
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 164995,
+    "title": "如临神之畔",
+    "revision": 665499,
+    "sha256": "bad4fa52439716c39b9192bb7db3113874d828be1f0739328c15a3078985cd60",
+    "textHash": "8ff603d109c114c867c598f0af6be0b4d54c512114e918d214ff366a83dffc35",
+    "occurrencesHash": "c6da5096c45411d851502e73a6889a4d4772bcab5d327508b4c035adadb91449",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      3117,
+      3564,
+      4554
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 127281,
+    "title": "生命的回响",
+    "revision": 652544,
+    "sha256": "b6c3e97bc58f05be75fb00c6987c24f72340b8a08f019298fc3f044330e12cf0",
+    "textHash": "2c73012572c37f5cd9101bb7152dcd9db548e5c10388ca356c459b643541453a",
+    "occurrencesHash": "fdfead1e929a0b14f1fa85fc550d1b87eb9fd75f4ca5b3c9347259679ffb8a97",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      1668,
+      1747,
+      2211,
+      4104,
+      5366,
+      5456,
+      5494,
+      5606,
+      5799,
+      6132,
+      6206,
+      6589,
+      6877,
+      7449,
+      7463,
+      7581,
+      7589,
+      7684,
+      7733,
+      7853
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 127281,
+    "title": "生命的回响",
+    "revision": 652544,
+    "sha256": "b6c3e97bc58f05be75fb00c6987c24f72340b8a08f019298fc3f044330e12cf0",
+    "textHash": "ce2ad91ea7687917b43dc8ad63f957f58f97f4d00dca91196fd2df68e4dd5d3a",
+    "occurrencesHash": "503179163a1698091fe903c0f45d61355d0badc1321b59d9eb056dc85701ab1a",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      7447,
+      7541,
+      7573,
+      7668,
+      7717
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 164996,
+    "title": "识藏日",
+    "revision": 665500,
+    "sha256": "1681fb43fc3d010a67ff2823b07c3958186d0aa7c58d215287acc09458b6778d",
+    "textHash": "a3500ea5b70765855d6f1850236135e68add75a5da0919c6fd1340011437d36f",
+    "occurrencesHash": "b351f989a9af90340e4723b571f0d985a0c0b2ab1d47776ca095b1b0360da75a",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      7119,
+      11364
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 164996,
+    "title": "识藏日",
+    "revision": 665500,
+    "sha256": "1681fb43fc3d010a67ff2823b07c3958186d0aa7c58d215287acc09458b6778d",
+    "textHash": "8ff603d109c114c867c598f0af6be0b4d54c512114e918d214ff366a83dffc35",
+    "occurrencesHash": "47abda45f2bc5522f514967587e1b33a885799b958f56b77cb17801c6c2d8b62",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      7728,
+      12170
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 132523,
+    "title": "席卷而来的暗潮",
+    "revision": 674682,
+    "sha256": "5dca3d4f9111ab9c3a0b104573f6619be63ca3a14b0c580f5c30f435e0d0cc12",
+    "textHash": "791a1dc856b966695b8e1c7094183e7108956d560a6d918072b2d3d5fbd56530",
+    "occurrencesHash": "1367294acdd121ff0e429d445a890a0ad89945dbc2c3531124b4034c39352a8e",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "source-context-reviewed",
+    "sourcePositions": [],
+    "note": "两次地图支援条目分别列出参与者，保留两个位置。"
+  },
+  {
+    "pageid": 132523,
+    "title": "席卷而来的暗潮",
+    "revision": 674682,
+    "sha256": "5dca3d4f9111ab9c3a0b104573f6619be63ca3a14b0c580f5c30f435e0d0cc12",
+    "textHash": "620809736e40346f745205899eb9aec336be66988c9beaae35712e973574d4c0",
+    "occurrencesHash": "1fc53063f77fd54e2f0aa8248a72d1a82f5e250ac3d709dac16d337f0878f0de",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "plain-wiki-text",
+    "sourcePositions": [
+      3576,
+      6267
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 130398,
+    "title": "向着迷烟飘往之处",
+    "revision": 652571,
+    "sha256": "f9078414a608179dd588e01260ce7d10c271db0399f4df8c336116cd1744883e",
+    "textHash": "ce2ad91ea7687917b43dc8ad63f957f58f97f4d00dca91196fd2df68e4dd5d3a",
+    "occurrencesHash": "03ece3655527ff8b56348b101a5a1fb692b3ff8160994c4233f4563717e30215",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      453,
+      5458,
+      5495,
+      5571,
+      8873,
+      8982
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 137429,
+    "title": "星与火的征途",
+    "revision": 652532,
+    "sha256": "1e834ccea094df87df24269606496552afa751903a13fa65beb98e92f8c48d1d",
+    "textHash": "2c73012572c37f5cd9101bb7152dcd9db548e5c10388ca356c459b643541453a",
+    "occurrencesHash": "584f574644062aa618e63f7318862a7db26506edd059a7c7b1233b278a69966b",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      126,
+      654,
+      1106,
+      1681,
+      1795,
+      2097,
+      2160,
+      2352,
+      2593,
+      2626,
+      2640,
+      2732,
+      3183,
+      3869,
+      3967,
+      4160,
+      4351,
+      5971,
+      6784,
+      6798,
+      6837,
+      6851,
+      6931,
+      7721,
+      8003,
+      8147,
+      8658,
+      8773,
+      8917,
+      9010,
+      9241,
+      9975,
+      10062,
+      10354,
+      10839,
+      11008
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 165290,
+    "title": "虚空劫灰往世书",
+    "revision": 670000,
+    "sha256": "730d6a0a62076da888911fddbdff01b87a9ed5945c9cca357be33e04782adb07",
+    "textHash": "f8a20a3bf514567188c558da9bf1bf719f91023555f76fe737bc60d391f5d8bb",
+    "occurrencesHash": "b8abdeaa0d2780ac839150475bb22d6f36f157e7005b1b92bae468956d4def50",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      1172,
+      1229,
+      2286,
+      9954,
+      10004,
+      10059,
+      10091,
+      10137,
+      10176,
+      10230,
+      10265,
+      10287,
+      10348,
+      10396,
+      10465,
+      10509,
+      10539,
+      10599,
+      10614,
+      10657,
+      10685,
+      10746,
+      10780
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 148356,
+    "title": "阴燃",
+    "revision": 667031,
+    "sha256": "e4ebf49097441291ea2d7214142ad498fd3d94a236509a9267ae47eee65b9724",
+    "textHash": "4e3dc12a6fff8e819a1f0c7256e1ad3f62a4e8b2f964768c6d564969dc44d8d4",
+    "occurrencesHash": "528d1173c7275aeaa79ecfeeefc889ca7dd31454dc227b38c080a814ba6cd814",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      2288,
+      9554
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 150350,
+    "title": "在夜的阴影中",
+    "revision": 667004,
+    "sha256": "9d78858278d8d318ec3623a618148c1c397e1750bd706c39a81ee23b24f98263",
+    "textHash": "105f559adeb990172c9aa7129e7f1b5900b2f2b63427042c7451e0bbc8ddc3c0",
+    "occurrencesHash": "fc45e310a898f4017e04bf6dc76703a983feac83a29cd1dd90176e8e96b6716f",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      1784,
+      8326,
+      11771,
+      11828,
+      13414,
+      16533,
+      18577,
+      21045,
+      22040
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 150350,
+    "title": "在夜的阴影中",
+    "revision": 667004,
+    "sha256": "9d78858278d8d318ec3623a618148c1c397e1750bd706c39a81ee23b24f98263",
+    "textHash": "228ab706ce2c2286a342f2b9c554cd545c6e437c33f61b249f21cc859e055f70",
+    "occurrencesHash": "563726b39127e851b9d3e5e794de77973caafb6494716a6f884de163c33bee0c",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      11810,
+      11848
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 121799,
+    "title": "终将结束的花神诞祭",
+    "revision": 652339,
+    "sha256": "a4fdac68c919f17e58344297ce30c82aeb70dcd014d15ea1d74c5d61fa14456d",
+    "textHash": "ce2ad91ea7687917b43dc8ad63f957f58f97f4d00dca91196fd2df68e4dd5d3a",
+    "occurrencesHash": "e94b92354324565722ea5f8080011764af3782bcc4fd88c013b219d165260414",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      396,
+      3715,
+      3735,
+      3799
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 137842,
+    "title": "众望所归",
+    "revision": 653698,
+    "sha256": "8997b77504f45aa42dc61c067bd84c9d30878a101bb84a732140f688cfed7612",
+    "textHash": "9718eda811009eda112ae7b29d04feeed2ceaf6017b23dd9bad5b85d502b4ca5",
+    "occurrencesHash": "b0024908d0ad896f629546f154c5bd9833bc4602b1b1806d344fe393358588b5",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      2342,
+      2602,
+      2860
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 137842,
+    "title": "众望所归",
+    "revision": 653698,
+    "sha256": "8997b77504f45aa42dc61c067bd84c9d30878a101bb84a732140f688cfed7612",
+    "textHash": "dc93d991bf335f40f55934ee9f2ef571ac23bd3c79e35b85e16662705ee64f64",
+    "occurrencesHash": "22c34d11c4347f3813061d39ffc18cc932b2c1ac726ffea24eb4d30376dd3817",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      2356,
+      2616,
+      2874
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 137842,
+    "title": "众望所归",
+    "revision": 653698,
+    "sha256": "8997b77504f45aa42dc61c067bd84c9d30878a101bb84a732140f688cfed7612",
+    "textHash": "45f0c24bd710028d580d58fdbdc5422c62bbfc49965bfb63c842849e7a4ce5cf",
+    "occurrencesHash": "e01d86500a63174c546892343ccb92c83ea7ed9c560156855f51b029032a2a71",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      2395,
+      2655,
+      2913
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 160799,
+    "title": "傲慢与偏见",
+    "revision": 681704,
+    "sha256": "1628631bb9937d9e0c1a3f6ddbee8ffeb5c2f13b77357447381485184e873a43",
+    "textHash": "628331185cebe33f12495fa6336c04f94f70c30daca826b262097c124a3c20a6",
+    "occurrencesHash": "66b9c4d23b61673ae59c9c068aab5f50b35b1a6ee58fb21e9d332e2af2fed9dd",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      1830,
+      2508,
+      3011
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 161207,
+    "title": "孤独的远征者",
+    "revision": 670286,
+    "sha256": "2dc832d0e85256a97af19831f2155237873023b4e5d0776f02785f0927890c2f",
+    "textHash": "cedcec27a5ebfcaad831f0d8a3baa101fc2e4779f5601fa1144d7cfee4ca17c9",
+    "occurrencesHash": "769f7ac3398b5c8423989f5f6fec391ba15254524d66d6eb5b5f2fb013f1ee92",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      1390,
+      1882
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 123527,
+    "title": "故事始于无雨的森林",
+    "revision": 661474,
+    "sha256": "f6401a8ea80b47e7e95e03cf419c8b366ae9457b6ed12003ec96b5e0b2a908b2",
+    "textHash": "6a0ae77f8d9c3cbd8de6ecb0efc6c41b911230bbc8e30610b86688af5712f55b",
+    "occurrencesHash": "dc19acf3816b4ada4cc41d6ea8725c476a2b9a745f368891b12e429f99e228f2",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      10180,
+      10284
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 163692,
+    "title": "机械之心",
+    "revision": 662032,
+    "sha256": "c30557b1de1119c5c5cc35c649465d572f5f48e5a98ea4fda14926111f5cc3de",
+    "textHash": "cf0c6a30e4d72610958492cd6089f3e39581b31aae3193836e6c430214efa22a",
+    "occurrencesHash": "1129ca5538f40b2ae053846928f026c735fbd3ada018f1d45aea9ae0d80352c9",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      2094,
+      2958,
+      3768
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 163692,
+    "title": "机械之心",
+    "revision": 662032,
+    "sha256": "c30557b1de1119c5c5cc35c649465d572f5f48e5a98ea4fda14926111f5cc3de",
+    "textHash": "0e8ba6ee69bd0ca6912a1caaeb10b82f97790e6c771f36d7fa4fce310178e145",
+    "occurrencesHash": "9927d33951bd9330f00dbafc8093e7686d450accdaf610b89aab9addeba6d441",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      2543,
+      3438,
+      4443,
+      4808
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 161520,
+    "title": "巨龙与自由的变奏",
+    "revision": 655863,
+    "sha256": "9dd8c01b7798701787efd5505d42fe61e94e7d8ad0380d600e25accbd4122215",
+    "textHash": "ce2ad91ea7687917b43dc8ad63f957f58f97f4d00dca91196fd2df68e4dd5d3a",
+    "occurrencesHash": "6b95dadf70a3ddba53e8675b505311383dd2eec650c29ba430c7227157432a0b",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      424,
+      453,
+      470,
+      538,
+      2575,
+      2635,
+      2748,
+      3658,
+      3959,
+      6048,
+      6217
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 157587,
+    "title": "命运的题解",
+    "revision": 652356,
+    "sha256": "ba11ad3619d378bf555edbfd825597f4f747942bce5efdf055e135c26360c550",
+    "textHash": "ce2ad91ea7687917b43dc8ad63f957f58f97f4d00dca91196fd2df68e4dd5d3a",
+    "occurrencesHash": "4def522d9b247885c0251d7707bb84030af721fa0a6f5544781c7810c2ad6f51",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      739,
+      15060,
+      15085,
+      15123,
+      15239,
+      15366
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 157587,
+    "title": "命运的题解",
+    "revision": 652356,
+    "sha256": "ba11ad3619d378bf555edbfd825597f4f747942bce5efdf055e135c26360c550",
+    "textHash": "f05fa9d09f9da58d211bd0cdef80bd25f91737508351fc02bc52ff3e9ce299ea",
+    "occurrencesHash": "9a99590feeaf750746c4e4d94e96701a1012974d8c6d420da67917b611312cd5",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      15186,
+      15306
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 160742,
+    "title": "魔术师的秘密",
+    "revision": 653054,
+    "sha256": "1a4202887bce6b973ecbe6f3d4f6c3c9b20d3971b0c951773925fe00c347b8f1",
+    "textHash": "228c89f71d3a3432c5311b3bf0b8cf0879138e6a30de177dc1be2d2caa100ad0",
+    "occurrencesHash": "5c0368fc2f8a7ec95ec1a2ef6408631a4b10c5f0e198b7ffeef35a4433cb5130",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      4814,
+      4957,
+      5122
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 160801,
+    "title": "破碎证言",
+    "revision": 681702,
+    "sha256": "3e1176c0248512a0513e8fb39a0046a64d5e451d7bf061f45fdd8eb3b04c9e43",
+    "textHash": "babb6341790a8f0d634f646fac67ab92ac837791d5f52396e3109ef2e01de48f",
+    "occurrencesHash": "b33053fb2697e186da7d75e4c2a9375089f8934f85d20ed1d5ee4f697826815b",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      1138,
+      1393
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 166717,
+    "title": "骑士之决意",
+    "revision": 668775,
+    "sha256": "94bd22b6ce6961fded4e0e598c0335432f59ce5fd84a893ba355baef15ded34e",
+    "textHash": "e957a986d2139b511889b5a2580f76c0e05328dd6a9dcdccd88fb5c96ca3c07a",
+    "occurrencesHash": "8d316e758d55e8dc8f7ed3f64d9dcceda096ecc9c587d14e306d824fe50ec3dc",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      2211,
+      2993
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 166717,
+    "title": "骑士之决意",
+    "revision": 668775,
+    "sha256": "94bd22b6ce6961fded4e0e598c0335432f59ce5fd84a893ba355baef15ded34e",
+    "textHash": "ab03885873fcb9469896001fd1f69537d4a1b59f70ca08e8a40a9cf6623c9180",
+    "occurrencesHash": "4c9738438608f2d935718a985fb8568b5d1b33c4f68f640c32141e8871a7e7a3",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      2806,
+      3460
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 166715,
+    "title": "骑士之勋绩",
+    "revision": 668753,
+    "sha256": "96107ee57270be6c2cf4b5582b029a4403b21984a1985b538108a87c6a678c07",
+    "textHash": "7e064f41964403cd1d4b084461e8d0754d7e87910c1ce4527ce14fe3cf15df39",
+    "occurrencesHash": "d9e5713be2bc7510ce71e1cb7397337135393c7aa824ba4c323c2ecf47925fd1",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      5665,
+      5879
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 166715,
+    "title": "骑士之勋绩",
+    "revision": 668753,
+    "sha256": "96107ee57270be6c2cf4b5582b029a4403b21984a1985b538108a87c6a678c07",
+    "textHash": "ce2ad91ea7687917b43dc8ad63f957f58f97f4d00dca91196fd2df68e4dd5d3a",
+    "occurrencesHash": "3854bedba7665853e718f813d3d56511e1bde06e92ab32a8dc73d04888ae4d1f",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      5539,
+      5639,
+      5778,
+      11432,
+      11479,
+      11538,
+      11615,
+      11652
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 139117,
+    "title": "如入幻梦",
+    "revision": 620596,
+    "sha256": "9d3938d9bcf5c8b30dede39a02a8a9d186d98907342b4cf8b8e2d370cc23021f",
+    "textHash": "ec9c3be8efdcf5cf6e9fc876ab11169a17fc01c0a5ee637d7af1573195a781b9",
+    "occurrencesHash": "df36a7d5776baf15639aa06d52cc4b06aa88d00ba173168a5eb0f47d530db541",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      6151,
+      6983,
+      8621
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 165356,
+    "title": "若你遗忘梦的入口",
+    "revision": 666729,
+    "sha256": "a28741166d50d91f2cb3f480c04ea61682804c9a51e3cc158f1a70e7d45d8fea",
+    "textHash": "ce2ad91ea7687917b43dc8ad63f957f58f97f4d00dca91196fd2df68e4dd5d3a",
+    "occurrencesHash": "28432532a05a6276f724db978c6e9e7580be1199f3b8805e64544b6376152d65",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      533,
+      8245,
+      8452,
+      8507
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 160814,
+    "title": "若忘记我为何物",
+    "revision": 687147,
+    "sha256": "0b251bd60623ef143fc8d6a8ccbdf9b252d8ff4c6efcb0a3d827c9ef0c2bd24d",
+    "textHash": "80ee8f54c1afe4547cde417283239dbf6f5f88041fad6b0f5880500e498ee9c4",
+    "occurrencesHash": "4addbe1f2dee13e352bb6a1151779e297a14882262d0df5e5007249d65d34dda",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      9023,
+      9148
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 118177,
+    "title": "神奇药剂",
+    "revision": 524631,
+    "sha256": "d9b56cdc34e51a52990afa87a6cb73e1592a58c166cfbfdbd296b6cd9a49b97b",
+    "textHash": "1cea96a6d537660d329cf50e03b1084104e0aea31523a416d89a88e6f747f157",
+    "occurrencesHash": "eabc42b2d48d289f0f87d343fb80f12e13b9334ca68775297169552f52ad156c",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      2636,
+      3158
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 123780,
+    "title": "他们行过星空",
+    "revision": 661421,
+    "sha256": "91fce25b03f42b17cd61e1d4bd0324a3af78689f9f3de8cab43c32e527e10e51",
+    "textHash": "ce2ad91ea7687917b43dc8ad63f957f58f97f4d00dca91196fd2df68e4dd5d3a",
+    "occurrencesHash": "84f5d6ec346e88b24373977e57502f011737cf3d8a7cb64dad5410eba5eafe26",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      9591,
+      9867,
+      9908,
+      10137,
+      10176,
+      10203
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 123780,
+    "title": "他们行过星空",
+    "revision": 661421,
+    "sha256": "91fce25b03f42b17cd61e1d4bd0324a3af78689f9f3de8cab43c32e527e10e51",
+    "textHash": "901d1623fc1eded93c9fd003b94e0e4b7bb6bb4a3900bd4d965892d8ce648971",
+    "occurrencesHash": "0d7dc7837a46a7856e9b39e0b98448be10563bfeeeb6d493f69622e0e5fe453e",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      11513,
+      11559,
+      11586,
+      11674,
+      11701
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 144962,
+    "title": "特训",
+    "revision": 652578,
+    "sha256": "2cc28d4bb2661851828e310197b67f36abbd04b8d01e94335b747a9b1e9c2df1",
+    "textHash": "fff33732fc978a09a1bbdd36973dcd593ace255840e33b34b0996a436bfe4201",
+    "occurrencesHash": "d8d88fa32aa17b71bd839f71f710de27073e7f02118c2d2746829240d833a4ef",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      640,
+      695,
+      751,
+      2728,
+      2776,
+      2897,
+      2913,
+      5050,
+      6870,
+      6971,
+      6987,
+      8019,
+      9559,
+      9757,
+      9773,
+      10249
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 142977,
+    "title": "团结的魔法",
+    "revision": 601212,
+    "sha256": "579ccbca94e13b9fdedd14334f4319d079312e6ec67d07db02f5925bac8011db",
+    "textHash": "a329b4119682e81a561bf52918855db4618095ab3961f2a92b702cf8547725e9",
+    "occurrencesHash": "d668bc947bcad0d2224b6638227c07bb1a354331e73536576694f8f229a93c46",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      509,
+      534,
+      558,
+      3407,
+      3609,
+      3757,
+      3862,
+      4451,
+      4619
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 142045,
+    "title": "为了龙伙伴",
+    "revision": 627137,
+    "sha256": "930a4a960fcc4439d8463e436199f45cf31c1477ca485052b8dce4883acaf55d",
+    "textHash": "ce2ad91ea7687917b43dc8ad63f957f58f97f4d00dca91196fd2df68e4dd5d3a",
+    "occurrencesHash": "4c74be5c106cd9a61520eff1b767a4819517e6ef808a10b7e622de7368fafaf2",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      541,
+      565,
+      591,
+      9397,
+      9422,
+      9512,
+      9874,
+      9899,
+      9998,
+      10564,
+      10589,
+      10687
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 142045,
+    "title": "为了龙伙伴",
+    "revision": 627137,
+    "sha256": "930a4a960fcc4439d8463e436199f45cf31c1477ca485052b8dce4883acaf55d",
+    "textHash": "a329b4119682e81a561bf52918855db4618095ab3961f2a92b702cf8547725e9",
+    "occurrencesHash": "51c5d06cc90bdce7933532786078ade6ad8f85c83b8b91a843ddc9cdb736e8ff",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      548,
+      572,
+      598,
+      9404,
+      9688,
+      9881,
+      10084,
+      10571,
+      10772
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 161513,
+    "title": "为了没有眼泪的重逢",
+    "revision": 666266,
+    "sha256": "81b80d753d3b3a62f4218b1d7677a30b1e8436b710ddc6a513f51f2b168e4095",
+    "textHash": "6cd1430f221c3e50e2bee835966a4a8265fab9464bd9d12533653232da36d3d8",
+    "occurrencesHash": "dcb1fa3b457924fda94020683a92c31b5504d4f72fa076ccedc165cb196727ad",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      6989,
+      7712,
+      7864,
+      8833
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 153606,
+    "title": "向沙中去",
+    "revision": 637376,
+    "sha256": "8e48686f43e19da2e8f43fca678327553e7cb2ac561e92d58453a1f10e12e2f2",
+    "textHash": "614b43059f310b31d06de5baea61a2ba411a2ab7fea16e62842dda62527bb4c1",
+    "occurrencesHash": "18201c09f9321c6bb1aadf5759825ea98ad9f72a523ff55746cbcd774e06a7a3",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      2396,
+      3337,
+      9190,
+      9247,
+      9304,
+      9361,
+      16539,
+      18491
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 156954,
+    "title": "宣誓你不会浪费青春",
+    "revision": 652385,
+    "sha256": "d1acedd3a216717ae705e0ecbdeb7de10a9ca7ff3b080e608ff48e57dbbb4978",
+    "textHash": "ce2ad91ea7687917b43dc8ad63f957f58f97f4d00dca91196fd2df68e4dd5d3a",
+    "occurrencesHash": "1c74068fc4b174e6006f507d6c8cb2c55a3fed56c684cd7fc4da6df8d272f9b4",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      3711,
+      3752
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 157517,
+    "title": "一位母亲的遗愿",
+    "revision": 652354,
+    "sha256": "b5f7449d41ad1db25f2b8689023187d0b061b53d9ce7d3d6dc68942321c032e1",
+    "textHash": "6d209c0991f914bbeaaf4d943c11a06a7e5f919f51a974b065f07dba6ea72a21",
+    "occurrencesHash": "eb02e439a130041a227657b661013434e6ca12d3955a3f12d48f8e08c33bca23",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      1790,
+      7595
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 157517,
+    "title": "一位母亲的遗愿",
+    "revision": 652354,
+    "sha256": "b5f7449d41ad1db25f2b8689023187d0b061b53d9ce7d3d6dc68942321c032e1",
+    "textHash": "2d80f746ab611bf68e66e8dca4cb1a89d70c14a64e0e0654bed9528bdfaa12b8",
+    "occurrencesHash": "5b85710bb3a01bfc92d0591670ce2d870d90778068d39e2a5ed8556acbdcdf22",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      9841,
+      9989
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 157517,
+    "title": "一位母亲的遗愿",
+    "revision": 652354,
+    "sha256": "b5f7449d41ad1db25f2b8689023187d0b061b53d9ce7d3d6dc68942321c032e1",
+    "textHash": "b9eae29989206890c1f81c38aed874823aaf8cc836c4204c11f49f726c7c8802",
+    "occurrencesHash": "fddcb138cb3cebe748f56ece5ccc0c074fc56fa493b3b9457d9b33b4d0beebb2",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      9869,
+      10017
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 13800,
+    "title": "最终谜题！秘藏至今的答案",
+    "revision": 685176,
+    "sha256": "5d48b4df8efaf85a4b55d903ab910fb887afb90176e6a8f13c7a34dcbf1d2ff6",
+    "textHash": "614b43059f310b31d06de5baea61a2ba411a2ab7fea16e62842dda62527bb4c1",
+    "occurrencesHash": "f72c0a5de3b2ee131d10dc7a9a66bc49c4931fa3852f14a36069615e316f27cd",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      763,
+      793,
+      823
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 99580,
+    "title": "「公主」与「冒险团」的故事",
+    "revision": 652300,
+    "sha256": "9dbeefbb3c029ef731a6601eb79047aa8167250d82c5dffca9b9b16c3512b8a5",
+    "textHash": "9c58ea8eb0818ad89238cd3cba58d43dc762b8734ae6b84382c0d3a571129bb1",
+    "occurrencesHash": "9c0d940de369a5048cc25f2202e7a5bff4b6a4493dbceb21b39377396070b80f",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "plain-wiki-text",
+    "sourcePositions": [
+      4248,
+      4329,
+      4401
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 163782,
+    "title": "「沙上楼阁」稗记",
+    "revision": 662952,
+    "sha256": "bb16401407b0feca153deb936103363e9904d2d096eccad83c1a391b6cd53863",
+    "textHash": "b8eac46ff39c9c003b3394fe0709820afa19b3634e8279ee220c15f4fd1b32e3",
+    "occurrencesHash": "b223b02f7d4d1ea64fc48ea3bf8e3868146a7f9503d1363979e8610a9b9ff44a",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      733,
+      819,
+      1641,
+      2042,
+      3904,
+      4282
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 163782,
+    "title": "「沙上楼阁」稗记",
+    "revision": 662952,
+    "sha256": "bb16401407b0feca153deb936103363e9904d2d096eccad83c1a391b6cd53863",
+    "textHash": "ee13f96a9910d08f980a8a005718ceab6cf8d487211973378882f4ddef434623",
+    "occurrencesHash": "32367acd6f7503069fd40cf3d44f3a9f9c9bd28f4061911cd175396bad52353d",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "source-context-reviewed",
+    "sourcePositions": [],
+    "note": "同一战斗中的三次派蒙提示，源码分别出现，保留。"
+  },
+  {
+    "pageid": 99581,
+    "title": "「水仙十字大冒险」",
+    "revision": 652299,
+    "sha256": "e7a6e7476d491b519e70587b9abc26dbf5baaa5b93ad222d0599c05a4bea42cc",
+    "textHash": "9c58ea8eb0818ad89238cd3cba58d43dc762b8734ae6b84382c0d3a571129bb1",
+    "occurrencesHash": "1bbb240894812a1de5adbd4c1710716fb929a86af7a8530973024bc374ddc56a",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "plain-wiki-text",
+    "sourcePositions": [
+      11540,
+      11678
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 99608,
+    "title": "安的故事",
+    "revision": 665243,
+    "sha256": "6db6c3401f6cbd43e9031500af88c6b7c8761db191d8bfd6425478ea2c0491a0",
+    "textHash": "eee77574681bdf82a6d3c658827023d9693c9468f7015b5cce71a397dc71c29a",
+    "occurrencesHash": "f2e08eb7098d9b4369ed4eaad574f25386f50c07182b71a824b2ec77ffa87e4c",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      1545,
+      2478
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 99608,
+    "title": "安的故事",
+    "revision": 665243,
+    "sha256": "6db6c3401f6cbd43e9031500af88c6b7c8761db191d8bfd6425478ea2c0491a0",
+    "textHash": "99f1b08f6464952cc4e3e8c054df925fe0a6f5d19a2db901059b7f31bcae0b65",
+    "occurrencesHash": "a13f15f9f707f8f079993e660666e1482289935481107455cb6b51e8f87c680a",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      1593,
+      4105
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 99608,
+    "title": "安的故事",
+    "revision": 665243,
+    "sha256": "6db6c3401f6cbd43e9031500af88c6b7c8761db191d8bfd6425478ea2c0491a0",
+    "textHash": "781cb6375e4294a180edc105879f3b8c0c73fe19758c713361034578048fc39b",
+    "occurrencesHash": "d17f5049d7b7e508325575f1763d7f94f18b49f5a96dc283f1d5034b21f01fc7",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      2526,
+      4220
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 99608,
+    "title": "安的故事",
+    "revision": 665243,
+    "sha256": "6db6c3401f6cbd43e9031500af88c6b7c8761db191d8bfd6425478ea2c0491a0",
+    "textHash": "433c5379cad8df45070d282e30194a81939b1808988281e5c5d7d4859e3ea824",
+    "occurrencesHash": "fbfc51223a7a23aa57faa1612f25550907cb80c9dc67b9cbf5bf49d366c14320",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "plain-wiki-text",
+    "sourcePositions": [
+      5207,
+      5689
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 127666,
+    "title": "宝物和收藏家",
+    "revision": 661453,
+    "sha256": "8252a25ee0125716d694c8317af6c3f19c0ce68a94ae6740befbf0e59f933b58",
+    "textHash": "87f07e41a3eaea001707819974f8253f6097326a8e165eb7e045c13c658dc6fb",
+    "occurrencesHash": "64f2f214ba67eaa694e803c086910717aefb9110652e0b9d3ed5b0b73e5788f0",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      823,
+      863
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 172785,
+    "title": "冰雕舞道",
+    "revision": 681161,
+    "sha256": "27abae5447e2c11696bfd95a7dc8957a23b369b982d13648c438cf3909490ead",
+    "textHash": "ce2ad91ea7687917b43dc8ad63f957f58f97f4d00dca91196fd2df68e4dd5d3a",
+    "occurrencesHash": "62df530fb2fe77355dfe7def95979cef683f98a7563e1bd02455efa8ca0a34d0",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      1020,
+      1088,
+      1211
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 163946,
+    "title": "博物馆惊魂夜",
+    "revision": 662928,
+    "sha256": "6b775a739ff65a15cf34118f1e4a014a07f8416591083af8ec9e6721eb3cd501",
+    "textHash": "ce2ad91ea7687917b43dc8ad63f957f58f97f4d00dca91196fd2df68e4dd5d3a",
+    "occurrencesHash": "5028ee1d03b5fcec7895f087d970c0ccb9336f836e275e8c460d2755c5025974",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      586,
+      654
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 135741,
+    "title": "常伴相随",
+    "revision": 661675,
+    "sha256": "1cd8a0205241a95a4051117ba4b423982ba4deb90a688a3cbe4d15a9aa2a4efa",
+    "textHash": "ce2ad91ea7687917b43dc8ad63f957f58f97f4d00dca91196fd2df68e4dd5d3a",
+    "occurrencesHash": "ea074cb6a5b5811162ed9a02d6125803ea0332ff4535812ed151a33409b72777",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      265,
+      1688,
+      1800,
+      1898,
+      1946
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 127779,
+    "title": "沉重的翅膀",
+    "revision": 661128,
+    "sha256": "0c6a6f8bb8eeb0348cabd5d86d8cd0a5f8fc249bd780c1d8aa7a92d6d91872f1",
+    "textHash": "0214e71438a47cd0d459b3a050c238fb335608a7b11d71f09126dd1d3f6485c7",
+    "occurrencesHash": "a46144b5bd036ea723f89a2d15fb5db08882f1322e54ff5bb219f0264991a4aa",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      1470,
+      1528,
+      1586
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 127779,
+    "title": "沉重的翅膀",
+    "revision": 661128,
+    "sha256": "0c6a6f8bb8eeb0348cabd5d86d8cd0a5f8fc249bd780c1d8aa7a92d6d91872f1",
+    "textHash": "dce30c28fbecef1baa134b80265355fc6a38a7f393c1660945b5c9f6bcf8c330",
+    "occurrencesHash": "5f3acd5dfda113ff4209297f67be093c31f1d414db85af1a564605d3b759b3c7",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      1484,
+      1542,
+      1600
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 127779,
+    "title": "沉重的翅膀",
+    "revision": 661128,
+    "sha256": "0c6a6f8bb8eeb0348cabd5d86d8cd0a5f8fc249bd780c1d8aa7a92d6d91872f1",
+    "textHash": "783d651132e84aaa4fde22f66852e14896bc1d8ad3c3cf05e6dca78438d42759",
+    "occurrencesHash": "d8ce5fd25ea37df2006d1bcaa1778d6b5deae576d74f8a4d9400e2a4f144d6de",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      1503,
+      1561
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 150606,
+    "title": "厨子的诉说",
+    "revision": 639321,
+    "sha256": "4b98579b727a27f815480b3589ea9da75e4f7ace6fac398cc7c3086af3be2885",
+    "textHash": "c79bb628c7385204205a0f9487d3e8068453fca6ef751956efa926960224c82b",
+    "occurrencesHash": "faa87869b78b0e547d3905c9cf84c071c9dd09a238d90ac2d2414f0b6f71524a",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      244,
+      275,
+      323,
+      369,
+      417,
+      443,
+      474,
+      502,
+      736,
+      1042,
+      1333,
+      1705,
+      2005
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 133347,
+    "title": "大奖猜猜猜",
+    "revision": 661449,
+    "sha256": "c1e7a992751e2542b6168b94df2951fa34551fc95e24ee1986af85d8e8bd3fac",
+    "textHash": "9b773ac62d3c4ce7593f8a8a2145420f22c1d6a62283f7092dbdd8d1e808d23f",
+    "occurrencesHash": "77d0e21563e4a5dd06e3aad3cc322f6bcb65afe29b24522cfc4aec71894556ab",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "plain-wiki-text",
+    "sourcePositions": [
+      4132,
+      5429
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 140932,
+    "title": "待揭晓的谜底",
+    "revision": 645477,
+    "sha256": "4ec14efac6b1ea25c9b75131e7b7c5dbfc1bb564650e891b9689cfe5f5ef1b9b",
+    "textHash": "a6d7aff904585853c2da1c1e2f041d5fa7d42b698c61e61d90b75476c2799bd3",
+    "occurrencesHash": "f268a94a54b54ff22c99af1edc9f534b48485c96a3cebb15245004ec684d6a72",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "plain-wiki-text",
+    "sourcePositions": [
+      3135,
+      4792
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 127796,
+    "title": "待种子萌出新芽",
+    "revision": 661126,
+    "sha256": "b87b4a990bb14a515f0aa5e7cc1fdb4885af3e10b77ba1898bf462a19420c227",
+    "textHash": "210e43a796112956c76e4cf127e251e5e81959eaeafd5563fd959d4665b00638",
+    "occurrencesHash": "a7fa89ca22e37f28b2d806c0485a2eb94aeee8dc2d911c42fbd68011c38a7770",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      397,
+      454
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 85615,
+    "title": "等量再交换！",
+    "revision": 589216,
+    "sha256": "605c555d8c3191a87980b36c580170519f79791f5423b843180c50fcaf9f50aa",
+    "textHash": "e189106842629512c46b3fb622885980d3792f790ed55e10d77fbb7519c907fe",
+    "occurrencesHash": "643e1f55a5443645d5ca305f340329c38bb77cea0db783d3a6036b83a2811b89",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      3404,
+      3550,
+      3563,
+      7103
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 135505,
+    "title": "对决之刻",
+    "revision": 669307,
+    "sha256": "09205adaadcefbb6297c8df2bc963442268a2c578e7972502487e98fa549f92f",
+    "textHash": "ce2ad91ea7687917b43dc8ad63f957f58f97f4d00dca91196fd2df68e4dd5d3a",
+    "occurrencesHash": "25256d6733afe5a8db76ccf4c7f82348e0157695d600a945efe3c1ac97f801c2",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      393,
+      421,
+      1853,
+      1918,
+      1966,
+      6555,
+      6647
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 38445,
+    "title": "厄瑞玻斯的秘密",
+    "revision": 437996,
+    "sha256": "9d1ef32c85d743824a18b030fe7c521da6149fe5802d3826ae6213042e9d9b6f",
+    "textHash": "484d55613910eb8c0917fe308b499d474115ced993cd002a17d7cc75254330a4",
+    "occurrencesHash": "b05c3f53141891f2695e2c4b0a63e7c89f36985b9e97720e790ff696bb695dfd",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      139,
+      351,
+      424,
+      520,
+      593,
+      685,
+      758
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 38445,
+    "title": "厄瑞玻斯的秘密",
+    "revision": 437996,
+    "sha256": "9d1ef32c85d743824a18b030fe7c521da6149fe5802d3826ae6213042e9d9b6f",
+    "textHash": "43b7d8265497dd133ffac1de7c60957d3bacaa6077b1cd4cb70098dd7742d995",
+    "occurrencesHash": "75c6c2e8e9221a4f3ca04e5b1f0c48d232115b332c2d9385aef3773a4e09bab6",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "plain-wiki-text",
+    "sourcePositions": [
+      413,
+      570,
+      723
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 158496,
+    "title": "风起微澜",
+    "revision": 666918,
+    "sha256": "2a1a3f2354025553ab6a894f11d203adfbe490d6a89c849194a0ec7d05dc11e8",
+    "textHash": "ce2ad91ea7687917b43dc8ad63f957f58f97f4d00dca91196fd2df68e4dd5d3a",
+    "occurrencesHash": "8397bf59bfc30068f3cafbadf1a8b13fef1e7b63499a48b190bdb2d1c6354abd",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      1288,
+      1366,
+      1394,
+      1422,
+      3417
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 163600,
+    "title": "风停了",
+    "revision": 662925,
+    "sha256": "51ecaa20efcd9a6b8894f82b3620917541ae61fd6e47d1a2001814f1e08e2462",
+    "textHash": "ce2ad91ea7687917b43dc8ad63f957f58f97f4d00dca91196fd2df68e4dd5d3a",
+    "occurrencesHash": "b3645f46282b29018c1bc957aff9737efb4b551ca8fc52e3e072ea548bb9017c",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      600,
+      666,
+      9512,
+      9531,
+      10760,
+      10779
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 122822,
+    "title": "富豪游戏",
+    "revision": 645080,
+    "sha256": "5e13b5738afc57c93e77f73e900ba19e31279c22601500e84d292217d5a94ab1",
+    "textHash": "40b909e0921c850f3edd328ffd172ba65ca561ce197235a158cf0128cefcd762",
+    "occurrencesHash": "1670c80245456d4ed1928b04b0d32a27ae05294bea1d36d4bf63a6579e334788",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      22762,
+      26339,
+      30627
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 136245,
+    "title": "浮羽之滨的迷局",
+    "revision": 661497,
+    "sha256": "10d308d616250fda456e6061a8e4ae226f77e9ead0e36f0e1360a924524f1998",
+    "textHash": "a653db09709266f7b9a95ec910845522eae43a63d56e3afc327f04e63f09e2e0",
+    "occurrencesHash": "7cb8582c4d6ce498c4016885b3d8be47696d47acb2dec3cb99f34cb0aa7ffa34",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      2011,
+      2031
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 151304,
+    "title": "告密的心",
+    "revision": 637153,
+    "sha256": "918074921bb17d5366af0440d605f0d725e44a350b098ae26a18b5fccb4aca7a",
+    "textHash": "1da46ff6017962387be5a1de072089d31b09f948c20a3cc79e424d6d4b523fa3",
+    "occurrencesHash": "cf1507789df9fd87061273efb13fe34f3b4aec7aa3a6be8e50ff8deea6e4f5f8",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      4018,
+      4223
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 159033,
+    "title": "古老的阵眼·其三",
+    "revision": 666982,
+    "sha256": "0190e60a297b3df571ca4be87887ce6d218fdf6603de171a0e31dc66a3c0b7f0",
+    "textHash": "5a0668b4bcb1e0b03d352a2a662a040b962b1dc2d76ab4d6561fe689daa6c548",
+    "occurrencesHash": "e31e911bf6e7caa97836964b799ac547806b5555d8d5cf6474a322ffbe710f2c",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      1125,
+      1341
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 159022,
+    "title": "古老的阵眼·其一",
+    "revision": 666919,
+    "sha256": "5343ec5cf93bcdae693e21e6daf7b25701d3356914c42b9a468941aadce4f8d5",
+    "textHash": "ce2ad91ea7687917b43dc8ad63f957f58f97f4d00dca91196fd2df68e4dd5d3a",
+    "occurrencesHash": "ac5bd6e70d6af41ac9a08017eb10208a0a8544150d641540dc744741da96355a",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      240,
+      312,
+      388,
+      419,
+      450
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 8641,
+    "title": "海灯节（任务）",
+    "revision": 665319,
+    "sha256": "c44ecaa69e88f5148d90b02e39388ab224cc46bb7a649927b44f5e6915e1b9db",
+    "textHash": "2da3644b15236288d210263cac462109ada7c0d24bbef117258801a3d5a783bb",
+    "occurrencesHash": "1fc268bd994c6bdd9544547a4bf0dc7251934b6c4e8c33b1709b238932750b9a",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      503,
+      1394,
+      1775
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 8641,
+    "title": "海灯节（任务）",
+    "revision": 665319,
+    "sha256": "c44ecaa69e88f5148d90b02e39388ab224cc46bb7a649927b44f5e6915e1b9db",
+    "textHash": "6e3a10ade7c74955ddb8875c3b94adb88aa94cc9ad4b6abe8de082156659c1a6",
+    "occurrencesHash": "5682f6a9fbe084cdecf1924fa83ee4dec3e0cddfa1aa50182ea1273d95884006",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      4233,
+      4259
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 160319,
+    "title": "海精灵们的礼物",
+    "revision": 653772,
+    "sha256": "20517352a962d59a6ab05d5ace697087a44049d08eafddefc361559d2f2dae34",
+    "textHash": "614b43059f310b31d06de5baea61a2ba411a2ab7fea16e62842dda62527bb4c1",
+    "occurrencesHash": "c2711fd8f4bc97a8f9bbdcdffb97cfb17a391e7279012bb5f2c2d37813d25086",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      2495,
+      2549,
+      2614
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 110879,
+    "title": "海渊封缠的乖离光",
+    "revision": 674665,
+    "sha256": "595714d0b89fa7b093b2646fdfd7923999004b1bb77f3860414d9756ba83eff4",
+    "textHash": "0214e71438a47cd0d459b3a050c238fb335608a7b11d71f09126dd1d3f6485c7",
+    "occurrencesHash": "1fdafc389280efed771c9cda7130b3bd82b2bdc0d8289f13ca600f8295c917a4",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      1345,
+      1573
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 110879,
+    "title": "海渊封缠的乖离光",
+    "revision": 674665,
+    "sha256": "595714d0b89fa7b093b2646fdfd7923999004b1bb77f3860414d9756ba83eff4",
+    "textHash": "58bdf05be76b59f7bdb153640e0de6e28e6d06643bd7193bd80fb44888c3ea2b",
+    "occurrencesHash": "5deef89a00a3624c57595454b95bf41e92afc13311c363b287dbd65fddc89cc8",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      1365,
+      1593
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 117681,
+    "title": "好吧，艾尤恩",
+    "revision": 517600,
+    "sha256": "6dd56b755d3468e554aff6ed108af1f5e9ab174478d000c2b719fbf696144d3a",
+    "textHash": "a2123d69506f51ff112bad06f9c997cb4fa8b854ecce191a5204861bbb1ee732",
+    "occurrencesHash": "1bbfcedea1805b34bb52ac99126c8ed21799498b8b21eabf4e6ed332f63613ba",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      1658,
+      1669
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 85781,
+    "title": "衡量世界之人！",
+    "revision": 584792,
+    "sha256": "c551e9dcef9f27097fd6085bae1daf7679a8417276aa7fa0d6ccc85fc86dc668",
+    "textHash": "836ceac6a8fd393c8cb43c6889901c4c834239ed682f8676bebffe799d00d462",
+    "occurrencesHash": "1e7695a5d5b5369e39d03300a0824b549d5df9f63d185f380b860cd82ba65693",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      317,
+      425,
+      500,
+      2692
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 133447,
+    "title": "幻蛇的宫殿",
+    "revision": 652581,
+    "sha256": "e243de3d34b8b0e1e3d3a590e93813f4ce6c1303483d1c7eaa16ff4005f4afec",
+    "textHash": "ce2ad91ea7687917b43dc8ad63f957f58f97f4d00dca91196fd2df68e4dd5d3a",
+    "occurrencesHash": "c11ec7528e7efa9addb2cac5a61d165e7ecbed8e8fd1adcbe53d4110c69df068",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      1894,
+      1989,
+      2052
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 145358,
+    "title": "毁灭预兆与最后的通牒",
+    "revision": 661490,
+    "sha256": "8ade6f5ed1c92c1c5c1ee7273e70b7b4fd05037d65d4badfdf35e08fddc1cf57",
+    "textHash": "b0eeade7209ae809fed986f12e50afeff61335d7895fbe28d849eafb19fbc3a4",
+    "occurrencesHash": "78a17cca8a82dbe3d91752b78f83f6f4807387dea002f1509883027be5fc3a7d",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      11301,
+      11356,
+      11644
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 145358,
+    "title": "毁灭预兆与最后的通牒",
+    "revision": 661490,
+    "sha256": "8ade6f5ed1c92c1c5c1ee7273e70b7b4fd05037d65d4badfdf35e08fddc1cf57",
+    "textHash": "947dad116db656762879fe4831a954fb129c234c16bda109e861a0d3a562396c",
+    "occurrencesHash": "78dc917c3cf9396917c7859f0f4be8d9205361adac372431364dc69be648cd24",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "source-context-reviewed",
+    "sourcePositions": [],
+    "note": "战斗不同操作阶段重复触发的提示，保留各次出现。"
+  },
+  {
+    "pageid": 145358,
+    "title": "毁灭预兆与最后的通牒",
+    "revision": 661490,
+    "sha256": "8ade6f5ed1c92c1c5c1ee7273e70b7b4fd05037d65d4badfdf35e08fddc1cf57",
+    "textHash": "45e5d9ef62a823dc49a708778f39ae5257d993c67a7a8ad6f157404d99072109",
+    "occurrencesHash": "e13c812e08627b9fd1a46b49c37a4fbc5ec25e62b510a2a8fef8dc26b83026ed",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "source-context-reviewed",
+    "sourcePositions": [],
+    "note": "战斗不同操作阶段重复触发的提示，保留各次出现。"
+  },
+  {
+    "pageid": 145358,
+    "title": "毁灭预兆与最后的通牒",
+    "revision": 661490,
+    "sha256": "8ade6f5ed1c92c1c5c1ee7273e70b7b4fd05037d65d4badfdf35e08fddc1cf57",
+    "textHash": "69113eb77e3fe4c3f018d87d86bd9b90ab4dce99ca9fc960cf3768731acd1a8a",
+    "occurrencesHash": "05ef0f234e71f7f44e7ceb989d24206ffe9d46bb8a9f3c3657025c1b0ec76bd6",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "source-context-reviewed",
+    "sourcePositions": [],
+    "note": "战斗不同操作阶段重复触发的提示，保留各次出现。"
+  },
+  {
+    "pageid": 172772,
+    "title": "火柴中的幻象",
+    "revision": 681113,
+    "sha256": "44578f3ed3f474a4d13f7c22e9ee84f792429f773de433b29bef84409461b67a",
+    "textHash": "5a26aeac2ae1062c299ecee09f0b791789991ef93982eaee4bfb61cd27b21073",
+    "occurrencesHash": "0b40f065b28cd3b6eb51044271ad5e90316e5584a5673c9018e08369b063f156",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      743,
+      1120
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 99386,
+    "title": "加尔恰的赞歌·适配性赠礼",
+    "revision": 630418,
+    "sha256": "dd7bfe8a422eb0c4575c8c8b85c55bfb31ff694151af78bc6be8da4bf6bef3fa",
+    "textHash": "9016fd83cf8fe81c8bb8a05d86b8a5d59cc3e6d98cf304a84f17dab544bf1be9",
+    "occurrencesHash": "c2a6265cebea291c41b92d146dbe4def04efbdbb219f0485d9d3b5436b5b86de",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      392,
+      3561
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 117675,
+    "title": "剑去之日",
+    "revision": 522456,
+    "sha256": "d322163af4d604aad8901269b4c2e75e7bde68d43f1d95ccb40d63160338e4a9",
+    "textHash": "82651af1a102314e3908329fd1cbc85da2410f67b3f92c626d1f56d0e9618b52",
+    "occurrencesHash": "442c470202599b68c795c38c0e143292fab6643c89059745a05d4dce8ddb8f29",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      419,
+      586,
+      715,
+      1515,
+      1716,
+      3278,
+      3704,
+      4227,
+      5287,
+      5714,
+      6183
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 163908,
+    "title": "解救纸片人",
+    "revision": 662818,
+    "sha256": "17871eb6cd08c40b6e565e6778d6064bc91c9d1e0e9bed47605cd6f28bce288f",
+    "textHash": "ce2ad91ea7687917b43dc8ad63f957f58f97f4d00dca91196fd2df68e4dd5d3a",
+    "occurrencesHash": "fb7284cbda511db40d732e948b4e65a5bfc3b119c3d0216a3da8added0d5886c",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      573,
+      664
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 156330,
+    "title": "界限的法则",
+    "revision": 668305,
+    "sha256": "4eedcd788f3997858b048c9f41fa56e85c4e752eb66e6495614a54b3b31a9fd6",
+    "textHash": "fa66c2a1bca2c764f3ccb4d33b1fe29b93030ef7e570dcabc213a2dd2b66b3dc",
+    "occurrencesHash": "83df3099c950846232735fd042ca6f441e313171c6d28664798dae4aef390a17",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      571,
+      1907
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 2827,
+    "title": "惊喜大礼",
+    "revision": 525146,
+    "sha256": "5c8101b14a955c27fe126d35925f96afe51ab97a4f1613deb691d4869f9e0979",
+    "textHash": "3bdfb33339f2d47c81f70109da293c92a785e1f01c5c1021806695ca78137035",
+    "occurrencesHash": "d6c22aa05e40b12e411e99c14a0948544b2a1f83a460b990b37fb67f6313df70",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      487,
+      706,
+      757,
+      779,
+      3199,
+      4747,
+      6388,
+      8072,
+      8895,
+      14119
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 95373,
+    "title": "居尔城的记忆",
+    "revision": 666788,
+    "sha256": "90e7d7f20d7b93caa58e540292e2ca33b6258a792a07c29efd8d42a1310f6066",
+    "textHash": "ce2ad91ea7687917b43dc8ad63f957f58f97f4d00dca91196fd2df68e4dd5d3a",
+    "occurrencesHash": "5519c3b57ba27da717484147ff010ea2d4b4062d9cfeb2edaaa399133ee92b36",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      484,
+      555,
+      917,
+      947,
+      979,
+      1013,
+      2802,
+      2822
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 142838,
+    "title": "空想俱乐部·热能催眠",
+    "revision": 657213,
+    "sha256": "53648d8d9525a9600cfd2180acb3fc0d469791a69d86e7e24750b27eb71e8b8b",
+    "textHash": "a3b2292745245eef9d5cc22d44564d51f9331c2cdbd6f9d950fa3fa7636d2d0a",
+    "occurrencesHash": "ff61c5d353dbc93c8d3f2fb3179ab8af33363bfd32eed28d4391984b7b4851f4",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      265,
+      353,
+      375,
+      4102,
+      4775
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 121330,
+    "title": "兰迦鲁的涂鸦",
+    "revision": 630275,
+    "sha256": "4887857daae70e0a73377b0b2b4f23a93c3c11556a2345611e89c76750e617ff",
+    "textHash": "ce2ad91ea7687917b43dc8ad63f957f58f97f4d00dca91196fd2df68e4dd5d3a",
+    "occurrencesHash": "2d81e9c7afd3a72bbdf9dc416daeed09c9ce55296e9a43fa5565519fc98ae5f9",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      121,
+      366,
+      450,
+      498,
+      528,
+      559,
+      614
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 163491,
+    "title": "离群野狼的回忆",
+    "revision": 661746,
+    "sha256": "28af1d3dad0c8ac3f5efa838969b10f7de349ec532a941dd0be2a80e52aa3630",
+    "textHash": "ce2ad91ea7687917b43dc8ad63f957f58f97f4d00dca91196fd2df68e4dd5d3a",
+    "occurrencesHash": "756768486b4b86ad19f5639e014dd15e2ecef0156a6fc7a503258ef6bae84ba9",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      538,
+      569,
+      600
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 145148,
+    "title": "裂鸣的悲音",
+    "revision": 662660,
+    "sha256": "59f531556988a1a3ba4dadc72c77844572ac2dd48f9d66e0df1583001ca9de73",
+    "textHash": "ce2ad91ea7687917b43dc8ad63f957f58f97f4d00dca91196fd2df68e4dd5d3a",
+    "occurrencesHash": "7fa34e0cf87af094e9c520cf9d9144e0b77f018f18d76cd9711c93e4ff7d61ec",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      789,
+      860,
+      914,
+      963
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 122393,
+    "title": "流浪汉与小屁孩",
+    "revision": 627306,
+    "sha256": "dc8e0d4416210f22cddaf435dcadcc9fe89183b4bc7439c5b457a8bbe2a2ad4f",
+    "textHash": "874a4d7bd773b5e8b0bb0856b9f23af624f47c662013682273936b72582cfce0",
+    "occurrencesHash": "9eee84203a3287e2c9508a67e9014997bdf143fd5204301c9f1d9db15d9d8912",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      10840,
+      10893
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 88428,
+    "title": "埋葬丰饶的沙丘·中",
+    "revision": 625943,
+    "sha256": "799b1b684a69b932b4dc8502cd6ad1abedb28d5825ee878d72f85b3cf8558413",
+    "textHash": "ce2ad91ea7687917b43dc8ad63f957f58f97f4d00dca91196fd2df68e4dd5d3a",
+    "occurrencesHash": "68f0dfa1333edc20b93326d02654aba97c118df0785ed507438b613067e8ddc1",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      596,
+      8166,
+      8183,
+      8232,
+      8259
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 148524,
+    "title": "美梦帕伊提提",
+    "revision": 646704,
+    "sha256": "bdef4fd756b859b002acab29e1f44f7b9724e4a48bdfcfa7ffeb0c324a00d7f5",
+    "textHash": "3d2a19ff23a888a5bc34713dad9431d90e87bdb48592e7e693ac462fb1616801",
+    "occurrencesHash": "4e8a1476d1f0f449c43baee00dd765b5a424814f918ed5049d6769b7338c5fdf",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      2454,
+      5755
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 148524,
+    "title": "美梦帕伊提提",
+    "revision": 646704,
+    "sha256": "bdef4fd756b859b002acab29e1f44f7b9724e4a48bdfcfa7ffeb0c324a00d7f5",
+    "textHash": "ce2ad91ea7687917b43dc8ad63f957f58f97f4d00dca91196fd2df68e4dd5d3a",
+    "occurrencesHash": "25c4cb8f715988dd596eec11145f115d44f38c713af5f58f1466bdf8c985a384",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      2496,
+      5721,
+      5929,
+      5987
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 148524,
+    "title": "美梦帕伊提提",
+    "revision": 646704,
+    "sha256": "bdef4fd756b859b002acab29e1f44f7b9724e4a48bdfcfa7ffeb0c324a00d7f5",
+    "textHash": "869543af7d95ab3ff82110bc3fcf650ddacf3809fdfdfb0a38980c7a49765ac8",
+    "occurrencesHash": "9fdd07af47a28c787a185e27994a2eab17a039658ef964362ecf0bce77c7b34c",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      2276,
+      2561,
+      5340,
+      6333
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 148524,
+    "title": "美梦帕伊提提",
+    "revision": 646704,
+    "sha256": "bdef4fd756b859b002acab29e1f44f7b9724e4a48bdfcfa7ffeb0c324a00d7f5",
+    "textHash": "948aac4e56a1785b9b7630cde94d91e3a4cdd71e11ead64dbaf92947eeb19fbe",
+    "occurrencesHash": "6189b55033b232a31db9804b6f66dccc875c7d4550350dc4b1343a6beb31e1e1",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      2649,
+      6818
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 148524,
+    "title": "美梦帕伊提提",
+    "revision": 646704,
+    "sha256": "bdef4fd756b859b002acab29e1f44f7b9724e4a48bdfcfa7ffeb0c324a00d7f5",
+    "textHash": "5c4af459e9a206217e329790d8032442c35fca12b55e6cab1b2a0f25bd216755",
+    "occurrencesHash": "93f14337983a7e00263e14ce2272b092ec33b96e8fd82d7f81232113560c7c71",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      2718,
+      6887
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 158881,
+    "title": "面包会有的",
+    "revision": 665262,
+    "sha256": "8a46c7f8ca9cad08472fe8eb9cd7730da800b9ab7adcab048b62b14e03ca53e4",
+    "textHash": "638fab9fdb28d2ff31fc4c7cfa455b753ecedb2d3e80eea4916042480d3170bc",
+    "occurrencesHash": "6d751ace27879ceaca28b752cbc4a4d03332285d8cb05cad3c439c3e9827d089",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      649,
+      750,
+      862
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 95377,
+    "title": "磨尖箭头，抓住盾牌…",
+    "revision": 666829,
+    "sha256": "53a04736cadde8b9b1c67e4720f62f9ab079f6378a4d0c22390e3b95301094e9",
+    "textHash": "bf5e7f4dfe1fa2b721cb03a3be35c2802e8f9cc24f60ce50ca75080a8575b9e3",
+    "occurrencesHash": "5f44093dcdf30f9fd2ce8818f4e31a314243b273df314234e0dadc13c702e9ef",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      6601,
+      6639
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 146760,
+    "title": "目标！刺梨岩！",
+    "revision": 685793,
+    "sha256": "ef837fc1f2a8eff5714e166c8e12dea1a4508cac80e5324223f3af52251609c6",
+    "textHash": "f50d6441f13b30160d852ed990eb639b2ffd59dc3b24999fc6ec39ef066c0c21",
+    "occurrencesHash": "0d18f6a9f45fc1ac1e64d6b8bcfb62326dbc5dd3f9897adf08c473a708f122bd",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      2975,
+      3155
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 146760,
+    "title": "目标！刺梨岩！",
+    "revision": 685793,
+    "sha256": "ef837fc1f2a8eff5714e166c8e12dea1a4508cac80e5324223f3af52251609c6",
+    "textHash": "d5323cc0b125004477c843688a4a70dae40e409602fca3f58b216aec16d0e991",
+    "occurrencesHash": "f0cbc2b7d4279b06225d91510bee8787ffefd610dc3094fa89845b5c5aaab19c",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      3006,
+      3186
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 144709,
+    "title": "那些古怪又让人思索的问题",
+    "revision": 610652,
+    "sha256": "74dcbb60866f118ac4dafb1e48d09e80e7e79b46d9f24f9c2ddcf4070930b7bf",
+    "textHash": "ad42f6ec6363a1e669357a3d854095a092cdd4fa310ada6e31091b173e55b27a",
+    "occurrencesHash": "6acf6e3b8ad2605957d320327f6cf9f2244c319bf9b48947009b33d010798585",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "source-context-reviewed",
+    "sourcePositions": [],
+    "note": "玩法教学中多次开店、刷新、招募步骤，不是一次对话的误抓。"
+  },
+  {
+    "pageid": 144709,
+    "title": "那些古怪又让人思索的问题",
+    "revision": 610652,
+    "sha256": "74dcbb60866f118ac4dafb1e48d09e80e7e79b46d9f24f9c2ddcf4070930b7bf",
+    "textHash": "5302b7bd98c81abec06bb1afcff99eff19120df8469c8659add418693c1f3913",
+    "occurrencesHash": "815b4bf6a2fcc9ca5d5e65317a5f7af93f32e9d9f09fd9a8cb5b5befbe64574e",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "source-context-reviewed",
+    "sourcePositions": [],
+    "note": "玩法教学中多次开店、刷新、招募步骤，不是一次对话的误抓。"
+  },
+  {
+    "pageid": 144709,
+    "title": "那些古怪又让人思索的问题",
+    "revision": 610652,
+    "sha256": "74dcbb60866f118ac4dafb1e48d09e80e7e79b46d9f24f9c2ddcf4070930b7bf",
+    "textHash": "579ef1c81dbf0d35a56fa5c8206cfe718aeac419a3265e0bdccd8441f61ad733",
+    "occurrencesHash": "9d2930be5105c2d8731cd259c39e3d371f01c1ea81dfd869e129775930d53315",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "source-context-reviewed",
+    "sourcePositions": [],
+    "note": "玩法教学中多次开店、刷新、招募步骤，不是一次对话的误抓。"
+  },
+  {
+    "pageid": 153042,
+    "title": "农田抓小突角龙",
+    "revision": 661432,
+    "sha256": "81eb743233d6466c9ef270360b15f5d339a402ba58e8a7a7c0580e5e17aefebd",
+    "textHash": "664a086201b12fa14bc7cbbab731211277a14420708153a323cc6a82b20c4481",
+    "occurrencesHash": "4f36a84c6346307473ff9f4929a5259c9443ebe205372e0b4f448305eb10eb7c",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "plain-wiki-text",
+    "sourcePositions": [
+      830,
+      917
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 123930,
+    "title": "旁白的注脚",
+    "revision": 661481,
+    "sha256": "c55fcdf2e1045148c402482cf5a77f360627907fd138dfe52d391b553fe746b2",
+    "textHash": "3b587bead5c98a111db107bab7e2d42b064b26e4e42b93e45a2ef5d8ab7f2633",
+    "occurrencesHash": "99f23334ec4198b43cc3008e7b6afb6e3927d36c850e7f6e07c74d138272eb98",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      7279,
+      10252,
+      13767
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 119214,
+    "title": "泡泡桔色的不速之客！",
+    "revision": 526591,
+    "sha256": "619aa4bb84e43bf6225374807b3bfba9beced83244f55809e06a568186d91beb",
+    "textHash": "a2123d69506f51ff112bad06f9c997cb4fa8b854ecce191a5204861bbb1ee732",
+    "occurrencesHash": "86350a0ba72fd8fc240598d9d61096a99f3b55e3af469432452017da508c3598",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      1165,
+      1177
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 22454,
+    "title": "清籁旧宝",
+    "revision": 630200,
+    "sha256": "04260c27cb8db9de092232e9d305e25084de3a14dd024875cca146391312ca5c",
+    "textHash": "dfc41724ca6c6ebe87333b6d934330eed61fb4c117057550585fccb2af2481e9",
+    "occurrencesHash": "b11717e9af565f58fcaa1345ef157d2c0035bcdea831af139eb9128f38ca7aad",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      1135,
+      1425
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 115467,
+    "title": "清爽枫达，畅饮世界！",
+    "revision": 665370,
+    "sha256": "482e9d290ab4f1cad3eb2a8533ccc15173852e2e0d2015bc5e6540e8284f0364",
+    "textHash": "a2123d69506f51ff112bad06f9c997cb4fa8b854ecce191a5204861bbb1ee732",
+    "occurrencesHash": "1b054e101e99fe436ff9ed3eaf4a0592ce2d8111898383cdd1326fb024c9669c",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      637,
+      652
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 75870,
+    "title": "全能美食队·职责之内",
+    "revision": 538409,
+    "sha256": "6ef1a4d21a0b41319a1cbf61ddc4d0d95a1f7626a329e03f7d5114fe758894ad",
+    "textHash": "2d757585480fd02ea71646c731333384415cbb1c52c467a2c9022cdcd2746646",
+    "occurrencesHash": "071318d3ac61626441bf637eccd3b9b83bf4df4615edb317e4f27bfbf8fc32f2",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      9929,
+      11233,
+      12489
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 127840,
+    "title": "燃素开采研究所",
+    "revision": 630271,
+    "sha256": "48d701ce962a1519fbe963bf847c7f2a6eda6f8c24bcd09425b373c3303808e9",
+    "textHash": "05b3b934150af07d6e2ff79db5db56df1069912b5891bd54225bb1d49128f1b5",
+    "occurrencesHash": "0de3312bec276d3263457469bfb72536a5bd282a55abd7c40edcefd387dfed77",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      567,
+      1621,
+      2541
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 127840,
+    "title": "燃素开采研究所",
+    "revision": 630271,
+    "sha256": "48d701ce962a1519fbe963bf847c7f2a6eda6f8c24bcd09425b373c3303808e9",
+    "textHash": "ce2ad91ea7687917b43dc8ad63f957f58f97f4d00dca91196fd2df68e4dd5d3a",
+    "occurrencesHash": "2e101166bdc2eeae13b77c3bda6e9af942e6517631d6deec6c7aaa8d2b307524",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      702,
+      1653,
+      2484,
+      2854
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 127840,
+    "title": "燃素开采研究所",
+    "revision": 630271,
+    "sha256": "48d701ce962a1519fbe963bf847c7f2a6eda6f8c24bcd09425b373c3303808e9",
+    "textHash": "0214e71438a47cd0d459b3a050c238fb335608a7b11d71f09126dd1d3f6485c7",
+    "occurrencesHash": "4d6c674a8893551b6c13eef66c04dbe7a809a6d69ffa41442a831cd904c49d1e",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      812,
+      1715,
+      2946
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 127840,
+    "title": "燃素开采研究所",
+    "revision": 630271,
+    "sha256": "48d701ce962a1519fbe963bf847c7f2a6eda6f8c24bcd09425b373c3303808e9",
+    "textHash": "3ae735b491383c29159528c8ef280752b4ee070c60d575a047bb93a163eb4b94",
+    "occurrencesHash": "92aba8f1c3c971a36ac4c78d60e978293beca5ab9e3a31b74acc33f69d519baa",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      830,
+      1733,
+      2964
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 127840,
+    "title": "燃素开采研究所",
+    "revision": 630271,
+    "sha256": "48d701ce962a1519fbe963bf847c7f2a6eda6f8c24bcd09425b373c3303808e9",
+    "textHash": "6251d44095e6af234c2cba4fed05534072e74fc1b3ab5123bb9b121736710478",
+    "occurrencesHash": "7ebfa7700afbab6dc2aea54c8b7e02ef2b1f8463dd8241642279b3d6e6153a03",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      1545,
+      2211
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 132792,
+    "title": "日冕的三原色",
+    "revision": 661480,
+    "sha256": "e83394394a4b727c247b128cbe766f0c1a44f6126cfde9378c07202de022301d",
+    "textHash": "1b29df5aa1ecea698324e2adf7b302ae8e093fa122560c2d038ea8151f293f2b",
+    "occurrencesHash": "eff6f944e65e42860a2b9549da8b64d89b31fe3887cd0e2da680e11cd4ddaaa4",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      1726,
+      1772,
+      1883,
+      2000,
+      2646,
+      2695,
+      2862,
+      2939,
+      3571
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 132792,
+    "title": "日冕的三原色",
+    "revision": 661480,
+    "sha256": "e83394394a4b727c247b128cbe766f0c1a44f6126cfde9378c07202de022301d",
+    "textHash": "30884c53092dc1eab5ff7435e98a71c33c1edc58bd100ff5c31621caff78d23d",
+    "occurrencesHash": "1cd9039c50b1d70aaa2690d7b6579f0b910e58e2cc5f90c27e655e84fc481bb3",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      2133,
+      3041,
+      3866
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 99622,
+    "title": "尚未结束的故事",
+    "revision": 645479,
+    "sha256": "6581b437c31d83aa2f4b1de151e44e15305203d59a9ea91afb8ca69e7a4e9f33",
+    "textHash": "1bbef380b25e1df0de9af5fce6d5c73529986a925b1e768c3cc713ffa0840069",
+    "occurrencesHash": "44120f24152e16ae5ccf533df1cc20dc5b5c5ad813345e061bddacef4b603469",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      4255,
+      6499
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 99622,
+    "title": "尚未结束的故事",
+    "revision": 645479,
+    "sha256": "6581b437c31d83aa2f4b1de151e44e15305203d59a9ea91afb8ca69e7a4e9f33",
+    "textHash": "590649270c1b3ed4bed3344daedc0bdeaa01be44a9231c585cd2ae1112ad276a",
+    "occurrencesHash": "d30b19e01337dd941025ac237b70e779c103daf652b5bd9124bb9569595d72bc",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "plain-wiki-text",
+    "sourcePositions": [
+      3985,
+      6156
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 127353,
+    "title": "神秘岛的真相",
+    "revision": 652469,
+    "sha256": "45987f6c8fba5dca910413822d316b1ddc7fd8ff90047f51c55a1ec23f4c5719",
+    "textHash": "ce2ad91ea7687917b43dc8ad63f957f58f97f4d00dca91196fd2df68e4dd5d3a",
+    "occurrencesHash": "e3ff2252581de24364c4c8d5985967b925681785d79e91186b463a88c11a09eb",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      399,
+      2832,
+      2942,
+      2989
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 125513,
+    "title": "神秘武学的召唤",
+    "revision": 661521,
+    "sha256": "c3c7558df573095b6f88ea3df12273a0dc6aa366b8dc13d9795e363249581b09",
+    "textHash": "ce2ad91ea7687917b43dc8ad63f957f58f97f4d00dca91196fd2df68e4dd5d3a",
+    "occurrencesHash": "5f3912baa56430d6c0195bda3debb03ecee9aa9de09be58189ef789d466a85ff",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      462,
+      502
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 120552,
+    "title": "生不出的花",
+    "revision": 538268,
+    "sha256": "3d680871fd1748b10cb1b807b15d61f5181d7900cf87a780b65c177e09dd9df8",
+    "textHash": "92ac1a256856908669b4e2526d7a9a2224ea9b343bd3e5c01a8bfc332cdcf29b",
+    "occurrencesHash": "433df14b4720fcab233938d95ceb917c2823b91d0a5832ee40c9d7239accf2ec",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      285,
+      359,
+      385,
+      1457,
+      1919
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 125442,
+    "title": "世界等级突破",
+    "revision": 630101,
+    "sha256": "245b6908e56d421a07b31953f151c8a1acbb34693b980278000cf97bd66f14a8",
+    "textHash": "ce2ad91ea7687917b43dc8ad63f957f58f97f4d00dca91196fd2df68e4dd5d3a",
+    "occurrencesHash": "6c44caa0b52e7365b8437693460199b3499be3e92380d5af1afcdde02fc7a3b0",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      267,
+      294,
+      337,
+      366
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 136872,
+    "title": "石子、椰子、龙贩子",
+    "revision": 661296,
+    "sha256": "a2f52bb63a3168e10b8e9af4a5be34aff5e44b717642e09d4a07f6229e01653f",
+    "textHash": "6cd1430f221c3e50e2bee835966a4a8265fab9464bd9d12533653232da36d3d8",
+    "occurrencesHash": "7beb1040287e89c1f8f3e20a80d8e64201e4b72f1c912ba6e38bf57c1c08c5c3",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      2480,
+      2540
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 163819,
+    "title": "狮子奋迅",
+    "revision": 662947,
+    "sha256": "06490aae3452a76e4fea7d4e2c3599d9d7915b979eae0b6f4d2226f61c43b7e8",
+    "textHash": "171ece27d535b7232aa10c9c09fa9cde77638a1e7ecc1c3453ce316c5a445cc0",
+    "occurrencesHash": "82ae1a0bc8a1d917010686d0c50089c8e9a5c6e387aaf16bd1f9ca146a1a53de",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      1185,
+      1238
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 100166,
+    "title": "水色潮痕",
+    "revision": 622206,
+    "sha256": "e65b6e9e8e44225291a1457f18804061a060e70253d64296d4e1abfca7d0b926",
+    "textHash": "cd69d24f7b529097dc1a1d19feed4807fdbca0847b29bc0439bef7ae876be0ec",
+    "occurrencesHash": "0dcbc2e7562bf8b5a27589a9e793d56cb1b7cbe6d2509849e2e4ff1037eb5999",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      2083,
+      2833,
+      2884,
+      2942,
+      3725,
+      4826,
+      5001,
+      6256,
+      8383,
+      12548,
+      12597,
+      12639,
+      12665,
+      12732,
+      13840,
+      13984,
+      14273,
+      14431
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 124187,
+    "title": "水下夜想曲",
+    "revision": 664109,
+    "sha256": "bf564659792318111918260a451b1b75a27e555bd238330886af61e74cf4622f",
+    "textHash": "ce2ad91ea7687917b43dc8ad63f957f58f97f4d00dca91196fd2df68e4dd5d3a",
+    "occurrencesHash": "4579695f70c9172268751189fb329955a86aec349ecec8a4629fb5fe6f6b0f3f",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      666,
+      7023,
+      7040,
+      7067,
+      9384
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 127490,
+    "title": "溯寻者不可得",
+    "revision": 648176,
+    "sha256": "7f86bd63ce1eb530e49325bf0e97990057c798bea8402101a712f45a8d8538a0",
+    "textHash": "9e56d90b6b63861de3cb4b63764173ad24ed9cf5e1780924b3e97c1bf4be6b11",
+    "occurrencesHash": "c8c5e56f1828e77995ba3779f75d76a8b65da4ce596dd3708ca5f0b8fdcd69e5",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      344,
+      364,
+      1591,
+      1672,
+      1756,
+      1802
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 133475,
+    "title": "天空的另一侧",
+    "revision": 652587,
+    "sha256": "6000a23e7abd2ebea42a6506eb9d9bb0af08c662b046d1b6a85e51b6cda3a1dc",
+    "textHash": "69b3f6f64511cafde1fa5f0172c8d4e068068cc57f43948d445311282a1ddbd6",
+    "occurrencesHash": "8af3ce0e4fa1fd55449a19bce529afadbd7f0736fa577351dae9e02c14fef456",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "source-context-reviewed",
+    "sourcePositions": [],
+    "note": "飞行追逐的两次战斗提示，保留出现顺序。"
+  },
+  {
+    "pageid": 133475,
+    "title": "天空的另一侧",
+    "revision": 652587,
+    "sha256": "6000a23e7abd2ebea42a6506eb9d9bb0af08c662b046d1b6a85e51b6cda3a1dc",
+    "textHash": "9bf49b9e48028710c70912fcd9bf4b47e7e4c7cb81a6c4580f6534fbd43e8d0c",
+    "occurrencesHash": "d3f993cb2a58b46bf00c79ae603c8162a4b1097d9e61342305993e1d26732425",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "source-context-reviewed",
+    "sourcePositions": [],
+    "note": "飞行追逐的两次战斗提示，保留出现顺序。"
+  },
+  {
+    "pageid": 110877,
+    "title": "通往奇点之路",
+    "revision": 674668,
+    "sha256": "43400e299d21eee2ee0347144f47fc782d654fd34b238f7e600b472edfbb9948",
+    "textHash": "2c5bb770ea619ba0b2f769e781b61565c6b462167c4ae59417964784c9ee11aa",
+    "occurrencesHash": "e4d6ca03c62ef6b275264fc53e55ac8d7431a823c9489b2bd48df054fd2b5e1e",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      4633,
+      4667
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 159161,
+    "title": "物归原主",
+    "revision": 661510,
+    "sha256": "94135c14c46b037c044a902b8c135d06f5f29567b9c58ea8963a4f6cd6fde644",
+    "textHash": "ce2ad91ea7687917b43dc8ad63f957f58f97f4d00dca91196fd2df68e4dd5d3a",
+    "occurrencesHash": "d62e05d47fb9d70363af4ebaa2bdcec22250b1075a49b3a08db3e67f61b26e2c",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      455,
+      489,
+      10195,
+      10375,
+      13233,
+      13331
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 145184,
+    "title": "昔时演算阵列之处",
+    "revision": 648559,
+    "sha256": "90bebf5e2b3a0f05e4c82a7355a3ca9243b07a6ab1124b1386f60d1794a4f144",
+    "textHash": "ce2ad91ea7687917b43dc8ad63f957f58f97f4d00dca91196fd2df68e4dd5d3a",
+    "occurrencesHash": "20e120139f527b5436489deaff8230bad38d038e5f6b7cd23e6f96fd303b8f44",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      363,
+      417
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 175428,
+    "title": "像一个雪球一样",
+    "revision": 684907,
+    "sha256": "c7ec49e67f2c3dedfdc3d7d873bc5642345b6c99ac5d9832c9fca400320b2897",
+    "textHash": "6a1f6ff400eda421531069f3e72abd4ca9f70830cc642c5771fc294b65cc85a7",
+    "occurrencesHash": "8c85c04446220662a6be1d0545d34769c63971d8749d8450ba362e6cafd06710",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      487,
+      684,
+      891
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 151279,
+    "title": "鞋匠的孩子总是光脚",
+    "revision": 649158,
+    "sha256": "e395d3dbe9a304d9783881a552b9d31f6ea9d23b9e977f8b7c60d3257b791999",
+    "textHash": "f63c13490a9cbb0edc58cb57d606447c9b35bcc7cac64fe77a4ffd23ddfee6f7",
+    "occurrencesHash": "ab63464e94725fe8d4fbebe8d547b74ac6a107e80dba39911a092e8036682352",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      3305,
+      3649,
+      8388,
+      9079,
+      11586,
+      16113
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 151279,
+    "title": "鞋匠的孩子总是光脚",
+    "revision": 649158,
+    "sha256": "e395d3dbe9a304d9783881a552b9d31f6ea9d23b9e977f8b7c60d3257b791999",
+    "textHash": "75527e5b5cba4a88fed0a32427f2de96e38eb6c0e55eda07eeb57bac38550d8d",
+    "occurrencesHash": "b845d92ddf39c2d9d5977d92ce68d3c84c3f64d8dbb3124c01e3a320079ae634",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      6815,
+      11981,
+      14588,
+      14888,
+      14964,
+      15337,
+      15531,
+      15588,
+      17523,
+      17581,
+      20871
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 156322,
+    "title": "行于世间的孩子",
+    "revision": 668676,
+    "sha256": "9d4e745d1907304bf4891d966d6519bbf00891056379b54d188d898f452c6663",
+    "textHash": "ce2ad91ea7687917b43dc8ad63f957f58f97f4d00dca91196fd2df68e4dd5d3a",
+    "occurrencesHash": "30dc7942c6905ff1b807ed9fe25d84751f404bac9b6da9ffcbf5f7dead85eb1a",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      412,
+      1920,
+      1993,
+      2036,
+      2107,
+      2215
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 163804,
+    "title": "星月夜",
+    "revision": 662927,
+    "sha256": "e3fc9074ce0e848673da3c2fa6f1f5512df6d42d375fd9281650e815ae5bd6a8",
+    "textHash": "ce2ad91ea7687917b43dc8ad63f957f58f97f4d00dca91196fd2df68e4dd5d3a",
+    "occurrencesHash": "61de2b9d6d638191ae8d4481d71002ab6f6aceab44f85ec5dc561ea80025b43c",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      191,
+      266
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 153041,
+    "title": "寻回小突角龙",
+    "revision": 661705,
+    "sha256": "2148df7e4f55d99f1823adb8fad5f4d623a961f142297711e47be291f25a9e7e",
+    "textHash": "ce2ad91ea7687917b43dc8ad63f957f58f97f4d00dca91196fd2df68e4dd5d3a",
+    "occurrencesHash": "52da25505b214b49da5e0653f559543634f62cec7e867c30f538404feeb45fd0",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      864,
+      1046,
+      1128
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 9389,
+    "title": "循仙踪兮天遒",
+    "revision": 630240,
+    "sha256": "7289ea8aa82b450a92cce8417bc6ab1b7185ee6b46128aa613ebfe88e6c28275",
+    "textHash": "844ecc08164e2eab27634a9adee1afa6599e589570e719784e080ce747fc0e45",
+    "occurrencesHash": "24a8dc89126a2fdba83937c3f81e65bcc2ebe8dfd777e370a698a868bdef2f24",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      1501,
+      1520,
+      1554,
+      1592,
+      1684,
+      2284
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 9389,
+    "title": "循仙踪兮天遒",
+    "revision": 630240,
+    "sha256": "7289ea8aa82b450a92cce8417bc6ab1b7185ee6b46128aa613ebfe88e6c28275",
+    "textHash": "ec31682fde561917952ff78a7a8adeffd0febc372dd26871916c46c630381b45",
+    "occurrencesHash": "a2333f2104e61387d95a5393e8205ed66b61a3de0848b24768c517765ceff44f",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      1573,
+      1625,
+      1645,
+      1665,
+      1810,
+      1979,
+      2091,
+      2219,
+      2296
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 163686,
+    "title": "赝作古典",
+    "revision": 664084,
+    "sha256": "e523c25597d7c6dc15fc9cc6bb0fe0664e5372edc97d78bca4d6dfc1e01a96bd",
+    "textHash": "48273337cc8b0bf391ba5273349a7f683a3e855fffbd58aeaff52267f8e17967",
+    "occurrencesHash": "7f1898239562f965aefb3303230845751180bc99c36a6cbaeb1554978ecfbedf",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      6183,
+      6445
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 151516,
+    "title": "要事优先",
+    "revision": 636803,
+    "sha256": "de330529413ca0b5d66585af9dbaa43a618ef5e3d1bc42682cec84ebab1e9b33",
+    "textHash": "d75bb7373fe10ef14abc90999735401561f427688aa4e8f571979ba554a82394",
+    "occurrencesHash": "1e153b955b2e8508ef1785f45e6c8622b784264c3452a6dd2d01a7bd4ba13067",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      3042,
+      3299
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 151516,
+    "title": "要事优先",
+    "revision": 636803,
+    "sha256": "de330529413ca0b5d66585af9dbaa43a618ef5e3d1bc42682cec84ebab1e9b33",
+    "textHash": "105f559adeb990172c9aa7129e7f1b5900b2f2b63427042c7451e0bbc8ddc3c0",
+    "occurrencesHash": "ec866272276a495fa83091ce866c247d63f7b9a3e5312d71acd5c3bdbc48e0e0",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      2371,
+      3607,
+      3646,
+      4480
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 151516,
+    "title": "要事优先",
+    "revision": 636803,
+    "sha256": "de330529413ca0b5d66585af9dbaa43a618ef5e3d1bc42682cec84ebab1e9b33",
+    "textHash": "228ab706ce2c2286a342f2b9c554cd545c6e437c33f61b249f21cc859e055f70",
+    "occurrencesHash": "82bc2c365b3a19e9f110be61e183c30eb60bc6cbbf5f0f041b3fb112e2d4f331",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      3627,
+      3666
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 127850,
+    "title": "夜魂试炼之所",
+    "revision": 579129,
+    "sha256": "4739fd7978e0f7a9683ed77325fb4727909b67ad20c51f7c71c37d26211e5283",
+    "textHash": "00ce841055293f51014492af77eab4ae700789f22121ca6798d5823024eb7337",
+    "occurrencesHash": "847dcf695b3d3450a1e4441696bb473d9369b21a748c27b74f1bbf296ca9edb1",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      11,
+      205,
+      215,
+      252,
+      265,
+      293,
+      307,
+      312,
+      358,
+      408,
+      477,
+      495,
+      530,
+      606,
+      653,
+      680,
+      711,
+      729,
+      764,
+      823,
+      850,
+      871,
+      892,
+      913,
+      938
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 117700,
+    "title": "一枚印章",
+    "revision": 517863,
+    "sha256": "28922f1f6a2de983c2cab9bf1ad2fc02573e7b4978d28be74e8dbf969b814f95",
+    "textHash": "d64e4afd5b6343f377d0d76e5933c64a5023e380889085593e49cce14eaadd5e",
+    "occurrencesHash": "526f62abc95eb78dde5bdce6ec0cb6a182e2289f2296eed2fd2880ad2bba59cb",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      353,
+      392
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 150884,
+    "title": "伊涅芙·冥想时间",
+    "revision": 630874,
+    "sha256": "6fccb159ba6aac6b58a82e0154a05b37ae0663e1acd41981d1c52766503f359f",
+    "textHash": "e72685be1380b365f3e7b113d6108f330ed0fa8add39fc7cb0de42c1e4f56cc5",
+    "occurrencesHash": "689da0f906c4108ef3c5dc8aeefce375808c879dc67876a49fc46a0fd562addd",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      725,
+      751
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 165449,
+    "title": "遗失宫殿",
+    "revision": 668677,
+    "sha256": "de22ae9dd1a2d666a59396ef8dd8263976aa67434be8990c3460528a79a364e7",
+    "textHash": "4be4568017a8de694a15cbee30d80659495e83259853bc48ce96936d2911c483",
+    "occurrencesHash": "70a87f9bff75d2abeacba37454ff57120bd3981109b6c550a5366e29c46b3de0",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      912,
+      1085,
+      1137,
+      1309,
+      1345,
+      1381,
+      1418
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 165449,
+    "title": "遗失宫殿",
+    "revision": 668677,
+    "sha256": "de22ae9dd1a2d666a59396ef8dd8263976aa67434be8990c3460528a79a364e7",
+    "textHash": "21aa1afc08700f2135273dc521607fd75f6e878396ec44f5f60636a819f32072",
+    "occurrencesHash": "db01103b7f7e5b62cf8c315ccfdb5eb2cd9ebd2605735b2ddf32946b3aa9b9f9",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      1037,
+      1483
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 117202,
+    "title": "饮品时间",
+    "revision": 515152,
+    "sha256": "9ff5af0be9b32fc784ab18b7eb534655fee5df7ba3dfd33542cfd6188bbb27a2",
+    "textHash": "a2123d69506f51ff112bad06f9c997cb4fa8b854ecce191a5204861bbb1ee732",
+    "occurrencesHash": "96ea5806bcac89c03e90e6f090f6c3feceb02ed60e6197558d58f0f3c4968d39",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      809,
+      824,
+      839,
+      854,
+      869,
+      884,
+      899
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 158884,
+    "title": "英灵的残响",
+    "revision": 665259,
+    "sha256": "319300f78bfda48edba6984411f829659ccac0b0f7f455df8ca0f42d6df32d34",
+    "textHash": "ce2ad91ea7687917b43dc8ad63f957f58f97f4d00dca91196fd2df68e4dd5d3a",
+    "occurrencesHash": "3272ccaee1aae6fb615487975f79dcfc169a1dd030baa9e1e98bccf57a5f1772",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      2016,
+      2075,
+      2122,
+      2150,
+      2901,
+      3011,
+      3042,
+      3070
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 127493,
+    "title": "勇敢者的仪式",
+    "revision": 648177,
+    "sha256": "185c0e7414654a7007944483882e06ec273247ecdc889e82a51ecf6c3ef82892",
+    "textHash": "ce2ad91ea7687917b43dc8ad63f957f58f97f4d00dca91196fd2df68e4dd5d3a",
+    "occurrencesHash": "f601f27d2c7150761f49f5f697a8474c3511d3743c284eaa98ca68267ed6e79c",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      391,
+      2518,
+      2606,
+      2670
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 104594,
+    "title": "鱼钩的物尽其用",
+    "revision": 541565,
+    "sha256": "5c19efa7a32d518ef171362f48bc846797078b75d2c4bc15435f44ad65b68ea8",
+    "textHash": "d71bfd72106e2249c5d374f2c537cda96f13f19f1fe731d49b3cb28a2124683b",
+    "occurrencesHash": "a6f8cc5246d46ae92be009b236ccdf7b96ef6c88a82b6ed0e0ef1f4883f51e1e",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      1824,
+      2685,
+      3947
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 104594,
+    "title": "鱼钩的物尽其用",
+    "revision": 541565,
+    "sha256": "5c19efa7a32d518ef171362f48bc846797078b75d2c4bc15435f44ad65b68ea8",
+    "textHash": "3b2c3def154019e5550fc71686e1d3f362157a79ca35a08a035584b1204d543c",
+    "occurrencesHash": "fa08317f93f298e0bc2696fcc4fb497f06cc4338ad1792af819a73b29e5fcfdf",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      2720,
+      3982
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 90790,
+    "title": "愚人者人愚之",
+    "revision": 661466,
+    "sha256": "c4090e66d261d3cf90e1df1732df9d9228bbe1beeffdd5d56f821e0089d81e82",
+    "textHash": "4deefc37a89ec543f5ca89d26c49f5ed25e55d43bf005842ccea5d6dff63185f",
+    "occurrencesHash": "5a856d7f1979a47ae848c8d76b8b5dd6cddbc8adaf4a0a12b161dd7af6716bcb",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      1320,
+      2168,
+      2594
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 105706,
+    "title": "与珍稀之鸟的短暂邂逅",
+    "revision": 661417,
+    "sha256": "f91b3aa3244859ab45d31debc1608fc45696510b762adeb6e56a1efeefe8bdc7",
+    "textHash": "a48689b9750e56f15db25a6219f9ce0a6600896a1389e5ddae116010f2e67de5",
+    "occurrencesHash": "39183c53d6f9254c0ba023defac7cc77c9ce15ba658c3e7e7f249963fa5c7596",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "plain-wiki-text",
+    "sourcePositions": [
+      6115,
+      6142
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 159130,
+    "title": "月下的守望者",
+    "revision": 664082,
+    "sha256": "2137da92cdf7b124338d05ffe4a51eca0ed546dc3195f7281cc41fb7c15605e7",
+    "textHash": "ce2ad91ea7687917b43dc8ad63f957f58f97f4d00dca91196fd2df68e4dd5d3a",
+    "occurrencesHash": "fb9453b88f888e93ca064059734862b5c7ea8f257d1c54025c1a18730b78d3b7",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      335,
+      4095,
+      4113,
+      4141
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 125987,
+    "title": "在晶岩下",
+    "revision": 648173,
+    "sha256": "6c67b5b7f0024c4f29fa2171ae416ba67936607dfa8b9ed1027b3d2c1d57612a",
+    "textHash": "3ce7b1c68b6671fc67e62204fd1e4ad5123bfdf31343ae8522f5d64e960e8865",
+    "occurrencesHash": "0ff707a987e16702deac3d3d308105c5eaa6a7c840c905db89f0b7b657d05bbc",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      16458,
+      16496
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 125987,
+    "title": "在晶岩下",
+    "revision": 648173,
+    "sha256": "6c67b5b7f0024c4f29fa2171ae416ba67936607dfa8b9ed1027b3d2c1d57612a",
+    "textHash": "a653db09709266f7b9a95ec910845522eae43a63d56e3afc327f04e63f09e2e0",
+    "occurrencesHash": "e37566ba6d38420de23a1e90e9db551b998f62b6040abf945d79abff6ad6abf0",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      16519,
+      16539
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 122821,
+    "title": "藻海的寻踪",
+    "revision": 656222,
+    "sha256": "c5a94dc24bd3045a486b07bb15a2b2772c009a1acd4802de4d9c9823465dae0c",
+    "textHash": "6cd1430f221c3e50e2bee835966a4a8265fab9464bd9d12533653232da36d3d8",
+    "occurrencesHash": "f6d4c7647931a39a54d7884176d0ef4823ffd1e38830c12917a355e61d746e65",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      17838,
+      23016
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 127786,
+    "title": "赠礼与回礼",
+    "revision": 661192,
+    "sha256": "d7ea8ea539f4f42b0f7aa8bf2312ea2135e2f33f7566c78255ff0f2ff9c14a20",
+    "textHash": "6cd1430f221c3e50e2bee835966a4a8265fab9464bd9d12533653232da36d3d8",
+    "occurrencesHash": "d9f66aaa38f549356e3d0e9b12f1c51a1bc484ff52b411831cfb9f530348cdfa",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      3109,
+      3202,
+      3280
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 159015,
+    "title": "战歌吟唱时",
+    "revision": 667086,
+    "sha256": "57fa37e0338b4e6f914fb127af0d447dc76411f15728fe78624adb867e7d170d",
+    "textHash": "ce2ad91ea7687917b43dc8ad63f957f58f97f4d00dca91196fd2df68e4dd5d3a",
+    "occurrencesHash": "36a4f7b9040ee00f4ec8d6c370bd8f86122c0ecafacb042ec1f4eb0aa556456e",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      469,
+      492,
+      588,
+      606,
+      5465,
+      5483,
+      5514,
+      5542,
+      5853,
+      11232,
+      11828,
+      12165,
+      12489
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 159015,
+    "title": "战歌吟唱时",
+    "revision": 667086,
+    "sha256": "57fa37e0338b4e6f914fb127af0d447dc76411f15728fe78624adb867e7d170d",
+    "textHash": "8786ee7d4dd12ec5cef33dd3fa9538917d26c31779c295447464663e7e34cb91",
+    "occurrencesHash": "441031db81d3a74537b6c35a7460604951937bc3ea8c0c36cc643cb89d47856a",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      9937,
+      10896
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 159015,
+    "title": "战歌吟唱时",
+    "revision": 667086,
+    "sha256": "57fa37e0338b4e6f914fb127af0d447dc76411f15728fe78624adb867e7d170d",
+    "textHash": "48c572814642e86e4ff85f4618f00221730deba520a46eec55af928e9d44a5c4",
+    "occurrencesHash": "58e24a968e1815f30be16168f9656f72db58f974a8e4451c4110fbc8c4236e08",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      10411,
+      10556,
+      10787
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 153009,
+    "title": "执灯人誓言",
+    "revision": 656148,
+    "sha256": "d603ef0cbb9a901de921cbe3cd18415eaa87351ef5e72aa171139bf1cc18014f",
+    "textHash": "54c64aacc7db92ec450f860bafc9ee2bd4c7599aecb09773f4db5792b3458419",
+    "occurrencesHash": "949d6acbaf46b259472739505e25cb91a493997ff7c48f00ab47f961dfdcacec",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      809,
+      973,
+      1090,
+      1192,
+      1296,
+      1424,
+      1605,
+      1917
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 153009,
+    "title": "执灯人誓言",
+    "revision": 656148,
+    "sha256": "d603ef0cbb9a901de921cbe3cd18415eaa87351ef5e72aa171139bf1cc18014f",
+    "textHash": "11a32df612f0a4b0618975de7fe86fdede53b5c098d2875cafbc816478e5451e",
+    "occurrencesHash": "5d556cd38fe5120d3449c6340f9d6ce2ca29d6e62ac1dc69ed7f2cf6f71833bd",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      843,
+      1458,
+      1639,
+      1951
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 159151,
+    "title": "终至破晓",
+    "revision": 667082,
+    "sha256": "27a2a8ed27eb33f86d168187bbec21eb81e07e62a90f1c71a09c406ab57fec08",
+    "textHash": "ce2ad91ea7687917b43dc8ad63f957f58f97f4d00dca91196fd2df68e4dd5d3a",
+    "occurrencesHash": "73b751734ea3265a98350147f8db09cebce11c218f273d164f57de788827dc5d",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      392,
+      415,
+      2141,
+      2329,
+      2359,
+      2386,
+      2432,
+      2620,
+      2896
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 145150,
+    "title": "追寻深藏之心",
+    "revision": 648556,
+    "sha256": "fcd300abccdafd2d22784c5684910c77a2ede67a75a77b089fbfcf96ff994bf7",
+    "textHash": "7e1c34e542cc33d1c3fbcaee9ee8c3d5a3b9fe63804b3e315c26518cd2a897ee",
+    "occurrencesHash": "b8fa6974f1209a56acfeb5efe972d5a458966546f6bf0ce3824cc69529ab2633",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "plain-wiki-text",
+    "sourcePositions": [
+      2616,
+      4052
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 153043,
+    "title": "紫色嵴锋龙，来袭？",
+    "revision": 661302,
+    "sha256": "f590498ed56da8367184f07b78c6bcebfb8e4e598e214ced2fe82e7da077c3a3",
+    "textHash": "ce2ad91ea7687917b43dc8ad63f957f58f97f4d00dca91196fd2df68e4dd5d3a",
+    "occurrencesHash": "0abe0dbde0e25c567a684694f1553722633ec8964745e5f97192ac05ab18a9f2",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      185,
+      220,
+      2177,
+      2258,
+      2296,
+      2347
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 163917,
+    "title": "最后的审判",
+    "revision": 662953,
+    "sha256": "84b843c63f3561e9418fc93f69c98976d57b2c98b7827071f712312b2e3a3d38",
+    "textHash": "ce2ad91ea7687917b43dc8ad63f957f58f97f4d00dca91196fd2df68e4dd5d3a",
+    "occurrencesHash": "e6531a253305f886128571f4e7fa4a434c682d2998cb6adefdf0851a7c6860ce",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      401,
+      411,
+      5589,
+      5653,
+      5681,
+      5706,
+      6990
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 146539,
+    "title": "最后的特诺奇兹托克人（世界任务）",
+    "revision": 627127,
+    "sha256": "e158268eafb22e2985006996062b1345ce7b5b0cfd60088d010788007822318d",
+    "textHash": "eff55878861db6337017918b325c12a7375b910c7b1d6aec921e56c225017d45",
+    "occurrencesHash": "723a02aeccceb5cb212d722eed32a01c710b4b2ae53f11e3b5910c8f8441e812",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "source-context-reviewed",
+    "sourcePositions": [],
+    "note": "再次攻击手臂前后重复提示，源码明确有再来一次，保留。"
+  },
+  {
+    "pageid": 110431,
+    "title": "最后的问题",
+    "revision": 645483,
+    "sha256": "d37015807c28512b4da942b6ea8a1a2707e8affacc0c346010178c17c8c9bb84",
+    "textHash": "1bbef380b25e1df0de9af5fce6d5c73529986a925b1e768c3cc713ffa0840069",
+    "occurrencesHash": "53a6b93dbf1f50e15c15000ac08d07f3bf2380f39f50ad06dd48981a299c252f",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      4382,
+      6448
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 110431,
+    "title": "最后的问题",
+    "revision": 645483,
+    "sha256": "d37015807c28512b4da942b6ea8a1a2707e8affacc0c346010178c17c8c9bb84",
+    "textHash": "dbd239f2baa0232f141497c1d06bd1e8b7639f6ca8bb97e4ace26abe28ad9142",
+    "occurrencesHash": "fa456713f6f25c5739c7f1cdf4dad2ae975227603c6fb8a727d2989c86d7cfc8",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "plain-wiki-text",
+    "sourcePositions": [
+      4083,
+      6081
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 110431,
+    "title": "最后的问题",
+    "revision": 645483,
+    "sha256": "d37015807c28512b4da942b6ea8a1a2707e8affacc0c346010178c17c8c9bb84",
+    "textHash": "19744ee0e5d275f8619eb3eff8715a759798e4790aa3b4e0a0321613038415fe",
+    "occurrencesHash": "c9743856ff0859c1e761b1633b653840abda5da0fee19067208879afe2228e45",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "plain-wiki-text",
+    "sourcePositions": [
+      4476,
+      6474
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 36856,
+    "title": "阿嘟",
+    "revision": 444145,
+    "sha256": "383165644236efd585508cd286760adfd00e52db2298bd121eebe3662653d0c9",
+    "textHash": "da31e39001dba7591044ec9398fdf4d3dd4e953c8f202106e68c5388c10863c8",
+    "occurrencesHash": "749456d3c3c356b933a5925b9c5b16bdf42d284b0c90fefff2d12adf93e44a5f",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "non-dialogue-shop-metadata",
+    "sourcePositions": [],
+    "note": "尘歌壶世界引用中的商店数量、刷新与条件表格，不是重复剧情对白；保留原始数据。"
+  },
+  {
+    "pageid": 36856,
+    "title": "阿嘟",
+    "revision": 444145,
+    "sha256": "383165644236efd585508cd286760adfd00e52db2298bd121eebe3662653d0c9",
+    "textHash": "e1e0916efcfda849b133630e3c5122b2709f0ccca0285692f2654c5810edb41d",
+    "occurrencesHash": "4a9c14ecbeacdb9cd99089b461de9d546d33d00ba065a010e01bf20b6d255640",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "non-dialogue-shop-metadata",
+    "sourcePositions": [],
+    "note": "尘歌壶世界引用中的商店数量、刷新与条件表格，不是重复剧情对白；保留原始数据。"
+  },
+  {
+    "pageid": 36856,
+    "title": "阿嘟",
+    "revision": 444145,
+    "sha256": "383165644236efd585508cd286760adfd00e52db2298bd121eebe3662653d0c9",
+    "textHash": "efae834f8f5ff94dc2be88aaf1d0a53ab313dd6bf7d285c164edf5f07ca00914",
+    "occurrencesHash": "895d70f53bf1f57ae648446f5e80d0acbbf8e389759cb794296e9f8765386b51",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "non-dialogue-shop-metadata",
+    "sourcePositions": [],
+    "note": "尘歌壶世界引用中的商店数量、刷新与条件表格，不是重复剧情对白；保留原始数据。"
+  },
+  {
+    "pageid": 144217,
+    "title": "阿尔方斯",
+    "revision": 687303,
+    "sha256": "beedf0d9bd03d379b0d4ced25fcb4fc349847638997a86ce1106cec190ed9795",
+    "textHash": "22f6466c3a484cd4ad61fc389ae8e1dbe06de07ca705d0ed4a22363e0b93507c",
+    "occurrencesHash": "eed26fb6ac59cd0a6eeb98a655a0ddc68cc75e425aec47455f7c72b40b8c17a1",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      514,
+      528,
+      543
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 102196,
+    "title": "阿尔芒",
+    "revision": 457790,
+    "sha256": "fb3961cdf6340aa25b1dc47ddb8fa800f2ca22f61cddf6c40147345b1fb95b5c",
+    "textHash": "aca4662409f7bbdc853055f557cec4c3960e8857dea072c84ca285fcd38913c9",
+    "occurrencesHash": "2479469d030c3ad572a8376b723b4f90ed258644e447fc42c10e6bb8346d9438",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      430,
+      444
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 127221,
+    "title": "阿伽娅",
+    "revision": 612557,
+    "sha256": "81530623f2dbbe029965ecc483aeee012c7d153ca685ccd1dabccdc0439dfc47",
+    "textHash": "75ed81d60dc36a2dd44c127eb3cd30a7aa9006c57ea42912e1d7bfd1faaefe5e",
+    "occurrencesHash": "974a6228238ad17568db61e0a8756e3c84ca3ab201baedb41d07e42400d05236",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      356,
+      373,
+      389,
+      407
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 146232,
+    "title": "阿洛妮",
+    "revision": 643403,
+    "sha256": "f634df6a3d8017c8685683d2ca6a454e3a451fdc615e44adb92068d214cf7570",
+    "textHash": "cbb4b11c9c98534c2405da35538984a5fada92c081095142680229b720afcedf",
+    "occurrencesHash": "164c4f7b8622e2d00c0cc5555f413c550c51cb07a37e0a87b592d96a094d5830",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      282,
+      299
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 34712,
+    "title": "阿圆",
+    "revision": 630537,
+    "sha256": "2bac8e3955005ebb9a247ad14c600a457b92f6be4f9b63174749638244ae61f3",
+    "textHash": "2c3569c84e227009c5b71d7f0ea3e291190f6dda4a8cab262795752fe10a7d5c",
+    "occurrencesHash": "6b0875f52336b7e3e6ad583b5e11b8f3336fe56ddbbcfa509e3f3be9845b76f9",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "non-dialogue-shop-metadata",
+    "sourcePositions": [],
+    "note": "尘歌壶世界引用中的商店数量、刷新与条件表格，不是重复剧情对白；保留原始数据。"
+  },
+  {
+    "pageid": 34712,
+    "title": "阿圆",
+    "revision": 630537,
+    "sha256": "2bac8e3955005ebb9a247ad14c600a457b92f6be4f9b63174749638244ae61f3",
+    "textHash": "6cca10b94592f75a94819ef11251e3eec494b7458479c5ab9fb4dbbb0eec948e",
+    "occurrencesHash": "30e3b9f91ce7afba10b68f380f070d8d7e5195748b3ebdd42ee820c9131f8bce",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "non-dialogue-shop-metadata",
+    "sourcePositions": [],
+    "note": "尘歌壶世界引用中的商店数量、刷新与条件表格，不是重复剧情对白；保留原始数据。"
+  },
+  {
+    "pageid": 34712,
+    "title": "阿圆",
+    "revision": 630537,
+    "sha256": "2bac8e3955005ebb9a247ad14c600a457b92f6be4f9b63174749638244ae61f3",
+    "textHash": "0a20b7dc71a10737b1dd59502284bd7e88e7e4a8c4c57c5852442a92a7d16388",
+    "occurrencesHash": "860d58ca2acee926af0685053431885df620d607b4dc03a305d9699f0ffae149",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "non-dialogue-shop-metadata",
+    "sourcePositions": [],
+    "note": "尘歌壶世界引用中的商店数量、刷新与条件表格，不是重复剧情对白；保留原始数据。"
+  },
+  {
+    "pageid": 34712,
+    "title": "阿圆",
+    "revision": 630537,
+    "sha256": "2bac8e3955005ebb9a247ad14c600a457b92f6be4f9b63174749638244ae61f3",
+    "textHash": "f3dae1fa3496c471a559701413dce9624b0d5776c453766e560bf493aef52d85",
+    "occurrencesHash": "c597af379578edb2ab97c1c7bae09a96075ab39515047c7ab6c1e2b675f85bc0",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "non-dialogue-shop-metadata",
+    "sourcePositions": [],
+    "note": "尘歌壶世界引用中的商店数量、刷新与条件表格，不是重复剧情对白；保留原始数据。"
+  },
+  {
+    "pageid": 34712,
+    "title": "阿圆",
+    "revision": 630537,
+    "sha256": "2bac8e3955005ebb9a247ad14c600a457b92f6be4f9b63174749638244ae61f3",
+    "textHash": "4dce7da0c428858b416ce6346310b1db8d90f4cd6d54e933925768589f3c4007",
+    "occurrencesHash": "f9483c37f4f6e89cbf0c7595b7863753b1bda8678e09a7fc9a2719a3a5f73773",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "non-dialogue-shop-metadata",
+    "sourcePositions": [],
+    "note": "尘歌壶世界引用中的商店数量、刷新与条件表格，不是重复剧情对白；保留原始数据。"
+  },
+  {
+    "pageid": 34712,
+    "title": "阿圆",
+    "revision": 630537,
+    "sha256": "2bac8e3955005ebb9a247ad14c600a457b92f6be4f9b63174749638244ae61f3",
+    "textHash": "e4686e7a5d6080c8363c892a7a4301a914164ce856a4e0f7dde17fb9c7e4f7ce",
+    "occurrencesHash": "d997dd17cc25df032fc7e604fb2747e22e3a785aad3ebed8eb458eec7f7776bd",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "non-dialogue-shop-metadata",
+    "sourcePositions": [],
+    "note": "尘歌壶世界引用中的商店数量、刷新与条件表格，不是重复剧情对白；保留原始数据。"
+  },
+  {
+    "pageid": 34712,
+    "title": "阿圆",
+    "revision": 630537,
+    "sha256": "2bac8e3955005ebb9a247ad14c600a457b92f6be4f9b63174749638244ae61f3",
+    "textHash": "5630de33a13c852b6ab4cdb5c0e33ca8871811756a18e4d3a9707a8c8c0799ea",
+    "occurrencesHash": "e0d4885513c456d257d8a94ae1c5686673e4d13077bc5b6752f1a1d1a345ea57",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "non-dialogue-shop-metadata",
+    "sourcePositions": [],
+    "note": "尘歌壶世界引用中的商店数量、刷新与条件表格，不是重复剧情对白；保留原始数据。"
+  },
+  {
+    "pageid": 34712,
+    "title": "阿圆",
+    "revision": 630537,
+    "sha256": "2bac8e3955005ebb9a247ad14c600a457b92f6be4f9b63174749638244ae61f3",
+    "textHash": "99f9125d1b42d7f0f641eef631e6151fb412231fa232e261d6f43af6a97a0092",
+    "occurrencesHash": "cf1a2b37a5b02ec9b60f138504a92190db9ef7919d52ed67c62a830d93df7eb2",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "non-dialogue-shop-metadata",
+    "sourcePositions": [],
+    "note": "尘歌壶世界引用中的商店数量、刷新与条件表格，不是重复剧情对白；保留原始数据。"
+  },
+  {
+    "pageid": 34712,
+    "title": "阿圆",
+    "revision": 630537,
+    "sha256": "2bac8e3955005ebb9a247ad14c600a457b92f6be4f9b63174749638244ae61f3",
+    "textHash": "505f587509ca38bdac41f7d0ee3ba38b7d16bf7005b8faecd4399294edf739c7",
+    "occurrencesHash": "61d742d9a0cff2c58c51d71e9b3fa092f5dc76ef6ecac21c1aac6cf91e3077c5",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "non-dialogue-shop-metadata",
+    "sourcePositions": [],
+    "note": "尘歌壶世界引用中的商店数量、刷新与条件表格，不是重复剧情对白；保留原始数据。"
+  },
+  {
+    "pageid": 175429,
+    "title": "安菲萨",
+    "revision": 684903,
+    "sha256": "e52660a3571890a80c8c50e4a12f91697bfface8354a91f66b74c51b737b6cf8",
+    "textHash": "26a7faf9082b60a72083f954e141f2a42a7b00dfa598ea1931e382492ae3dcaa",
+    "occurrencesHash": "f6f755f53c3a15a7edc2a2f18bda2ed7ab505d6624f92840e958aae9af9711ca",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      811,
+      830
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 146234,
+    "title": "安洁娅",
+    "revision": 615489,
+    "sha256": "e0ee678332809ca535f1d32a50a42dc6e4e919da62ba1a83c12a7f148ffeee50",
+    "textHash": "cbb4b11c9c98534c2405da35538984a5fada92c081095142680229b720afcedf",
+    "occurrencesHash": "76f69551dd6568eb99a85902076d535d6af23f74ad278f6be4767ba879f8645b",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      231,
+      249,
+      267
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 172931,
+    "title": "布拉金",
+    "revision": 681586,
+    "sha256": "54374376f05aadd0349011c9b0a3a8cfee3eb506037b660800a1f535dbf2acc9",
+    "textHash": "d3421cbd765de76fe75c30ff41e96c0b190f95f909b54e272340079c602e3357",
+    "occurrencesHash": "531fcc602df15ec59a91ca0595dd1e6e7452045e5d7b525e99ffa7eb6806d0c7",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      531,
+      549
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 146233,
+    "title": "查丘",
+    "revision": 615530,
+    "sha256": "c39de0a1c4c0b96cb87c79b60601f4d753dbf509fcb6bfa2bd2fce3b7271f39f",
+    "textHash": "cbb4b11c9c98534c2405da35538984a5fada92c081095142680229b720afcedf",
+    "occurrencesHash": "76f69551dd6568eb99a85902076d535d6af23f74ad278f6be4767ba879f8645b",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      230,
+      248,
+      266
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 144216,
+    "title": "加斯帕德",
+    "revision": 687274,
+    "sha256": "e7ae51d3552b26ab31224268de16c7c4c5ca192447737c9d63288428acca812d",
+    "textHash": "22f6466c3a484cd4ad61fc389ae8e1dbe06de07ca705d0ed4a22363e0b93507c",
+    "occurrencesHash": "97084887b14b8d189814681bae3a8652be644bbe2b861f41189e2a55da21b45a",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      505,
+      519,
+      534
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 55295,
+    "title": "瑾武",
+    "revision": 560948,
+    "sha256": "ea8ebc79959257896fa7359d314171345c079f42bf93e43918a64db9f646b990",
+    "textHash": "b2a5703b8eb97b66e289513700e7e3e0282f661fb5e3d0ab4ab977210b242d8f",
+    "occurrencesHash": "34f061f01cf943378a7c6ba9e7cb78fe6573b69ca0a8f2978a241c3c0571e48d",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      1631,
+      1712
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 175441,
+    "title": "克雷廖夫",
+    "revision": 684928,
+    "sha256": "977bce8ded75ba03288e6e9f8c93392d9962589c0954ff26b2ba5f45f5644afd",
+    "textHash": "26a7faf9082b60a72083f954e141f2a42a7b00dfa598ea1931e382492ae3dcaa",
+    "occurrencesHash": "f6f755f53c3a15a7edc2a2f18bda2ed7ab505d6624f92840e958aae9af9711ca",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      808,
+      827
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 160737,
+    "title": "库济米奇",
+    "revision": 661353,
+    "sha256": "9b3d39580e70ab480fa5ac27679ce388bc13c24bdfb796d49a17c0b0cba7f438",
+    "textHash": "9e437ff45654ca8a77875208cc896f8683df48915014cf34d7adfe6a970edd14",
+    "occurrencesHash": "b7ed142da71e1b94dfa5fbc1d86bf8bd395b8655bbe0dd4a5ae07fa6636e6791",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      2191,
+      2241,
+      2291
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 160737,
+    "title": "库济米奇",
+    "revision": 661353,
+    "sha256": "9b3d39580e70ab480fa5ac27679ce388bc13c24bdfb796d49a17c0b0cba7f438",
+    "textHash": "51863c689a9b55b63babac0a9edf35ef9874ba50542c19ffa999a54ec09fe13e",
+    "occurrencesHash": "bd2bf4cf0629f7e01ca10d50eff3c214d53e4d439abc6cfbd879c9e9a194b82d",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      2468,
+      2520,
+      2572
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 70756,
+    "title": "库洛什",
+    "revision": 447525,
+    "sha256": "4f196361c416c578512c617d440677fecac9a43410d55a35b1156e8e4cdac182",
+    "textHash": "22f6466c3a484cd4ad61fc389ae8e1dbe06de07ca705d0ed4a22363e0b93507c",
+    "occurrencesHash": "39da0ced16d164b0131109ce94f1b6c420c3ba1108591bb00a79cfe81ff8c328",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      618,
+      631,
+      645,
+      658
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 99781,
+    "title": "利弗",
+    "revision": 522531,
+    "sha256": "bc6c3b1e1239010c6cc5ac74f0961973859736eee43853d844a03992b4d63d6f",
+    "textHash": "abcce1306e4cca62a6fbdb0b75ff1df9fa05729c6bf74fe2376e513720520147",
+    "occurrencesHash": "95cf0ac67dff5189f35ff016df761fc2082d13d9c08e35c1d726a8073549a37b",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      850,
+      864
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 82844,
+    "title": "里卡尔",
+    "revision": 447524,
+    "sha256": "d58cb76751ae87f677712c3b1e457add5badc95cf92989f7a413141f97b2a288",
+    "textHash": "22f6466c3a484cd4ad61fc389ae8e1dbe06de07ca705d0ed4a22363e0b93507c",
+    "occurrencesHash": "7b7282161bcaa44638e71e36c00ab88eb9a117524796e7ca8fc2c82f88adfb6c",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      250,
+      263,
+      277,
+      290
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 173086,
+    "title": "卢科夫",
+    "revision": 681945,
+    "sha256": "5a44992e890736975b7ad3e87ee0e3ad22355ab7f98b30c4ea5d1d009548932d",
+    "textHash": "d6fd99e4b7025906221cb860f7c48d2d10b3d5dcf6fad77942a2be1854a2608f",
+    "occurrencesHash": "e7987760465b5a738f0e2c00f189b727a6ecec11c5646cba383b251f45923c38",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      1432,
+      1449,
+      1466
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 173092,
+    "title": "马尔金",
+    "revision": 681980,
+    "sha256": "23bad677dd828940f264163b0a33bc898446bade7f54739f075022474c28cb16",
+    "textHash": "d6fd99e4b7025906221cb860f7c48d2d10b3d5dcf6fad77942a2be1854a2608f",
+    "occurrencesHash": "ad662e7fda33f22418460bf46d85392fec283aca0f337b190d919fbbc8360345",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      585,
+      602,
+      619
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 146231,
+    "title": "马坎尼",
+    "revision": 615487,
+    "sha256": "ff6b4160f1528f924f7b5cb3dc5ed16d04a49b1acac67dbee26c62329cca6006",
+    "textHash": "cbb4b11c9c98534c2405da35538984a5fada92c081095142680229b720afcedf",
+    "occurrencesHash": "bc38888620f3abd03e5690e848778ad19e4f4d215cd6d33a59ed97d8b0b55334",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      281,
+      298
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 175440,
+    "title": "米罗斯拉娃",
+    "revision": 684927,
+    "sha256": "cce05e21f8d5b4a46519c2f5f47e63675acfb59799925a9f3f6fb0a211f7883a",
+    "textHash": "26a7faf9082b60a72083f954e141f2a42a7b00dfa598ea1931e382492ae3dcaa",
+    "occurrencesHash": "f6f755f53c3a15a7edc2a2f18bda2ed7ab505d6624f92840e958aae9af9711ca",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      805,
+      823
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 173088,
+    "title": "莫罗夫",
+    "revision": 681947,
+    "sha256": "64c3e4267aefb7bc0eb78a1849d16ddb93efec04dba694db75f049b33680f240",
+    "textHash": "d6fd99e4b7025906221cb860f7c48d2d10b3d5dcf6fad77942a2be1854a2608f",
+    "occurrencesHash": "ad662e7fda33f22418460bf46d85392fec283aca0f337b190d919fbbc8360345",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      728,
+      745,
+      762
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 173087,
+    "title": "纳尔金",
+    "revision": 681946,
+    "sha256": "1bf05e82469116c638f1cf7cf68a4e5adf68e63fae578b1352b71e5c116096ff",
+    "textHash": "d6fd99e4b7025906221cb860f7c48d2d10b3d5dcf6fad77942a2be1854a2608f",
+    "occurrencesHash": "ad662e7fda33f22418460bf46d85392fec283aca0f337b190d919fbbc8360345",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      712,
+      729,
+      746
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 171400,
+    "title": "纳费多夫",
+    "revision": 686137,
+    "sha256": "8349d0f7822ebf9dec2c335a4a7f89641a9afc49ec52ad0192564df5eaf35013",
+    "textHash": "6517aceddb6e1cc46f7e2aa369b3621148ad207734238044adc3c63843193cdc",
+    "occurrencesHash": "02fbf9485bda70308c54d99e12d87de4c824d8724730f145bf1c018d59423443",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      1189,
+      1212
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 70758,
+    "title": "内嘉",
+    "revision": 447529,
+    "sha256": "3d67b3aea1681ee0478ccc247f06586039436470384b024e4373a586b6867692",
+    "textHash": "22f6466c3a484cd4ad61fc389ae8e1dbe06de07ca705d0ed4a22363e0b93507c",
+    "occurrencesHash": "39da0ced16d164b0131109ce94f1b6c420c3ba1108591bb00a79cfe81ff8c328",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      898,
+      911,
+      925,
+      939
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 173240,
+    "title": "帕沙",
+    "revision": 682238,
+    "sha256": "674c9f17ed786858f2ddedec6d21885b33e68195fd78c282a1b5b8af21f0f2ae",
+    "textHash": "524367db82400331ee7753ee5b38cad76a385f084969470b5fb79322f9c34c1c",
+    "occurrencesHash": "de994fce2470044628c16281c64f92e3617120b21118358f089dd00efcd9a735",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      1982,
+      1999
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 175369,
+    "title": "齐诺维奇",
+    "revision": 684814,
+    "sha256": "6c9cc1377ed70a8647d5e108527cf7d614916879194e897649255d388592a429",
+    "textHash": "8fe40791aac53305ab1ec5e3a64b8e512ba80cbb037c0a2e74c369116c8e4110",
+    "occurrencesHash": "f6f755f53c3a15a7edc2a2f18bda2ed7ab505d6624f92840e958aae9af9711ca",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      900,
+      922
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 173239,
+    "title": "桥桥",
+    "revision": 682237,
+    "sha256": "c789c232527b5b5d64b300e8813f5af73346fb4de1ece88714e3c1034e5fc04e",
+    "textHash": "524367db82400331ee7753ee5b38cad76a385f084969470b5fb79322f9c34c1c",
+    "occurrencesHash": "02fbf9485bda70308c54d99e12d87de4c824d8724730f145bf1c018d59423443",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      1738,
+      1754
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 127194,
+    "title": "萨约尔",
+    "revision": 555579,
+    "sha256": "0b41b00aaced83bc80eebca5d417a60c2aea7f62408e61a8afaf82caa6c31444",
+    "textHash": "dddca4714c6bab8763bf8c0e2fc092ed6ad45c662486a3f84e430a492f0a3c00",
+    "occurrencesHash": "6f316819be1edb7dcacd0d33a29caa58b643f15b8b78e45b16f4ab62ba2afafb",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      223,
+      240
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 144207,
+    "title": "莎凡娜",
+    "revision": 687277,
+    "sha256": "073657b44da960159bcb7000af45911a59d18702480c661fc2ed30800ffd12b0",
+    "textHash": "22f6466c3a484cd4ad61fc389ae8e1dbe06de07ca705d0ed4a22363e0b93507c",
+    "occurrencesHash": "81be71dc68d2b49b562fbb1adf9d59d6be19b8ac2550902e2b7e3cc3568e6846",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      569,
+      584,
+      599,
+      613
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 173241,
+    "title": "瓦蒂姆",
+    "revision": 682239,
+    "sha256": "df77f73b2f0b26d97ab0a7ce69dc13c1e8032aa8222d231a4628c01aec1f3496",
+    "textHash": "524367db82400331ee7753ee5b38cad76a385f084969470b5fb79322f9c34c1c",
+    "occurrencesHash": "de994fce2470044628c16281c64f92e3617120b21118358f089dd00efcd9a735",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      1977,
+      1994
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 127726,
+    "title": "夏芙米娅",
+    "revision": 643401,
+    "sha256": "bff0f9692ec710f861ba440cf36c3393ff7ecca6506cf1e7ca0a6b7006481a7f",
+    "textHash": "b0fff6a2d248e9daaec943bc5172d2e04d946f8f1113a621021af4f9ec73ad47",
+    "occurrencesHash": "e373f1aaa88764a0fb1608299a9653d574ecd4e7f49252b09f3cfc0eb8c33820",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      218,
+      235
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 70757,
+    "title": "谢赫祖拜尔",
+    "revision": 447531,
+    "sha256": "1a8de200468e89cbf3e43941603a9ebb05247f8efc172ce01e883ec037e4bd95",
+    "textHash": "4a5cdd5fd58f29f535257f10f4d9a7a7a6b0478d362fe4e01542f9f3a6af8792",
+    "occurrencesHash": "b797fd5f03c8edeb5690f9e8f972e25a677a0027eb3685163e8661a6247940e7",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      1685,
+      1699,
+      1712,
+      1726
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  },
+  {
+    "pageid": 163331,
+    "title": "耶嘉",
+    "revision": 660891,
+    "sha256": "05fe5b1d07411e80a260c1549bae216258b72891d5e8f60575ab47c446a0bc54",
+    "textHash": "fcab0f8d9b04ab65bdca56a058c0cde323fafb03460f5b7c1fe6e4991cd66364",
+    "occurrencesHash": "18597da101057c0d00a9c6cdcd480323344b132f37e9eae8e87a7804eff703a9",
+    "checkedAt": "2026-10-05",
+    "decision": "preserve",
+    "mode": "raw-text",
+    "sourcePositions": [
+      2394,
+      2408
+    ],
+    "note": "源码已有不少于解析结果的重复文字；保留全部位置，不凭重复文本删除，不代表全文语义校对。"
+  }
+]

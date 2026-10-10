@@ -1,0 +1,1024 @@
+{
+  "reviewedAt": "2026-09-30",
+  "sources": {
+    "act1": {
+      "title": "捕风的异乡人",
+      "locator": "系列任务目录与任务描述",
+      "verificationLevel": "task-index",
+      "note": "正文直读失败，使用公开检索结果中的系列任务描述；未核对本页完整对白。"
+    },
+    "opening": {
+      "title": "流浪者的足迹",
+      "locator": "任务描述与开场对话",
+      "verificationLevel": "search-excerpt",
+      "revision": "660679",
+      "snapshotSha256": "04573b2c0d1fbe87b556c6f30e811334997e0c68a335e8bd2056ae2d47a980e2"
+    },
+    "forest": {
+      "title": "林间相会",
+      "locator": "公开检索结果：林间相遇与赤色结晶",
+      "verificationLevel": "search-excerpt",
+      "revision": "652503",
+      "snapshotSha256": "b27b4a752829bf0feeb4e2a92fe429d31d591d11f667f998b638b16b85ff9a3e"
+    },
+    "amber": {
+      "title": "随风而来的骑士",
+      "revision": "674009",
+      "locator": "与轻盈的少女对话",
+      "verificationLevel": "dialogue"
+    },
+    "road": {
+      "title": "与轻风同行",
+      "revision": "652499",
+      "locator": "清理营地后与安柏对话",
+      "verificationLevel": "dialogue"
+    },
+    "city": {
+      "title": "自由之都",
+      "revision": "652504",
+      "locator": "城门与高处的对话",
+      "verificationLevel": "dialogue"
+    },
+    "dragon": {
+      "title": "序章",
+      "locator": "捕风的异乡人：龙灾、西风骑士团",
+      "verificationLevel": "task-index"
+    },
+    "eagle": {
+      "title": "昔日的风",
+      "locator": "任务描述、前置与并行任务",
+      "verificationLevel": "task-index",
+      "revision": "665799",
+      "snapshotSha256": "901ad8364d6b19becdcf5352f5af138347c26776f4338bac6d472ee2849d10cb"
+    },
+    "wolf": {
+      "title": "骑士的现场教习",
+      "locator": "任务描述、前置与并行任务",
+      "verificationLevel": "task-index",
+      "revision": "665800",
+      "snapshotSha256": "2f9534c1d3bdb860119f7761f906b2d7de3e29e62dd1fb771de13816dcc640b7"
+    },
+    "lion": {
+      "title": "书页里的电火花",
+      "locator": "任务描述、前置与并行任务",
+      "verificationLevel": "task-index",
+      "revision": "674043",
+      "snapshotSha256": "10ca26a1d6e6eaa5e82f914445fea84071cbfa8f5ea19774327402be79b24338"
+    },
+    "act2": {
+      "title": "为了没有眼泪的明天",
+      "revision": "673272",
+      "locator": "系列任务流程和任务描述",
+      "verificationLevel": "task-index"
+    },
+    "shadow": {
+      "title": "阴影下的蒙德",
+      "revision": "667046",
+      "locator": "与使者交谈、骑士团中的结晶调查",
+      "verificationLevel": "dialogue",
+      "snapshotSha256": "d25dda6ef79dd931f128880036aa620aaf9ac7b21234da3c12b4bbbabaab4274"
+    },
+    "bard": {
+      "title": "那个绿色的家伙",
+      "locator": "聆听吟游诗人的弹奏",
+      "verificationLevel": "dialogue",
+      "revision": "674285",
+      "snapshotSha256": "419f4aca6b4f843aea1349b5bd6e34ddd0247abfe379eafc92fcb97c4c901fad"
+    },
+    "wind": {
+      "title": "听凭风引",
+      "locator": "前往风起地、与温迪对话",
+      "verificationLevel": "dialogue",
+      "revision": "667034",
+      "snapshotSha256": "4415c54a97c15ff4e39f2f343abcadea3ca51bf812784c666c2dfebb5ca663f3"
+    },
+    "plan": {
+      "title": "温迪的计划",
+      "locator": "天空之琴的用途、与温迪对话",
+      "verificationLevel": "dialogue",
+      "revision": "667037",
+      "snapshotSha256": "b67e3b55a98dd4265332cdb282890772a8e7b11981d27632bba604a3a09d8cf2"
+    },
+    "meeting": {
+      "title": "幕后谈话",
+      "locator": "酒馆打烊后的交谈",
+      "verificationLevel": "dialogue",
+      "revision": "667035",
+      "snapshotSha256": "a16177e1d48ff62cbcbf0e56f313a265a3b35da0725e63cde46ec122b8e20c1c"
+    },
+    "lyre": {
+      "title": "至宝的现状",
+      "locator": "取回天空之琴后的交谈",
+      "verificationLevel": "dialogue",
+      "revision": "667039",
+      "snapshotSha256": "68a623d38c9c97cd8d6b2cb7aa5fabf77770252f6d63a20355e9e0ac0b1e665f"
+    },
+    "tears": {
+      "title": "澄净之泪",
+      "locator": "净化泪滴、选择地点、额外对话",
+      "verificationLevel": "dialogue",
+      "revision": "667038"
+    },
+    "reunion": {
+      "title": "与巨龙重逢",
+      "revision": "667033",
+      "locator": "摘星崖对话、过场动画与事后讨论",
+      "verificationLevel": "dialogue"
+    },
+    "act3": {
+      "title": "巨龙与自由之歌",
+      "revision": "673273",
+      "locator": "系列任务流程和任务描述",
+      "verificationLevel": "task-index"
+    },
+    "rescue": {
+      "title": "为了青色的身影",
+      "locator": "清理凝血、击败风魔龙后的过场",
+      "verificationLevel": "dialogue",
+      "revision": "681806",
+      "snapshotSha256": "9bce79db86121ca7cb961569ee26db2fc7b0437ec844c568d568a48f5ac0b9ff"
+    },
+    "after": {
+      "title": "尾声，风停之后",
+      "locator": "安柏、奥特、霍夫曼、塞琉斯、宁禄与葛瑞丝的对话",
+      "verificationLevel": "dialogue",
+      "revision": "675091",
+      "snapshotSha256": "b6e7cd81fbd08ee846809f8067b55775aa2f65c5c6bad527b53c446b6ca66303"
+    },
+    "epilogue": {
+      "title": "尾声的尾声",
+      "locator": "归还天空之琴、教堂外遇袭、风起地对话",
+      "verificationLevel": "dialogue",
+      "revision": "667050",
+      "snapshotSha256": "0b9158878613107dfd986d8fa6e7e27fb547b3133612e75302ba8107177514d6"
+    },
+    "new-plan": {
+      "title": "温迪的新计划",
+      "locator": "任务描述与任务流程",
+      "verificationLevel": "dialogue",
+      "revision": "667036",
+      "snapshotSha256": "85d98262750e60cbac01eac22c2dd50d657aae3ff5a071f55d4393b218874a6f"
+    },
+    "escape": {
+      "title": "逃亡",
+      "locator": "任务描述与任务流程",
+      "verificationLevel": "dialogue",
+      "revision": "667043",
+      "snapshotSha256": "bce65a2f62315bf4929cff9117550c63bd5574f51771a617273459fd21ed64ce"
+    },
+    "hideout": {
+      "title": "追逐暗影",
+      "locator": "任务描述与任务流程",
+      "verificationLevel": "dialogue",
+      "revision": "667042",
+      "snapshotSha256": "cf479bec93fa2b5011f9bae9e3cb192c63d1d04e15fe8af088345ee92356c1ae"
+    }
+  },
+  "scopes": [
+    {
+      "id": 201,
+      "title": "捕风的异乡人 · 蒙德第一幕",
+      "category": "蒙德主线摘要",
+      "sourceTitle": "捕风的异乡人",
+      "locator": "第一幕任务结构",
+      "coverage": "包含开场到三座庙宇调查的第一幕摘要。部分任务只核对到任务描述，详细对白和全部选项待补；不开放第二、三幕。",
+      "catalogTitles": [
+        "捕风的异乡人",
+        "流浪者的足迹"
+      ],
+      "taskTitles": [
+        "流浪者的足迹",
+        "鸟瞰风物",
+        "异常的权柄",
+        "林间相会",
+        "随风而来的骑士",
+        "与轻风同行",
+        "自由之都",
+        "龙灾",
+        "西风骑士团",
+        "昔日的风",
+        "骑士的现场教习",
+        "书页里的电火花"
+      ],
+      "suggestions": [
+        "概括捕风的异乡人这一幕",
+        "为什么要调查三座庙宇？",
+        "安柏护送旅行者时完全信任他们吗？"
+      ],
+      "records": [
+        {
+          "key": "overview",
+          "overview": true,
+          "sourceKey": "act1",
+          "topic": "第一幕的故事脉络",
+          "keywords": [
+            "概括",
+            "第一幕",
+            "捕风的异乡人",
+            "回顾"
+          ],
+          "text": "旅行者与派蒙从野外进入蒙德，途中遭遇巨龙与陌生人的相会，并得到安柏帮助。龙灾将旅行者卷入城市危机；与骑士团接触后，调查转向三座庙宇。",
+          "sourceTitle": "西风骑士团（任务）",
+          "sourceRevision": 661537,
+          "sourceTitles": [
+            "林间相会",
+            "随风而来的骑士",
+            "自由之都",
+            "龙灾"
+          ],
+          "sourceVerificationLevel": "dialogue"
+        },
+        {
+          "key": "opening",
+          "sourceKey": "opening",
+          "task": "流浪者的足迹",
+          "topic": "旅行从寻找血亲开始",
+          "keywords": [
+            "血亲",
+            "哥哥",
+            "妹妹",
+            "派蒙",
+            "分离",
+            "目的"
+          ],
+          "text": "开场中，旅行者与血亲遭陌生神灵阻拦并分离。旅行者醒来后流浪，后来与派蒙结伴，开始寻找血亲和相关神灵的线索。此时尚不能用后续揭示替代开场人物所知。"
+        },
+        {
+          "key": "statue",
+          "sourceKey": "act1",
+          "task": "异常的权柄",
+          "topic": "七天神像与最初的风元素",
+          "keywords": [
+            "七天神像",
+            "风元素",
+            "异常的权柄",
+            "鸟瞰风物"
+          ],
+          "text": "在派蒙带领下，两人经过星落湖，接触七天神像。神像中的风元素与旅行者呼应，随后两人决定先前往蒙德，从风神的线索开始调查。",
+          "sourceTitle": "异常的权柄",
+          "sourceRevision": 670146,
+          "sourceTitles": [
+            "鸟瞰风物",
+            "林间相会"
+          ],
+          "sourceVerificationLevel": "dialogue"
+        },
+        {
+          "key": "forest",
+          "sourceKey": "forest",
+          "task": "林间相会",
+          "topic": "林中相会与赤色结晶",
+          "keywords": [
+            "林间相会",
+            "巨龙",
+            "神秘人",
+            "结晶",
+            "赤色",
+            "打扰"
+          ],
+          "text": "旅行者在树林里撞见神秘人与巨龙交谈。相会受到打扰后，他们离开，旅行者随后调查并取得赤色结晶；本场景尚未揭示全部身份和结晶成因。"
+        },
+        {
+          "key": "escort",
+          "sourceKey": "amber",
+          "task": "随风而来的骑士",
+          "topic": "安柏的警惕和护送",
+          "keywords": [
+            "安柏",
+            "护送",
+            "信任",
+            "盘问",
+            "为什么"
+          ],
+          "text": "安柏以侦察骑士身份盘问陌生旅人，随后提出护送。她既担心城外巨龙，也继续留意来历不明者，所以保护和警惕同时存在，不能说初见时已经完全信任。"
+        },
+        {
+          "key": "paimon",
+          "sourceKey": "amber",
+          "task": "随风而来的骑士",
+          "topic": "派蒙介绍是互斥选择",
+          "keywords": [
+            "派蒙",
+            "朋友",
+            "应急食品",
+            "选项",
+            "分支"
+          ],
+          "text": "介绍派蒙时，旅行者可以选择朋友或应急食品等不同回答。派蒙的认可或抗议对应不同选项，不能将两段反应拼成唯一的连续经历。"
+        },
+        {
+          "key": "camp",
+          "sourceKey": "road",
+          "task": "与轻风同行",
+          "topic": "营地清理和龙灾的间接影响",
+          "keywords": [
+            "丘丘人",
+            "营地",
+            "商路",
+            "果园",
+            "龙灾",
+            "清理"
+          ],
+          "text": "旅行者帮助安柏清理靠近城市的丘丘人营地。按安柏当时的解释，龙灾损害商路和果园，并牵制骑士团防务，使城外压力进一步增加。"
+        },
+        {
+          "key": "gift",
+          "sourceKey": "city",
+          "task": "自由之都",
+          "topic": "进城与风之翼谢礼",
+          "keywords": [
+            "风之翼",
+            "安柏",
+            "礼物",
+            "为什么",
+            "自由之都",
+            "琴"
+          ],
+          "text": "进城后，安柏介绍蒙德与代理团长琴，并以风之翼答谢旅行者帮忙清理营地。城市仍受龙灾困扰，热情接待不意味着危机已经解除。"
+        },
+        {
+          "key": "attack",
+          "sourceKey": "dragon",
+          "task": "龙灾",
+          "topic": "城市遇袭与骑士团邀请",
+          "keywords": [
+            "龙灾",
+            "袭击",
+            "凯亚",
+            "骑士团",
+            "邀请"
+          ],
+          "text": "风魔龙袭击蒙德城，旅行者参与将其击退。凯亚目睹这一过程，随后旅行者受邀到西风骑士团总部，与琴会面。",
+          "sourceTitle": "西风骑士团（任务）",
+          "sourceRevision": 661537,
+          "sourceTitles": [
+            "龙灾"
+          ],
+          "sourceVerificationLevel": "dialogue"
+        },
+        {
+          "key": "eagle",
+          "sourceKey": "eagle",
+          "task": "昔日的风",
+          "topic": "安柏与西风之鹰庙宇",
+          "keywords": [
+            "安柏",
+            "西风之鹰",
+            "庙宇",
+            "昔日的风",
+            "调查"
+          ],
+          "text": "为削弱风魔龙相关的残留力量，旅行者与安柏进入西风之鹰庙宇，探索并破坏其中的风龙结晶。"
+        },
+        {
+          "key": "wolf",
+          "sourceKey": "wolf",
+          "task": "骑士的现场教习",
+          "topic": "凯亚与北风之狼庙宇",
+          "keywords": [
+            "凯亚",
+            "北风之狼",
+            "庙宇",
+            "骑士的现场教习"
+          ],
+          "text": "北风之狼庙宇由凯亚与旅行者共同探索，目标包括破坏其中的风龙结晶。这一任务与安柏、丽莎各自负责的调查并行。"
+        },
+        {
+          "key": "lion",
+          "sourceKey": "lion",
+          "task": "书页里的电火花",
+          "topic": "丽莎与南风之狮庙宇",
+          "keywords": [
+            "丽莎",
+            "南风之狮",
+            "庙宇",
+            "书页里的电火花"
+          ],
+          "text": "丽莎协助扫查南风之狮庙宇，旅行者深入遗迹并破坏风龙结晶。她负责的庙宇与安柏、凯亚负责的地点不同。"
+        },
+        {
+          "key": "parallel",
+          "sourceKey": "wolf",
+          "task": "骑士的现场教习",
+          "topic": "三座庙宇不是固定单线顺序",
+          "keywords": [
+            "三座",
+            "庙宇",
+            "顺序",
+            "并行",
+            "为什么",
+            "调查"
+          ],
+          "text": "昔日的风、骑士的现场教习、书页里的电火花都以完成「西风骑士团」任务为前置，来源将另外两项列为并行任务。因此可以说明三处调查的共同目标，却不应把网页排列说成唯一游玩顺序。",
+          "sourceTitles": [
+            "昔日的风",
+            "书页里的电火花"
+          ]
+        }
+      ],
+      "spoilerPatterns": [
+        "天空之琴",
+        "风龙泪滴",
+        "摘星崖",
+        "神之心",
+        "女士",
+        "温迪.*身份",
+        "温迪.*是谁",
+        "巴巴托斯"
+      ]
+    },
+    {
+      "id": 202,
+      "title": "为了没有眼泪的明天 · 蒙德第二幕",
+      "category": "蒙德主线摘要",
+      "sourceTitle": "为了没有眼泪的明天",
+      "revision": "673272",
+      "locator": "第二幕任务结构",
+      "coverage": "包含荣誉骑士、温迪与天空之琴、收集泪滴及摘星崖行动的第二幕结局；不开放第三幕的决战和教堂后续。",
+      "catalogTitles": [
+        "为了没有眼泪的明天"
+      ],
+      "taskTitles": [
+        "阴影下的蒙德",
+        "不期而遇",
+        "那个绿色的家伙",
+        "听凭风引",
+        "温迪的计划",
+        "温迪的新计划",
+        "逃亡",
+        "幕后谈话",
+        "追逐暗影",
+        "至宝的现状",
+        "遗落之泪",
+        "藏匿之泪",
+        "被夺之泪",
+        "澄净之泪",
+        "与巨龙重逢"
+      ],
+      "suggestions": [
+        "概括为了没有眼泪的明天这一幕",
+        "为什么要用风龙泪滴修复天空之琴？",
+        "摘星崖的行动为什么失败了？"
+      ],
+      "records": [
+        {
+          "key": "overview",
+          "overview": true,
+          "sourceKey": "act2",
+          "topic": "第二幕的行动脉络",
+          "keywords": [
+            "概括",
+            "第二幕",
+            "回顾",
+            "为了没有眼泪的明天"
+          ],
+          "text": "调查龙灾的旅行者结识温迪，参与借取和追回天空之琴的行动。众人收集风龙泪滴为琴恢复力量，最终在摘星崖尝试与特瓦林交流；结局转入对深渊干预的追查。",
+          "sourceTitle": "阴影下的蒙德",
+          "sourceRevision": "667046",
+          "sourceVerificationLevel": "dialogue",
+          "sourceTitles": [
+            "那个绿色的家伙",
+            "温迪的计划",
+            "追逐暗影",
+            "至宝的现状",
+            "澄净之泪",
+            "与巨龙重逢"
+          ],
+          "section": "第二幕相关子任务的行动脉络"
+        },
+        {
+          "key": "diplomacy",
+          "sourceKey": "shadow",
+          "task": "阴影下的蒙德",
+          "topic": "琴为什么反对交出城防",
+          "keywords": [
+            "琴",
+            "愚人众",
+            "城防",
+            "外交",
+            "安娜斯塔西娅",
+            "为什么"
+          ],
+          "text": "愚人众使者以龙灾为由提出接管城防，并主张处理风魔龙。琴反对直接杀死蒙德的四风守护，也怀疑对方觊觎其力量；她的拒绝兼有保护特瓦林与维护城邦自主的考虑。"
+        },
+        {
+          "key": "crystal",
+          "sourceKey": "shadow",
+          "task": "阴影下的蒙德",
+          "topic": "结晶的异常与荣誉骑士",
+          "keywords": [
+            "结晶",
+            "丽莎",
+            "刺痛",
+            "荣誉骑士",
+            "旅行者",
+            "为什么"
+          ],
+          "text": "丽莎检查结晶时感到刺痛，并把它解释为污秽与元素力的排斥；旅行者却没有同样反应。琴授予旅行者荣誉骑士身份，请其继续协助调查，而非当场解决了结晶的全部谜团。"
+        },
+        {
+          "key": "pursuit",
+          "sourceKey": "act2",
+          "task": "不期而遇",
+          "topic": "追踪绿色身影",
+          "keywords": [
+            "不期而遇",
+            "追踪",
+            "元素视野",
+            "温迪",
+            "绿色"
+          ],
+          "text": "离开骑士团后，两人发现曾与巨龙交谈的绿色身影，并借助元素视野寻找，随后听到这位吟游诗人的演奏。",
+          "sourceTitle": "不期而遇",
+          "sourceRevision": "667032",
+          "sourceVerificationLevel": "dialogue",
+          "sourceTitles": [
+            "那个绿色的家伙"
+          ],
+          "section": "与派蒙对话；聆听吟游诗人的弹奏"
+        },
+        {
+          "key": "ballad",
+          "sourceKey": "bard",
+          "task": "那个绿色的家伙",
+          "topic": "歌谣中的特瓦林往事",
+          "keywords": [
+            "特瓦林",
+            "毒血",
+            "沉睡",
+            "过去",
+            "歌谣",
+            "为什么"
+          ],
+          "text": "诗人的歌谣讲述天空之龙帮助蒙德迎击恶龙、吞入毒血而沉睡，又在醒来后感到被遗忘。应将这段首先标为歌谣提供的往事叙述，区分于旅行者亲眼所见的当前事件。"
+        },
+        {
+          "key": "windrise",
+          "sourceKey": "wind",
+          "task": "听凭风引",
+          "topic": "追到风起地",
+          "keywords": [
+            "风起地",
+            "温迪",
+            "风神",
+            "听凭风引",
+            "神像"
+          ],
+          "text": "旅行者追随温迪来到风起地的大树下，想了解风神和巨龙的事。谈话受到来袭敌人打断，派蒙也注意到温迪与风元素之间似乎有特别联系。"
+        },
+        {
+          "key": "lyre-plan",
+          "sourceKey": "plan",
+          "task": "温迪的计划",
+          "topic": "温迪为什么需要天空之琴",
+          "keywords": [
+            "温迪",
+            "天空之琴",
+            "计划",
+            "为什么",
+            "唤回",
+            "特瓦林"
+          ],
+          "text": "温迪认为，风神曾弹奏的天空之琴可以帮助唤回特瓦林的本性。他提出这一方案，是要从噩梦与诅咒中救回旧友，而非以猎杀巨龙为目标。"
+        },
+        {
+          "key": "theft",
+          "sourceKey": "new-plan",
+          "task": "温迪的新计划",
+          "topic": "借琴失败后的潜入",
+          "keywords": [
+            "借琴",
+            "失败",
+            "潜入",
+            "晚上",
+            "教堂",
+            "温迪的新计划"
+          ],
+          "text": "借取天空之琴未能成功后，温迪改为请旅行者在夜间进入教堂，潜入地下室深处取琴。这是新的行动方案，不是教会已经同意出借。"
+        },
+        {
+          "key": "escape",
+          "sourceKey": "escape",
+          "task": "逃亡",
+          "topic": "逃往酒馆与迪卢克的帮助",
+          "keywords": [
+            "逃亡",
+            "迪卢克",
+            "酒馆",
+            "逃跑",
+            "守卫"
+          ],
+          "text": "陌生人抢先取走天空之琴，守卫也被惊动。旅行者一行逃出教堂并躲进酒馆，在迪卢克安排下暂避楼上，随后需要回答他的质问。"
+        },
+        {
+          "key": "private-jean",
+          "sourceKey": "meeting",
+          "task": "幕后谈话",
+          "topic": "琴为何以私人身份参与",
+          "keywords": [
+            "琴",
+            "私人",
+            "团长",
+            "幕后谈话",
+            "身份",
+            "为什么"
+          ],
+          "text": "迪卢克强调酒馆中的琴以个人身份参与。她相信特瓦林可能受毒血和深渊腐蚀，愿意尝试救助；但她也指出，有些判断不能直接以代理团长的身份公开说出。"
+        },
+        {
+          "key": "retrieve-lyre",
+          "sourceKey": "hideout",
+          "task": "追逐暗影",
+          "topic": "从愚人众藏身地取回琴",
+          "keywords": [
+            "愚人众",
+            "追逐暗影",
+            "天空之琴",
+            "钥匙",
+            "取回"
+          ],
+          "text": "众人确认窃琴者来自愚人众。旅行者进入其藏身地，调查守卫和钥匙线索，击败看守圣物的敌人，取回天空之琴。"
+        },
+        {
+          "key": "depleted-lyre",
+          "sourceKey": "lyre",
+          "task": "至宝的现状",
+          "topic": "为什么取回琴还不够",
+          "keywords": [
+            "天空之琴",
+            "恢复",
+            "为什么",
+            "力量",
+            "枯竭",
+            "风龙泪滴"
+          ],
+          "text": "温迪说明，天空之琴虽是旧日圣物，其中的风元素力量已经衰竭，因此不能拿来就直接完成沟通。后续使用泪滴，是为琴恢复所需的风元素力量。"
+        },
+        {
+          "key": "tear-routes",
+          "sourceKey": "act2",
+          "task": "遗落之泪／藏匿之泪／被夺之泪",
+          "topic": "三处泪滴调查可以并行",
+          "keywords": [
+            "泪滴",
+            "三处",
+            "顺序",
+            "并行",
+            "千风神殿",
+            "林中废墟",
+            "达达乌帕谷"
+          ],
+          "text": "泪滴分别在千风神殿、林中废墟和达达乌帕谷相关地点取得。三个任务都承接至宝的现状，完成后再汇合到澄净之泪；不是强制按目录次序逐项解锁。",
+          "sourceTitle": "遗落之泪",
+          "sourceRevision": "667044",
+          "sourceVerificationLevel": "dialogue",
+          "sourceTitles": [
+            "藏匿之泪",
+            "被夺之泪",
+            "澄净之泪"
+          ],
+          "section": "三处任务的前置、并行、后续和任务流程"
+        },
+        {
+          "key": "purify",
+          "sourceKey": "tears",
+          "task": "澄净之泪",
+          "topic": "旅行者的净化作用",
+          "keywords": [
+            "旅行者",
+            "净化",
+            "结晶",
+            "泪滴",
+            "修复",
+            "天空之琴"
+          ],
+          "text": "收集回来的结晶更加浑浊，温迪请旅行者净化，再把泪滴用于天空之琴。琴与迪卢克亲眼见证净化，随后众人确认琴中的风元素已经明显恢复。"
+        },
+        {
+          "key": "starsnatch",
+          "sourceKey": "tears",
+          "task": "澄净之泪",
+          "topic": "为什么选摘星崖而非城内",
+          "keywords": [
+            "摘星崖",
+            "地点",
+            "为什么",
+            "蒙德城",
+            "海风",
+            "高处"
+          ],
+          "text": "琴担心在城里呼唤巨龙一旦失败会伤及城市。温迪认为海风和高处的风适合传送琴声，迪卢克据此推荐摘星崖，众人同意在那里汇合。"
+        },
+        {
+          "key": "friendship",
+          "sourceKey": "tears",
+          "task": "澄净之泪",
+          "topic": "温迪仍把龙当作朋友",
+          "keywords": [
+            "温迪",
+            "朋友",
+            "特瓦林",
+            "旧友",
+            "为什么",
+            "关系"
+          ],
+          "text": "额外谈话中，温迪明确把特瓦林视为过去和现在的朋友，想唤回其原有的温柔。这里表达的是他持续的友情，不意味着其他人已经同样理解特瓦林。"
+        },
+        {
+          "key": "sabotage",
+          "sourceKey": "reunion",
+          "task": "与巨龙重逢",
+          "topic": "摘星崖行动失败的原因",
+          "keywords": [
+            "摘星崖",
+            "失败",
+            "为什么",
+            "深渊法师",
+            "天空之琴",
+            "特瓦林"
+          ],
+          "text": "琴声让温迪有机会同特瓦林交流，但深渊法师突然介入，煽动巨龙对遭抛弃和被猎杀的恐惧。特瓦林愤怒离开，天空之琴也严重损坏，单靠原方案已难以继续。"
+        },
+        {
+          "key": "identity",
+          "sourceKey": "reunion",
+          "task": "与巨龙重逢",
+          "topic": "温迪身份在对话中的显露",
+          "keywords": [
+            "温迪",
+            "身份",
+            "巴巴托斯",
+            "琴",
+            "风神"
+          ],
+          "text": "特瓦林在摘星崖称温迪为巴巴托斯，琴的称呼和温迪随后的回应也揭示了身份线索。温迪感谢琴继续称他温迪；不要把这份认识倒填到第一幕的初见场景。"
+        },
+        {
+          "key": "network",
+          "sourceKey": "reunion",
+          "task": "与巨龙重逢",
+          "topic": "迪卢克为何继续追踪深渊",
+          "keywords": [
+            "迪卢克",
+            "情报网",
+            "深渊",
+            "追踪",
+            "为什么"
+          ],
+          "text": "行动受挫后，迪卢克提出使用自己的情报网追查深渊法师。他认为必须处理腐蚀的源头，才能减轻特瓦林的痛苦；后续行动因此转向直接寻找敌人与巨龙所在。"
+        }
+      ],
+      "spoilerPatterns": [
+        "神之心",
+        "女士",
+        "风龙废墟.*(结局|救起|崩塌)",
+        "神之眼.*区别"
+      ]
+    },
+    {
+      "id": 203,
+      "title": "巨龙与自由之歌 · 蒙德第三幕",
+      "category": "蒙德主线摘要",
+      "sourceTitle": "巨龙与自由之歌",
+      "revision": "673273",
+      "locator": "第三幕任务结构",
+      "coverage": "包含风龙废墟决战、蒙德市民后续、天空之琴归还、教堂遇袭与璃月线索；开放本主题即包含整幕结局。",
+      "catalogTitles": [
+        "巨龙与自由之歌"
+      ],
+      "taskTitles": [
+        "深渊法师",
+        "障壁",
+        "无人之家",
+        "导光仪式",
+        "在终曲之前",
+        "为了青色的身影",
+        "尾声，风停之后",
+        "尾声的尾声"
+      ],
+      "suggestions": [
+        "概括巨龙与自由之歌这一幕",
+        "温迪为什么不命令特瓦林继续守护蒙德？",
+        "龙灾结束后蒙德市民怎么说？"
+      ],
+      "records": [
+        {
+          "key": "overview",
+          "overview": true,
+          "sourceKey": "act3",
+          "topic": "第三幕的故事脉络",
+          "keywords": [
+            "概括",
+            "第三幕",
+            "回顾",
+            "巨龙与自由之歌"
+          ],
+          "text": "摘星崖行动受挫后，众人追踪深渊线索，突破风龙废墟的障碍和封印，最终解救特瓦林。回城后的善后与归还天空之琴，使故事从救龙转回市民生活，并引出新的旅程。",
+          "sourceTitle": "深渊法师",
+          "sourceRevision": "667053",
+          "sourceVerificationLevel": "dialogue",
+          "sourceTitles": [
+            "无人之家",
+            "在终曲之前",
+            "为了青色的身影",
+            "尾声，风停之后",
+            "尾声的尾声"
+          ],
+          "section": "相关子任务的任务描述、流程与对白"
+        },
+        {
+          "key": "barrier",
+          "sourceKey": "act3",
+          "task": "深渊法师／障壁",
+          "topic": "追踪线索与风障",
+          "keywords": [
+            "深渊法师",
+            "迪卢克",
+            "风障",
+            "障壁",
+            "风龙废墟"
+          ],
+          "text": "迪卢克带来新的线索后，众人继续寻求拯救特瓦林。风龙废墟被暴风障壁包围，途中还有敌人阻挠，进入巨龙所在之处本身就是一段调查和突破。",
+          "sourceTitle": "深渊法师",
+          "sourceRevision": "667053",
+          "sourceVerificationLevel": "dialogue",
+          "sourceTitles": [
+            "障壁"
+          ],
+          "section": "相关子任务的任务描述、流程与对白"
+        },
+        {
+          "key": "tower",
+          "sourceKey": "act3",
+          "task": "无人之家／导光仪式／在终曲之前",
+          "topic": "高塔与导光封印",
+          "keywords": [
+            "高塔",
+            "导光",
+            "封印",
+            "无人之家",
+            "三层",
+            "顺序"
+          ],
+          "text": "众人在残垣和风墙之间寻找通往塔顶的路线，随后解除三层导光机关。封印解除后，才得以打开通向决战的入口。",
+          "sourceTitle": "无人之家",
+          "sourceRevision": "667051",
+          "sourceVerificationLevel": "dialogue",
+          "sourceTitles": [
+            "导光仪式",
+            "在终曲之前"
+          ],
+          "section": "相关子任务的任务描述、流程与对白"
+        },
+        {
+          "key": "wounds",
+          "sourceKey": "rescue",
+          "task": "为了青色的身影",
+          "topic": "攻击伤口是为了救龙",
+          "keywords": [
+            "特瓦林",
+            "伤口",
+            "凝血",
+            "紫色",
+            "为什么",
+            "救龙"
+          ],
+          "text": "温迪指出，特瓦林伤口上的凝固毒血是深渊集中施加诅咒的地方。清理这些污染是解救它的关键，因此战斗中的攻击目标与单纯猎杀巨龙不同。"
+        },
+        {
+          "key": "rescue",
+          "sourceKey": "rescue",
+          "task": "为了青色的身影",
+          "topic": "特瓦林反过来救起众人",
+          "keywords": [
+            "特瓦林",
+            "废墟",
+            "崩塌",
+            "救起",
+            "结局"
+          ],
+          "text": "战斗结束后废墟开始崩塌，特瓦林将众人救起。他与温迪重新交谈，一同飞行的场景让此前对立转为恢复交流。"
+        },
+        {
+          "key": "freedom",
+          "sourceKey": "rescue",
+          "task": "为了青色的身影",
+          "topic": "温迪为何不再下达守护命令",
+          "keywords": [
+            "自由",
+            "命令",
+            "守护",
+            "温迪",
+            "为什么",
+            "特瓦林"
+          ],
+          "text": "温迪希望特瓦林摆脱深渊，但并不因此要求它转而服从自己。他认为被神命令的自由仍不自由，重逢的重点是让特瓦林有选择，而非重新强迫它履行职责。"
+        },
+        {
+          "key": "defense",
+          "sourceKey": "after",
+          "task": "尾声，风停之后",
+          "topic": "安柏留守蒙德做了什么",
+          "keywords": [
+            "安柏",
+            "留守",
+            "丘丘人",
+            "总攻",
+            "准备",
+            "蒙德城"
+          ],
+          "text": "安柏说明，琴外出时魔物曾向城内发动攻击。此前的侦察和准备帮助骑士们守住城市；她怀疑背后有深渊组织，这一归因在对话里仍属于判断。"
+        },
+        {
+          "key": "citizens",
+          "sourceKey": "after",
+          "task": "尾声，风停之后",
+          "topic": "市民对龙灾结束的不同反应",
+          "keywords": [
+            "市民",
+            "塞琉斯",
+            "宁禄",
+            "葛瑞丝",
+            "怎么说",
+            "商路"
+          ],
+          "text": "塞琉斯因错过解决危机的机会而懊恼；宁禄希望商路尽快恢复；葛瑞丝则提醒人们记得特瓦林昔日的付出。三人的关注点分别落在冒险、日常与信仰记忆上。"
+        },
+        {
+          "key": "aftermath",
+          "sourceKey": "after",
+          "task": "尾声，风停之后",
+          "topic": "胜利后的记录与谅解",
+          "keywords": [
+            "奥特",
+            "霍夫曼",
+            "伤亡",
+            "谅解",
+            "原谅",
+            "后续"
+          ],
+          "text": "奥特忙于整理受损情况；霍夫曼在知道真相后反思歼灭计划，并担忧受灾者何时能够原谅巨龙。这些对话表明危机平息不等于后续情绪和工作立即结束。"
+        },
+        {
+          "key": "return-lyre",
+          "sourceKey": "epilogue",
+          "task": "尾声的尾声",
+          "topic": "天空之琴并未真正修复",
+          "keywords": [
+            "天空之琴",
+            "芭芭拉",
+            "修复",
+            "幻术",
+            "归还",
+            "为什么"
+          ],
+          "text": "芭芭拉负责收回天空之琴，看到损坏后十分震惊。温迪以幻术暂时恢复其外观并迅速离开，所以这段不能讲成琴已经获得可靠而永久的修复。"
+        },
+        {
+          "key": "gnosis",
+          "sourceKey": "epilogue",
+          "task": "尾声的尾声",
+          "topic": "教堂外的袭击与神之心",
+          "keywords": [
+            "女士",
+            "神之心",
+            "袭击",
+            "温迪",
+            "抢走",
+            "教堂"
+          ],
+          "text": "离开教堂后，女士袭击温迪并夺走神之心，旅行者也被击昏。之后芭芭拉救治他们，旅行者再到风起地向温迪了解这场袭击。"
+        },
+        {
+          "key": "vision",
+          "sourceKey": "epilogue",
+          "task": "尾声的尾声",
+          "topic": "温迪当时如何解释神之心",
+          "keywords": [
+            "神之心",
+            "神之眼",
+            "区别",
+            "天空岛",
+            "解释"
+          ],
+          "text": "在风起地，温迪把神之眼解释为用于引导元素的外置器官，把神之心解释为神灵与天空岛共鸣相连的器官。这是序章时点的讲述，不在此加入后续章节对其来历的补充。"
+        },
+        {
+          "key": "liyue",
+          "sourceKey": "epilogue",
+          "task": "尾声的尾声",
+          "topic": "下一站为何是璃月",
+          "keywords": [
+            "璃月",
+            "下一站",
+            "请仙典仪",
+            "为什么",
+            "岩神",
+            "旅途"
+          ],
+          "text": "温迪提醒旅行者，璃月的岩神每年会在请仙典仪降临，而当年的典仪将近，于是璃月成为下一站线索。他也劝旅行者留心沿途经历，而不仅仅盯着终点。"
+        }
+      ]
+    }
+  ]
+}

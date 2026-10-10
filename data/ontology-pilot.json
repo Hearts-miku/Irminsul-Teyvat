@@ -1,0 +1,142 @@
+{
+  "version": 1,
+  "scope": "仅验证水仙十字结社，不代表全库本体",
+  "entities": [
+    {
+      "id": "ordo",
+      "type": "组织",
+      "name": "水仙十字结社",
+      "aliases": [
+        "水仙十字结社"
+      ]
+    },
+    {
+      "id": "leader",
+      "type": "人物",
+      "name": "纳齐森科鲁兹",
+      "aliases": [
+        "纳齐森科鲁兹"
+      ]
+    },
+    {
+      "id": "jacob",
+      "type": "人物",
+      "name": "雅各布·英戈德",
+      "aliases": [
+        "雅各布·英戈德"
+      ]
+    },
+    {
+      "id": "formula",
+      "type": "概念",
+      "name": "世界式",
+      "aliases": [
+        "世界式"
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "leader-of",
+      "subject": "ordo",
+      "predicate": "领袖",
+      "object": "leader",
+      "intents": [
+        "definition",
+        "leader"
+      ],
+      "attribution": "卡特皮拉的陈述",
+      "claim": "据卡特皮拉介绍，水仙十字结社的领袖是纳齐森科鲁兹。",
+      "evidence": {
+        "pageid": 122821,
+        "title": "藻海的寻踪",
+        "revision": 656222,
+        "sha256": "c5a94dc24bd3045a486b07bb15a2b2772c009a1acd4802de4d9c9823465dae0c",
+        "index": 215,
+        "path": [
+          "任务剧情",
+          "准备好后，与卡特皮拉对话"
+        ],
+        "textHash": "6eee8a504b5fc3a418ac4bd3986fd2c71daa2b5f95b1f6f7859d3fafd3fb7a48",
+        "url": "https://wiki.biligame.com/ys/index.php?title=%E8%97%BB%E6%B5%B7%E7%9A%84%E5%AF%BB%E8%B8%AA&oldid=656222"
+      }
+    },
+    {
+      "id": "purpose",
+      "subject": "ordo",
+      "predicate": "宣称目标",
+      "object": "拯救世界",
+      "intents": [
+        "definition",
+        "purpose"
+      ],
+      "attribution": "卡特皮拉对其动机的解释；不代表行为正当",
+      "claim": "卡特皮拉将其行动动机解释为：根据世界式推算出末日后，试图拯救世界。这个动机解释不等于认可结社的行为。",
+      "evidence": {
+        "pageid": 122821,
+        "title": "藻海的寻踪",
+        "revision": 656222,
+        "sha256": "c5a94dc24bd3045a486b07bb15a2b2772c009a1acd4802de4d9c9823465dae0c",
+        "index": 215,
+        "path": [
+          "任务剧情",
+          "准备好后，与卡特皮拉对话"
+        ],
+        "textHash": "6eee8a504b5fc3a418ac4bd3986fd2c71daa2b5f95b1f6f7859d3fafd3fb7a48",
+        "url": "https://wiki.biligame.com/ys/index.php?title=%E8%97%BB%E6%B5%B7%E7%9A%84%E5%AF%BB%E8%B8%AA&oldid=656222"
+      }
+    },
+    {
+      "id": "prediction",
+      "subject": "ordo",
+      "predicate": "使用理论",
+      "object": "formula",
+      "intents": [
+        "definition",
+        "prediction"
+      ],
+      "attribution": "人物观点存在分歧",
+      "claim": "末日是结社依据世界式推算的结果；同场西摩尔对这一判断提出质疑，不能把它直接当成已证实的世界事实。",
+      "evidence": {
+        "pageid": 122821,
+        "title": "藻海的寻踪",
+        "revision": 656222,
+        "sha256": "c5a94dc24bd3045a486b07bb15a2b2772c009a1acd4802de4d9c9823465dae0c",
+        "index": 215,
+        "path": [
+          "任务剧情",
+          "准备好后，与卡特皮拉对话"
+        ],
+        "textHash": "6eee8a504b5fc3a418ac4bd3986fd2c71daa2b5f95b1f6f7859d3fafd3fb7a48",
+        "url": "https://wiki.biligame.com/ys/index.php?title=%E8%97%BB%E6%B5%B7%E7%9A%84%E5%AF%BB%E8%B8%AA&oldid=656222"
+      }
+    },
+    {
+      "id": "member",
+      "subject": "ordo",
+      "predicate": "核心成员",
+      "object": "jacob",
+      "intents": [
+        "definition",
+        "member"
+      ],
+      "attribution": "西摩尔的记录与陈述",
+      "claim": "据西摩尔的记录，雅各布·英戈德是结社核心成员，曾在厄里那斯被追捕。",
+      "evidence": {
+        "pageid": 110431,
+        "title": "最后的问题",
+        "revision": 645483,
+        "sha256": "d37015807c28512b4da942b6ea8a1a2707e8affacc0c346010178c17c8c9bb84",
+        "index": 24,
+        "path": [
+          "任务剧情",
+          "与西摩尔对话",
+          "源码选项组 1",
+          "选项 2：关于水仙十字结社…"
+        ],
+        "textHash": "fa8e3014c88568f7e7f90e1a195d477bd35d91d0558c6eeb2d58db6d2b640a7a",
+        "url": "https://wiki.biligame.com/ys/index.php?title=%E6%9C%80%E5%90%8E%E7%9A%84%E9%97%AE%E9%A2%98&oldid=645483"
+      }
+    }
+  ]
+}

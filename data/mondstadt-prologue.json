@@ -1,0 +1,41 @@
+{
+  "id": "mondstadt-first-meeting",
+  "version": "0.1.0",
+  "title": "初遇安柏 · 走进蒙德",
+  "chapter": "序章 · 第一幕 · 捕风的异乡人",
+  "verifiedAt": "2026-09-29",
+  "coverage": "三个连续任务的精选资料与原文短摘，不含完整序章或全量台词。",
+  "license": "BWIKI 页面标注 CC BY-NC-SA 4.0；本包的资料整理沿用该许可。游戏内容权利属于原权利人。",
+  "sources": [
+    { "id": "s1", "title": "随风而来的骑士", "publisher": "原神 BWIKI · 页面贡献者", "revision": "674009", "url": "https://wiki.biligame.com/ys/index.php?title=随风而来的骑士&oldid=674009", "gameVersion": "1.0（任务首次出现版本）" },
+    { "id": "s2", "title": "与轻风同行", "publisher": "原神 BWIKI · 页面贡献者", "revision": "652499", "url": "https://wiki.biligame.com/ys/index.php?title=与轻风同行&oldid=652499", "gameVersion": "1.0（任务首次出现版本）" },
+    { "id": "s3", "title": "自由之都", "publisher": "原神 BWIKI · 页面贡献者", "revision": "652504", "url": "https://wiki.biligame.com/ys/index.php?title=自由之都&oldid=652504", "gameVersion": "1.0（任务首次出现版本）" }
+  ],
+  "stages": [
+    { "id": 1, "title": "随风而来的骑士", "subtitle": "低语森林 · 初次相遇", "sourceId": "s1", "summary": "陌生的旅人在城外遇见侦察骑士。询问身份之后，一段同行开始了。", "previous": null, "next": 2, "suggestions": ["安柏为什么怀疑旅行者？", "派蒙真的是应急食品吗？", "帮我回顾初遇安柏这段剧情"] },
+    { "id": 2, "title": "与轻风同行", "subtitle": "坠星山谷 · 结伴前行", "sourceId": "s2", "summary": "旅行者协助安柏完成城外任务，也逐渐了解到蒙德正在面对的困扰。", "previous": 1, "next": 3, "suggestions": ["安柏出城的任务是什么？", "丘丘人为什么会靠近城市？", "她对旅行者的态度有什么变化？"] },
+    { "id": 3, "title": "自由之都", "subtitle": "蒙德城 · 风的礼物", "sourceId": "s3", "summary": "进入蒙德之后，安柏介绍城中的情况，并为旅人准备了一份谢礼。", "previous": 2, "next": null, "suggestions": ["安柏为什么送旅行者风之翼？", "琴在这段剧情中是什么身份？", "把这三段剧情串起来讲讲"] }
+  ],
+  "entities": [
+    { "id": "amber", "name": "安柏", "aliases": ["安柏", "安伯", "侦察骑士", "兔兔伯爵的主人"] },
+    { "id": "paimon", "name": "派蒙", "aliases": ["派蒙", "应急食品", "小派蒙"] },
+    { "id": "traveler", "name": "旅行者", "aliases": ["旅行者", "主角", "旅人", "空", "荧"] },
+    { "id": "jean", "name": "琴", "aliases": ["琴", "琴团长", "代理团长"] }
+  ],
+  "records": [
+    { "id": "a-identity", "stage": 1, "topic": "初遇与盘问", "section": "与轻盈的少女对话", "entities": ["amber", "traveler"], "keywords": ["怀疑", "可疑", "身份", "盘问", "陌生", "信任", "拦住", "为什么"], "text": "安柏在城外表明侦察骑士身份，并询问陌生旅人的来历。派蒙的否认并没有立即消除她的戒心。", "quote": "可疑人员都会这么说。", "speaker": "安柏", "interpretation": "这更接近履行巡查职责时的警惕，不能由此认定她讨厌旅行者。" },
+    { "id": "a-escort", "stage": 1, "topic": "护送的理由", "section": "与轻盈的少女对话", "entities": ["amber", "traveler"], "keywords": ["护送", "进城", "安全", "巨龙", "信任", "为什么", "帮忙"], "text": "安柏提醒城外有巨龙活动，提出在执行自己的任务时护送旅人进城；她也坦言仍需留意来历不明的人。", "interpretation": "护送同时包含保护旅人与继续观察的意味，警惕和善意并不矛盾。" },
+    { "id": "a-friend", "stage": 1, "topic": "朋友选项", "section": "与轻盈的少女对话", "entities": ["paimon", "traveler"], "keywords": ["派蒙", "朋友", "旅伴", "关系", "选项", "应急食品", "分支"], "text": "介绍派蒙时有不同选项。选择朋友的分支中，派蒙认可两人是亲近的旅伴。", "branch": { "group": "paimon-introduction", "option": "朋友", "joins": "a-escort" } },
+    { "id": "a-food", "stage": 1, "topic": "应急食品选项", "section": "与轻盈的少女对话", "entities": ["paimon", "traveler"], "keywords": ["派蒙", "食物", "应急食品", "玩笑", "选项", "分支"], "text": "另一个选项把派蒙称作应急食品，遭到她抗议。这与朋友选项是互斥分支，并非先后发生的两次回答。", "quote": "是应急食品。", "speaker": "旅行者（可选回答）", "branch": { "group": "paimon-introduction", "option": "应急食品", "joins": "a-escort" } },
+    { "id": "a-apology", "stage": 1, "topic": "生硬的道歉", "section": "与轻盈的少女对话", "entities": ["amber", "paimon"], "keywords": ["道歉", "态度", "礼貌", "指导手册", "生硬", "称呼"], "text": "受到旅行者提醒后，安柏为自己的称呼道歉。派蒙觉得措辞生硬，安柏则提到骑士团手册的规范表达。", "quote": "我向你们致歉", "speaker": "安柏（节选）" },
+    { "id": "a-family", "stage": 1, "topic": "寻找失散的家人", "section": "前往安柏指示的地点", "entities": ["amber", "paimon", "traveler"], "keywords": ["家人", "哥哥", "妹妹", "寻找", "失散", "告示", "目的", "来蒙德"], "text": "派蒙解释旅人正在寻找失散的血亲。安柏听后提出，完成手头工作后可以帮忙在城里张贴寻人告示。" },
+    { "id": "b-mission", "stage": 2, "topic": "城外的巡查任务", "section": "清理附近的丘丘人营地", "entities": ["amber", "traveler"], "keywords": ["任务", "出城", "营地", "丘丘人", "清理", "护送", "为什么"], "text": "安柏此次出城的工作是清理逐渐靠近城市的丘丘人营地。旅行者协助她完成战斗。", "quote": "我这次的任务，就是来清理它们的营地。", "speaker": "安柏" },
+    { "id": "b-trust", "stage": 2, "topic": "并肩作战后的认可", "section": "与安柏对话", "entities": ["amber", "traveler"], "keywords": ["信任", "态度", "变化", "感谢", "支援", "战斗", "能力"], "text": "战斗之后，安柏对旅行者的战斗能力表示意外，并感谢支援，随后继续带路进城。", "interpretation": "她从盘问来历转向认可实际帮助，可以看作双方关系缓和的迹象；这一段没有宣告完全信任。" },
+    { "id": "b-dragon", "stage": 2, "topic": "龙灾与城外压力", "section": "与安柏对话", "entities": ["amber", "paimon"], "keywords": ["丘丘人", "靠近", "城市", "风魔龙", "龙灾", "果园", "商路", "防御", "原因"], "text": "按安柏的解释，龙的活动损害果园与商路，风暴又使人受伤，骑士团忙于防御，丘丘人因而更接近城市。", "interpretation": "这是人物在当时给出的局势解释，这段材料没有说明巨龙行动的深层动机。" },
+    { "id": "b-options", "stage": 2, "topic": "战斗感受的两个选项", "section": "与安柏对话", "entities": ["traveler", "amber"], "keywords": ["轻轻松松", "勉勉强强", "难度", "选项", "战斗感受", "分支"], "text": "旅行者可以表达战斗轻松或吃力。这是玩家选择的不同回答，不能把其中一种当成唯一确定的经历。", "branch": { "group": "battle-feeling", "option": "轻松或吃力（二选一）", "joins": "b-dragon" } },
+    { "id": "c-city", "stage": 3, "topic": "走进蒙德", "section": "与安柏对话（城门）", "entities": ["amber", "paimon", "traveler"], "keywords": ["蒙德", "自由", "进城", "城里", "气氛", "旅客", "商人"], "text": "安柏欢迎两人来到蒙德。派蒙注意到市民情绪低落，安柏把这种气氛与风魔龙带来的困扰联系起来。" },
+    { "id": "c-jean", "stage": 3, "topic": "安柏口中的琴", "section": "与安柏对话（城门）", "entities": ["amber", "jean"], "keywords": ["琴", "代理团长", "身份", "守护", "信心", "骑士团"], "text": "安柏介绍琴担任西风骑士团代理团长，并表达对她应对灾害的信心。这是安柏的态度，不是局势已解决的证明。" },
+    { "id": "c-gift", "stage": 3, "topic": "风之翼的来由", "section": "与安柏对话（城门与高处）", "entities": ["amber", "traveler"], "keywords": ["风之翼", "礼物", "谢礼", "酬谢", "为什么", "送", "飞行", "滑翔"], "text": "为答谢清理营地的帮助，安柏赠送旅行者风之翼，并在城中高处指导试用。它让旅人体验蒙德的飞行生活。", "quote": "是刚才帮我清理丘丘人营地的酬谢喔。", "speaker": "安柏", "interpretation": "这份谢礼也表现出她接待旅人的热情。" },
+    { "id": "c-paimon", "stage": 3, "topic": "派蒙的另一份招待", "section": "与安柏对话（城门）", "entities": ["amber", "paimon"], "keywords": ["派蒙", "礼物", "吃饭", "蜜酱胡萝卜煎肉", "为什么", "没有"], "text": "派蒙也想得到礼物。安柏解释风之翼不适合她使用，转而答应请她吃蒙德特色菜。" }
+  ]
+}
