@@ -1,0 +1,1446 @@
+{
+  "schemaVersion": 1,
+  "scope": "水仙十字首批固定来源验收；100 个场景包括 40 组开放／未开放对照、10 个未知或歧义问题、10 个连续追问。不是全库准确率抽样，不调用真实在线模型。",
+  "cases": [
+    {
+      "id": "open-1",
+      "entity": "ordo",
+      "question": "水仙十字结社是什么？",
+      "scope": "entity",
+      "expected": {
+        "statuses": [
+          "answer"
+        ],
+        "relation": "leader-of",
+        "includes": [
+          "纳齐森科鲁兹"
+        ]
+      }
+    },
+    {
+      "id": "locked-1",
+      "entity": "ordo",
+      "question": "水仙十字结社是什么？",
+      "scope": "locked",
+      "expected": {
+        "statuses": [
+          "scope",
+          "clarify",
+          "missing"
+        ],
+        "noEvidence": true
+      }
+    },
+    {
+      "id": "open-2",
+      "entity": "ordo",
+      "question": "介绍一下水仙十字结社。",
+      "scope": "entity",
+      "expected": {
+        "statuses": [
+          "answer"
+        ],
+        "relation": "prediction",
+        "includes": [
+          "质疑"
+        ]
+      }
+    },
+    {
+      "id": "locked-2",
+      "entity": "ordo",
+      "question": "介绍一下水仙十字结社。",
+      "scope": "locked",
+      "expected": {
+        "statuses": [
+          "scope",
+          "clarify",
+          "missing"
+        ],
+        "noEvidence": true
+      }
+    },
+    {
+      "id": "open-3",
+      "entity": "ordo",
+      "question": "水仙十字结社是个什么组织？",
+      "scope": "entity",
+      "expected": {
+        "statuses": [
+          "answer"
+        ],
+        "relation": "purpose",
+        "includes": [
+          "拯救世界"
+        ]
+      }
+    },
+    {
+      "id": "locked-3",
+      "entity": "ordo",
+      "question": "水仙十字结社是个什么组织？",
+      "scope": "locked",
+      "expected": {
+        "statuses": [
+          "scope",
+          "clarify",
+          "missing"
+        ],
+        "noEvidence": true
+      }
+    },
+    {
+      "id": "open-4",
+      "entity": "ordo",
+      "question": "水仙十字结社什么来头？",
+      "scope": "entity",
+      "expected": {
+        "statuses": [
+          "answer"
+        ],
+        "relation": "member",
+        "includes": [
+          "雅各布"
+        ]
+      }
+    },
+    {
+      "id": "locked-4",
+      "entity": "ordo",
+      "question": "水仙十字结社什么来头？",
+      "scope": "locked",
+      "expected": {
+        "statuses": [
+          "scope",
+          "clarify",
+          "missing"
+        ],
+        "noEvidence": true
+      }
+    },
+    {
+      "id": "open-5",
+      "entity": "ordo",
+      "question": "水仙十字结社的领袖是谁？",
+      "scope": "entity",
+      "expected": {
+        "statuses": [
+          "answer"
+        ],
+        "relation": "leader-of",
+        "includes": [
+          "纳齐森科鲁兹"
+        ]
+      }
+    },
+    {
+      "id": "locked-5",
+      "entity": "ordo",
+      "question": "水仙十字结社的领袖是谁？",
+      "scope": "locked",
+      "expected": {
+        "statuses": [
+          "scope",
+          "clarify",
+          "missing"
+        ],
+        "noEvidence": true
+      }
+    },
+    {
+      "id": "open-6",
+      "entity": "ordo",
+      "question": "谁领导水仙十字结社？",
+      "scope": "entity",
+      "expected": {
+        "statuses": [
+          "answer"
+        ],
+        "relation": "leader-of",
+        "includes": [
+          "纳齐森科鲁兹"
+        ]
+      }
+    },
+    {
+      "id": "locked-6",
+      "entity": "ordo",
+      "question": "谁领导水仙十字结社？",
+      "scope": "locked",
+      "expected": {
+        "statuses": [
+          "scope",
+          "clarify",
+          "missing"
+        ],
+        "noEvidence": true
+      }
+    },
+    {
+      "id": "open-7",
+      "entity": "ordo",
+      "question": "水仙十字结社有哪些核心成员？",
+      "scope": "entity",
+      "expected": {
+        "statuses": [
+          "answer"
+        ],
+        "relation": "member",
+        "includes": [
+          "雅各布"
+        ]
+      }
+    },
+    {
+      "id": "locked-7",
+      "entity": "ordo",
+      "question": "水仙十字结社有哪些核心成员？",
+      "scope": "locked",
+      "expected": {
+        "statuses": [
+          "scope",
+          "clarify",
+          "missing"
+        ],
+        "noEvidence": true
+      }
+    },
+    {
+      "id": "open-8",
+      "entity": "ordo",
+      "question": "水仙十字结社有哪些成员？",
+      "scope": "entity",
+      "expected": {
+        "statuses": [
+          "answer"
+        ],
+        "relation": "caterpillar-member",
+        "includes": [
+          "卡特皮拉"
+        ]
+      }
+    },
+    {
+      "id": "locked-8",
+      "entity": "ordo",
+      "question": "水仙十字结社有哪些成员？",
+      "scope": "locked",
+      "expected": {
+        "statuses": [
+          "scope",
+          "clarify",
+          "missing"
+        ],
+        "noEvidence": true
+      }
+    },
+    {
+      "id": "open-9",
+      "entity": "ordo",
+      "question": "水仙十字结社的目的是什么？",
+      "scope": "entity",
+      "expected": {
+        "statuses": [
+          "answer"
+        ],
+        "relation": "purpose",
+        "includes": [
+          "拯救世界"
+        ]
+      }
+    },
+    {
+      "id": "locked-9",
+      "entity": "ordo",
+      "question": "水仙十字结社的目的是什么？",
+      "scope": "locked",
+      "expected": {
+        "statuses": [
+          "scope",
+          "clarify",
+          "missing"
+        ],
+        "noEvidence": true
+      }
+    },
+    {
+      "id": "open-10",
+      "entity": "ordo",
+      "question": "水仙十字结社想做什么？",
+      "scope": "entity",
+      "expected": {
+        "statuses": [
+          "answer"
+        ],
+        "relation": "purpose",
+        "includes": [
+          "拯救世界"
+        ]
+      }
+    },
+    {
+      "id": "locked-10",
+      "entity": "ordo",
+      "question": "水仙十字结社想做什么？",
+      "scope": "locked",
+      "expected": {
+        "statuses": [
+          "scope",
+          "clarify",
+          "missing"
+        ],
+        "noEvidence": true
+      }
+    },
+    {
+      "id": "open-11",
+      "entity": "ordo",
+      "question": "水仙十字结社的末日推论是真的吗？",
+      "scope": "entity",
+      "expected": {
+        "statuses": [
+          "answer"
+        ],
+        "relation": "prediction",
+        "includes": [
+          "质疑"
+        ]
+      }
+    },
+    {
+      "id": "locked-11",
+      "entity": "ordo",
+      "question": "水仙十字结社的末日推论是真的吗？",
+      "scope": "locked",
+      "expected": {
+        "statuses": [
+          "scope",
+          "clarify",
+          "missing"
+        ],
+        "noEvidence": true
+      }
+    },
+    {
+      "id": "open-12",
+      "entity": "formula",
+      "question": "世界式是什么？",
+      "scope": "entity",
+      "expected": {
+        "statuses": [
+          "answer"
+        ],
+        "relation": "prediction",
+        "includes": [
+          "世界式"
+        ]
+      }
+    },
+    {
+      "id": "locked-12",
+      "entity": "formula",
+      "question": "世界式是什么？",
+      "scope": "locked",
+      "expected": {
+        "statuses": [
+          "scope",
+          "clarify",
+          "missing"
+        ],
+        "noEvidence": true
+      }
+    },
+    {
+      "id": "open-13",
+      "entity": "formula",
+      "question": "谁质疑世界式的末日推论？",
+      "scope": "entity",
+      "expected": {
+        "statuses": [
+          "answer"
+        ],
+        "relation": "seymour-doubts",
+        "includes": [
+          "西摩尔"
+        ]
+      }
+    },
+    {
+      "id": "locked-13",
+      "entity": "formula",
+      "question": "谁质疑世界式的末日推论？",
+      "scope": "locked",
+      "expected": {
+        "statuses": [
+          "scope",
+          "clarify",
+          "missing"
+        ],
+        "noEvidence": true
+      }
+    },
+    {
+      "id": "open-14",
+      "entity": "seymour",
+      "question": "西摩尔是谁？",
+      "scope": "entity",
+      "expected": {
+        "statuses": [
+          "answer"
+        ],
+        "relation": "seymour-identifier",
+        "includes": [
+          "4ACV07"
+        ]
+      }
+    },
+    {
+      "id": "locked-14",
+      "entity": "seymour",
+      "question": "西摩尔是谁？",
+      "scope": "locked",
+      "expected": {
+        "statuses": [
+          "scope",
+          "clarify",
+          "missing"
+        ],
+        "noEvidence": true
+      }
+    },
+    {
+      "id": "open-15",
+      "entity": "seymour",
+      "question": "介绍一下西摩尔。",
+      "scope": "entity",
+      "expected": {
+        "statuses": [
+          "answer"
+        ],
+        "relation": "seymour-protects",
+        "includes": [
+          "玛丽安"
+        ]
+      }
+    },
+    {
+      "id": "locked-15",
+      "entity": "seymour",
+      "question": "介绍一下西摩尔。",
+      "scope": "locked",
+      "expected": {
+        "statuses": [
+          "scope",
+          "clarify",
+          "missing"
+        ],
+        "noEvidence": true
+      }
+    },
+    {
+      "id": "open-16",
+      "entity": "seymour",
+      "question": "4ACV07是谁？",
+      "scope": "entity",
+      "expected": {
+        "statuses": [
+          "answer"
+        ],
+        "relation": "seymour-identifier",
+        "includes": [
+          "西摩尔"
+        ]
+      }
+    },
+    {
+      "id": "locked-16",
+      "entity": "seymour",
+      "question": "4ACV07是谁？",
+      "scope": "locked",
+      "expected": {
+        "statuses": [
+          "scope",
+          "clarify",
+          "missing"
+        ],
+        "noEvidence": true
+      }
+    },
+    {
+      "id": "open-17",
+      "entity": "seymour",
+      "question": "西摩尔的编号是什么？",
+      "scope": "entity",
+      "expected": {
+        "statuses": [
+          "answer"
+        ],
+        "relation": "seymour-identifier",
+        "includes": [
+          "4ACV07"
+        ]
+      }
+    },
+    {
+      "id": "locked-17",
+      "entity": "seymour",
+      "question": "西摩尔的编号是什么？",
+      "scope": "locked",
+      "expected": {
+        "statuses": [
+          "scope",
+          "clarify",
+          "missing"
+        ],
+        "noEvidence": true
+      }
+    },
+    {
+      "id": "open-18",
+      "entity": "seymour",
+      "question": "西摩尔的识别码是什么？",
+      "scope": "entity",
+      "expected": {
+        "statuses": [
+          "answer"
+        ],
+        "relation": "seymour-identifier",
+        "includes": [
+          "4ACV07"
+        ]
+      }
+    },
+    {
+      "id": "locked-18",
+      "entity": "seymour",
+      "question": "西摩尔的识别码是什么？",
+      "scope": "locked",
+      "expected": {
+        "statuses": [
+          "scope",
+          "clarify",
+          "missing"
+        ],
+        "noEvidence": true
+      }
+    },
+    {
+      "id": "open-19",
+      "entity": "seymour",
+      "question": "西摩尔保护谁？",
+      "scope": "entity",
+      "expected": {
+        "statuses": [
+          "answer"
+        ],
+        "relation": "seymour-protects",
+        "includes": [
+          "玛丽安"
+        ]
+      }
+    },
+    {
+      "id": "locked-19",
+      "entity": "seymour",
+      "question": "西摩尔保护谁？",
+      "scope": "locked",
+      "expected": {
+        "statuses": [
+          "scope",
+          "clarify",
+          "missing"
+        ],
+        "noEvidence": true
+      }
+    },
+    {
+      "id": "open-20",
+      "entity": "seymour",
+      "question": "西摩尔的主人是谁？",
+      "scope": "entity",
+      "expected": {
+        "statuses": [
+          "answer"
+        ],
+        "relation": "seymour-protects",
+        "includes": [
+          "玛丽安"
+        ]
+      }
+    },
+    {
+      "id": "locked-20",
+      "entity": "seymour",
+      "question": "西摩尔的主人是谁？",
+      "scope": "locked",
+      "expected": {
+        "statuses": [
+          "scope",
+          "clarify",
+          "missing"
+        ],
+        "noEvidence": true
+      }
+    },
+    {
+      "id": "open-21",
+      "entity": "seymour",
+      "question": "西摩尔的设计者是谁？",
+      "scope": "entity",
+      "expected": {
+        "statuses": [
+          "answer"
+        ],
+        "relation": "seymour-designer",
+        "includes": [
+          "吉约丹"
+        ]
+      }
+    },
+    {
+      "id": "locked-21",
+      "entity": "seymour",
+      "question": "西摩尔的设计者是谁？",
+      "scope": "locked",
+      "expected": {
+        "statuses": [
+          "scope",
+          "clarify",
+          "missing"
+        ],
+        "noEvidence": true
+      }
+    },
+    {
+      "id": "open-22",
+      "entity": "seymour",
+      "question": "谁设计了西摩尔？",
+      "scope": "entity",
+      "expected": {
+        "statuses": [
+          "answer"
+        ],
+        "relation": "seymour-designer",
+        "includes": [
+          "吉约丹"
+        ]
+      }
+    },
+    {
+      "id": "locked-22",
+      "entity": "seymour",
+      "question": "谁设计了西摩尔？",
+      "scope": "locked",
+      "expected": {
+        "statuses": [
+          "scope",
+          "clarify",
+          "missing"
+        ],
+        "noEvidence": true
+      }
+    },
+    {
+      "id": "open-23",
+      "entity": "seymour",
+      "question": "西摩尔与吉约丹是什么关系？",
+      "scope": "entity",
+      "expected": {
+        "statuses": [
+          "answer"
+        ],
+        "relation": "seymour-designer",
+        "includes": [
+          "设计者"
+        ]
+      }
+    },
+    {
+      "id": "locked-23",
+      "entity": "seymour",
+      "question": "西摩尔与吉约丹是什么关系？",
+      "scope": "locked",
+      "expected": {
+        "statuses": [
+          "scope",
+          "clarify",
+          "missing"
+        ],
+        "noEvidence": true
+      }
+    },
+    {
+      "id": "open-24",
+      "entity": "seymour",
+      "question": "西摩尔曾参与什么追捕行动？",
+      "scope": "entity",
+      "expected": {
+        "statuses": [
+          "answer"
+        ],
+        "relation": "seymour-pursuit",
+        "includes": [
+          "厄里那斯"
+        ]
+      }
+    },
+    {
+      "id": "locked-24",
+      "entity": "seymour",
+      "question": "西摩尔曾参与什么追捕行动？",
+      "scope": "locked",
+      "expected": {
+        "statuses": [
+          "scope",
+          "clarify",
+          "missing"
+        ],
+        "noEvidence": true
+      }
+    },
+    {
+      "id": "open-25",
+      "entity": "seymour",
+      "question": "西摩尔与雅各布是什么关系？",
+      "scope": "entity",
+      "expected": {
+        "statuses": [
+          "answer"
+        ],
+        "relation": "seymour-jacob",
+        "includes": [
+          "遭遇"
+        ]
+      }
+    },
+    {
+      "id": "locked-25",
+      "entity": "seymour",
+      "question": "西摩尔与雅各布是什么关系？",
+      "scope": "locked",
+      "expected": {
+        "statuses": [
+          "scope",
+          "clarify",
+          "missing"
+        ],
+        "noEvidence": true
+      }
+    },
+    {
+      "id": "open-26",
+      "entity": "seymour",
+      "question": "西摩尔如何质疑世界式？",
+      "scope": "entity",
+      "expected": {
+        "statuses": [
+          "answer"
+        ],
+        "relation": "seymour-doubts",
+        "includes": [
+          "怀疑"
+        ]
+      }
+    },
+    {
+      "id": "locked-26",
+      "entity": "seymour",
+      "question": "西摩尔如何质疑世界式？",
+      "scope": "locked",
+      "expected": {
+        "statuses": [
+          "scope",
+          "clarify",
+          "missing"
+        ],
+        "noEvidence": true
+      }
+    },
+    {
+      "id": "open-27",
+      "entity": "jacob",
+      "question": "雅各布·英戈德是什么成员？",
+      "scope": "entity",
+      "expected": {
+        "statuses": [
+          "answer"
+        ],
+        "relation": "member",
+        "includes": [
+          "核心成员"
+        ]
+      }
+    },
+    {
+      "id": "locked-27",
+      "entity": "jacob",
+      "question": "雅各布·英戈德是什么成员？",
+      "scope": "locked",
+      "expected": {
+        "statuses": [
+          "scope",
+          "clarify",
+          "missing"
+        ],
+        "noEvidence": true
+      }
+    },
+    {
+      "id": "open-28",
+      "entity": "jacob",
+      "question": "雅各布属于水仙十字结社吗？",
+      "scope": "entity",
+      "expected": {
+        "statuses": [
+          "answer"
+        ],
+        "relation": "member",
+        "includes": [
+          "雅各布"
+        ]
+      }
+    },
+    {
+      "id": "locked-28",
+      "entity": "jacob",
+      "question": "雅各布属于水仙十字结社吗？",
+      "scope": "locked",
+      "expected": {
+        "statuses": [
+          "scope",
+          "clarify",
+          "missing"
+        ],
+        "noEvidence": true
+      }
+    },
+    {
+      "id": "open-29",
+      "entity": "leader",
+      "question": "纳齐森科鲁兹是哪里的领袖？",
+      "scope": "entity",
+      "expected": {
+        "statuses": [
+          "answer"
+        ],
+        "relation": "leader-of",
+        "includes": [
+          "水仙十字结社"
+        ]
+      }
+    },
+    {
+      "id": "locked-29",
+      "entity": "leader",
+      "question": "纳齐森科鲁兹是哪里的领袖？",
+      "scope": "locked",
+      "expected": {
+        "statuses": [
+          "scope",
+          "clarify",
+          "missing"
+        ],
+        "noEvidence": true
+      }
+    },
+    {
+      "id": "open-30",
+      "entity": "leader",
+      "question": "纳齐森科鲁兹的目的是什么？",
+      "scope": "entity",
+      "expected": {
+        "statuses": [
+          "answer"
+        ],
+        "relation": "leader-purpose",
+        "includes": [
+          "拯救世界"
+        ]
+      }
+    },
+    {
+      "id": "locked-30",
+      "entity": "leader",
+      "question": "纳齐森科鲁兹的目的是什么？",
+      "scope": "locked",
+      "expected": {
+        "statuses": [
+          "scope",
+          "clarify",
+          "missing"
+        ],
+        "noEvidence": true
+      }
+    },
+    {
+      "id": "open-31",
+      "entity": "leader",
+      "question": "纳齐森科鲁兹如何把成员当作诱饵？",
+      "scope": "entity",
+      "expected": {
+        "statuses": [
+          "answer"
+        ],
+        "relation": "leader-decoy",
+        "includes": [
+          "推测"
+        ]
+      }
+    },
+    {
+      "id": "locked-31",
+      "entity": "leader",
+      "question": "纳齐森科鲁兹如何把成员当作诱饵？",
+      "scope": "locked",
+      "expected": {
+        "statuses": [
+          "scope",
+          "clarify",
+          "missing"
+        ],
+        "noEvidence": true
+      }
+    },
+    {
+      "id": "open-32",
+      "entity": "caterpillar",
+      "question": "卡特皮拉曾属于什么组织？",
+      "scope": "entity",
+      "expected": {
+        "statuses": [
+          "answer"
+        ],
+        "relation": "caterpillar-member",
+        "includes": [
+          "历史关联"
+        ]
+      }
+    },
+    {
+      "id": "locked-32",
+      "entity": "caterpillar",
+      "question": "卡特皮拉曾属于什么组织？",
+      "scope": "locked",
+      "expected": {
+        "statuses": [
+          "scope",
+          "clarify",
+          "missing"
+        ],
+        "noEvidence": true
+      }
+    },
+    {
+      "id": "open-33",
+      "entity": "caterpillar",
+      "question": "卡特皮拉对安的诞生秘密确定吗？",
+      "scope": "entity",
+      "expected": {
+        "statuses": [
+          "answer"
+        ],
+        "relation": "ann-origin-uncertain",
+        "includes": [
+          "推测"
+        ]
+      }
+    },
+    {
+      "id": "locked-33",
+      "entity": "caterpillar",
+      "question": "卡特皮拉对安的诞生秘密确定吗？",
+      "scope": "locked",
+      "expected": {
+        "statuses": [
+          "scope",
+          "clarify",
+          "missing"
+        ],
+        "noEvidence": true
+      }
+    },
+    {
+      "id": "open-34",
+      "entity": "ann",
+      "question": "安是谁？",
+      "scope": "entity",
+      "expected": {
+        "statuses": [
+          "answer"
+        ],
+        "relation": "ann-kind",
+        "includes": [
+          "纯水精灵"
+        ]
+      }
+    },
+    {
+      "id": "locked-34",
+      "entity": "ann",
+      "question": "安是谁？",
+      "scope": "locked",
+      "expected": {
+        "statuses": [
+          "scope",
+          "clarify",
+          "missing"
+        ],
+        "noEvidence": true
+      }
+    },
+    {
+      "id": "open-35",
+      "entity": "ann",
+      "question": "安和西摩尔曾经见过吗？",
+      "scope": "entity",
+      "expected": {
+        "statuses": [
+          "answer"
+        ],
+        "relation": "ann-recognition",
+        "includes": [
+          "没见过"
+        ]
+      }
+    },
+    {
+      "id": "locked-35",
+      "entity": "ann",
+      "question": "安和西摩尔曾经见过吗？",
+      "scope": "locked",
+      "expected": {
+        "statuses": [
+          "scope",
+          "clarify",
+          "missing"
+        ],
+        "noEvidence": true
+      }
+    },
+    {
+      "id": "open-36",
+      "entity": "ann",
+      "question": "安的诞生秘密已经确定了吗？",
+      "scope": "entity",
+      "expected": {
+        "statuses": [
+          "answer"
+        ],
+        "relation": "ann-origin-uncertain",
+        "includes": [
+          "推测"
+        ]
+      }
+    },
+    {
+      "id": "locked-36",
+      "entity": "ann",
+      "question": "安的诞生秘密已经确定了吗？",
+      "scope": "locked",
+      "expected": {
+        "statuses": [
+          "scope",
+          "clarify",
+          "missing"
+        ],
+        "noEvidence": true
+      }
+    },
+    {
+      "id": "open-37",
+      "entity": "ann",
+      "question": "安如何回忆水仙十字院？",
+      "scope": "entity",
+      "expected": {
+        "statuses": [
+          "answer"
+        ],
+        "relation": "institute-recollection",
+        "includes": [
+          "回忆"
+        ]
+      }
+    },
+    {
+      "id": "locked-37",
+      "entity": "ann",
+      "question": "安如何回忆水仙十字院？",
+      "scope": "locked",
+      "expected": {
+        "statuses": [
+          "scope",
+          "clarify",
+          "missing"
+        ],
+        "noEvidence": true
+      }
+    },
+    {
+      "id": "open-38",
+      "entity": "guillotin",
+      "question": "吉约丹是谁？",
+      "scope": "entity",
+      "expected": {
+        "statuses": [
+          "answer"
+        ],
+        "relation": "seymour-designer",
+        "includes": [
+          "设计者"
+        ]
+      }
+    },
+    {
+      "id": "locked-38",
+      "entity": "guillotin",
+      "question": "吉约丹是谁？",
+      "scope": "locked",
+      "expected": {
+        "statuses": [
+          "scope",
+          "clarify",
+          "missing"
+        ],
+        "noEvidence": true
+      }
+    },
+    {
+      "id": "open-39",
+      "entity": "marianne",
+      "question": "玛丽安是谁？",
+      "scope": "entity",
+      "expected": {
+        "statuses": [
+          "answer"
+        ],
+        "relation": "seymour-protects",
+        "includes": [
+          "主人"
+        ]
+      }
+    },
+    {
+      "id": "locked-39",
+      "entity": "marianne",
+      "question": "玛丽安是谁？",
+      "scope": "locked",
+      "expected": {
+        "statuses": [
+          "scope",
+          "clarify",
+          "missing"
+        ],
+        "noEvidence": true
+      }
+    },
+    {
+      "id": "open-40",
+      "entity": "marianne",
+      "question": "玛丽安与水仙十字结社有什么追捕关联？",
+      "scope": "entity",
+      "expected": {
+        "statuses": [
+          "answer"
+        ],
+        "relation": "marianne-pursuit",
+        "includes": [
+          "厄里那斯"
+        ]
+      }
+    },
+    {
+      "id": "locked-40",
+      "entity": "marianne",
+      "question": "玛丽安与水仙十字结社有什么追捕关联？",
+      "scope": "locked",
+      "expected": {
+        "statuses": [
+          "scope",
+          "clarify",
+          "missing"
+        ],
+        "noEvidence": true
+      }
+    },
+    {
+      "id": "boundary-1",
+      "entity": "ordo",
+      "question": "水仙十字是什么？",
+      "scope": "entity",
+      "expected": {
+        "statuses": [
+          "clarify"
+        ],
+        "noEvidence": true
+      }
+    },
+    {
+      "id": "boundary-2",
+      "entity": "ordo",
+      "question": "水仙十字结社与水仙十字院是同一个机构吗？",
+      "scope": "entity",
+      "expected": {
+        "statuses": [
+          "clarify"
+        ],
+        "noEvidence": true
+      }
+    },
+    {
+      "id": "boundary-3",
+      "entity": "marianne",
+      "question": "安眠处的「玛丽安」就是西摩尔的主人吗？",
+      "scope": "entity",
+      "expected": {
+        "statuses": [
+          "clarify"
+        ],
+        "noEvidence": true
+      }
+    },
+    {
+      "id": "boundary-4",
+      "entity": "ann",
+      "question": "安与玛丽安是同一个人吗？",
+      "scope": "entity",
+      "expected": {
+        "statuses": [
+          "clarify"
+        ],
+        "noEvidence": true
+      }
+    },
+    {
+      "id": "boundary-5",
+      "entity": "ordo",
+      "question": "水仙十字结社成立于哪一年？",
+      "scope": "entity",
+      "expected": {
+        "statuses": [
+          "missing"
+        ],
+        "noEvidence": true
+      }
+    },
+    {
+      "id": "boundary-6",
+      "entity": "seymour",
+      "question": "西摩尔的生日是哪一天？",
+      "scope": "entity",
+      "expected": {
+        "statuses": [
+          "missing"
+        ],
+        "noEvidence": true
+      }
+    },
+    {
+      "id": "boundary-7",
+      "entity": "jacob",
+      "question": "雅各布已经被捕了吗？",
+      "scope": "entity",
+      "expected": {
+        "statuses": [
+          "missing"
+        ],
+        "noEvidence": true
+      }
+    },
+    {
+      "id": "boundary-8",
+      "entity": "guillotin",
+      "question": "吉约丹的年龄是多少？",
+      "scope": "entity",
+      "expected": {
+        "statuses": [
+          "missing"
+        ],
+        "noEvidence": true
+      }
+    },
+    {
+      "id": "boundary-9",
+      "entity": "ordo",
+      "question": "水仙十字结社全部台词逐字全文。",
+      "scope": "entity",
+      "expected": {
+        "statuses": [
+          "missing"
+        ],
+        "noEvidence": true
+      }
+    },
+    {
+      "id": "boundary-10",
+      "entity": "seymour",
+      "question": "完全未收录的虚构对象是谁？",
+      "scope": "entity",
+      "expected": {
+        "statuses": [
+          "missing"
+        ],
+        "noEvidence": true
+      }
+    },
+    {
+      "id": "follow-1",
+      "entity": "ordo",
+      "primer": "水仙十字结社的领袖是谁？",
+      "question": "继续详细讲讲",
+      "scope": "entity",
+      "expected": {
+        "statuses": [
+          "answer"
+        ],
+        "relation": "leader-of",
+        "includes": [
+          "纳齐森科鲁兹"
+        ]
+      }
+    },
+    {
+      "id": "follow-2",
+      "entity": "ordo",
+      "primer": "水仙十字结社的目的是什么？",
+      "question": "再详细一点",
+      "scope": "entity",
+      "expected": {
+        "statuses": [
+          "answer"
+        ],
+        "relation": "purpose",
+        "includes": [
+          "拯救世界"
+        ]
+      }
+    },
+    {
+      "id": "follow-3",
+      "entity": "formula",
+      "primer": "谁质疑世界式的末日推论？",
+      "question": "简短一点",
+      "scope": "entity",
+      "expected": {
+        "statuses": [
+          "answer"
+        ],
+        "relation": "seymour-doubts",
+        "includes": [
+          "西摩尔"
+        ]
+      }
+    },
+    {
+      "id": "follow-4",
+      "entity": "seymour",
+      "primer": "西摩尔是谁？",
+      "question": "再讲一次",
+      "scope": "entity",
+      "expected": {
+        "statuses": [
+          "answer"
+        ],
+        "relation": "seymour-identifier",
+        "includes": [
+          "4ACV07"
+        ]
+      }
+    },
+    {
+      "id": "follow-5",
+      "entity": "seymour",
+      "primer": "西摩尔保护谁？",
+      "question": "继续",
+      "scope": "entity",
+      "expected": {
+        "statuses": [
+          "answer"
+        ],
+        "relation": "seymour-protects",
+        "includes": [
+          "玛丽安"
+        ]
+      }
+    },
+    {
+      "id": "follow-6",
+      "entity": "seymour",
+      "primer": "西摩尔的设计者是谁？",
+      "question": "继续详细讲讲",
+      "scope": "entity",
+      "expected": {
+        "statuses": [
+          "answer"
+        ],
+        "relation": "seymour-designer",
+        "includes": [
+          "吉约丹"
+        ]
+      }
+    },
+    {
+      "id": "follow-7",
+      "entity": "seymour",
+      "primer": "西摩尔与雅各布是什么关系？",
+      "question": "再详细一点",
+      "scope": "entity",
+      "expected": {
+        "statuses": [
+          "answer"
+        ],
+        "relation": "seymour-jacob",
+        "includes": [
+          "遭遇"
+        ]
+      }
+    },
+    {
+      "id": "follow-8",
+      "entity": "caterpillar",
+      "primer": "卡特皮拉曾属于什么组织？",
+      "question": "简短一点",
+      "scope": "entity",
+      "expected": {
+        "statuses": [
+          "answer"
+        ],
+        "relation": "caterpillar-member",
+        "includes": [
+          "历史关联"
+        ]
+      }
+    },
+    {
+      "id": "follow-9",
+      "entity": "ann",
+      "primer": "安和西摩尔曾经见过吗？",
+      "question": "再讲一次",
+      "scope": "entity",
+      "expected": {
+        "statuses": [
+          "answer"
+        ],
+        "relation": "ann-recognition",
+        "includes": [
+          "没见过"
+        ]
+      }
+    },
+    {
+      "id": "follow-10",
+      "entity": "guillotin",
+      "primer": "吉约丹是谁？",
+      "question": "继续",
+      "scope": "entity",
+      "expected": {
+        "statuses": [
+          "answer"
+        ],
+        "relation": "seymour-designer",
+        "includes": [
+          "设计者"
+        ]
+      }
+    }
+  ]
+}

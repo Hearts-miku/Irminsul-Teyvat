@@ -1,6 +1,6 @@
 {
   "name": "irminsul-teyvat",
-  "version": "0.9.1",
+  "version": "0.9.2",
   "private": true,
   "description": "世界树-提瓦特（Irminsul-Teyvat）· 原神剧情与知识库",
   "type": "module",
@@ -30,7 +30,10 @@
     "content:review": "node scripts/audit-review-queue.mjs",
     "test:delete-chat": "node scripts/test-delete-chat.mjs",
     "ontology:build": "node scripts/scan-ontology-candidates.mjs && node scripts/build-ontology.mjs",
-    "pretest": "node -e \"require('node:fs').mkdirSync('test-results',{recursive:true})\""
+    "pretest": "node -e \"require('node:fs').mkdirSync('test-results',{recursive:true})\"",
+    "ontology:backlog": "node scripts/build-ontology-backlog.mjs",
+    "ontology:eval": "node scripts/evaluate-ontology.mjs",
+    "test:ontology-desktop": "node scripts/test-ontology-reviewed-desktop.mjs"
   },
   "build": {
     "appId": "local.windborne.stories",

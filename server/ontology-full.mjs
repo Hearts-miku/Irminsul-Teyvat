@@ -1,15 +1,20 @@
 import {readFileSync,statSync} from 'node:fs';
 import {join} from 'node:path';
 import {normalizeName,fingerprint,nameMatcher,classifyIntent} from './ontology-index.mjs';
+import {loadReviewed} from './ontology-reviewed.mjs';
 import {tokens} from './retrieval.mjs';
 const cache=new Map();
 export function installFullOntology(root,pack,corpus){
  const file=join(root,'data/ontology/index.json'),stamp=statSync(file).mtimeMs;
  let g=cache.get(file);if(g?.stamp!==stamp){g={...JSON.parse(readFileSync(file)),stamp};cache.set(file,g);}
+ const reviews=loadReviewed(root,corpus.pages);const reviewedNodes=new Map(reviews.entities.flatMap(e=>e.nodeIds.map(id=>[id,e])));
+ g={...g,nodes:g.nodes.map(n=>{const e=reviewedNodes.get(n.id);return e?{...n,type:e.type,aliases:[...new Set([...n.aliases,...e.aliases])],reviewStatus:'source-reviewed',canonicalNodeId:e.primaryNodeId,reviewNote:e.scopeNote}:n;})};
+ g.summary={...g.summary,reviewedEntities:reviews.entities.length,reviewedRelations:reviews.relations.length};
  const pages=new Map(corpus.pages.map(p=>[p.pageid,p])),snapshots=new Map(g.pages.map(p=>[p.pageid,p]));
  const nodes=new Map(g.nodes.map(n=>[n.id,n])),byStage=new Map(g.nodes.map(n=>[n.stageId,n]));
  const aliases=new Map();for(const n of g.nodes)for(const a of n.aliases){const ids=aliases.get(a)??[];ids.push(n.id);aliases.set(a,ids);}
- const match=nameMatcher(aliases),validMemo=new Map();
+ // Dialogue headings such as “谁?” remain browsable, but are not entity mentions.
+ const match=nameMatcher([...aliases].filter(([a])=>!/^(?:谁|什么|为什么|怎么|哪里|何处)[?？。！!]*$/.test(a))),validMemo=new Map();
  function valid(index){if(validMemo.has(index))return validMemo.get(index);const e=g.evidence[index],p=pages.get(e.pageid),old=snapshots.get(e.pageid),s=p?.sections[e.index];const ok=p&&old&&p.revision===old.revision&&p.sha256===old.sha256&&s&&fingerprint(s)===e.hash;validMemo.set(index,!!ok);return !!ok;}
  function row(index,stage){const e=g.evidence[index],p=pages.get(e.pageid),s=p.sections[e.index];return{id:`ontology-full-${e.pageid}-${e.index}-${e.hash.slice(0,12)}`,stage,topic:p.title+' · '+(s.path.at(-1)??'正文'),section:s.path.join(' / '),task:p.title,text:(s.path.length?'【'+s.path.join(' / ')+'】\n':'')+s.text,sourceId:'corpus-source-'+p.pageid,contentType:'source',entities:[],keywords:[p.title,...s.path],ontologyEvidenceIndex:index};}
  const entitySuggestions=n=>[`${n.name}是什么？`,`${n.name}有哪些经历？`,`${n.name}与谁有关？`];
@@ -25,7 +30,7 @@ export function installFullOntology(root,pack,corpus){
  corpus.records=progress=>byStage.has(progress)?entityRecords(byStage.get(progress)):original(progress);
  const relationsByNode=new Map();for(const r of g.relations)for(const id of [r.subject,r.object]){const list=relationsByNode.get(id)??[];list.push(r);relationsByNode.set(id,list);}
  function scopeChoices(list,q){return list.filter(n=>n.evidence.some(valid)).slice(0,8).map(n=>({stageId:n.stageId,label:`开放「${n.name}」· ${n.type}（含后续剧情）`,question:q}));}
- function locate(q){q=normalizeName(q);const matched=match(q).map(id=>nodes.get(id));const length=n=>Math.max(...n.aliases.filter(a=>q.includes(a)).map(a=>a.length));const longest=Math.max(...matched.map(length));return matched.filter(n=>length(n)===longest||!matched.some(o=>length(o)>length(n)&&o.aliases.some(a=>q.includes(a)&&n.aliases.some(b=>q.includes(b)&&a.includes(b)))));}
+ function locate(q){q=normalizeName(q);const matched=[...new Map(match(q).map(id=>nodes.get(id)).map(n=>{const canonical=nodes.get(n.canonicalNodeId)??n;return[canonical.id,canonical];})).values()];const length=n=>Math.max(...n.aliases.filter(a=>q.includes(a)).map(a=>a.length));const longest=Math.max(...matched.map(length));return matched.filter(n=>length(n)===longest||!matched.some(o=>length(o)>length(n)&&o.aliases.some(a=>q.includes(a)&&n.aliases.some(b=>q.includes(b)&&a.includes(b)))));}
  function retrieve(q,session,base,records){
   const current=byStage.get(session.progress),follow=/^(继续|再详细|详细|再讲|简短|它|他|她|这个组织|这个人)/.test(q);
   const intent=(follow&&/^(继续|再详细|详细|再讲|简短)/.test(q)?session.context?.ontologyIntent:null)??classifyIntent(q)??(follow&&session.context?.ontologyEntityIds?'definition':null);
@@ -33,8 +38,8 @@ export function installFullOntology(root,pack,corpus){
   if(!current&&['spoiler','reference'].includes(base.status))return null;
   let found=locate(q);if(!found.length&&follow&&session.context?.ontologyEntityIds)found=session.context.ontologyEntityIds.map(id=>nodes.get(id)).filter(Boolean);if(!found.length&&current){if(!follow&&!/^(介绍一下|介绍|讲讲|有哪些经历|有哪些成员|在哪里)[？?。！!]*$/.test(q))return{status:'missing',records:[],message:'没有识别到这个问题的实体，请使用资料中的完整名称，或从推荐问题继续。',followups:entitySuggestions(current)};found=[current];}if(!found.length)return null;
   if(!current&&base.status==='answer'&&(base.contentType!=='source'||base.records?.some(r=>r.linkedSource)))return{...base,scopeSuggestions:scopeChoices(found,q)};
-  if(current)found=found.filter(n=>n.id===current.id||!current.aliases.includes(n.name));
-  if(current&&found.length&&!found.some(n=>n.id===current.id))return{status:'scope',records:[],message:'这个问题涉及另一对象，请选择关联专题新建对话。',scopeSuggestions:scopeChoices(found,q),followups:[]};
+  if(current)found=found.filter(n=>(n.canonicalNodeId??n.id)===(current.canonicalNodeId??current.id)||!current.aliases.includes(n.name));
+  if(current&&found.length&&!found.some(n=>(n.canonicalNodeId??n.id)===(current.canonicalNodeId??current.id)))return{status:'scope',records:[],message:'这个问题涉及另一对象，请选择关联专题新建对话。',scopeSuggestions:scopeChoices(found,q),followups:[]};
   const ambiguous=found.some(n=>found.some(o=>o.id!==n.id&&o.aliases.some(a=>q.includes(a)&&n.aliases.includes(a))));
   if(ambiguous&&!current)return{status:'clarify',records:[],message:'这个名称对应不同类型，请选择你指的对象；开放后将新建对话，原会话保留。',scopeSuggestions:scopeChoices(found,q),followups:[]};
   const selected=current?[current]:found;
@@ -63,7 +68,7 @@ export function installFullOntology(root,pack,corpus){
   for(const {i} of chosen)for(const j of [i-1,i+1]){if(result.size>=6||!candidates.has(j))continue;const a=g.evidence[i],b=g.evidence[j];if(a.pageid!==b.pageid||Math.abs(a.index-b.index)!==1)continue;const p=pages.get(a.pageid);if(JSON.stringify(p.sections[a.index].path)===JSON.stringify(p.sections[b.index].path))result.set(j,candidates.get(j));}
   return{status:'answer',records:[...result.values()],contentType:'source',context:{topic:selected[0].name,recordIds:[...result.values()].map(r=>r.id),entities:[],ontologyEntityIds:selected.map(n=>n.id),ontologyIntent:intent},followups:entitySuggestions(selected[0]),scopeSuggestions:current?[]:scopeChoices(selected,q)};
  }
- const query=params=>{const q=normalizeName((params.get('q')??'').slice(0,100)),type=params.get('type')??'',page=Math.max(1,Math.min(10000,Math.floor(Number(params.get('page')))||1));const all=g.nodes.filter(n=>(!q||n.aliases.some(a=>a.includes(q)))&&(!type||n.type===type));all.sort((a,b)=>Number(b.name===q)-Number(a.name===q)||b.evidence.length-a.evidence.length);return{summary:g.summary,total:all.length,page,pageSize:30,types:[...new Set(g.nodes.map(n=>n.type))],items:all.slice((page-1)*30,page*30).map(n=>({id:n.id,name:n.name,type:n.type,stageId:n.stageId,status:n.status,ambiguous:n.ambiguous,evidenceCount:n.evidence.length,relationCount:relationsByNode.get(n.id)?.length??0}))};};
+ const query=params=>{const q=normalizeName((params.get('q')??'').slice(0,100)),type=params.get('type')??'',page=Math.max(1,Math.min(10000,Math.floor(Number(params.get('page')))||1));const all=g.nodes.filter(n=>(!n.canonicalNodeId||n.canonicalNodeId===n.id)&&(!q||n.aliases.some(a=>a.includes(q)))&&(!type||n.type===type));all.sort((a,b)=>Number(b.name===q)-Number(a.name===q)||b.evidence.length-a.evidence.length);return{summary:g.summary,total:all.length,page,pageSize:30,types:[...new Set(g.nodes.map(n=>n.type))],items:all.slice((page-1)*30,page*30).map(n=>({id:n.id,name:n.name,type:n.type,stageId:n.stageId,status:n.status,reviewStatus:n.reviewStatus,reviewNote:n.reviewNote,ambiguous:n.canonicalNodeId?false:n.ambiguous,evidenceCount:n.evidence.length,relationCount:relationsByNode.get(n.id)?.length??0}))};};
  function evidenceRecord(id,session,records){const match=/^ontology-full-(\d+)-(\d+)-([a-f0-9]+)$/.exec(id);if(!match)return null;const index=g.evidence.findIndex(e=>e.pageid===Number(match[1])&&e.index===Number(match[2])&&e.hash.startsWith(match[3]));if(index<0||!valid(index))return null;if(byStage.has(session.progress)){if(!entityRecords(byStage.get(session.progress)).some(r=>r.id===id))return null;}else if(!records.some(r=>r.id===g.evidence[index].recordId))return null;return row(index,session.progress);}
  return{retrieve,query,evidenceRecord,summary:g.summary};
 }

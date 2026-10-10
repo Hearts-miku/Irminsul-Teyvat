@@ -1,0 +1,863 @@
+{
+  "schemaVersion": 1,
+  "checkedAt": "2026-10-10",
+  "reviewMethod": "逐条对照本地固定来源文本；不是在线新版本复查，也未核对整页所有事实。",
+  "entities": [
+    {
+      "id": "ordo",
+      "name": "水仙十字结社",
+      "type": "组织或族群",
+      "aliases": [
+        "水仙十字结社"
+      ],
+      "nodeIds": [
+        "9b868ccac148acbfa815"
+      ],
+      "primaryNodeId": "9b868ccac148acbfa815",
+      "status": "source-reviewed",
+      "checkedAt": "2026-10-10",
+      "scopeNote": "分类及别名限于所列原文依据，不代表全部经历已核对。",
+      "evidence": {
+        "pageid": 122821,
+        "title": "藻海的寻踪",
+        "revision": 656222,
+        "sha256": "c5a94dc24bd3045a486b07bb15a2b2772c009a1acd4802de4d9c9823465dae0c",
+        "index": 215,
+        "path": [
+          "任务剧情",
+          "准备好后，与卡特皮拉对话"
+        ],
+        "textHash": "6eee8a504b5fc3a418ac4bd3986fd2c71daa2b5f95b1f6f7859d3fafd3fb7a48",
+        "recordId": "corpus-122821-656222-645de7d982c3d5ac-0",
+        "fullRecordId": "ontology-full-122821-215-663189696988"
+      },
+      "reviewHash": "a7f9ea699a23d786fd04db4ea166975227fd8e308423a3819a306285133a464f"
+    },
+    {
+      "id": "leader",
+      "name": "纳齐森科鲁兹",
+      "type": "人物",
+      "aliases": [
+        "纳齐森科鲁兹"
+      ],
+      "nodeIds": [
+        "83b77965c489cdb7b92b"
+      ],
+      "primaryNodeId": "83b77965c489cdb7b92b",
+      "status": "source-reviewed",
+      "checkedAt": "2026-10-10",
+      "scopeNote": "分类及别名限于所列原文依据，不代表全部经历已核对。",
+      "evidence": {
+        "pageid": 122821,
+        "title": "藻海的寻踪",
+        "revision": 656222,
+        "sha256": "c5a94dc24bd3045a486b07bb15a2b2772c009a1acd4802de4d9c9823465dae0c",
+        "index": 215,
+        "path": [
+          "任务剧情",
+          "准备好后，与卡特皮拉对话"
+        ],
+        "textHash": "6eee8a504b5fc3a418ac4bd3986fd2c71daa2b5f95b1f6f7859d3fafd3fb7a48",
+        "recordId": "corpus-122821-656222-645de7d982c3d5ac-0",
+        "fullRecordId": "ontology-full-122821-215-663189696988"
+      },
+      "reviewHash": "c9578d4759c205700e45c082839dfae11316dee807537ffd60996833504b9209"
+    },
+    {
+      "id": "jacob",
+      "name": "雅各布·英戈德",
+      "type": "人物",
+      "aliases": [
+        "雅各布·英戈德",
+        "雅各布"
+      ],
+      "nodeIds": [
+        "44468358544a956d83a4",
+        "b4f36896ad1cd02f6b88"
+      ],
+      "primaryNodeId": "b4f36896ad1cd02f6b88",
+      "status": "source-reviewed",
+      "checkedAt": "2026-10-10",
+      "scopeNote": "同一段对白先用全名再以简称指代，保留两个旧节点 ID 以兼容会话。",
+      "evidence": {
+        "pageid": 110431,
+        "title": "最后的问题",
+        "revision": 645483,
+        "sha256": "d37015807c28512b4da942b6ea8a1a2707e8affacc0c346010178c17c8c9bb84",
+        "index": 24,
+        "path": [
+          "任务剧情",
+          "与西摩尔对话",
+          "源码选项组 1",
+          "选项 2：关于水仙十字结社…"
+        ],
+        "textHash": "fa8e3014c88568f7e7f90e1a195d477bd35d91d0558c6eeb2d58db6d2b640a7a",
+        "recordId": "corpus-110431-645483-eff10fc4c647eb4a-0",
+        "fullRecordId": "ontology-full-110431-24-8e0d12164f30"
+      },
+      "reviewHash": "82a97f6973dca7ee765c4398787864097ea4aa910a2187948ad9144a53b87588"
+    },
+    {
+      "id": "caterpillar",
+      "name": "卡特皮拉",
+      "type": "人物",
+      "aliases": [
+        "卡特皮拉"
+      ],
+      "nodeIds": [
+        "4c7840c8ebe899b4eb93"
+      ],
+      "primaryNodeId": "4c7840c8ebe899b4eb93",
+      "status": "source-reviewed",
+      "checkedAt": "2026-10-10",
+      "scopeNote": "分类及别名限于所列原文依据，不代表全部经历已核对。",
+      "evidence": {
+        "pageid": 122821,
+        "title": "藻海的寻踪",
+        "revision": 656222,
+        "sha256": "c5a94dc24bd3045a486b07bb15a2b2772c009a1acd4802de4d9c9823465dae0c",
+        "index": 215,
+        "path": [
+          "任务剧情",
+          "准备好后，与卡特皮拉对话"
+        ],
+        "textHash": "6eee8a504b5fc3a418ac4bd3986fd2c71daa2b5f95b1f6f7859d3fafd3fb7a48",
+        "recordId": "corpus-122821-656222-645de7d982c3d5ac-0",
+        "fullRecordId": "ontology-full-122821-215-663189696988"
+      },
+      "reviewHash": "1dcdd61f9dd4ee13bb96c84334f66be819570727dabf4d193440854af8359622"
+    },
+    {
+      "id": "formula",
+      "name": "世界式",
+      "type": "概念",
+      "aliases": [
+        "世界式"
+      ],
+      "nodeIds": [
+        "f68aa680af306dc8dedb"
+      ],
+      "primaryNodeId": "f68aa680af306dc8dedb",
+      "status": "source-reviewed",
+      "checkedAt": "2026-10-10",
+      "scopeNote": "分类及别名限于所列原文依据，不代表全部经历已核对。",
+      "evidence": {
+        "pageid": 122821,
+        "title": "藻海的寻踪",
+        "revision": 656222,
+        "sha256": "c5a94dc24bd3045a486b07bb15a2b2772c009a1acd4802de4d9c9823465dae0c",
+        "index": 215,
+        "path": [
+          "任务剧情",
+          "准备好后，与卡特皮拉对话"
+        ],
+        "textHash": "6eee8a504b5fc3a418ac4bd3986fd2c71daa2b5f95b1f6f7859d3fafd3fb7a48",
+        "recordId": "corpus-122821-656222-645de7d982c3d5ac-0",
+        "fullRecordId": "ontology-full-122821-215-663189696988"
+      },
+      "reviewHash": "1ea072c53e5d921ff574780193ca456c6fcbeaf00fbffdb461893acc94910dbf"
+    },
+    {
+      "id": "seymour",
+      "name": "西摩尔",
+      "type": "机械造物",
+      "aliases": [
+        "西摩尔",
+        "4ACV07"
+      ],
+      "nodeIds": [
+        "8a0a0c995d51c24e1a4c"
+      ],
+      "primaryNodeId": "8a0a0c995d51c24e1a4c",
+      "status": "source-reviewed",
+      "checkedAt": "2026-10-10",
+      "scopeNote": "分类及别名限于所列原文依据，不代表全部经历已核对。",
+      "evidence": {
+        "pageid": 110431,
+        "title": "最后的问题",
+        "revision": 645483,
+        "sha256": "d37015807c28512b4da942b6ea8a1a2707e8affacc0c346010178c17c8c9bb84",
+        "index": 16,
+        "path": [
+          "任务剧情",
+          "与西摩尔对话",
+          "源码选项组 1",
+          "选项 1：关于西摩尔自己…"
+        ],
+        "textHash": "6b814626ad8549687ac465074e8afdfcb343b1c600e1a10cc9bef013407e3724",
+        "recordId": "corpus-110431-645483-8a0b344ad5477c4d-0",
+        "fullRecordId": "ontology-full-110431-16-e38e00bf2339"
+      },
+      "reviewHash": "191b932e2c6549d1f68cd53b36f300ef0503b47f1875f3c658ab8a78a1b9c366"
+    },
+    {
+      "id": "marianne",
+      "name": "玛丽安",
+      "type": "人物",
+      "aliases": [
+        "玛丽安"
+      ],
+      "nodeIds": [
+        "23ab1c7d646a57b9394c"
+      ],
+      "primaryNodeId": "23ab1c7d646a57b9394c",
+      "status": "source-reviewed",
+      "checkedAt": "2026-10-10",
+      "scopeNote": "仅指西摩尔提到的主人；不自动与安眠处的「玛丽安」身份合并。",
+      "evidence": {
+        "pageid": 110431,
+        "title": "最后的问题",
+        "revision": 645483,
+        "sha256": "d37015807c28512b4da942b6ea8a1a2707e8affacc0c346010178c17c8c9bb84",
+        "index": 24,
+        "path": [
+          "任务剧情",
+          "与西摩尔对话",
+          "源码选项组 1",
+          "选项 2：关于水仙十字结社…"
+        ],
+        "textHash": "fa8e3014c88568f7e7f90e1a195d477bd35d91d0558c6eeb2d58db6d2b640a7a",
+        "recordId": "corpus-110431-645483-eff10fc4c647eb4a-0",
+        "fullRecordId": "ontology-full-110431-24-8e0d12164f30"
+      },
+      "reviewHash": "281945ed33323c2b596749e5d04d58aa2692c4db3a5b2a25885dc0cba741ce8a"
+    },
+    {
+      "id": "guillotin",
+      "name": "吉约丹",
+      "type": "人物",
+      "aliases": [
+        "吉约丹"
+      ],
+      "nodeIds": [
+        "a6d27143d0f8549d448d"
+      ],
+      "primaryNodeId": "a6d27143d0f8549d448d",
+      "status": "source-reviewed",
+      "checkedAt": "2026-10-10",
+      "scopeNote": "分类及别名限于所列原文依据，不代表全部经历已核对。",
+      "evidence": {
+        "pageid": 110431,
+        "title": "最后的问题",
+        "revision": 645483,
+        "sha256": "d37015807c28512b4da942b6ea8a1a2707e8affacc0c346010178c17c8c9bb84",
+        "index": 47,
+        "path": [
+          "任务剧情",
+          "与西摩尔对话"
+        ],
+        "textHash": "c2181dbed8d98644a78c6a015c275f3e31246fe42c7ae124814302aaad22b9c5",
+        "recordId": "corpus-110431-645483-1f831342120af2a7-0",
+        "fullRecordId": "ontology-full-110431-47-b653a5eb63b1"
+      },
+      "reviewHash": "8042a1371b82cfc16fe4527732d5728dd5eb474b1a711e44584da05c11ee7844"
+    },
+    {
+      "id": "ann",
+      "name": "安",
+      "type": "纯水精灵",
+      "aliases": [
+        "纯水精灵安",
+        "纯水精灵·安",
+        "安"
+      ],
+      "nodeIds": [
+        "0db1328f68839ff74226"
+      ],
+      "primaryNodeId": "0db1328f68839ff74226",
+      "status": "source-reviewed",
+      "checkedAt": "2026-10-10",
+      "scopeNote": "仅用于本专题的纯水精灵安；单字提及仍需语境。",
+      "evidence": {
+        "pageid": 110431,
+        "title": "最后的问题",
+        "revision": 645483,
+        "sha256": "d37015807c28512b4da942b6ea8a1a2707e8affacc0c346010178c17c8c9bb84",
+        "index": 47,
+        "path": [
+          "任务剧情",
+          "与西摩尔对话"
+        ],
+        "textHash": "c2181dbed8d98644a78c6a015c275f3e31246fe42c7ae124814302aaad22b9c5",
+        "recordId": "corpus-110431-645483-1f831342120af2a7-0",
+        "fullRecordId": "ontology-full-110431-47-b653a5eb63b1"
+      },
+      "reviewHash": "d10df8a011d689885d3e372b45368e017a38362079539d9ed2f7f80e735819cd"
+    }
+  ],
+  "relations": [
+    {
+      "id": "leader-of",
+      "subject": "ordo",
+      "predicate": "领袖",
+      "object": "leader",
+      "intents": [
+        "definition",
+        "leader"
+      ],
+      "attribution": "卡特皮拉的陈述",
+      "claim": "据卡特皮拉介绍，水仙十字结社的领袖是纳齐森科鲁兹。",
+      "evidence": {
+        "pageid": 122821,
+        "title": "藻海的寻踪",
+        "revision": 656222,
+        "sha256": "c5a94dc24bd3045a486b07bb15a2b2772c009a1acd4802de4d9c9823465dae0c",
+        "index": 215,
+        "path": [
+          "任务剧情",
+          "准备好后，与卡特皮拉对话"
+        ],
+        "textHash": "6eee8a504b5fc3a418ac4bd3986fd2c71daa2b5f95b1f6f7859d3fafd3fb7a48",
+        "recordId": "corpus-122821-656222-645de7d982c3d5ac-0",
+        "fullRecordId": "ontology-full-122821-215-663189696988"
+      },
+      "status": "source-reviewed",
+      "checkedAt": "2026-10-10",
+      "kind": "attributed-fact",
+      "reviewHash": "e9460f4f3a006f47c86bb28799e5e33dea85935fd98b18a9d71dcefae5bf72d6"
+    },
+    {
+      "id": "purpose",
+      "subject": "ordo",
+      "predicate": "宣称目标",
+      "object": "拯救世界",
+      "intents": [
+        "definition",
+        "purpose"
+      ],
+      "attribution": "卡特皮拉对其动机的解释；不代表行为正当",
+      "claim": "卡特皮拉将其行动动机解释为：根据世界式推算出末日后，试图拯救世界。这个动机解释不等于认可结社的行为。",
+      "evidence": {
+        "pageid": 122821,
+        "title": "藻海的寻踪",
+        "revision": 656222,
+        "sha256": "c5a94dc24bd3045a486b07bb15a2b2772c009a1acd4802de4d9c9823465dae0c",
+        "index": 215,
+        "path": [
+          "任务剧情",
+          "准备好后，与卡特皮拉对话"
+        ],
+        "textHash": "6eee8a504b5fc3a418ac4bd3986fd2c71daa2b5f95b1f6f7859d3fafd3fb7a48",
+        "recordId": "corpus-122821-656222-645de7d982c3d5ac-0",
+        "fullRecordId": "ontology-full-122821-215-663189696988"
+      },
+      "status": "source-reviewed",
+      "checkedAt": "2026-10-10",
+      "kind": "attributed-claim",
+      "reviewHash": "97348e3a7d981f0afe56d3631147e7f1e4e7a7b1aa5e06578d167422e81c8005"
+    },
+    {
+      "id": "prediction",
+      "subject": "ordo",
+      "predicate": "使用理论",
+      "object": "formula",
+      "intents": [
+        "definition",
+        "prediction"
+      ],
+      "attribution": "人物观点存在分歧",
+      "claim": "末日是结社依据世界式推算的结果；同场西摩尔对这一判断提出质疑，不能把它直接当成已证实的世界事实。",
+      "evidence": {
+        "pageid": 122821,
+        "title": "藻海的寻踪",
+        "revision": 656222,
+        "sha256": "c5a94dc24bd3045a486b07bb15a2b2772c009a1acd4802de4d9c9823465dae0c",
+        "index": 215,
+        "path": [
+          "任务剧情",
+          "准备好后，与卡特皮拉对话"
+        ],
+        "textHash": "6eee8a504b5fc3a418ac4bd3986fd2c71daa2b5f95b1f6f7859d3fafd3fb7a48",
+        "recordId": "corpus-122821-656222-645de7d982c3d5ac-0",
+        "fullRecordId": "ontology-full-122821-215-663189696988"
+      },
+      "status": "source-reviewed",
+      "checkedAt": "2026-10-10",
+      "kind": "attributed-claim",
+      "reviewHash": "a0d0c2ee40fd7710a3c896bd3bb2c6fcfbf893426e42bf839d70d7ffa25d1356"
+    },
+    {
+      "id": "member",
+      "subject": "ordo",
+      "predicate": "核心成员",
+      "object": "jacob",
+      "intents": [
+        "definition",
+        "membership"
+      ],
+      "attribution": "西摩尔的记录与陈述",
+      "claim": "据西摩尔的记录，雅各布·英戈德是结社核心成员，曾在厄里那斯被追捕。",
+      "evidence": {
+        "pageid": 110431,
+        "title": "最后的问题",
+        "revision": 645483,
+        "sha256": "d37015807c28512b4da942b6ea8a1a2707e8affacc0c346010178c17c8c9bb84",
+        "index": 24,
+        "path": [
+          "任务剧情",
+          "与西摩尔对话",
+          "源码选项组 1",
+          "选项 2：关于水仙十字结社…"
+        ],
+        "textHash": "fa8e3014c88568f7e7f90e1a195d477bd35d91d0558c6eeb2d58db6d2b640a7a",
+        "recordId": "corpus-110431-645483-eff10fc4c647eb4a-0",
+        "fullRecordId": "ontology-full-110431-24-8e0d12164f30"
+      },
+      "status": "source-reviewed",
+      "checkedAt": "2026-10-10",
+      "kind": "attributed-fact",
+      "reviewHash": "0027ad0c14022f4bcb2f494c8249151f3dd94aadbbf6922dd2c07eaf96199c9f"
+    },
+    {
+      "id": "seymour-identifier",
+      "subject": "seymour",
+      "predicate": "原型机编号",
+      "object": "4ACV07",
+      "intents": [
+        "definition",
+        "identifier"
+      ],
+      "claim": "西摩尔自述自己是原型机 4ACV07。",
+      "attribution": "西摩尔自述",
+      "evidence": {
+        "pageid": 110431,
+        "title": "最后的问题",
+        "revision": 645483,
+        "sha256": "d37015807c28512b4da942b6ea8a1a2707e8affacc0c346010178c17c8c9bb84",
+        "index": 16,
+        "path": [
+          "任务剧情",
+          "与西摩尔对话",
+          "源码选项组 1",
+          "选项 1：关于西摩尔自己…"
+        ],
+        "textHash": "6b814626ad8549687ac465074e8afdfcb343b1c600e1a10cc9bef013407e3724",
+        "recordId": "corpus-110431-645483-8a0b344ad5477c4d-0",
+        "fullRecordId": "ontology-full-110431-16-e38e00bf2339"
+      },
+      "kind": "attributed-fact",
+      "status": "source-reviewed",
+      "checkedAt": "2026-10-10",
+      "reviewHash": "ccc0333ed491cc97579e4575684bd9a6ff8bb038a76134b25be6ab5b251928cb"
+    },
+    {
+      "id": "seymour-protects",
+      "subject": "seymour",
+      "predicate": "陪伴与保护",
+      "object": "marianne",
+      "intents": [
+        "definition",
+        "protection",
+        "relation"
+      ],
+      "claim": "据西摩尔介绍，它被设计用于陪伴并保护主人玛丽安小姐。",
+      "attribution": "西摩尔自述职责",
+      "evidence": {
+        "pageid": 110431,
+        "title": "最后的问题",
+        "revision": 645483,
+        "sha256": "d37015807c28512b4da942b6ea8a1a2707e8affacc0c346010178c17c8c9bb84",
+        "index": 16,
+        "path": [
+          "任务剧情",
+          "与西摩尔对话",
+          "源码选项组 1",
+          "选项 1：关于西摩尔自己…"
+        ],
+        "textHash": "6b814626ad8549687ac465074e8afdfcb343b1c600e1a10cc9bef013407e3724",
+        "recordId": "corpus-110431-645483-8a0b344ad5477c4d-0",
+        "fullRecordId": "ontology-full-110431-16-e38e00bf2339"
+      },
+      "kind": "attributed-fact",
+      "status": "source-reviewed",
+      "checkedAt": "2026-10-10",
+      "reviewHash": "45307b2d280a72edff40f017dc9477b1af374b12040e01273325c95fdfe94f0a"
+    },
+    {
+      "id": "seymour-designer",
+      "subject": "seymour",
+      "predicate": "设计者",
+      "object": "guillotin",
+      "intents": [
+        "designer",
+        "relation",
+        "definition"
+      ],
+      "claim": "在《最后的问题》这段对白中，西摩尔的机械音逐渐清晰，并明确说出自己的设计者是吉约丹。前面的噪音片段本身不能提供这个名字。",
+      "attribution": "西摩尔恢复的记录；限这段对白所确认的设计者",
+      "evidence": {
+        "pageid": 110431,
+        "title": "最后的问题",
+        "revision": 645483,
+        "sha256": "d37015807c28512b4da942b6ea8a1a2707e8affacc0c346010178c17c8c9bb84",
+        "index": 47,
+        "path": [
+          "任务剧情",
+          "与西摩尔对话"
+        ],
+        "textHash": "c2181dbed8d98644a78c6a015c275f3e31246fe42c7ae124814302aaad22b9c5",
+        "recordId": "corpus-110431-645483-1f831342120af2a7-0",
+        "fullRecordId": "ontology-full-110431-47-b653a5eb63b1"
+      },
+      "kind": "attributed-fact",
+      "status": "source-reviewed",
+      "checkedAt": "2026-10-10",
+      "reviewHash": "ba517769b65f836a002058bb7d186ccba0d5ca0d41bfba82261a046faf9a12d4"
+    },
+    {
+      "id": "marianne-pursuit",
+      "subject": "marianne",
+      "predicate": "参与追捕",
+      "object": "ordo",
+      "intents": [
+        "history",
+        "relation"
+      ],
+      "claim": "据西摩尔的记录，玛丽安参与了逮捕水仙十字结社在逃党羽的行动，并前往厄里那斯。",
+      "attribution": "西摩尔记录中的行动，不推断完整结果",
+      "evidence": {
+        "pageid": 110431,
+        "title": "最后的问题",
+        "revision": 645483,
+        "sha256": "d37015807c28512b4da942b6ea8a1a2707e8affacc0c346010178c17c8c9bb84",
+        "index": 24,
+        "path": [
+          "任务剧情",
+          "与西摩尔对话",
+          "源码选项组 1",
+          "选项 2：关于水仙十字结社…"
+        ],
+        "textHash": "fa8e3014c88568f7e7f90e1a195d477bd35d91d0558c6eeb2d58db6d2b640a7a",
+        "recordId": "corpus-110431-645483-eff10fc4c647eb4a-0",
+        "fullRecordId": "ontology-full-110431-24-8e0d12164f30"
+      },
+      "kind": "attributed-fact",
+      "status": "source-reviewed",
+      "checkedAt": "2026-10-10",
+      "reviewHash": "e48bba024285cce9d6341a51b0c4db132151b9d7286e510ed90871595c5e3f9a"
+    },
+    {
+      "id": "seymour-pursuit",
+      "subject": "seymour",
+      "predicate": "参与追捕",
+      "object": "ordo",
+      "intents": [
+        "history",
+        "relation"
+      ],
+      "claim": "西摩尔称自己作为玛丽安的陪伴者与保护者，随她前往厄里那斯，执行追捕结社党羽的行动。",
+      "attribution": "西摩尔记录",
+      "evidence": {
+        "pageid": 110431,
+        "title": "最后的问题",
+        "revision": 645483,
+        "sha256": "d37015807c28512b4da942b6ea8a1a2707e8affacc0c346010178c17c8c9bb84",
+        "index": 24,
+        "path": [
+          "任务剧情",
+          "与西摩尔对话",
+          "源码选项组 1",
+          "选项 2：关于水仙十字结社…"
+        ],
+        "textHash": "fa8e3014c88568f7e7f90e1a195d477bd35d91d0558c6eeb2d58db6d2b640a7a",
+        "recordId": "corpus-110431-645483-eff10fc4c647eb4a-0",
+        "fullRecordId": "ontology-full-110431-24-8e0d12164f30"
+      },
+      "kind": "attributed-fact",
+      "status": "source-reviewed",
+      "checkedAt": "2026-10-10",
+      "reviewHash": "d54e8dac4da49b7a2673d9d2a69b10a0192e2ad3f4a398a2b7b587c4bdfbce60"
+    },
+    {
+      "id": "seymour-jacob",
+      "subject": "seymour",
+      "predicate": "行动中遭遇",
+      "object": "jacob",
+      "intents": [
+        "history",
+        "relation"
+      ],
+      "claim": "西摩尔记录称，在厄里那斯遭遇的结社成员中包括雅各布·英戈德；这段记录没有证明雅各布已经被捕。",
+      "attribution": "西摩尔记录；遭遇不等于逮捕成功",
+      "evidence": {
+        "pageid": 110431,
+        "title": "最后的问题",
+        "revision": 645483,
+        "sha256": "d37015807c28512b4da942b6ea8a1a2707e8affacc0c346010178c17c8c9bb84",
+        "index": 24,
+        "path": [
+          "任务剧情",
+          "与西摩尔对话",
+          "源码选项组 1",
+          "选项 2：关于水仙十字结社…"
+        ],
+        "textHash": "fa8e3014c88568f7e7f90e1a195d477bd35d91d0558c6eeb2d58db6d2b640a7a",
+        "recordId": "corpus-110431-645483-eff10fc4c647eb4a-0",
+        "fullRecordId": "ontology-full-110431-24-8e0d12164f30"
+      },
+      "kind": "attributed-fact",
+      "status": "source-reviewed",
+      "checkedAt": "2026-10-10",
+      "reviewHash": "779ee15804a2ca64a4ee7b78c3ce3413543d09a549ea02ebf9544af3b3024c28"
+    },
+    {
+      "id": "caterpillar-member",
+      "subject": "caterpillar",
+      "predicate": "自述曾属成员",
+      "object": "ordo",
+      "intents": [
+        "membership",
+        "relation"
+      ],
+      "claim": "卡特皮拉回顾行动时，将自己、雅各布和莉利丝与其他结社成员一同列举。这里只能据此说明他自述的历史关联，不能推定其现在仍效忠结社。",
+      "attribution": "卡特皮拉对往事的回顾",
+      "evidence": {
+        "pageid": 122821,
+        "title": "藻海的寻踪",
+        "revision": 656222,
+        "sha256": "c5a94dc24bd3045a486b07bb15a2b2772c009a1acd4802de4d9c9823465dae0c",
+        "index": 215,
+        "path": [
+          "任务剧情",
+          "准备好后，与卡特皮拉对话"
+        ],
+        "textHash": "6eee8a504b5fc3a418ac4bd3986fd2c71daa2b5f95b1f6f7859d3fafd3fb7a48",
+        "recordId": "corpus-122821-656222-645de7d982c3d5ac-0",
+        "fullRecordId": "ontology-full-122821-215-663189696988"
+      },
+      "kind": "attributed-fact",
+      "status": "source-reviewed",
+      "checkedAt": "2026-10-10",
+      "reviewHash": "34cd88aad827025cbd358b8342490bb86e982428e21f9cade44a6d900aa9eb15"
+    },
+    {
+      "id": "leader-decoy",
+      "subject": "leader",
+      "predicate": "被指以成员作诱饵",
+      "object": "ordo",
+      "intents": [
+        "history",
+        "purpose-detail"
+      ],
+      "claim": "卡特皮拉推测，厄里那斯的行动是用于引开西摩尔与吉约丹一行的诱饵，让纳齐森科鲁兹有时间推进真正计划。他使用了“恐怕”等措辞，这不是无争议的全知结论。",
+      "attribution": "卡特皮拉的回顾与推断",
+      "evidence": {
+        "pageid": 122821,
+        "title": "藻海的寻踪",
+        "revision": 656222,
+        "sha256": "c5a94dc24bd3045a486b07bb15a2b2772c009a1acd4802de4d9c9823465dae0c",
+        "index": 215,
+        "path": [
+          "任务剧情",
+          "准备好后，与卡特皮拉对话"
+        ],
+        "textHash": "6eee8a504b5fc3a418ac4bd3986fd2c71daa2b5f95b1f6f7859d3fafd3fb7a48",
+        "recordId": "corpus-122821-656222-645de7d982c3d5ac-0",
+        "fullRecordId": "ontology-full-122821-215-663189696988"
+      },
+      "kind": "interpretation",
+      "status": "source-reviewed",
+      "checkedAt": "2026-10-10",
+      "reviewHash": "4bbb1d9dcaff9b5fdd867871e77842c0ceda6b14e68fab9058067f9b14152bdb"
+    },
+    {
+      "id": "seymour-doubts",
+      "subject": "seymour",
+      "predicate": "质疑末日推论",
+      "object": "formula",
+      "intents": [
+        "prediction",
+        "relation"
+      ],
+      "claim": "西摩尔对结社的末日推论持怀疑态度，认为可能源于偏执。这是西摩尔的判断，不能据此直接断言世界式已经被证伪。",
+      "attribution": "西摩尔观点，与卡特皮拉的解释有分歧",
+      "evidence": {
+        "pageid": 122821,
+        "title": "藻海的寻踪",
+        "revision": 656222,
+        "sha256": "c5a94dc24bd3045a486b07bb15a2b2772c009a1acd4802de4d9c9823465dae0c",
+        "index": 215,
+        "path": [
+          "任务剧情",
+          "准备好后，与卡特皮拉对话"
+        ],
+        "textHash": "6eee8a504b5fc3a418ac4bd3986fd2c71daa2b5f95b1f6f7859d3fafd3fb7a48",
+        "recordId": "corpus-122821-656222-645de7d982c3d5ac-0",
+        "fullRecordId": "ontology-full-122821-215-663189696988"
+      },
+      "kind": "attributed-claim",
+      "status": "source-reviewed",
+      "checkedAt": "2026-10-10",
+      "reviewHash": "7c64ad8a0446bcb010b2080fc5e8aea1759151861cc5f44e2a201c6b988dd0ca"
+    },
+    {
+      "id": "ann-origin-uncertain",
+      "subject": "caterpillar",
+      "predicate": "说明诞生推测的局限",
+      "object": "ann",
+      "intents": [
+        "origin",
+        "certainty"
+      ],
+      "claim": "讨论安的诞生秘密时，派蒙称线索拼成的推测仍有待证实，西摩尔赞同这一理解；卡特皮拉还表示可能永远无法知道真相。因此不能把这一场讨论中的推测当成所有身份问题的最终定论。",
+      "attribution": "派蒙、西摩尔与卡特皮拉同场讨论",
+      "evidence": {
+        "pageid": 122821,
+        "title": "藻海的寻踪",
+        "revision": 656222,
+        "sha256": "c5a94dc24bd3045a486b07bb15a2b2772c009a1acd4802de4d9c9823465dae0c",
+        "index": 215,
+        "path": [
+          "任务剧情",
+          "准备好后，与卡特皮拉对话"
+        ],
+        "textHash": "6eee8a504b5fc3a418ac4bd3986fd2c71daa2b5f95b1f6f7859d3fafd3fb7a48",
+        "recordId": "corpus-122821-656222-645de7d982c3d5ac-0",
+        "fullRecordId": "ontology-full-122821-215-663189696988"
+      },
+      "kind": "uncertain",
+      "status": "source-reviewed",
+      "checkedAt": "2026-10-10",
+      "reviewHash": "4b5b5c13021a13351b8ea859493a4bcc7e8a02b2270e5d67000eaef02cbe0d2a"
+    },
+    {
+      "id": "ann-recognition",
+      "subject": "ann",
+      "predicate": "认出但否认曾见面",
+      "object": "seymour",
+      "intents": [
+        "relation",
+        "history"
+      ],
+      "claim": "安一见西摩尔便认出了它，但安说自己也没见过它，西摩尔也表示没有相关资料。认出名字不等于已有证据证明两人曾经相识。",
+      "attribution": "安与西摩尔各自陈述",
+      "evidence": {
+        "pageid": 110431,
+        "title": "最后的问题",
+        "revision": 645483,
+        "sha256": "d37015807c28512b4da942b6ea8a1a2707e8affacc0c346010178c17c8c9bb84",
+        "index": 47,
+        "path": [
+          "任务剧情",
+          "与西摩尔对话"
+        ],
+        "textHash": "c2181dbed8d98644a78c6a015c275f3e31246fe42c7ae124814302aaad22b9c5",
+        "recordId": "corpus-110431-645483-1f831342120af2a7-0",
+        "fullRecordId": "ontology-full-110431-47-b653a5eb63b1"
+      },
+      "kind": "attributed-claim",
+      "status": "source-reviewed",
+      "checkedAt": "2026-10-10",
+      "reviewHash": "ef78ee7939775992a4b88ee6040342e8d4e4ba9475d9cae3399f1c7ec6772ba0"
+    },
+    {
+      "id": "ann-kind",
+      "subject": "ann",
+      "predicate": "被称为",
+      "object": "纯水精灵",
+      "intents": [
+        "definition"
+      ],
+      "claim": "在这段对白中，西摩尔以“纯水精灵·安”称呼安；这一称呼不能单独证明安与其他人物的身份等同。",
+      "attribution": "西摩尔的称呼；不扩展为身份合并",
+      "evidence": {
+        "pageid": 110431,
+        "title": "最后的问题",
+        "revision": 645483,
+        "sha256": "d37015807c28512b4da942b6ea8a1a2707e8affacc0c346010178c17c8c9bb84",
+        "index": 47,
+        "path": [
+          "任务剧情",
+          "与西摩尔对话"
+        ],
+        "textHash": "c2181dbed8d98644a78c6a015c275f3e31246fe42c7ae124814302aaad22b9c5",
+        "recordId": "corpus-110431-645483-1f831342120af2a7-0",
+        "fullRecordId": "ontology-full-110431-47-b653a5eb63b1"
+      },
+      "kind": "attributed-fact",
+      "status": "source-reviewed",
+      "checkedAt": "2026-10-10",
+      "reviewHash": "9725234ed2719b178785a976ee030df230ecfd30048322ac557d1014b114425d"
+    },
+    {
+      "id": "institute-recollection",
+      "subject": "ann",
+      "predicate": "回忆水仙十字院",
+      "object": "水仙十字院",
+      "intents": [
+        "institution",
+        "history"
+      ],
+      "claim": "安在回忆中对比了以前温暖的水仙十字院与后来逐渐变冷的这里。这段主观回忆不足以确定两处机构的法律、组织继承关系，也不能据名称相近就把水仙十字院与结社合并。",
+      "attribution": "安的回忆；保留其主观感受",
+      "evidence": {
+        "pageid": 99622,
+        "title": "尚未结束的故事",
+        "revision": 645479,
+        "sha256": "6581b437c31d83aa2f4b1de151e44e15305203d59a9ea91afb8ca69e7a4e9f33",
+        "index": 51,
+        "path": [
+          "任务剧情",
+          "与安对话",
+          "源码选项组 6",
+          "选项 2：关于水仙十字结社的事情…"
+        ],
+        "textHash": "1126c7ba87e128be18fcd62cf6837affd3ffd17ec030e78b9daa34fde54bd7ec",
+        "recordId": "corpus-99622-645479-c64548dcfb777e33-0",
+        "fullRecordId": "ontology-full-99622-51-08a47d4af38d"
+      },
+      "kind": "attributed-claim",
+      "status": "source-reviewed",
+      "checkedAt": "2026-10-10",
+      "reviewHash": "81ba8b56b55ed1e838ded2d64a98cb95a3b79ca1fcc1c192ca846c82240a1136"
+    },
+    {
+      "id": "leader-purpose",
+      "subject": "leader",
+      "predicate": "宣称目标",
+      "object": "拯救世界",
+      "intents": [
+        "purpose"
+      ],
+      "attribution": "卡特皮拉对其动机的解释；不代表行为正当",
+      "claim": "卡特皮拉将其行动动机解释为：根据世界式推算出末日后，试图拯救世界。这个动机解释不等于认可结社的行为。",
+      "evidence": {
+        "pageid": 122821,
+        "title": "藻海的寻踪",
+        "revision": 656222,
+        "sha256": "c5a94dc24bd3045a486b07bb15a2b2772c009a1acd4802de4d9c9823465dae0c",
+        "index": 215,
+        "path": [
+          "任务剧情",
+          "准备好后，与卡特皮拉对话"
+        ],
+        "textHash": "6eee8a504b5fc3a418ac4bd3986fd2c71daa2b5f95b1f6f7859d3fafd3fb7a48",
+        "recordId": "corpus-122821-656222-645de7d982c3d5ac-0",
+        "fullRecordId": "ontology-full-122821-215-663189696988"
+      },
+      "status": "source-reviewed",
+      "checkedAt": "2026-10-10",
+      "kind": "attributed-claim",
+      "reviewHash": "e7f21c00d1a9c96699e3f116e92ae9b4a9783a73b9f446f2808c3d4fc49626ca"
+    }
+  ],
+  "nonMerges": [
+    {
+      "names": [
+        "水仙十字结社",
+        "水仙十字院"
+      ],
+      "reason": "相似名称与回忆不构成同一机构的证据",
+      "status": "do-not-merge"
+    },
+    {
+      "names": [
+        "玛丽安",
+        "安眠处的「玛丽安」",
+        "安"
+      ],
+      "reason": "身份问题需分阶段证据；本批不自动合并",
+      "status": "requires-context"
+    }
+  ]
+}

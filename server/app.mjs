@@ -1,3 +1,4 @@
+import {installReviewedOntology} from './ontology-reviewed.mjs';
 import {installFullOntology} from './ontology-full.mjs';
 import {installOntology} from './ontology-chat.mjs';
 import http from 'node:http';
@@ -25,6 +26,7 @@ export async function createApp({ root, dataDir, port=0, secrets=memorySecrets()
   pack.stages.push(...corpus.stages);pack.sources.push(...corpus.sources);
   const ontologyRetrieve=installOntology(root,pack,corpus);
   const fullOntology=installFullOntology(root,pack,corpus);
+  const reviewedOntology=installReviewedOntology(root,pack,corpus);
   const catalog = loadCatalog(join(root,'data','catalog','program-index.json'));
   const store = createStore(dataDir, pack,corpus);
   const token = randomBytes(32).toString('hex');
@@ -111,7 +113,7 @@ export async function createApp({ root, dataDir, port=0, secrets=memorySecrets()
           const emit=data=>{if(!res.destroyed)res.write(`data: ${JSON.stringify(data)}\n\n`);};
           const heartbeat=setInterval(()=>{if(!res.destroyed)res.write(': waiting\n\n');},5000);
           try {
-            const history=store.messages(session.id); const rows=store.records(session.progress);const base=pack.stages.find(s=>s.id===session.progress)?.isOntology?{status:"missing",records:[]}:retrieve(question,session,rows,pack);const pilot=pack.stages.find(s=>s.id===session.progress)?.isOntology?null:ontologyRetrieve(question,session);const result=pilot&&pilot.status!=="missing"?pilot:fullOntology.retrieve(question,session,base,rows)??pilot??base;
+            const history=store.messages(session.id); const rows=store.records(session.progress);const base=pack.stages.find(s=>s.id===session.progress)?.isOntology?{status:"missing",records:[]}:retrieve(question,session,rows,pack);const pilot=pack.stages.find(s=>s.id===session.progress)?.isOntology?null:ontologyRetrieve(question,session);const reviewed=reviewedOntology.retrieve(question,session,rows);const result=reviewed??(pilot&&pilot.status!=="missing"?pilot:fullOntology.retrieve(question,session,base,rows)??pilot??base);
             if(!history.length)store.title(session.id,question);
             const user=store.append(session.id,'user',{text:question}); emit({type:'user',message:user});
             emit({type:'status',text:result.status==='answer'?`找到 ${result.records.length} 条相关资料，正在整理讲解…`:'正在核对剧情范围…'});
@@ -129,6 +131,7 @@ export async function createApp({ root, dataDir, port=0, secrets=memorySecrets()
               } catch(error) { if(controller.signal.aborted)throw error;warning=error.message;mode='fallback'; }
             }
             if(controller.signal.aborted)throw new Error('已停止讲解');
+            if(result.partial)sections.unshift({kind:'notice',text:'当前范围仅涵盖部分已核对关联，其他证据尚未开放或需要重新核对。',citationIds:[]});
             const citations=[...new Set(sections.flatMap(s=>s.citationIds))].map(id=>evidenceView(result.records.find(r=>r.id===id),pack));
             const answer={sections,citations,followups:result.followups,scopeSuggestions:result.scopeSuggestions,mode,warning,status:result.status};
             onState('speaking');emit({type:'meta',mode,warning,status:result.status,citations});
