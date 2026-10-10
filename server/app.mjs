@@ -113,7 +113,7 @@ export async function createApp({ root, dataDir, port=0, secrets=memorySecrets()
           const emit=data=>{if(!res.destroyed)res.write(`data: ${JSON.stringify(data)}\n\n`);};
           const heartbeat=setInterval(()=>{if(!res.destroyed)res.write(': waiting\n\n');},5000);
           try {
-            const history=store.messages(session.id); const rows=store.records(session.progress);const base=pack.stages.find(s=>s.id===session.progress)?.isOntology?{status:"missing",records:[]}:retrieve(question,session,rows,pack);const pilot=pack.stages.find(s=>s.id===session.progress)?.isOntology?null:ontologyRetrieve(question,session);const reviewed=reviewedOntology.retrieve(question,session,rows);const result=reviewed??(pilot&&pilot.status!=="missing"?pilot:fullOntology.retrieve(question,session,base,rows)??pilot??base);
+            const history=store.messages(session.id); const rows=store.records(session.progress);const base=pack.stages.find(s=>s.id===session.progress)?.isOntology?{status:"missing",records:[]}:retrieve(question,session,rows,pack);const pilot=pack.stages.find(s=>s.id===session.progress)?.isOntology?null:ontologyRetrieve(question,session);const reviewed=reviewedOntology.retrieve(question,session,rows);const result=fullOntology.resolveDecision(question,session)??reviewed??(pilot&&pilot.status!=="missing"?pilot:fullOntology.retrieve(question,session,base,rows)??pilot??base);
             if(!history.length)store.title(session.id,question);
             const user=store.append(session.id,'user',{text:question}); emit({type:'user',message:user});
             emit({type:'status',text:result.status==='answer'?`找到 ${result.records.length} 条相关资料，正在整理讲解…`:'正在核对剧情范围…'});

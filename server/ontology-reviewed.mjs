@@ -8,7 +8,7 @@ export function validReview(item,pages){
 }
 export function loadReviewed(root,pages){
  const graph=JSON.parse(readFileSync(join(root,'data/ontology/reviewed-ordo.json'))),byPage=new Map(pages.map(p=>[p.pageid,p]));
- return{...graph,entities:graph.entities.filter(e=>validReview(e,byPage)),relations:graph.relations.filter(r=>validReview(r,byPage))};
+ return{...graph,entities:graph.entities.filter(e=>validReview(e,byPage)),relations:graph.relations.filter(r=>validReview(r,byPage)),decisions:(graph.decisions??[]).filter(d=>validReview(d,byPage))};
 }
 export function reviewedIntent(q){
  if(/水仙十字院|水仙十字孤儿院/.test(q)&&/回忆|上课|礼堂/.test(q))return'institution';

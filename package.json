@@ -1,6 +1,6 @@
 {
   "name": "irminsul-teyvat",
-  "version": "0.9.3",
+  "version": "0.9.4",
   "private": true,
   "description": "世界树-提瓦特（Irminsul-Teyvat）· 原神剧情与知识库",
   "type": "module",
@@ -34,7 +34,8 @@
     "ontology:backlog": "node scripts/build-ontology-backlog.mjs",
     "ontology:eval": "node scripts/evaluate-ontology.mjs",
     "test:ontology-desktop": "node scripts/test-ontology-reviewed-desktop.mjs",
-    "ontology:eval:batch02": "node scripts/evaluate-ontology.mjs --suite data/ontology/acceptance-batch02.json"
+    "ontology:eval:batch02": "node scripts/evaluate-ontology.mjs --suite data/ontology/acceptance-batch02.json",
+    "test:ontology-decisions-desktop": "node scripts/test-ontology-decisions-desktop.mjs"
   },
   "build": {
     "appId": "local.windborne.stories",

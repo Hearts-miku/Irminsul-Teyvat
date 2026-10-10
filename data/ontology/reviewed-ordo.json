@@ -1484,5 +1484,222 @@
       "reason": "身份问题需分阶段证据；本批不自动合并",
       "status": "requires-context"
     }
+  ],
+  "decisions": [
+    {
+      "id": "narzissenkreuz-general",
+      "action": "disambiguate",
+      "nodeIds": [
+        "87e01ed22401248dd292"
+      ],
+      "name": "水仙十字",
+      "type": "消歧入口",
+      "reason": "泛称对应不同机构、故事或任务；先选择具体对象，不将共词提及当作同一实体。",
+      "targetNodeIds": [
+        "9b868ccac148acbfa815",
+        "394113016bafb01a54bf",
+        "12afcdd6c4b4589711c0",
+        "fd0f676965d93a97ba94",
+        "fd6c41363b4d771c2322",
+        "822ac0bce0f5e40f7d07",
+        "37d94682ee0f1fcafc69"
+      ],
+      "evidence": {
+        "pageid": 99622,
+        "title": "尚未结束的故事",
+        "revision": 645479,
+        "sha256": "6581b437c31d83aa2f4b1de151e44e15305203d59a9ea91afb8ca69e7a4e9f33",
+        "index": 58,
+        "path": [
+          "任务剧情",
+          "与安对话",
+          "源码选项组 6",
+          "选项 3：关于莉利丝公主…"
+        ],
+        "textHash": "7d7d56f331ce637202e5c85a50b3ef6e13c01fcdf89e444e20f624ee75f1a403",
+        "recordId": "corpus-99622-645479-03751f58e1d31a65-0",
+        "fullRecordId": "ontology-full-99622-58-375f3aa5466b"
+      },
+      "supportingEvidence": [
+        {
+          "pageid": 132771,
+          "title": "流星的投矛",
+          "revision": 652512,
+          "sha256": "35e83f5337b4987e30c6306c4e19d2924e621218255fa14ec91ae10cf474a535",
+          "index": 24,
+          "path": [
+            "任务剧情",
+            "分页：已接取任务「藻海的寻踪」",
+            "获取「愿望」之块",
+            "分页：此为解开的第2个象限"
+          ],
+          "textHash": "2a00c533ee7bb9e1dc4d63f72146cf13b4681ab4c7b6310425f0b066723b1c2d",
+          "recordId": "corpus-132771-652512-fb5644da6a62dc79-0",
+          "fullRecordId": "ontology-full-132771-24-b7ab4530d4db"
+        },
+        {
+          "pageid": 99581,
+          "title": "「水仙十字大冒险」",
+          "revision": 652299,
+          "sha256": "e7a6e7476d491b519e70587b9abc26dbf5baaa5b93ad222d0599c05a4bea42cc",
+          "index": 0,
+          "path": [
+            "任务名称"
+          ],
+          "textHash": "ec7200bc64736f4fc88ff0ca313908d82adfca1ed90b188af4ec6ce83db7ef9c",
+          "recordId": "corpus-99581-652299-6191ea58d4cb5675-0",
+          "fullRecordId": "ontology-full-99581-0-f0e191a88cdc"
+        },
+        {
+          "pageid": 99593,
+          "title": "「水仙十字大冒险」（系列任务）",
+          "revision": 621520,
+          "sha256": "ccc9c937b19cba8f33155714e596edf2f218f880c241cad4241bdb04dea3fcdc",
+          "index": 0,
+          "path": [
+            "系列任务名"
+          ],
+          "textHash": "ec7200bc64736f4fc88ff0ca313908d82adfca1ed90b188af4ec6ce83db7ef9c",
+          "recordId": "corpus-99593-621520-95f2e607d63a4c0e-0",
+          "fullRecordId": "ontology-full-99593-0-bc2a8110cca4"
+        }
+      ],
+      "checkedAt": "2026-10-10",
+      "status": "source-reviewed",
+      "reviewHash": "8d409fd1ca931da7ca8a7b316720db337ca92dfa8eefd4b0843fad8db74a5528"
+    },
+    {
+      "id": "quoted-sentence-not-entity",
+      "action": "exclude",
+      "nodeIds": [
+        "554b6f29f5aa31b5ce34"
+      ],
+      "reason": "这是一句被派蒙引述的对白，不是人物、组织或独立概念名称。从实体目录及名称匹配排除，原文与历史引用保留。",
+      "targetNodeIds": [
+        "9b868ccac148acbfa815"
+      ],
+      "evidence": {
+        "pageid": 99622,
+        "title": "尚未结束的故事",
+        "revision": 645479,
+        "sha256": "6581b437c31d83aa2f4b1de151e44e15305203d59a9ea91afb8ca69e7a4e9f33",
+        "index": 35,
+        "path": [
+          "任务剧情",
+          "与安对话"
+        ],
+        "textHash": "360e9ce6a3334bc37d5de7061dbf72f76c2d166ff2c446ce97ce68228cdfbea4",
+        "recordId": "corpus-99622-645479-96c0c9fb74b913a9-0",
+        "fullRecordId": "ontology-full-99622-35-a57005d8076d"
+      },
+      "checkedAt": "2026-10-10",
+      "status": "source-reviewed",
+      "reviewHash": "d20b7cb7e18e039e9161a2ff9f027ec6370438100a7870d685563fc285ea0656"
+    },
+    {
+      "id": "adventure-task-vs-series",
+      "action": "distinguish",
+      "alias": "水仙十字大冒险",
+      "nodeIds": [
+        "822ac0bce0f5e40f7d07",
+        "37d94682ee0f1fcafc69"
+      ],
+      "reason": "同名的单个任务与系列任务分开保留；系列页仅有元数据，不借用子任务对白冒充自身正文。",
+      "variants": [
+        {
+          "nodeId": "822ac0bce0f5e40f7d07",
+          "name": "水仙十字大冒险（单个任务）",
+          "type": "单个任务",
+          "pageIds": [
+            99581
+          ],
+          "aliases": [
+            "水仙十字大冒险（单个任务）",
+            "水仙十字大冒险单个任务"
+          ],
+          "definitionIndexes": [
+            5,
+            7,
+            8,
+            9
+          ]
+        },
+        {
+          "nodeId": "37d94682ee0f1fcafc69",
+          "name": "水仙十字大冒险（系列任务）",
+          "type": "系列任务",
+          "pageIds": [
+            99593
+          ],
+          "aliases": [
+            "水仙十字大冒险（系列任务）",
+            "水仙十字大冒险系列任务"
+          ],
+          "definitionIndexes": [
+            0,
+            1,
+            2,
+            5
+          ]
+        }
+      ],
+      "evidence": {
+        "pageid": 99581,
+        "title": "「水仙十字大冒险」",
+        "revision": 652299,
+        "sha256": "e7a6e7476d491b519e70587b9abc26dbf5baaa5b93ad222d0599c05a4bea42cc",
+        "index": 0,
+        "path": [
+          "任务名称"
+        ],
+        "textHash": "ec7200bc64736f4fc88ff0ca313908d82adfca1ed90b188af4ec6ce83db7ef9c",
+        "recordId": "corpus-99581-652299-6191ea58d4cb5675-0",
+        "fullRecordId": "ontology-full-99581-0-f0e191a88cdc"
+      },
+      "supportingEvidence": [
+        {
+          "pageid": 99593,
+          "title": "「水仙十字大冒险」（系列任务）",
+          "revision": 621520,
+          "sha256": "ccc9c937b19cba8f33155714e596edf2f218f880c241cad4241bdb04dea3fcdc",
+          "index": 0,
+          "path": [
+            "系列任务名"
+          ],
+          "textHash": "ec7200bc64736f4fc88ff0ca313908d82adfca1ed90b188af4ec6ce83db7ef9c",
+          "recordId": "corpus-99593-621520-95f2e607d63a4c0e-0",
+          "fullRecordId": "ontology-full-99593-0-bc2a8110cca4"
+        },
+        {
+          "pageid": 99593,
+          "title": "「水仙十字大冒险」（系列任务）",
+          "revision": 621520,
+          "sha256": "ccc9c937b19cba8f33155714e596edf2f218f880c241cad4241bdb04dea3fcdc",
+          "index": 1,
+          "path": [
+            "副标题"
+          ],
+          "textHash": "107c1d000d84586d03de1e9411342e6c0835dc19c562774d9d076b3c9dd769fd",
+          "recordId": "corpus-99593-621520-50482a94df252cc3-0",
+          "fullRecordId": "ontology-full-99593-1-858ab5d2d53d"
+        },
+        {
+          "pageid": 99581,
+          "title": "「水仙十字大冒险」",
+          "revision": 652299,
+          "sha256": "e7a6e7476d491b519e70587b9abc26dbf5baaa5b93ad222d0599c05a4bea42cc",
+          "index": 8,
+          "path": [
+            "系列任务"
+          ],
+          "textHash": "f8bec15233cb4333cc4ba062b6ed8cc1a9e550df1a12b596f8a938cbbeaa88bd",
+          "recordId": "corpus-99581-652299-941366be0b8716ca-0",
+          "fullRecordId": "ontology-full-99581-8-1435909e9f54"
+        }
+      ],
+      "checkedAt": "2026-10-10",
+      "status": "source-reviewed",
+      "reviewHash": "a6ef40e58f9b41b8393184dc5d8e76b0c15c1edc4b10cbb372ad4a8a8d092dc3"
+    }
   ]
 }
